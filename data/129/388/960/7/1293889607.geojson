@@ -1,0 +1,67 @@
+{
+  "id": 1293889607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.9535,15.6077,-3.9535,15.6077",
+    "geom:latitude":15.6077,
+    "geom:longitude":-3.9535,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tiergona",
+    "gn:country_code":"ML",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880972,
+    "gn:latitude":15.6077,
+    "gn:longitude":-3.9535,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Tiergona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880972
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"31a4d9877bded3a30b8462f86f8b1fd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562871,
+            "locality_id":1293889607,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1293889607,
+    "wof:lastmodified":1536704780,
+    "wof:name":"Tiergona",
+    "wof:parent_id":1108562871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.9535,
+    15.6077,
+    -3.9535,
+    15.6077
+],
+  "geometry": {"coordinates":[-3.9535,15.6077],"type":"Point"}
+}

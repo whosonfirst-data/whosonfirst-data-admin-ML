@@ -1,0 +1,65 @@
+{
+  "id": 1209100579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.84985,12.69355,-7.84985,12.69355",
+    "geom:latitude":12.69355,
+    "geom:longitude":-7.84985,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ngabakoro Droit",
+    "gn:country_code":"ML",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594082,
+    "gn:latitude":12.69355,
+    "gn:longitude":-7.84985,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ngabakoro Droit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngabako Droit",
+        "Ngabakoro Droit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594082
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0b020e1a4d54b26359b38b3817413739",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209100579
+        }
+    ],
+    "wof:id":1209100579,
+    "wof:lastmodified":1537665282,
+    "wof:name":"Ngabakoro Droit",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.84985,
+    12.69355,
+    -7.84985,
+    12.69355
+],
+  "geometry": {"coordinates":[-7.84985,12.69355],"type":"Point"}
+}

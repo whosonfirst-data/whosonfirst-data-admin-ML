@@ -1,0 +1,67 @@
+{
+  "id": 1327254839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.76114,13.01431,-7.76114,13.01431",
+    "geom:latitude":13.01431,
+    "geom:longitude":-7.76114,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dialakoro",
+    "gn:country_code":"ML",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459057,
+    "gn:latitude":13.01431,
+    "gn:longitude":-7.76114,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Dialakoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459057
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7deac6c0b5b4770533066b34b91482ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562839,
+            "locality_id":1327254839,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1327254839,
+    "wof:lastmodified":1536938006,
+    "wof:name":"Dialakoro",
+    "wof:parent_id":1108562839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.76114,
+    13.01431,
+    -7.76114,
+    13.01431
+],
+  "geometry": {"coordinates":[-7.76114,13.01431],"type":"Point"}
+}

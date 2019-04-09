@@ -1,0 +1,67 @@
+{
+  "id": 1310214835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.01667,13.35,-7.01667,13.35",
+    "geom:latitude":13.35,
+    "geom:longitude":-7.01667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Koli",
+    "gn:country_code":"ML",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454980,
+    "gn:latitude":13.35,
+    "gn:longitude":-7.01667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Koli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454980
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"012272075f2cb8f9578f8e52ca07d534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562839,
+            "locality_id":1310214835,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1310214835,
+    "wof:lastmodified":1536837674,
+    "wof:name":"Koli",
+    "wof:parent_id":1108562839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.01667,
+    13.35,
+    -7.01667,
+    13.35
+],
+  "geometry": {"coordinates":[-7.01667,13.35],"type":"Point"}
+}

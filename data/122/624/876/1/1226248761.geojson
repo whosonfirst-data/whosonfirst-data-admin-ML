@@ -1,0 +1,72 @@
+{
+  "id": 1226248761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.18989,14.94239,-3.18989,14.94239",
+    "geom:latitude":14.94239,
+    "geom:longitude":-3.18989,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Temmba",
+    "gn:country_code":"ML",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449966,
+    "gn:latitude":14.94239,
+    "gn:longitude":-3.18989,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Temmba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Timba",
+        "Temba",
+        "Temmba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449966
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"54544cb0575166d0d1cdd20686909a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1226248761,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1226248761,
+    "wof:lastmodified":1537665031,
+    "wof:name":"Temmba",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.18989,
+    14.94239,
+    -3.18989,
+    14.94239
+],
+  "geometry": {"coordinates":[-3.18989,14.94239],"type":"Point"}
+}

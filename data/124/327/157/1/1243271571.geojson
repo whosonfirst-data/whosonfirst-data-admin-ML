@@ -1,0 +1,67 @@
+{
+  "id": 1243271571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.75514,15.18456,-11.75514,15.18456",
+    "geom:latitude":15.18456,
+    "geom:longitude":-11.75514,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Souena Gandega",
+    "gn:country_code":"ML",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6650651,
+    "gn:latitude":15.18456,
+    "gn:longitude":-11.75514,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Sou\u00e9na Gand\u00e9ga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6650651
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8f8e3d6a0b13b5998dd3421e74f3aa85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1243271571,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1243271571,
+    "wof:lastmodified":1537055156,
+    "wof:name":"Souena Gandega",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.75514,
+    15.18456,
+    -11.75514,
+    15.18456
+],
+  "geometry": {"coordinates":[-11.75514,15.18456],"type":"Point"}
+}

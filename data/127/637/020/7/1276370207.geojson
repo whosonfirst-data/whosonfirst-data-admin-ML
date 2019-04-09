@@ -1,0 +1,67 @@
+{
+  "id": 1276370207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.2923,15.6216,-4.2923,15.6216",
+    "geom:latitude":15.6216,
+    "geom:longitude":-4.2923,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mayel Bourgou",
+    "gn:country_code":"ML",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453591,
+    "gn:latitude":15.6216,
+    "gn:longitude":-4.2923,
+    "gn:modification_date":"2008-01-03",
+    "gn:name":"Mayel Bourgou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453591
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f18bc01c4d162a49cfc2f6b6a0c2ea00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562871,
+            "locality_id":1276370207,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1276370207,
+    "wof:lastmodified":1536729594,
+    "wof:name":"Mayel Bourgou",
+    "wof:parent_id":1108562871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.2923,
+    15.6216,
+    -4.2923,
+    15.6216
+],
+  "geometry": {"coordinates":[-4.2923,15.6216],"type":"Point"}
+}

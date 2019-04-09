@@ -1,0 +1,67 @@
+{
+  "id": 1360296989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.8558,14.9185,-9.8558,14.9185",
+    "geom:latitude":14.9185,
+    "geom:longitude":-9.8558,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Biladji Kodlouroula",
+    "gn:country_code":"ML",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460076,
+    "gn:latitude":14.9185,
+    "gn:longitude":-9.8558,
+    "gn:modification_date":"2008-11-18",
+    "gn:name":"Biladji Kodlouroula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460076
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b347ca6e70214181f00ff880aa08bba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562869,
+            "locality_id":1360296989,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1360296989,
+    "wof:lastmodified":1536638847,
+    "wof:name":"Biladji Kodlouroula",
+    "wof:parent_id":1108562869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.8558,
+    14.9185,
+    -9.8558,
+    14.9185
+],
+  "geometry": {"coordinates":[-9.8558,14.9185],"type":"Point"}
+}

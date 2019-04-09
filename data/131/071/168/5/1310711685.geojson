@@ -1,0 +1,72 @@
+{
+  "id": 1310711685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.6,10.65,-5.6,10.65",
+    "geom:latitude":10.65,
+    "geom:longitude":-5.6,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kalebeni",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455875,
+    "gn:latitude":10.65,
+    "gn:longitude":-5.6,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kal\u00e9b\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalab\u00e9ni",
+        "Kal\u00e9b\u00e9ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455875
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f608adfea36c38a9c79505c2b85b1cfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562817,
+            "locality_id":1310711685,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1310711685,
+    "wof:lastmodified":1537665170,
+    "wof:name":"Kalebeni",
+    "wof:parent_id":1108562817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.6,
+    10.65,
+    -5.6,
+    10.65
+],
+  "geometry": {"coordinates":[-5.6,10.65],"type":"Point"}
+}

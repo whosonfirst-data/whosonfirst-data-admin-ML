@@ -1,0 +1,67 @@
+{
+  "id": 1209836779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.42113,12.7893,-7.42113,12.7893",
+    "geom:latitude":12.7893,
+    "geom:longitude":-7.42113,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Fiena",
+    "gn:country_code":"ML",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594284,
+    "gn:latitude":12.7893,
+    "gn:longitude":-7.42113,
+    "gn:modification_date":"2008-11-07",
+    "gn:name":"Fi\u00e8na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594284
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4dfbc3f960031b2b44d88024f1cf53d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562839,
+            "locality_id":1209836779,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1209836779,
+    "wof:lastmodified":1536394549,
+    "wof:name":"Fiena",
+    "wof:parent_id":1108562839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.42113,
+    12.7893,
+    -7.42113,
+    12.7893
+],
+  "geometry": {"coordinates":[-7.42113,12.7893],"type":"Point"}
+}

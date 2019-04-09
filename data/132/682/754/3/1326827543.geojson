@@ -1,0 +1,80 @@
+{
+  "id": 1326827543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.22489,11.04088,-6.22489,11.04088",
+    "geom:latitude":11.04088,
+    "geom:longitude":-6.22489,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ngolobabougou",
+    "gn:country_code":"ML",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452888,
+    "gn:latitude":11.04088,
+    "gn:longitude":-6.22489,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ngolobabougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ngolabougou"
+    ],
+    "name:fra_x_variant":[
+        "Ngdabougou",
+        "N\u00e9r\u00e9bougou"
+    ],
+    "name:und_x_variant":[
+        "N\u00e9r\u00e9bougou",
+        "Ngdabougou",
+        "Ngolobabougou",
+        "Ngolabougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452888
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ad2e3c7aa5cbeab23b6c48fc74ce6110",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1326827543,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1326827543,
+    "wof:lastmodified":1537665098,
+    "wof:name":"Ngolobabougou",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.22489,
+    11.04088,
+    -6.22489,
+    11.04088
+],
+  "geometry": {"coordinates":[-6.22489,11.04088],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293522611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.92009,14.29633,-2.92009,14.29633",
+    "geom:latitude":14.29633,
+    "geom:longitude":-2.92009,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Yoroupee",
+    "gn:country_code":"ML",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6893537,
+    "gn:latitude":14.29633,
+    "gn:longitude":-2.92009,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Yoroup\u00e9e",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6893537
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"18b5a361ecf2b406d3df6eeed6cff3ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1293522611,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1293522611,
+    "wof:lastmodified":1536736489,
+    "wof:name":"Yoroupee",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.92009,
+    14.29633,
+    -2.92009,
+    14.29633
+],
+  "geometry": {"coordinates":[-2.92009,14.29633],"type":"Point"}
+}

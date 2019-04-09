@@ -1,0 +1,67 @@
+{
+  "id": 1209821495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.29229,14.0015,-3.29229,14.0015",
+    "geom:latitude":14.0015,
+    "geom:longitude":-3.29229,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Anakaga",
+    "gn:country_code":"ML",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2461044,
+    "gn:latitude":14.0015,
+    "gn:longitude":-3.29229,
+    "gn:modification_date":"2008-10-24",
+    "gn:name":"Anakaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2461044
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"fffe8fc192b464208d3a68d8086de2ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1209821495,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1209821495,
+    "wof:lastmodified":1536378239,
+    "wof:name":"Anakaga",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.29229,
+    14.0015,
+    -3.29229,
+    14.0015
+],
+  "geometry": {"coordinates":[-3.29229,14.0015],"type":"Point"}
+}

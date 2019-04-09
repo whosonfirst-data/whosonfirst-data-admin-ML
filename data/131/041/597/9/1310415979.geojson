@@ -1,0 +1,67 @@
+{
+  "id": 1310415979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.1,10.73333,-7.1,10.73333",
+    "geom:latitude":10.73333,
+    "geom:longitude":-7.1,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Fangouan",
+    "gn:country_code":"ML",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457741,
+    "gn:latitude":10.73333,
+    "gn:longitude":-7.1,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Fangouan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457741
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0338ef8c0be54172a0aa8d9ee86baec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1310415979,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1310415979,
+    "wof:lastmodified":1537044264,
+    "wof:name":"Fangouan",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.1,
+    10.73333,
+    -7.1,
+    10.73333
+],
+  "geometry": {"coordinates":[-7.1,10.73333],"type":"Point"}
+}

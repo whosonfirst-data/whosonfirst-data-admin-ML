@@ -1,0 +1,64 @@
+{
+  "id": 1209112419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.72489,14.6765,-3.72489,14.6765",
+    "geom:latitude":14.6765,
+    "geom:longitude":-3.72489,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sissongo",
+    "gn:country_code":"ML",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450944,
+    "gn:latitude":14.6765,
+    "gn:longitude":-3.72489,
+    "gn:modification_date":"2008-10-24",
+    "gn:name":"Sissongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sisongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450944
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"393c4d02135f00503144bdae309e567f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209112419
+        }
+    ],
+    "wof:id":1209112419,
+    "wof:lastmodified":1537665048,
+    "wof:name":"Sissongo",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.72489,
+    14.6765,
+    -3.72489,
+    14.6765
+],
+  "geometry": {"coordinates":[-3.72489,14.6765],"type":"Point"}
+}

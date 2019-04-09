@@ -1,0 +1,65 @@
+{
+  "id": 1209515923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.25781,14.7769,-3.25781,14.7769",
+    "geom:latitude":14.7769,
+    "geom:longitude":-3.25781,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"De",
+    "gn:country_code":"ML",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459261,
+    "gn:latitude":14.7769,
+    "gn:longitude":-3.25781,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"D\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459261,
+        "wk:page":"D%C3%A9,_Mali"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"68489ff3be2adb2b0bbb939b608f1744",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209515923
+        }
+    ],
+    "wof:id":1209515923,
+    "wof:lastmodified":1537665242,
+    "wof:name":"De",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.25781,
+    14.7769,
+    -3.25781,
+    14.7769
+],
+  "geometry": {"coordinates":[-3.25781,14.7769],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293611897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.32759,13.59112,-5.32759,13.59112",
+    "geom:latitude":13.59112,
+    "geom:longitude":-5.32759,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Boala",
+    "gn:country_code":"ML",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459996,
+    "gn:latitude":13.59112,
+    "gn:longitude":-5.32759,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Boala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bola",
+        "Boala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459996
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2fd4e49f07d395c6ff6b8e915eb29791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1293611897,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1293611897,
+    "wof:lastmodified":1537665258,
+    "wof:name":"Boala",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.32759,
+    13.59112,
+    -5.32759,
+    13.59112
+],
+  "geometry": {"coordinates":[-5.32759,13.59112],"type":"Point"}
+}

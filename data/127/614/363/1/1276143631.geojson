@@ -1,0 +1,67 @@
+{
+  "id": 1276143631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.1718,13.20408,-7.1718,13.20408",
+    "geom:latitude":13.20408,
+    "geom:longitude":-7.1718,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Balaban",
+    "gn:country_code":"ML",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460676,
+    "gn:latitude":13.20408,
+    "gn:longitude":-7.1718,
+    "gn:modification_date":"2008-11-12",
+    "gn:name":"Balaban",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460676
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b38b736e7bef367eeab520476d9c39d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562839,
+            "locality_id":1276143631,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1276143631,
+    "wof:lastmodified":1537031564,
+    "wof:name":"Balaban",
+    "wof:parent_id":1108562839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.1718,
+    13.20408,
+    -7.1718,
+    13.20408
+],
+  "geometry": {"coordinates":[-7.1718,13.20408],"type":"Point"}
+}

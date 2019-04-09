@@ -1,0 +1,71 @@
+{
+  "id": 1276682627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.6561,15.0298,-4.6561,15.0298",
+    "geom:latitude":15.0298,
+    "geom:longitude":-4.6561,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Name Ara",
+    "gn:country_code":"ML",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453139,
+    "gn:latitude":15.0298,
+    "gn:longitude":-4.6561,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nam\u00e9 Ara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niam\u00e9-Har\u00e9",
+        "Nam\u00e9 Ara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453139
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f551004b0e2a9830757ce434c0f3484a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562861,
+            "locality_id":1276682627,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1276682627,
+    "wof:lastmodified":1537665106,
+    "wof:name":"Name Ara",
+    "wof:parent_id":1108562861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.6561,
+    15.0298,
+    -4.6561,
+    15.0298
+],
+  "geometry": {"coordinates":[-4.6561,15.0298],"type":"Point"}
+}

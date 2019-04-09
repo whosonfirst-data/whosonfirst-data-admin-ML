@@ -1,0 +1,61 @@
+{
+  "id": 1209316269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.15313,12.94842,-11.15313,12.94842",
+    "geom:latitude":12.94842,
+    "geom:longitude":-11.15313,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kourougueto",
+    "gn:country_code":"ML",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454336,
+    "gn:latitude":12.94842,
+    "gn:longitude":-11.15313,
+    "gn:modification_date":"2007-10-10",
+    "gn:name":"Kourougu\u00e8to",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454336
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d6ede874b8987e6538aeba83108f882c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209316269
+        }
+    ],
+    "wof:id":1209316269,
+    "wof:lastmodified":1536290853,
+    "wof:name":"Kourougueto",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.15313,
+    12.94842,
+    -11.15313,
+    12.94842
+],
+  "geometry": {"coordinates":[-11.15313,12.94842],"type":"Point"}
+}

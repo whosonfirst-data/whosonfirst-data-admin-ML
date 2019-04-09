@@ -1,0 +1,71 @@
+{
+  "id": 1360177089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.80563,12.0021,-5.80563,12.0021",
+    "geom:latitude":12.0021,
+    "geom:longitude":-5.80563,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Katierela",
+    "gn:country_code":"ML",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455552,
+    "gn:latitude":12.0021,
+    "gn:longitude":-5.80563,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kati\u00e9r\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katiorola",
+        "Kati\u00e9r\u00e9la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455552
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"895f61d55dc78eeb9d870903c179ef58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1360177089,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1360177089,
+    "wof:lastmodified":1537665162,
+    "wof:name":"Katierela",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.80563,
+    12.0021,
+    -5.80563,
+    12.0021
+],
+  "geometry": {"coordinates":[-5.80563,12.0021],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276447211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.69929,13.28521,-6.69929,13.28521",
+    "geom:latitude":13.28521,
+    "geom:longitude":-6.69929,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Malembougou",
+    "gn:country_code":"ML",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453868,
+    "gn:latitude":13.28521,
+    "gn:longitude":-6.69929,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Malembougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mal\u00e9mougou",
+        "Malembougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453868
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"39ba174902cae3e82c2714bd355fa1b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562837,
+            "locality_id":1276447211,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1276447211,
+    "wof:lastmodified":1537665125,
+    "wof:name":"Malembougou",
+    "wof:parent_id":1108562837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.69929,
+    13.28521,
+    -6.69929,
+    13.28521
+],
+  "geometry": {"coordinates":[-6.69929,13.28521],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209235747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.2402,13.7709,-8.2402,13.7709",
+    "geom:latitude":13.7709,
+    "geom:longitude":-8.2402,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kakoina",
+    "gn:country_code":"ML",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455935,
+    "gn:latitude":13.7709,
+    "gn:longitude":-8.2402,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kako\u00efna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kako\u00efna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455935
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1a098b3279fffa8b4781bc88b8d5505d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209235747
+        }
+    ],
+    "wof:id":1209235747,
+    "wof:lastmodified":1537665171,
+    "wof:name":"Kakoina",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.2402,
+    13.7709,
+    -8.2402,
+    13.7709
+],
+  "geometry": {"coordinates":[-8.2402,13.7709],"type":"Point"}
+}

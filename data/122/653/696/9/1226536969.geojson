@@ -1,0 +1,67 @@
+{
+  "id": 1226536969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.92618,13.90434,-7.92618,13.90434",
+    "geom:latitude":13.90434,
+    "geom:longitude":-7.92618,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Diabakebougou",
+    "gn:country_code":"ML",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459165,
+    "gn:latitude":13.90434,
+    "gn:longitude":-7.92618,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Diabak\u00e9bougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459165
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"fada76038d43e055bbfd0aee01fc072f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":1226536969,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1226536969,
+    "wof:lastmodified":1537010065,
+    "wof:name":"Diabakebougou",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.92618,
+    13.90434,
+    -7.92618,
+    13.90434
+],
+  "geometry": {"coordinates":[-7.92618,13.90434],"type":"Point"}
+}

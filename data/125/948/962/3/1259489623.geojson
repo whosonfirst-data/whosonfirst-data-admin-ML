@@ -1,0 +1,71 @@
+{
+  "id": 1259489623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.01664,14.45407,-4.01664,14.45407",
+    "geom:latitude":14.45407,
+    "geom:longitude":-4.01664,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nianangali",
+    "gn:country_code":"ML",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452777,
+    "gn:latitude":14.45407,
+    "gn:longitude":-4.01664,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nianangali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niangali",
+        "Nianangali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452777
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b60056ee64d8a256e820388041f477fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1259489623,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1259489623,
+    "wof:lastmodified":1537665095,
+    "wof:name":"Nianangali",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.01664,
+    14.45407,
+    -4.01664,
+    14.45407
+],
+  "geometry": {"coordinates":[-4.01664,14.45407],"type":"Point"}
+}

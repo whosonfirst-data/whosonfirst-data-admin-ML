@@ -1,0 +1,64 @@
+{
+  "id": 1209513067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.04225,11.2388,-6.04225,11.2388",
+    "geom:latitude":11.2388,
+    "geom:longitude":-6.04225,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Yeoulasso",
+    "gn:country_code":"ML",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448482,
+    "gn:latitude":11.2388,
+    "gn:longitude":-6.04225,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Y\u00e9oulasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Y\u00e9oulasso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448482
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4ac380b3064c6d3e958761410cb7da73",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209513067
+        }
+    ],
+    "wof:id":1209513067,
+    "wof:lastmodified":1537665003,
+    "wof:name":"Yeoulasso",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.04225,
+    11.2388,
+    -6.04225,
+    11.2388
+],
+  "geometry": {"coordinates":[-6.04225,11.2388],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293195099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.10758,15.20645,-8.10758,15.20645",
+    "geom:latitude":15.20645,
+    "geom:longitude":-8.10758,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Maedi",
+    "gn:country_code":"ML",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453952,
+    "gn:latitude":15.20645,
+    "gn:longitude":-8.10758,
+    "gn:modification_date":"2008-01-08",
+    "gn:name":"Ma\u00e9di",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453952
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"38f32444e06ed1ef8ec427ccc77e50d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562865,
+            "locality_id":1293195099,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1293195099,
+    "wof:lastmodified":1536711921,
+    "wof:name":"Maedi",
+    "wof:parent_id":1108562865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.10758,
+    15.20645,
+    -8.10758,
+    15.20645
+],
+  "geometry": {"coordinates":[-8.10758,15.20645],"type":"Point"}
+}

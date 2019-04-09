@@ -1,0 +1,71 @@
+{
+  "id": 1310226349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.09569,12.82454,-8.09569,12.82454",
+    "geom:latitude":12.82454,
+    "geom:longitude":-8.09569,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Daral",
+    "gn:country_code":"ML",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594675,
+    "gn:latitude":12.82454,
+    "gn:longitude":-8.09569,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Daral",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Darat",
+        "Daral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        421177883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594675
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1ae8c4b9a761236b8f44b8cacdf63fc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177883,
+            "locality_id":1310226349,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1310226349,
+    "wof:lastmodified":1537665283,
+    "wof:name":"Daral",
+    "wof:parent_id":421177883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.09569,
+    12.82454,
+    -8.09569,
+    12.82454
+],
+  "geometry": {"coordinates":[-8.09569,12.82454],"type":"Point"}
+}

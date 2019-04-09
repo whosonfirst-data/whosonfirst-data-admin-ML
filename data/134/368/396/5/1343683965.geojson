@@ -1,0 +1,71 @@
+{
+  "id": 1343683965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.7612,11.04021,-7.7612,11.04021",
+    "geom:latitude":11.04021,
+    "geom:longitude":-7.7612,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Koloni",
+    "gn:country_code":"ML",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454924,
+    "gn:latitude":11.04021,
+    "gn:longitude":-7.7612,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Koloni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolona",
+        "Koloni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454924
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"397a819cd3510f1f10df6d328f22d0c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562821,
+            "locality_id":1343683965,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1343683965,
+    "wof:lastmodified":1537665148,
+    "wof:name":"Koloni",
+    "wof:parent_id":1108562821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.7612,
+    11.04021,
+    -7.7612,
+    11.04021
+],
+  "geometry": {"coordinates":[-7.7612,11.04021],"type":"Point"}
+}

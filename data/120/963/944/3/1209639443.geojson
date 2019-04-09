@@ -1,0 +1,61 @@
+{
+  "id": 1209639443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.6322,13.996,-3.6322,13.996",
+    "geom:latitude":13.996,
+    "geom:longitude":-3.6322,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Konsogou",
+    "gn:country_code":"ML",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454735,
+    "gn:latitude":13.996,
+    "gn:longitude":-3.6322,
+    "gn:modification_date":"2008-10-31",
+    "gn:name":"Konsogou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454735
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"50c489de973801360541efb9d2ce0bd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209639443
+        }
+    ],
+    "wof:id":1209639443,
+    "wof:lastmodified":1536280930,
+    "wof:name":"Konsogou",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6322,
+    13.996,
+    -3.6322,
+    13.996
+],
+  "geometry": {"coordinates":[-3.6322,13.996],"type":"Point"}
+}

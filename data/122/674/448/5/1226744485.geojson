@@ -1,0 +1,67 @@
+{
+  "id": 1226744485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.09329,13.15754,-7.09329,13.15754",
+    "geom:latitude":13.15754,
+    "geom:longitude":-7.09329,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sebekorobougou",
+    "gn:country_code":"ML",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6906870,
+    "gn:latitude":13.15754,
+    "gn:longitude":-7.09329,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"S\u00e9b\u00e9korobougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6906870
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1b6859ab92d2d0c24a2257f0114c41e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562839,
+            "locality_id":1226744485,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1226744485,
+    "wof:lastmodified":1536717675,
+    "wof:name":"Sebekorobougou",
+    "wof:parent_id":1108562839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.09329,
+    13.15754,
+    -7.09329,
+    13.15754
+],
+  "geometry": {"coordinates":[-7.09329,13.15754],"type":"Point"}
+}

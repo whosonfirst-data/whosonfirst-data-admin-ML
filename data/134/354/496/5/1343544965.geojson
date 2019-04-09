@@ -1,0 +1,71 @@
+{
+  "id": 1343544965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.75,19.11667,1.75,19.11667",
+    "geom:latitude":19.11667,
+    "geom:longitude":1.75,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Abeibara",
+    "gn:country_code":"ML",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2596472,
+    "gn:latitude":19.11667,
+    "gn:longitude":1.75,
+    "gn:modification_date":"2013-11-12",
+    "gn:name":"Abe\u00efbara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abe\u00efbara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674515,
+        1108562885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596472,
+        "wk:page":"Abe%C3%AFbara"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"72542e8a8345881f8646999066a95f27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562885,
+            "locality_id":1343544965,
+            "region_id":85674515
+        }
+    ],
+    "wof:id":1343544965,
+    "wof:lastmodified":1537665284,
+    "wof:name":"Abeibara",
+    "wof:parent_id":1108562885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.75,
+    19.11667000000001,
+    1.75,
+    19.11667000000001
+],
+  "geometry": {"coordinates":[1.75,19.11667000000001],"type":"Point"}
+}

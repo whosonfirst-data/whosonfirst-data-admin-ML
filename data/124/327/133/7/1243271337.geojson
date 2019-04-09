@@ -1,0 +1,68 @@
+{
+  "id": 1243271337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.81393,15.10467,-9.81393,15.10467",
+    "geom:latitude":15.10467,
+    "geom:longitude":-9.81393,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Youri",
+    "gn:country_code":"ML",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448431,
+    "gn:latitude":15.10467,
+    "gn:longitude":-9.81393,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Youri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448431,
+        "wk:page":"Youri%2C_Mali"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f8818dade51141a4b13399a61a2f4458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562869,
+            "locality_id":1243271337,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1243271337,
+    "wof:lastmodified":1537568401,
+    "wof:name":"Youri",
+    "wof:parent_id":1108562869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.81393,
+    15.10467,
+    -9.81393,
+    15.10467
+],
+  "geometry": {"coordinates":[-9.81393,15.10467],"type":"Point"}
+}

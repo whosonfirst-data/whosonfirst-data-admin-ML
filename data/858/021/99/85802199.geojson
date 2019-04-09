@@ -1,0 +1,116 @@
+{
+  "id": 85802199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":10416196.868641,
+    "geom:bbox":"-7.968667,12.675176,-7.968667,12.675176",
+    "geom:latitude":12.675176,
+    "geom:longitude":-7.968667,
+    "iso:country":"ML",
+    "lbl:latitude":12.675176,
+    "lbl:longitude":-7.968667,
+    "mps:latitude":12.676254,
+    "mps:longitude":-7.969502,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:deu_x_preferred":[
+        "Missira"
+    ],
+    "name:fra_x_preferred":[
+        "Missira"
+    ],
+    "name:ita_x_preferred":[
+        "Missira"
+    ],
+    "name:unk_x_variant":[
+        "Missira"
+    ],
+    "qs:gn_adm0_cc":"ML",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2460596,
+    "qs:gn_nam_loc":"Bamako, Bamako, Bamako, ML",
+    "qs:gn_namadm1":"01",
+    "qs:gn_name":"Missira",
+    "qs:local_max":278,
+    "qs:local_sum":581,
+    "qs:localhoods":4,
+    "qs:name":"Missira",
+    "qs:name_adm0":"Mali",
+    "qs:name_adm1":"Bamako",
+    "qs:name_adm2":"Bamako",
+    "qs:name_local":"Bamako",
+    "qs:photo_max":15,
+    "qs:photo_sum":33,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424891,
+    "qs:woe_adm1":2346180,
+    "qs:woe_adm2":55999998,
+    "qs:woe_lau":0,
+    "qs:woe_local":1369729,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":12,
+    "wof:belongsto":[
+        85674525,
+        102191573,
+        85632553,
+        421187095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453426,
+        "gp:id":1374152,
+        "qs:id":279408
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"be9cd0d549f82418d33e56a89159bc2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421187095,
+            "locality_id":-1,
+            "neighbourhood_id":85802199,
+            "region_id":85674525
+        }
+    ],
+    "wof:id":85802199,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lastmodified":1534379379,
+    "wof:name":"Missira",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[
+        1126072077
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.968667,
+    12.675176,
+    -7.968667,
+    12.675176
+],
+  "geometry": {"coordinates":[-7.968667,12.675176],"type":"Point"}
+}

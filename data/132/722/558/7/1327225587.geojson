@@ -1,0 +1,67 @@
+{
+  "id": 1327225587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.9545,12.2504,-8.9545,12.2504",
+    "geom:latitude":12.2504,
+    "geom:longitude":-8.9545,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Nassira",
+    "gn:country_code":"ML",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6907712,
+    "gn:latitude":12.2504,
+    "gn:longitude":-8.9545,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Nassira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6907712
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0e6fd4edaaab1c6b668e7d2c7ada9b72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562827,
+            "locality_id":1327225587,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1327225587,
+    "wof:lastmodified":1536978847,
+    "wof:name":"Nassira",
+    "wof:parent_id":1108562827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.9545,
+    12.2504,
+    -8.9545,
+    12.2504
+],
+  "geometry": {"coordinates":[-8.9545,12.2504],"type":"Point"}
+}

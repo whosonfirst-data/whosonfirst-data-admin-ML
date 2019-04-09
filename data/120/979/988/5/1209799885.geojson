@@ -1,0 +1,73 @@
+{
+  "id": 1209799885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.4944,15.5557,0.4944,15.5557",
+    "geom:latitude":15.5557,
+    "geom:longitude":0.4944,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Lelehoy",
+    "gn:country_code":"ML",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454117,
+    "gn:latitude":15.5557,
+    "gn:longitude":0.4944,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"L\u00e9l\u00e9hoy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leloi",
+        "L\u00e9ll\u00e9o",
+        "L\u00e9ll\u00e9oi",
+        "L\u00e9l\u00e9hoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        890418903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454117
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"97ec41b26a6b62aec9d9e7c325e35f70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":890418903,
+            "locality_id":1209799885,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1209799885,
+    "wof:lastmodified":1537665129,
+    "wof:name":"Lelehoy",
+    "wof:parent_id":890418903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.4944,
+    15.5557,
+    0.4944,
+    15.5557
+],
+  "geometry": {"coordinates":[0.4944,15.5557],"type":"Point"}
+}

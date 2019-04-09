@@ -1,0 +1,67 @@
+{
+  "id": 1260274973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.90298,12.81153,-7.90298,12.81153",
+    "geom:latitude":12.81153,
+    "geom:longitude":-7.90298,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tassan",
+    "gn:country_code":"ML",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594227,
+    "gn:latitude":12.81153,
+    "gn:longitude":-7.90298,
+    "gn:modification_date":"2008-11-07",
+    "gn:name":"Tassan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        421177883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594227
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ce8fc29be3d23a9585c5c498dd67e126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177883,
+            "locality_id":1260274973,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1260274973,
+    "wof:lastmodified":1536723727,
+    "wof:name":"Tassan",
+    "wof:parent_id":421177883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.90298,
+    12.81153,
+    -7.90298,
+    12.81153
+],
+  "geometry": {"coordinates":[-7.90298,12.81153],"type":"Point"}
+}

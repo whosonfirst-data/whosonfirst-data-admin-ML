@@ -1,0 +1,71 @@
+{
+  "id": 1360181389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.3498,17.00506,-1.3498,17.00506",
+    "geom:latitude":17.00506,
+    "geom:longitude":-1.3498,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Terzey",
+    "gn:country_code":"ML",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449898,
+    "gn:latitude":17.00506,
+    "gn:longitude":-1.3498,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Terzey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Teurz\u00e8y",
+        "Terzey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        1108562879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449898
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1c4c10f3165ef9a7003b073b22ed6b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562879,
+            "locality_id":1360181389,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1360181389,
+    "wof:lastmodified":1537665030,
+    "wof:name":"Terzey",
+    "wof:parent_id":1108562879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.3498,
+    17.00506,
+    -1.3498,
+    17.00506
+],
+  "geometry": {"coordinates":[-1.3498,17.00506],"type":"Point"}
+}

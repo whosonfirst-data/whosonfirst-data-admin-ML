@@ -1,0 +1,67 @@
+{
+  "id": 1226039561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.42778,12.00583,-8.42778,12.00583",
+    "geom:latitude":12.00583,
+    "geom:longitude":-8.42778,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kolenda",
+    "gn:country_code":"ML",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594401,
+    "gn:latitude":12.00583,
+    "gn:longitude":-8.42778,
+    "gn:modification_date":"2003-02-12",
+    "gn:name":"Kol\u00e8nda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594401
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"bbc5ab1d1ac4294bce2bf47ceb351f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562827,
+            "locality_id":1226039561,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1226039561,
+    "wof:lastmodified":1536734300,
+    "wof:name":"Kolenda",
+    "wof:parent_id":1108562827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.42778,
+    12.00583,
+    -8.42778,
+    12.00583
+],
+  "geometry": {"coordinates":[-8.42778,12.00583],"type":"Point"}
+}

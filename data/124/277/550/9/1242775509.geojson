@@ -1,0 +1,72 @@
+{
+  "id": 1242775509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.75346,11.16716,-7.75346,11.16716",
+    "geom:latitude":11.16716,
+    "geom:longitude":-7.75346,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bouloukoro",
+    "gn:country_code":"ML",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459719,
+    "gn:latitude":11.16716,
+    "gn:longitude":-7.75346,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Bouloukoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boloukoro",
+        "Bolokoro",
+        "Bouloukoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459719
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"022aec68edae14b0c48f221bb791384c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562821,
+            "locality_id":1242775509,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1242775509,
+    "wof:lastmodified":1537665251,
+    "wof:name":"Bouloukoro",
+    "wof:parent_id":1108562821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.75346,
+    11.16716,
+    -7.75346,
+    11.16716
+],
+  "geometry": {"coordinates":[-7.75346,11.16716],"type":"Point"}
+}

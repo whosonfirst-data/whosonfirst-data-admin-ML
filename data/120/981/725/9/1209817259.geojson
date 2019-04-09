@@ -1,0 +1,67 @@
+{
+  "id": 1209817259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.08851,15.36412,-10.08851,15.36412",
+    "geom:latitude":15.36412,
+    "geom:longitude":-10.08851,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dini",
+    "gn:country_code":"ML",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6655820,
+    "gn:latitude":15.36412,
+    "gn:longitude":-10.08851,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Dini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6655820
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ad849220e9e22cfc2f85085905477ff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562863,
+            "locality_id":1209817259,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1209817259,
+    "wof:lastmodified":1536382575,
+    "wof:name":"Dini",
+    "wof:parent_id":1108562863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.08851,
+    15.36412,
+    -10.08851,
+    15.36412
+],
+  "geometry": {"coordinates":[-10.08851,15.36412],"type":"Point"}
+}

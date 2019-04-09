@@ -1,0 +1,67 @@
+{
+  "id": 1209324819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.66667,10.91667,-5.66667,10.91667",
+    "geom:latitude":10.91667,
+    "geom:longitude":-5.66667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Douna",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458263,
+    "gn:latitude":10.91667,
+    "gn:longitude":-5.66667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Douna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loulouni",
+        "Dona",
+        "Douna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458263
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"82932e5573f620119c96a60d92dfa86c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209324819
+        }
+    ],
+    "wof:id":1209324819,
+    "wof:lastmodified":1537665214,
+    "wof:name":"Douna",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.66667,
+    10.91667,
+    -5.66667,
+    10.91667
+],
+  "geometry": {"coordinates":[-5.66667,10.91667],"type":"Point"}
+}

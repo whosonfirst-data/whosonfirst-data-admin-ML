@@ -1,0 +1,67 @@
+{
+  "id": 1326736415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.83968,15.48504,-3.83968,15.48504",
+    "geom:latitude":15.48504,
+    "geom:longitude":-3.83968,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dofina",
+    "gn:country_code":"ML",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6881031,
+    "gn:latitude":15.48504,
+    "gn:longitude":-3.83968,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Dofina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6881031
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0270fa725e9ca2e7fcbfdb8805a9dc0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1326736415,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1326736415,
+    "wof:lastmodified":1536689752,
+    "wof:name":"Dofina",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.83968,
+    15.48504,
+    -3.83968,
+    15.48504
+],
+  "geometry": {"coordinates":[-3.83968,15.48504],"type":"Point"}
+}

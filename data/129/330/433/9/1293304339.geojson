@@ -1,0 +1,67 @@
+{
+  "id": 1293304339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.88055,15.3557,-9.88055,15.3557",
+    "geom:latitude":15.3557,
+    "geom:longitude":-9.88055,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dabai Wali",
+    "gn:country_code":"ML",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6759485,
+    "gn:latitude":15.3557,
+    "gn:longitude":-9.88055,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Dabai Wali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6759485
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"139b8580cb98a0dc0d59aaab83657339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562869,
+            "locality_id":1293304339,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1293304339,
+    "wof:lastmodified":1537048946,
+    "wof:name":"Dabai Wali",
+    "wof:parent_id":1108562869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.88055,
+    15.3557,
+    -9.88055,
+    15.3557
+],
+  "geometry": {"coordinates":[-9.88055,15.3557],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343468821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.51667,12.25,-10.51667,12.25",
+    "geom:latitude":12.25,
+    "geom:longitude":-10.51667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Daguia",
+    "gn:country_code":"ML",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459474,
+    "gn:latitude":12.25,
+    "gn:longitude":-10.51667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Daguia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459474
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1723ac02ee8ea1837ab76a0d0f217426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171903,
+            "locality_id":1343468821,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1343468821,
+    "wof:lastmodified":1536734146,
+    "wof:name":"Daguia",
+    "wof:parent_id":421171903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.51667,
+    12.25,
+    -10.51667,
+    12.25
+],
+  "geometry": {"coordinates":[-10.51667,12.25],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209207187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.60691,11.09317,-5.60691,11.09317",
+    "geom:latitude":11.09317,
+    "geom:longitude":-5.60691,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Banankoro",
+    "gn:country_code":"ML",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6875214,
+    "gn:latitude":11.09317,
+    "gn:longitude":-5.60691,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Banankoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6875214
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"98937a9c151ecb68b4fe5a42ac5939a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209207187
+        }
+    ],
+    "wof:id":1209207187,
+    "wof:lastmodified":1536294415,
+    "wof:name":"Banankoro",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.60691,
+    11.09317,
+    -5.60691,
+    11.09317
+],
+  "geometry": {"coordinates":[-5.60691,11.09317],"type":"Point"}
+}

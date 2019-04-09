@@ -1,0 +1,67 @@
+{
+  "id": 1242598931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.07179,13.75672,-7.07179,13.75672",
+    "geom:latitude":13.75672,
+    "geom:longitude":-7.07179,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Babobougou",
+    "gn:country_code":"ML",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6906627,
+    "gn:latitude":13.75672,
+    "gn:longitude":-7.07179,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Babobougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6906627
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"55278431797e66406ee66cecb9470614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562851,
+            "locality_id":1242598931,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1242598931,
+    "wof:lastmodified":1537031609,
+    "wof:name":"Babobougou",
+    "wof:parent_id":1108562851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.07179,
+    13.75672,
+    -7.07179,
+    13.75672
+],
+  "geometry": {"coordinates":[-7.07179,13.75672],"type":"Point"}
+}

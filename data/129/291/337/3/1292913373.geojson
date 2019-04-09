@@ -1,0 +1,72 @@
+{
+  "id": 1292913373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.18333,12.78333,-7.18333,12.78333",
+    "geom:latitude":12.78333,
+    "geom:longitude":-7.18333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ndirimassene",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453022,
+    "gn:latitude":12.78333,
+    "gn:longitude":-7.18333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ndirimass\u00e9n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ndirimas\u00e9n\u00e9",
+        "Ndirimass\u00e9n\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453022
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1aa5412feaeb0841284f225d1ee470e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1292913373,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1292913373,
+    "wof:lastmodified":1537665102,
+    "wof:name":"Ndirimassene",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.18333,
+    12.78333,
+    -7.18333,
+    12.78333
+],
+  "geometry": {"coordinates":[-7.18333,12.78333],"type":"Point"}
+}

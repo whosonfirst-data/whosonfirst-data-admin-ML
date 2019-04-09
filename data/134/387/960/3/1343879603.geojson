@@ -1,0 +1,67 @@
+{
+  "id": 1343879603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.79428,13.35416,-7.79428,13.35416",
+    "geom:latitude":13.35416,
+    "geom:longitude":-7.79428,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tiekala",
+    "gn:country_code":"ML",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6906799,
+    "gn:latitude":13.35416,
+    "gn:longitude":-7.79428,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Ti\u00e9kala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6906799
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"520a4ea3d9482e350cf5b4ba472a1327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":1343879603,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1343879603,
+    "wof:lastmodified":1536637956,
+    "wof:name":"Tiekala",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.79428,
+    13.35416,
+    -7.79428,
+    13.35416
+],
+  "geometry": {"coordinates":[-7.79428,13.35416],"type":"Point"}
+}

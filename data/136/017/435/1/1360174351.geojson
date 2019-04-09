@@ -1,0 +1,71 @@
+{
+  "id": 1360174351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.10972,16.22639,-0.10972,16.22639",
+    "geom:latitude":16.22639,
+    "geom:longitude":-0.10972,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Gorom Gorom",
+    "gn:country_code":"ML",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457018,
+    "gn:latitude":16.22639,
+    "gn:longitude":-0.10972,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gorom Gorom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorom",
+        "Gorom Gorom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        890418899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457018
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4d23f027e1457dc8aedcf8f0dda48a73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":890418899,
+            "locality_id":1360174351,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1360174351,
+    "wof:lastmodified":1537665184,
+    "wof:name":"Gorom Gorom",
+    "wof:parent_id":890418899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.10972,
+    16.22639,
+    -0.10972,
+    16.22639
+],
+  "geometry": {"coordinates":[-0.10972,16.22639],"type":"Point"}
+}

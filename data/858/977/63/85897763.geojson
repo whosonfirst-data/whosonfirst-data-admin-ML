@@ -1,0 +1,105 @@
+{
+  "id": 85897763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":31400863.775975,
+    "geom:bbox":"14.496747,35.914509,14.496747,35.914509",
+    "geom:latitude":35.914509,
+    "geom:longitude":14.496747,
+    "gn:id":"",
+    "iso:country":"ML",
+    "lbl:latitude":35.914509,
+    "lbl:longitude":14.496747,
+    "mps:latitude":35.907224,
+    "mps:longitude":14.482691,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:und_x_colloquial":[
+        "Il-Gzira"
+    ],
+    "name:und_x_preferred":[
+        "Il-G\u017cira"
+    ],
+    "name:unk_x_variant":[
+        "Il-G\u017cira"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":5652,
+    "qs:local_sum":5652,
+    "qs:localhoods":1,
+    "qs:name":"Il-G\u017cira",
+    "qs:name_adm0":"Malta",
+    "qs:name_adm1":"Malta Majjistral",
+    "qs:name_adm2":"G\u017cira",
+    "qs:name_local":"Msida",
+    "qs:photo_max":570,
+    "qs:photo_sum":5652,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":143,
+    "qs:woe_adm0":23424897,
+    "qs:woe_adm1":56043491,
+    "qs:woe_adm2":24551388,
+    "qs:woe_lau":0,
+    "qs:woe_local":483446,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101752431,
+        85633331,
+        85686907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":483373,
+        "qs:id":219157,
+        "qs_pg:id":219157
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ac3a4f9ce9dd7a2bb64a4a41d64505c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633331,
+            "locality_id":101752431,
+            "neighbourhood_id":85897763,
+            "region_id":85686907
+        }
+    ],
+    "wof:id":85897763,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531931936,
+    "wof:name":"Il-G\u017cira",
+    "wof:parent_id":101752431,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.496747,
+    35.914509,
+    14.496747,
+    35.914509
+],
+  "geometry": {"coordinates":[14.496747,35.914509],"type":"Point"}
+}

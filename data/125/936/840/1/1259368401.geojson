@@ -1,0 +1,71 @@
+{
+  "id": 1259368401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.45671,16.32007,-3.45671,16.32007",
+    "geom:latitude":16.32007,
+    "geom:longitude":-3.45671,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kondi-Kayna",
+    "gn:country_code":"ML",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454845,
+    "gn:latitude":16.32007,
+    "gn:longitude":-3.45671,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kondi-Kayna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kondi Keyna",
+        "Kondi-Kayna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        421172359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454845
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"61c9719b40f36f17ed7eaa78420d2570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421172359,
+            "locality_id":1259368401,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1259368401,
+    "wof:lastmodified":1537665145,
+    "wof:name":"Kondi-Kayna",
+    "wof:parent_id":421172359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.45671,
+    16.32007,
+    -3.45671,
+    16.32007
+],
+  "geometry": {"coordinates":[-3.45671,16.32007],"type":"Point"}
+}

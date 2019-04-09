@@ -1,0 +1,71 @@
+{
+  "id": 1293613107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.77255,13.43013,-3.77255,13.43013",
+    "geom:latitude":13.43013,
+    "geom:longitude":-3.77255,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Neon",
+    "gn:country_code":"ML",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452663,
+    "gn:latitude":13.43013,
+    "gn:longitude":-3.77255,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"N\u00e9on",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nion",
+        "N\u00e9on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452663
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"15c8cb3ba8c6a2116d2c7a5e232be200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1293613107,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1293613107,
+    "wof:lastmodified":1537665093,
+    "wof:name":"Neon",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.77255,
+    13.43013,
+    -3.77255,
+    13.43013
+],
+  "geometry": {"coordinates":[-3.77255,13.43013],"type":"Point"}
+}

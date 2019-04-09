@@ -1,0 +1,76 @@
+{
+  "id": 1259775841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.67643,11.26608,-6.67643,11.26608",
+    "geom:latitude":11.26608,
+    "geom:longitude":-6.67643,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Katiola",
+    "gn:country_code":"ML",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455550,
+    "gn:latitude":11.26608,
+    "gn:longitude":-6.67643,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Katiola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Katiola"
+    ],
+    "name:fra_x_variant":[
+        "Kantiola"
+    ],
+    "name:und_x_variant":[
+        "Kantiola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455550
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"65d04f677857a4f68b430b1a98464052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562819,
+            "locality_id":1259775841,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1259775841,
+    "wof:lastmodified":1537665162,
+    "wof:name":"Katiola",
+    "wof:parent_id":1108562819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.67643,
+    11.26608,
+    -6.67643,
+    11.26608
+],
+  "geometry": {"coordinates":[-6.67643,11.26608],"type":"Point"}
+}

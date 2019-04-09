@@ -1,0 +1,67 @@
+{
+  "id": 1344271999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.98333,10.75,-6.98333,10.75",
+    "geom:latitude":10.75,
+    "geom:longitude":-6.98333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ngokla",
+    "gn:country_code":"ML",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452893,
+    "gn:latitude":10.75,
+    "gn:longitude":-6.98333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Ngokla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452893
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c3f71a3ab02f952586d7a0d785c95b87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562819,
+            "locality_id":1344271999,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1344271999,
+    "wof:lastmodified":1537064534,
+    "wof:name":"Ngokla",
+    "wof:parent_id":1108562819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.98333,
+    10.75,
+    -6.98333,
+    10.75
+],
+  "geometry": {"coordinates":[-6.98333,10.75],"type":"Point"}
+}

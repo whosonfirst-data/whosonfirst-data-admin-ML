@@ -1,0 +1,72 @@
+{
+  "id": 1242888853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0,10.55,-6.0,10.55",
+    "geom:latitude":10.55,
+    "geom:longitude":-6.0,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Korokodougou",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454662,
+    "gn:latitude":10.55,
+    "gn:longitude":-6.0,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Korokodougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kouroukoundougou",
+        "Korokodougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454662
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3cf496bfff07f0aa2ddda5a335291031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562817,
+            "locality_id":1242888853,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1242888853,
+    "wof:lastmodified":1537665140,
+    "wof:name":"Korokodougou",
+    "wof:parent_id":1108562817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0,
+    10.55,
+    -6.0,
+    10.55
+],
+  "geometry": {"coordinates":[-6.0,10.55],"type":"Point"}
+}

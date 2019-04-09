@@ -1,0 +1,72 @@
+{
+  "id": 1226656173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.03333,11.36667,-8.03333,11.36667",
+    "geom:latitude":11.36667,
+    "geom:longitude":-8.03333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Toura Koura Tombon",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448830,
+    "gn:latitude":11.36667,
+    "gn:longitude":-8.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Toura Koura Tombon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toura-Koura Tonbon",
+        "Toura Koura Tombon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448830
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6aab6640eed45ad9f1cae679e353646b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1226656173,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1226656173,
+    "wof:lastmodified":1537665014,
+    "wof:name":"Toura Koura Tombon",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.03333,
+    11.36667,
+    -8.03333,
+    11.36667
+],
+  "geometry": {"coordinates":[-8.03333,11.36667],"type":"Point"}
+}

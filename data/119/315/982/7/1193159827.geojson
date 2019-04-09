@@ -1,0 +1,67 @@
+{
+  "id": 1193159827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.5183,13.5207,-4.5183,13.5207",
+    "geom:latitude":13.5207,
+    "geom:longitude":-4.5183,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Togo",
+    "gn:country_code":"ML",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449102,
+    "gn:latitude":13.5207,
+    "gn:longitude":-4.5183,
+    "gn:modification_date":"2008-11-03",
+    "gn:name":"Togo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449102
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0eec651cb6809348b2ca81be6ad1a1f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562843,
+            "locality_id":1193159827,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1193159827,
+    "wof:lastmodified":1536369144,
+    "wof:name":"Togo",
+    "wof:parent_id":1108562843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.5183,
+    13.5207,
+    -4.5183,
+    13.5207
+],
+  "geometry": {"coordinates":[-4.5183,13.5207],"type":"Point"}
+}

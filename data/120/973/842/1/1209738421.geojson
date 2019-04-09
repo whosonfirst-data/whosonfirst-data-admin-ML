@@ -1,0 +1,67 @@
+{
+  "id": 1209738421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.64737,13.1843,-5.64737,13.1843",
+    "geom:latitude":13.1843,
+    "geom:longitude":-5.64737,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sebetien",
+    "gn:country_code":"ML",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451504,
+    "gn:latitude":13.1843,
+    "gn:longitude":-5.64737,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"S\u00e9b\u00e9tien",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451504
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9e88c25f1834320ba97cf11f5edc4ae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562835,
+            "locality_id":1209738421,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1209738421,
+    "wof:lastmodified":1536371146,
+    "wof:name":"Sebetien",
+    "wof:parent_id":1108562835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.64737,
+    13.1843,
+    -5.64737,
+    13.1843
+],
+  "geometry": {"coordinates":[-5.64737,13.1843],"type":"Point"}
+}

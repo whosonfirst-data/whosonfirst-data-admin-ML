@@ -1,0 +1,67 @@
+{
+  "id": 1326624739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.67934,13.26667,-7.67934,13.26667",
+    "geom:latitude":13.26667,
+    "geom:longitude":-7.67934,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Koroka",
+    "gn:country_code":"ML",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454665,
+    "gn:latitude":13.26667,
+    "gn:longitude":-7.67934,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Koroka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454665
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"54df5d404b5483a66ef748fea0f85ce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562839,
+            "locality_id":1326624739,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1326624739,
+    "wof:lastmodified":1536849567,
+    "wof:name":"Koroka",
+    "wof:parent_id":1108562839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.67934,
+    13.26667,
+    -7.67934,
+    13.26667
+],
+  "geometry": {"coordinates":[-7.67934,13.26667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242678319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.67458,14.56084,-4.67458,14.56084",
+    "geom:latitude":14.56084,
+    "geom:longitude":-4.67458,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sossobe Togoro",
+    "gn:country_code":"ML",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450707,
+    "gn:latitude":14.56084,
+    "gn:longitude":-4.67458,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sossob\u00e9 Togoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sosob\u00e9-Togoro",
+        "Sossob\u00e9 Togoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450707
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1f8894ace85ef3f4aa881d511cd043e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562861,
+            "locality_id":1242678319,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1242678319,
+    "wof:lastmodified":1537665042,
+    "wof:name":"Sossobe Togoro",
+    "wof:parent_id":1108562861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.67458,
+    14.56084,
+    -4.67458,
+    14.56084
+],
+  "geometry": {"coordinates":[-4.67458,14.56084],"type":"Point"}
+}

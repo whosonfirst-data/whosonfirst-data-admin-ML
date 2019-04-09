@@ -1,0 +1,71 @@
+{
+  "id": 1209821709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.01781,14.13814,-5.01781,14.13814",
+    "geom:latitude":14.13814,
+    "geom:longitude":-5.01781,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Diafarabe",
+    "gn:country_code":"ML",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459126,
+    "gn:latitude":14.13814,
+    "gn:longitude":-5.01781,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Diafarab\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diafarab\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459126,
+        "wk:page":"Diafarab%C3%A9"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b7a77b912a3474f01808e1dc3e37c0cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562861,
+            "locality_id":1209821709,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1209821709,
+    "wof:lastmodified":1537665238,
+    "wof:name":"Diafarabe",
+    "wof:parent_id":1108562861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.01781,
+    14.13814,
+    -5.01781,
+    14.13814
+],
+  "geometry": {"coordinates":[-5.01781,14.13814],"type":"Point"}
+}

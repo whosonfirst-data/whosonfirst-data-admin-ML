@@ -1,0 +1,76 @@
+{
+  "id": 1326927973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.91588,11.01575,-6.91588,11.01575",
+    "geom:latitude":11.01575,
+    "geom:longitude":-6.91588,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Keriko",
+    "gn:country_code":"ML",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455348,
+    "gn:latitude":11.01575,
+    "gn:longitude":-6.91588,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"K\u00e9riko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "K\u00e9riko"
+    ],
+    "name:fra_x_variant":[
+        "Gomi"
+    ],
+    "name:und_x_variant":[
+        "Gomi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455348
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c1033a680a453b0572f98a8eaaf941bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562819,
+            "locality_id":1326927973,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1326927973,
+    "wof:lastmodified":1537665158,
+    "wof:name":"Keriko",
+    "wof:parent_id":1108562819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.91588,
+    11.01575,
+    -6.91588,
+    11.01575
+],
+  "geometry": {"coordinates":[-6.91588,11.01575],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310397263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.3972,14.3474,-7.3972,14.3474",
+    "geom:latitude":14.3474,
+    "geom:longitude":-7.3972,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Danguedou",
+    "gn:country_code":"ML",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459356,
+    "gn:latitude":14.3474,
+    "gn:longitude":-7.3972,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dangu\u00e9dou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dang\u00e9dou",
+        "Dangu\u00e9dou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459356
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1ae953491e2a8b3924e16018e98293a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562865,
+            "locality_id":1310397263,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1310397263,
+    "wof:lastmodified":1537665243,
+    "wof:name":"Danguedou",
+    "wof:parent_id":1108562865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.3972,
+    14.3474,
+    -7.3972,
+    14.3474
+],
+  "geometry": {"coordinates":[-7.3972,14.3474],"type":"Point"}
+}

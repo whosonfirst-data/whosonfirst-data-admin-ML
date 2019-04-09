@@ -1,0 +1,74 @@
+{
+  "id": 1242668217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.5421,15.9071,-3.5421,15.9071",
+    "geom:latitude":15.9071,
+    "geom:longitude":-3.5421,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kaia",
+    "gn:country_code":"ML",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455523,
+    "gn:latitude":15.9071,
+    "gn:longitude":-3.5421,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ka\u00efa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kati",
+        "Kali",
+        "Ka\u00ef",
+        "Kaya",
+        "Ka\u00efa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455523
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"26313b30d73dbcd617dd2e6af22975ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562873,
+            "locality_id":1242668217,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1242668217,
+    "wof:lastmodified":1537665161,
+    "wof:name":"Kaia",
+    "wof:parent_id":1108562873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5421,
+    15.9071,
+    -3.5421,
+    15.9071
+],
+  "geometry": {"coordinates":[-3.5421,15.9071],"type":"Point"}
+}

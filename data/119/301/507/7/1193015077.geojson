@@ -1,0 +1,71 @@
+{
+  "id": 1193015077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.37361,13.55295,-6.37361,13.55295",
+    "geom:latitude":13.55295,
+    "geom:longitude":-6.37361,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kalabougouni",
+    "gn:country_code":"ML",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455909,
+    "gn:latitude":13.55295,
+    "gn:longitude":-6.37361,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kalabougouni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalabougou",
+        "Kalabougouni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455909
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e4c6c4d4529a649a916f2e1a04a7a927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1193015077,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1193015077,
+    "wof:lastmodified":1537665170,
+    "wof:name":"Kalabougouni",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.37361,
+    13.55295,
+    -6.37361,
+    13.55295
+],
+  "geometry": {"coordinates":[-6.37361,13.55295],"type":"Point"}
+}

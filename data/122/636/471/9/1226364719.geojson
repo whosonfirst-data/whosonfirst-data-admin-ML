@@ -1,0 +1,67 @@
+{
+  "id": 1226364719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.5788,12.6382,-5.5788,12.6382",
+    "geom:latitude":12.6382,
+    "geom:longitude":-5.5788,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ntossoni",
+    "gn:country_code":"ML",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6861869,
+    "gn:latitude":12.6382,
+    "gn:longitude":-5.5788,
+    "gn:modification_date":"2016-07-03",
+    "gn:name":"Ntossoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6861869
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"423eb2294989dbd84566bb55c56adf8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1226364719,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1226364719,
+    "wof:lastmodified":1536762498,
+    "wof:name":"Ntossoni",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.5788,
+    12.6382,
+    -5.5788,
+    12.6382
+],
+  "geometry": {"coordinates":[-5.5788,12.6382],"type":"Point"}
+}

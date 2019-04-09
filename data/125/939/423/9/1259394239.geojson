@@ -1,0 +1,72 @@
+{
+  "id": 1259394239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.35622,13.38146,-9.35622,13.38146",
+    "geom:latitude":13.38146,
+    "geom:longitude":-9.35622,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Traorela Guimbala",
+    "gn:country_code":"ML",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448783,
+    "gn:latitude":13.38146,
+    "gn:longitude":-9.35622,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Traor\u00e9la Guimbala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Traol\u00e9la Guimbala",
+        "Traor\u00e9la Guimbala",
+        "Traol\u00e9la-Guimmbala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448783
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"faa7df4146435079dd971e150fb899b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1259394239,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1259394239,
+    "wof:lastmodified":1537665013,
+    "wof:name":"Traorela Guimbala",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.35622,
+    13.38146,
+    -9.35622,
+    13.38146
+],
+  "geometry": {"coordinates":[-9.35622,13.38146],"type":"Point"}
+}

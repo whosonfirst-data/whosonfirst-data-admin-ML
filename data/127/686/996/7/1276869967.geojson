@@ -1,0 +1,67 @@
+{
+  "id": 1276869967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.47217,11.96506,-5.47217,11.96506",
+    "geom:latitude":11.96506,
+    "geom:longitude":-5.47217,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sossourosso",
+    "gn:country_code":"ML",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6875039,
+    "gn:latitude":11.96506,
+    "gn:longitude":-5.47217,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Sossourosso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6875039
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d4c281ae7e0c0682aa3ceb493c403b9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1276869967,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1276869967,
+    "wof:lastmodified":1537052238,
+    "wof:name":"Sossourosso",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.47217,
+    11.96506,
+    -5.47217,
+    11.96506
+],
+  "geometry": {"coordinates":[-5.47217,11.96506],"type":"Point"}
+}

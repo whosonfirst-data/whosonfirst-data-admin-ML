@@ -1,0 +1,61 @@
+{
+  "id": 1209530181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.83333,15.8,-3.83333,15.8",
+    "geom:latitude":15.8,
+    "geom:longitude":-3.83333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ouro Ngueou",
+    "gn:country_code":"ML",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452184,
+    "gn:latitude":15.8,
+    "gn:longitude":-3.83333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Ouro Ngu\u00e9ou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452184
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3bf5d34d12d649c37dbe783371abfcce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209530181
+        }
+    ],
+    "wof:id":1209530181,
+    "wof:lastmodified":1536284305,
+    "wof:name":"Ouro Ngueou",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.83333,
+    15.8,
+    -3.83333,
+    15.8
+],
+  "geometry": {"coordinates":[-3.83333,15.8],"type":"Point"}
+}

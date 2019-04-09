@@ -1,0 +1,76 @@
+{
+  "id": 1344056129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.7763,12.8395,-6.7763,12.8395",
+    "geom:latitude":12.8395,
+    "geom:longitude":-6.7763,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Boidiguendou",
+    "gn:country_code":"ML",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459963,
+    "gn:latitude":12.8395,
+    "gn:longitude":-6.7763,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bo\u00efdiguendou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bo\u00efdiguendou"
+    ],
+    "name:fra_x_variant":[
+        "Boidigendou"
+    ],
+    "name:und_x_variant":[
+        "Boidigendou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459963
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"dd39303bce0ee5c459579d7197138595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562837,
+            "locality_id":1344056129,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1344056129,
+    "wof:lastmodified":1537665258,
+    "wof:name":"Boidiguendou",
+    "wof:parent_id":1108562837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.7763,
+    12.8395,
+    -6.7763,
+    12.8395
+],
+  "geometry": {"coordinates":[-6.7763,12.8395],"type":"Point"}
+}

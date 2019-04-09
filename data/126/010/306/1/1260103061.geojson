@@ -1,0 +1,72 @@
+{
+  "id": 1260103061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.2874,13.844,-4.2874,13.844",
+    "geom:latitude":13.844,
+    "geom:longitude":-4.2874,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tieoulindougou",
+    "gn:country_code":"ML",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449729,
+    "gn:latitude":13.844,
+    "gn:longitude":-4.2874,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ti\u00e9oulindougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00e9lonkui",
+        "Ti\u00e9oulingougou",
+        "Ti\u00e9oulindougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449729
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d3e9ab23a67e8dfeca53bc43b2e70766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562843,
+            "locality_id":1260103061,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1260103061,
+    "wof:lastmodified":1537665026,
+    "wof:name":"Tieoulindougou",
+    "wof:parent_id":1108562843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.2874,
+    13.844,
+    -4.2874,
+    13.844
+],
+  "geometry": {"coordinates":[-4.2874,13.844],"type":"Point"}
+}

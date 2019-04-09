@@ -1,0 +1,67 @@
+{
+  "id": 1327129675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.9152,15.9803,-3.9152,15.9803",
+    "geom:latitude":15.9803,
+    "geom:longitude":-3.9152,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ngouroune",
+    "gn:country_code":"ML",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452842,
+    "gn:latitude":15.9803,
+    "gn:longitude":-3.9152,
+    "gn:modification_date":"2008-11-04",
+    "gn:name":"Ngouroun\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452842
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"bd677481a506ed986bcc739af5793920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562873,
+            "locality_id":1327129675,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1327129675,
+    "wof:lastmodified":1536617875,
+    "wof:name":"Ngouroune",
+    "wof:parent_id":1108562873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.9152,
+    15.9803,
+    -3.9152,
+    15.9803
+],
+  "geometry": {"coordinates":[-3.9152,15.9803],"type":"Point"}
+}

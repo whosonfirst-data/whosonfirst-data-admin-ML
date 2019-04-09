@@ -1,0 +1,72 @@
+{
+  "id": 1293776669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.89103,12.476,-5.89103,12.476",
+    "geom:latitude":12.476,
+    "geom:longitude":-5.89103,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sogotela",
+    "gn:country_code":"ML",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450873,
+    "gn:latitude":12.476,
+    "gn:longitude":-5.89103,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sogot\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sokotila",
+        "Sogotila",
+        "Sogot\u00e9la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450873
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"92b98ac649cb9423fb1d28de5b5c8c3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1293776669,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1293776669,
+    "wof:lastmodified":1537665046,
+    "wof:name":"Sogotela",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.89103,
+    12.476,
+    -5.89103,
+    12.476
+],
+  "geometry": {"coordinates":[-5.89103,12.476],"type":"Point"}
+}

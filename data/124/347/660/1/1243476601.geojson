@@ -1,0 +1,67 @@
+{
+  "id": 1243476601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.42383,12.0423,-5.42383,12.0423",
+    "geom:latitude":12.0423,
+    "geom:longitude":-5.42383,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bamdere",
+    "gn:country_code":"ML",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460566,
+    "gn:latitude":12.0423,
+    "gn:longitude":-5.42383,
+    "gn:modification_date":"2008-10-24",
+    "gn:name":"Bamd\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460566
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"529d7900e60ba5aa358336ecbacb49a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1243476601,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1243476601,
+    "wof:lastmodified":1536762343,
+    "wof:name":"Bamdere",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.42383,
+    12.0423,
+    -5.42383,
+    12.0423
+],
+  "geometry": {"coordinates":[-5.42383,12.0423],"type":"Point"}
+}

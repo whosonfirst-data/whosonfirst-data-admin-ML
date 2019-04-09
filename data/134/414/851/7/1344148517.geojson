@@ -1,0 +1,78 @@
+{
+  "id": 1344148517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.9633,12.7284,-6.9633,12.7284",
+    "geom:latitude":12.7284,
+    "geom:longitude":-6.9633,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dyen",
+    "gn:country_code":"ML",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458114,
+    "gn:latitude":12.7284,
+    "gn:longitude":-6.9633,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dyen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dyen"
+    ],
+    "name:fra_x_variant":[
+        "Dion",
+        "Dien"
+    ],
+    "name:und_x_variant":[
+        "Dion",
+        "Dien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458114
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d04cb7d0d9aef25c71a95243bcd03ba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1344148517,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1344148517,
+    "wof:lastmodified":1537665209,
+    "wof:name":"Dyen",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.9633,
+    12.7284,
+    -6.9633,
+    12.7284
+],
+  "geometry": {"coordinates":[-6.9633,12.7284],"type":"Point"}
+}

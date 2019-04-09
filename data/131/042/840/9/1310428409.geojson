@@ -1,0 +1,67 @@
+{
+  "id": 1310428409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.72944,13.26843,-5.72944,13.26843",
+    "geom:latitude":13.26843,
+    "geom:longitude":-5.72944,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bouala",
+    "gn:country_code":"ML",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459860,
+    "gn:latitude":13.26843,
+    "gn:longitude":-5.72944,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Bouala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459860
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a8c6bacb96884d6049a79d36ac10cbff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1310428409,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1310428409,
+    "wof:lastmodified":1537026997,
+    "wof:name":"Bouala",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.72944,
+    13.26843,
+    -5.72944,
+    13.26843
+],
+  "geometry": {"coordinates":[-5.72944,13.26843],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293277961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.75739,16.47867,-3.75739,16.47867",
+    "geom:latitude":16.47867,
+    "geom:longitude":-3.75739,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Fatakara",
+    "gn:country_code":"ML",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457535,
+    "gn:latitude":16.47867,
+    "gn:longitude":-3.75739,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fatakara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fataka",
+        "Fatakara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457535
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"16a80f546dc81ccb8aed3f67cd80f528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562889,
+            "locality_id":1293277961,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1293277961,
+    "wof:lastmodified":1537665196,
+    "wof:name":"Fatakara",
+    "wof:parent_id":1108562889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.75739,
+    16.47867,
+    -3.75739,
+    16.47867
+],
+  "geometry": {"coordinates":[-3.75739,16.47867],"type":"Point"}
+}

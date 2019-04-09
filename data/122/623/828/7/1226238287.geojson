@@ -1,0 +1,67 @@
+{
+  "id": 1226238287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.55098,16.97207,-0.55098,16.97207",
+    "geom:latitude":16.97207,
+    "geom:longitude":-0.55098,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Taoussa",
+    "gn:country_code":"ML",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450166,
+    "gn:latitude":16.97207,
+    "gn:longitude":-0.55098,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Taoussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        1108562879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450166
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a4e39bc8b8b8a0fd3d10ecf92caa6e31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562879,
+            "locality_id":1226238287,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1226238287,
+    "wof:lastmodified":1536944856,
+    "wof:name":"Taoussa",
+    "wof:parent_id":1108562879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.55098,
+    16.97207,
+    -0.55098,
+    16.97207
+],
+  "geometry": {"coordinates":[-0.55098,16.97207],"type":"Point"}
+}

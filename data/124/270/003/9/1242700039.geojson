@@ -1,0 +1,67 @@
+{
+  "id": 1242700039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.07309,11.3399,-6.07309,11.3399",
+    "geom:latitude":11.3399,
+    "geom:longitude":-6.07309,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ngoloperebougou",
+    "gn:country_code":"ML",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910370,
+    "gn:latitude":11.3399,
+    "gn:longitude":-6.07309,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Ngolop\u00e9r\u00e9bougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910370
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"837b6b514ba642c76b15fb1f4c0ee1a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1242700039,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1242700039,
+    "wof:lastmodified":1536886991,
+    "wof:name":"Ngoloperebougou",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.07309,
+    11.3399,
+    -6.07309,
+    11.3399
+],
+  "geometry": {"coordinates":[-6.07309,11.3399],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243265825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.38931,13.67269,-11.38931,13.67269",
+    "geom:latitude":13.67269,
+    "geom:longitude":-11.38931,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tinntiba",
+    "gn:country_code":"ML",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449355,
+    "gn:latitude":13.67269,
+    "gn:longitude":-11.38931,
+    "gn:modification_date":"2007-10-22",
+    "gn:name":"Tinntiba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449355
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4830e51256fa0792f24ae2cd465b3868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562855,
+            "locality_id":1243265825,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1243265825,
+    "wof:lastmodified":1537063118,
+    "wof:name":"Tinntiba",
+    "wof:parent_id":1108562855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.38931,
+    13.67269,
+    -11.38931,
+    13.67269
+],
+  "geometry": {"coordinates":[-11.38931,13.67269],"type":"Point"}
+}

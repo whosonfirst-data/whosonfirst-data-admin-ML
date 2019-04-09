@@ -1,0 +1,64 @@
+{
+  "id": 1209426423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.8317,13.0699,-8.8317,13.0699",
+    "geom:latitude":13.0699,
+    "geom:longitude":-8.8317,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dougourenndji",
+    "gn:country_code":"ML",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458299,
+    "gn:latitude":13.0699,
+    "gn:longitude":-8.8317,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dougourenndji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dougourenndji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458299
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2aeb8adb203a88bdf37953f6fd40a7a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209426423
+        }
+    ],
+    "wof:id":1209426423,
+    "wof:lastmodified":1537665215,
+    "wof:name":"Dougourenndji",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.8317,
+    13.0699,
+    -8.8317,
+    13.0699
+],
+  "geometry": {"coordinates":[-8.8317,13.0699],"type":"Point"}
+}

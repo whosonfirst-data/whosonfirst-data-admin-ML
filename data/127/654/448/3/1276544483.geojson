@@ -1,0 +1,78 @@
+{
+  "id": 1276544483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.85163,11.31896,-6.85163,11.31896",
+    "geom:latitude":11.31896,
+    "geom:longitude":-6.85163,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Vinkala",
+    "gn:country_code":"ML",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448616,
+    "gn:latitude":11.31896,
+    "gn:longitude":-6.85163,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Vinkala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Wennkala"
+    ],
+    "name:fra_x_variant":[
+        "Wenkala"
+    ],
+    "name:und_x_variant":[
+        "Wenkala",
+        "Vinkala",
+        "Wennkala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448616
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8d58a04c6a14a362bfdd56ed2814e255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1276544483,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1276544483,
+    "wof:lastmodified":1537665007,
+    "wof:name":"Vinkala",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.85163,
+    11.31896,
+    -6.85163,
+    11.31896
+],
+  "geometry": {"coordinates":[-6.85163,11.31896],"type":"Point"}
+}

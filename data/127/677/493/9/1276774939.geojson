@@ -1,0 +1,71 @@
+{
+  "id": 1276774939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.3094,14.6269,-9.3094,14.6269",
+    "geom:latitude":14.6269,
+    "geom:longitude":-9.3094,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Moustaphabougou Kerliniame",
+    "gn:country_code":"ML",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453233,
+    "gn:latitude":14.6269,
+    "gn:longitude":-9.3094,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Moustaphabougou Kerliniam\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moustaphabougou",
+        "Moustaphabougou Kerliniam\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453233
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f83ca3f0b944940d8e58de41d76a25b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562857,
+            "locality_id":1276774939,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1276774939,
+    "wof:lastmodified":1537665108,
+    "wof:name":"Moustaphabougou Kerliniame",
+    "wof:parent_id":1108562857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.3094,
+    14.6269,
+    -9.3094,
+    14.6269
+],
+  "geometry": {"coordinates":[-9.3094,14.6269],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309927309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.97873,12.11988,-7.97873,12.11988",
+    "geom:latitude":12.11988,
+    "geom:longitude":-7.97873,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Baga",
+    "gn:country_code":"ML",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460754,
+    "gn:latitude":12.11988,
+    "gn:longitude":-7.97873,
+    "gn:modification_date":"2008-11-06",
+    "gn:name":"Baga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        421177883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460754
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"831acee6c692f21228f00555ccd66d05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177883,
+            "locality_id":1309927309,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1309927309,
+    "wof:lastmodified":1536756069,
+    "wof:name":"Baga",
+    "wof:parent_id":421177883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.97873,
+    12.11988,
+    -7.97873,
+    12.11988
+],
+  "geometry": {"coordinates":[-7.97873,12.11988],"type":"Point"}
+}

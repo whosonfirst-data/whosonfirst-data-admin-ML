@@ -1,0 +1,67 @@
+{
+  "id": 1293511947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.16103,16.17109,-3.16103,16.17109",
+    "geom:latitude":16.17109,
+    "geom:longitude":-3.16103,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kabaika",
+    "gn:country_code":"ML",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456021,
+    "gn:latitude":16.17109,
+    "gn:longitude":-3.16103,
+    "gn:modification_date":"2009-06-26",
+    "gn:name":"Kaba\u00efka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        421172359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456021
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"65401f611286c4e6679bf0b65bf5c261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421172359,
+            "locality_id":1293511947,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1293511947,
+    "wof:lastmodified":1536751770,
+    "wof:name":"Kabaika",
+    "wof:parent_id":421172359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.16103,
+    16.17109,
+    -3.16103,
+    16.17109
+],
+  "geometry": {"coordinates":[-3.16103,16.17109],"type":"Point"}
+}

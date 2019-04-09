@@ -1,0 +1,67 @@
+{
+  "id": 1293099285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.9172,13.4245,-3.9172,13.4245",
+    "geom:latitude":13.4245,
+    "geom:longitude":-3.9172,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Saran",
+    "gn:country_code":"ML",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451592,
+    "gn:latitude":13.4245,
+    "gn:longitude":-3.9172,
+    "gn:modification_date":"2008-10-31",
+    "gn:name":"Saran",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451592
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"25d965eb8d4cc724ad3a8304baf3f07e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1293099285,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1293099285,
+    "wof:lastmodified":1536848628,
+    "wof:name":"Saran",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.9172,
+    13.4245,
+    -3.9172,
+    13.4245
+],
+  "geometry": {"coordinates":[-3.9172,13.4245],"type":"Point"}
+}

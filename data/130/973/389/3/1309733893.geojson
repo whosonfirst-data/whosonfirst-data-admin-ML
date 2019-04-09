@@ -1,0 +1,67 @@
+{
+  "id": 1309733893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.93153,11.85337,-6.93153,11.85337",
+    "geom:latitude":11.85337,
+    "geom:longitude":-6.93153,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ble",
+    "gn:country_code":"ML",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910131,
+    "gn:latitude":11.85337,
+    "gn:longitude":-6.93153,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Bl\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910131
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"077c08bd2db4b1d4916871a60e0da05a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1309733893,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1309733893,
+    "wof:lastmodified":1537033353,
+    "wof:name":"Ble",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.93153,
+    11.85337,
+    -6.93153,
+    11.85337
+],
+  "geometry": {"coordinates":[-6.93153,11.85337],"type":"Point"}
+}

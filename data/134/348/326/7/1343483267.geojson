@@ -1,0 +1,67 @@
+{
+  "id": 1343483267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.3604,11.42863,-7.3604,11.42863",
+    "geom:latitude":11.42863,
+    "geom:longitude":-7.3604,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kassela",
+    "gn:country_code":"ML",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6798700,
+    "gn:latitude":11.42863,
+    "gn:longitude":-7.3604,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Kass\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6798700
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9e939873bc23798ee400c77edf504fae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1343483267,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1343483267,
+    "wof:lastmodified":1536713570,
+    "wof:name":"Kassela",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.3604,
+    11.42863,
+    -7.3604,
+    11.42863
+],
+  "geometry": {"coordinates":[-7.3604,11.42863],"type":"Point"}
+}

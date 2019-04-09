@@ -1,0 +1,67 @@
+{
+  "id": 1293302867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.03333,10.88333,-6.03333,10.88333",
+    "geom:latitude":10.88333,
+    "geom:longitude":-6.03333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bananso",
+    "gn:country_code":"ML",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460519,
+    "gn:latitude":10.88333,
+    "gn:longitude":-6.03333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Bananso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460519
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"376bcd03d8d4ee9458b3745bc2dad7d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562817,
+            "locality_id":1293302867,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1293302867,
+    "wof:lastmodified":1537050926,
+    "wof:name":"Bananso",
+    "wof:parent_id":1108562817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.03333,
+    10.88333,
+    -6.03333,
+    10.88333
+],
+  "geometry": {"coordinates":[-6.03333,10.88333],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209509463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.0832,13.2879,-8.0832,13.2879",
+    "geom:latitude":13.2879,
+    "geom:longitude":-8.0832,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Nzirakoro",
+    "gn:country_code":"ML",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452435,
+    "gn:latitude":13.2879,
+    "gn:longitude":-8.0832,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nzirakoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nzirakoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452435
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ba5494f4c345cc2a635b08cc2fc46c1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209509463
+        }
+    ],
+    "wof:id":1209509463,
+    "wof:lastmodified":1537665084,
+    "wof:name":"Nzirakoro",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.0832,
+    13.2879,
+    -8.0832,
+    13.2879
+],
+  "geometry": {"coordinates":[-8.0832,13.2879],"type":"Point"}
+}

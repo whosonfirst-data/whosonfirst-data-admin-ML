@@ -1,0 +1,67 @@
+{
+  "id": 1277081683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.5923,13.123,-9.5923,13.123",
+    "geom:latitude":13.123,
+    "geom:longitude":-9.5923,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kodiarana",
+    "gn:country_code":"ML",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6912225,
+    "gn:latitude":13.123,
+    "gn:longitude":-9.5923,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Kodiarana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6912225
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"898ad9081d0799fe0fb83ab7699c5c52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1277081683,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1277081683,
+    "wof:lastmodified":1536769576,
+    "wof:name":"Kodiarana",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.5923,
+    13.123,
+    -9.5923,
+    13.123
+],
+  "geometry": {"coordinates":[-9.5923,13.123],"type":"Point"}
+}

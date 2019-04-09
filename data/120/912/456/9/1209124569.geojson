@@ -1,0 +1,66 @@
+{
+  "id": 1209124569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.85,12.23333,-7.85,12.23333",
+    "geom:latitude":12.23333,
+    "geom:longitude":-7.85,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mbassa",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453575,
+    "gn:latitude":12.23333,
+    "gn:longitude":-7.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mbassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbasa",
+        "Mbassa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453575
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a3ed5291b85f2478a2fdf06c6bb7587a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209124569
+        }
+    ],
+    "wof:id":1209124569,
+    "wof:lastmodified":1537665117,
+    "wof:name":"Mbassa",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.85,
+    12.23333,
+    -7.85,
+    12.23333
+],
+  "geometry": {"coordinates":[-7.85,12.23333],"type":"Point"}
+}

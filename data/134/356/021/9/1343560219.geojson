@@ -1,0 +1,71 @@
+{
+  "id": 1343560219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.95662,13.45654,-5.95662,13.45654",
+    "geom:latitude":13.45654,
+    "geom:longitude":-5.95662,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Beretela",
+    "gn:country_code":"ML",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460108,
+    "gn:latitude":13.45654,
+    "gn:longitude":-5.95662,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"B\u00e9r\u00e9t\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bertela",
+        "B\u00e9r\u00e9t\u00e9la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460108
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"53c4fccfcb048b6c0720da17273a5e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1343560219,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1343560219,
+    "wof:lastmodified":1537665261,
+    "wof:name":"Beretela",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.95662,
+    13.45654,
+    -5.95662,
+    13.45654
+],
+  "geometry": {"coordinates":[-5.95662,13.45654],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343684629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.9647,13.8515,-4.9647,13.8515",
+    "geom:latitude":13.8515,
+    "geom:longitude":-4.9647,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Matomou",
+    "gn:country_code":"ML",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453599,
+    "gn:latitude":13.8515,
+    "gn:longitude":-4.9647,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Matomou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matom",
+        "Matoma",
+        "Matomo",
+        "Matomou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453599,
+        "wk:page":"Matomo"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"84bfe6c7a2cc43022091ab899a85a07f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":1343684629,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1343684629,
+    "wof:lastmodified":1537665118,
+    "wof:name":"Matomou",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.9647,
+    13.8515,
+    -4.9647,
+    13.8515
+],
+  "geometry": {"coordinates":[-4.9647,13.8515],"type":"Point"}
+}

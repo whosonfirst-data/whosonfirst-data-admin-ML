@@ -1,0 +1,61 @@
+{
+  "id": 1209337427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.62202,13.16623,-6.62202,13.16623",
+    "geom:latitude":13.16623,
+    "geom:longitude":-6.62202,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Soldassi Ouere",
+    "gn:country_code":"ML",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910734,
+    "gn:latitude":13.16623,
+    "gn:longitude":-6.62202,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Soldassi Ou\u00e8r\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910734
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c89a0ede8f8837dcbbf5d9f2e453ddf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209337427
+        }
+    ],
+    "wof:id":1209337427,
+    "wof:lastmodified":1536290173,
+    "wof:name":"Soldassi Ouere",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.62202,
+    13.16623,
+    -6.62202,
+    13.16623
+],
+  "geometry": {"coordinates":[-6.62202,13.16623],"type":"Point"}
+}

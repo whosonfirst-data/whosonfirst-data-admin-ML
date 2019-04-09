@@ -1,0 +1,71 @@
+{
+  "id": 1193142043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.50596,12.85869,-5.50596,12.85869",
+    "geom:latitude":12.85869,
+    "geom:longitude":-5.50596,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Samabouro",
+    "gn:country_code":"ML",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451862,
+    "gn:latitude":12.85869,
+    "gn:longitude":-5.50596,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Samabouro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samabogo",
+        "Samabouro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451862
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"03da925a39c8efc66b41a29b85660db7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562835,
+            "locality_id":1193142043,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1193142043,
+    "wof:lastmodified":1537665072,
+    "wof:name":"Samabouro",
+    "wof:parent_id":1108562835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.50596,
+    12.85869,
+    -5.50596,
+    12.85869
+],
+  "geometry": {"coordinates":[-5.50596,12.85869],"type":"Point"}
+}

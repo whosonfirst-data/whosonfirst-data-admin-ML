@@ -1,0 +1,66 @@
+{
+  "id": 1209520505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.36477,13.59702,-6.36477,13.59702",
+    "geom:latitude":13.59702,
+    "geom:longitude":-6.36477,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mania",
+    "gn:country_code":"ML",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453782,
+    "gn:latitude":13.59702,
+    "gn:longitude":-6.36477,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mania",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Magnan",
+        "Manian",
+        "Mania"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453782
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e4ad6525b320ae69218e442144164847",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209520505
+        }
+    ],
+    "wof:id":1209520505,
+    "wof:lastmodified":1537665123,
+    "wof:name":"Mania",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.36477,
+    13.59702,
+    -6.36477,
+    13.59702
+],
+  "geometry": {"coordinates":[-6.36477,13.59702],"type":"Point"}
+}

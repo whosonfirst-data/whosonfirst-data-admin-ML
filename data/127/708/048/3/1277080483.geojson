@@ -1,0 +1,71 @@
+{
+  "id": 1277080483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.9227,14.51626,-2.9227,14.51626",
+    "geom:latitude":14.51626,
+    "geom:longitude":-2.9227,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kobadie",
+    "gn:country_code":"ML",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455194,
+    "gn:latitude":14.51626,
+    "gn:longitude":-2.9227,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Kobadi\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kouadi\u00e9",
+        "Kobadi\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455194
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"56c532241819bf56c725e301ae36bb67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1277080483,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1277080483,
+    "wof:lastmodified":1537665154,
+    "wof:name":"Kobadie",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9227,
+    14.51626,
+    -2.9227,
+    14.51626
+],
+  "geometry": {"coordinates":[-2.9227,14.51626],"type":"Point"}
+}

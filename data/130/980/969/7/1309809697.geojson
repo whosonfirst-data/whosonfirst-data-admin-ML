@@ -1,0 +1,67 @@
+{
+  "id": 1309809697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.4592,13.9193,-3.4592,13.9193",
+    "geom:latitude":13.9193,
+    "geom:longitude":-3.4592,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Soguena",
+    "gn:country_code":"ML",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450867,
+    "gn:latitude":13.9193,
+    "gn:longitude":-3.4592,
+    "gn:modification_date":"2008-10-31",
+    "gn:name":"Sogu\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450867
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6d0019b87987521eb9cd2b1be58de412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1309809697,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1309809697,
+    "wof:lastmodified":1536926082,
+    "wof:name":"Soguena",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.4592,
+    13.9193,
+    -3.4592,
+    13.9193
+],
+  "geometry": {"coordinates":[-3.4592,13.9193],"type":"Point"}
+}

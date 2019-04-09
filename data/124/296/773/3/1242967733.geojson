@@ -1,0 +1,67 @@
+{
+  "id": 1242967733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.69822,12.33669,-7.69822,12.33669",
+    "geom:latitude":12.33669,
+    "geom:longitude":-7.69822,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sentine",
+    "gn:country_code":"ML",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593990,
+    "gn:latitude":12.33669,
+    "gn:longitude":-7.69822,
+    "gn:modification_date":"2008-11-07",
+    "gn:name":"S\u00e8ntin\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        421177883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593990
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5a86ab64fadad8577ae056f166f3917b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177883,
+            "locality_id":1242967733,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1242967733,
+    "wof:lastmodified":1536998020,
+    "wof:name":"Sentine",
+    "wof:parent_id":421177883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.69822,
+    12.33669,
+    -7.69822,
+    12.33669
+],
+  "geometry": {"coordinates":[-7.69822,12.33669],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360007867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.96153,12.4928,-5.96153,12.4928",
+    "geom:latitude":12.4928,
+    "geom:longitude":-5.96153,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kiana",
+    "gn:country_code":"ML",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455294,
+    "gn:latitude":12.4928,
+    "gn:longitude":-5.96153,
+    "gn:modification_date":"2008-10-24",
+    "gn:name":"Kiana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455294
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2d59b1888e7d914761ef2144e3acc6ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1360007867,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1360007867,
+    "wof:lastmodified":1537054703,
+    "wof:name":"Kiana",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.96153,
+    12.4928,
+    -5.96153,
+    12.4928
+],
+  "geometry": {"coordinates":[-5.96153,12.4928],"type":"Point"}
+}

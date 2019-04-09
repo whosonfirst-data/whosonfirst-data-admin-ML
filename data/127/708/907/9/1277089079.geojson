@@ -1,0 +1,67 @@
+{
+  "id": 1277089079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.63333,12.1,-10.63333,12.1",
+    "geom:latitude":12.1,
+    "geom:longitude":-10.63333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Boubere",
+    "gn:country_code":"ML",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459843,
+    "gn:latitude":12.1,
+    "gn:longitude":-10.63333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Boub\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459843
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"cdf686d3d1af0a3a1b0fa10d0a244028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171903,
+            "locality_id":1277089079,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1277089079,
+    "wof:lastmodified":1536758550,
+    "wof:name":"Boubere",
+    "wof:parent_id":421171903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.63333,
+    12.1,
+    -10.63333,
+    12.1
+],
+  "geometry": {"coordinates":[-10.63333,12.1],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360282027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.04389,16.37972,-0.04389,16.37972",
+    "geom:latitude":16.37972,
+    "geom:longitude":-0.04389,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Batal",
+    "gn:country_code":"ML",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460248,
+    "gn:latitude":16.37972,
+    "gn:longitude":-0.04389,
+    "gn:modification_date":"2006-05-24",
+    "gn:name":"Batal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        890418899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460248
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ade1f038b79bbb3762a6c57b03e72000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":890418899,
+            "locality_id":1360282027,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1360282027,
+    "wof:lastmodified":1536661575,
+    "wof:name":"Batal",
+    "wof:parent_id":890418899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.04389,
+    16.37972,
+    -0.04389,
+    16.37972
+],
+  "geometry": {"coordinates":[-0.04389,16.37972],"type":"Point"}
+}

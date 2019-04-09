@@ -1,0 +1,72 @@
+{
+  "id": 1293881107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.8196,12.2652,-4.8196,12.2652",
+    "geom:latitude":12.2652,
+    "geom:longitude":-4.8196,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Nanmpena",
+    "gn:country_code":"ML",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453132,
+    "gn:latitude":12.2652,
+    "gn:longitude":-4.8196,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nanmp\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Namp\u00e9la",
+        "Namp\u00e9na",
+        "Nanmp\u00e9na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453132
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8f416f38945d47238770137b828b8416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562831,
+            "locality_id":1293881107,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1293881107,
+    "wof:lastmodified":1537665105,
+    "wof:name":"Nanmpena",
+    "wof:parent_id":1108562831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.8196,
+    12.2652,
+    -4.8196,
+    12.2652
+],
+  "geometry": {"coordinates":[-4.8196,12.2652],"type":"Point"}
+}

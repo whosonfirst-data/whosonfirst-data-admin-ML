@@ -1,0 +1,72 @@
+{
+  "id": 1293012129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.2749,14.4277,-8.2749,14.4277",
+    "geom:latitude":14.4277,
+    "geom:longitude":-8.2749,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Gomintara",
+    "gn:country_code":"ML",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457057,
+    "gn:latitude":14.4277,
+    "gn:longitude":-8.2749,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gomintara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wataye",
+        "Gonintara",
+        "Gomintara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457057
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c52a0be96333ab63890a646dd8696fe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562857,
+            "locality_id":1293012129,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1293012129,
+    "wof:lastmodified":1537665184,
+    "wof:name":"Gomintara",
+    "wof:parent_id":1108562857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.2749,
+    14.4277,
+    -8.2749,
+    14.4277
+],
+  "geometry": {"coordinates":[-8.2749,14.4277],"type":"Point"}
+}

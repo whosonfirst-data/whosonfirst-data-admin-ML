@@ -1,0 +1,67 @@
+{
+  "id": 1292905139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.4379,14.5144,-10.4379,14.5144",
+    "geom:latitude":14.5144,
+    "geom:longitude":-10.4379,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ore",
+    "gn:country_code":"ML",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6911964,
+    "gn:latitude":14.5144,
+    "gn:longitude":-10.4379,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Or\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6911964
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b3999a65ed5a6573a9aafa9b94d90088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562855,
+            "locality_id":1292905139,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1292905139,
+    "wof:lastmodified":1536630913,
+    "wof:name":"Ore",
+    "wof:parent_id":1108562855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.4379,
+    14.5144,
+    -10.4379,
+    14.5144
+],
+  "geometry": {"coordinates":[-10.4379,14.5144],"type":"Point"}
+}

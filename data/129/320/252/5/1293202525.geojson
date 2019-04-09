@@ -1,0 +1,67 @@
+{
+  "id": 1293202525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.54472,15.28144,-9.54472,15.28144",
+    "geom:latitude":15.28144,
+    "geom:longitude":-9.54472,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Batakaredji",
+    "gn:country_code":"ML",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460250,
+    "gn:latitude":15.28144,
+    "gn:longitude":-9.54472,
+    "gn:modification_date":"2008-05-07",
+    "gn:name":"Batakar\u00e9dji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460250
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"43a76667d58b29e46c92f30bf131d278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562869,
+            "locality_id":1293202525,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1293202525,
+    "wof:lastmodified":1536701157,
+    "wof:name":"Batakaredji",
+    "wof:parent_id":1108562869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.54472,
+    15.28144,
+    -9.54472,
+    15.28144
+],
+  "geometry": {"coordinates":[-9.54472,15.28144],"type":"Point"}
+}

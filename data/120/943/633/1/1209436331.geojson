@@ -1,0 +1,61 @@
+{
+  "id": 1209436331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.7279,14.3259,-7.7279,14.3259",
+    "geom:latitude":14.3259,
+    "geom:longitude":-7.7279,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Nantyala",
+    "gn:country_code":"ML",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453087,
+    "gn:latitude":14.3259,
+    "gn:longitude":-7.7279,
+    "gn:modification_date":"2008-11-07",
+    "gn:name":"Nantyala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453087
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"aa552dfc037aa1c7ed131df93eb8f164",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209436331
+        }
+    ],
+    "wof:id":1209436331,
+    "wof:lastmodified":1536287093,
+    "wof:name":"Nantyala",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.7279,
+    14.3259,
+    -7.7279,
+    14.3259
+],
+  "geometry": {"coordinates":[-7.7279,14.3259],"type":"Point"}
+}

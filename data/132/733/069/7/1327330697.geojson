@@ -1,0 +1,67 @@
+{
+  "id": 1327330697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.3248,14.704,-8.3248,14.704",
+    "geom:latitude":14.704,
+    "geom:longitude":-8.3248,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Moudou",
+    "gn:country_code":"ML",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453299,
+    "gn:latitude":14.704,
+    "gn:longitude":-8.3248,
+    "gn:modification_date":"2008-11-18",
+    "gn:name":"Moudou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453299
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3f55ce471001c7a837a654addc79de0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562865,
+            "locality_id":1327330697,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1327330697,
+    "wof:lastmodified":1536826772,
+    "wof:name":"Moudou",
+    "wof:parent_id":1108562865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.3248,
+    14.704,
+    -8.3248,
+    14.704
+],
+  "geometry": {"coordinates":[-8.3248,14.704],"type":"Point"}
+}

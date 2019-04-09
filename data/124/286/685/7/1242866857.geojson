@@ -1,0 +1,71 @@
+{
+  "id": 1242866857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.30323,11.36221,-7.30323,11.36221",
+    "geom:latitude":11.36221,
+    "geom:longitude":-7.30323,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Faradie",
+    "gn:country_code":"ML",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457659,
+    "gn:latitude":11.36221,
+    "gn:longitude":-7.30323,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Faradi\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fenadie",
+        "Faradi\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457659
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c85d40616b270a28ff54f80186f7dbe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1242866857,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1242866857,
+    "wof:lastmodified":1537665198,
+    "wof:name":"Faradie",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.30323,
+    11.36221,
+    -7.30323,
+    11.36221
+],
+  "geometry": {"coordinates":[-7.30323,11.36221],"type":"Point"}
+}

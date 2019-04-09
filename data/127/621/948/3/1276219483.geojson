@@ -1,0 +1,73 @@
+{
+  "id": 1276219483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.09688,11.9307,-6.09688,11.9307",
+    "geom:latitude":11.9307,
+    "geom:longitude":-6.09688,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mima",
+    "gn:country_code":"ML",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453469,
+    "gn:latitude":11.9307,
+    "gn:longitude":-6.09688,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Mima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mina"
+    ],
+    "name:und_x_variant":[
+        "Mina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453469
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f8fa6d15830fc313d9402046c2dfa395",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1276219483,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1276219483,
+    "wof:lastmodified":1537665115,
+    "wof:name":"Mima",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.09688,
+    11.9307,
+    -6.09688,
+    11.9307
+],
+  "geometry": {"coordinates":[-6.09688,11.9307],"type":"Point"}
+}

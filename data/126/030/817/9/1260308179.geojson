@@ -1,0 +1,67 @@
+{
+  "id": 1260308179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.325,12.6035,-5.325,12.6035",
+    "geom:latitude":12.6035,
+    "geom:longitude":-5.325,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zeguere",
+    "gn:country_code":"ML",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6861866,
+    "gn:latitude":12.6035,
+    "gn:longitude":-5.325,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Z\u00e9gu\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6861866
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"daf2b87b407191205e9ac18679ba42f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1260308179,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1260308179,
+    "wof:lastmodified":1536678864,
+    "wof:name":"Zeguere",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.325,
+    12.6035,
+    -5.325,
+    12.6035
+],
+  "geometry": {"coordinates":[-5.325,12.6035],"type":"Point"}
+}

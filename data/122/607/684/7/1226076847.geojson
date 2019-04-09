@@ -1,0 +1,74 @@
+{
+  "id": 1226076847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0044,13.293,-6.0044,13.293",
+    "geom:latitude":13.293,
+    "geom:longitude":-6.0044,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ouendia",
+    "gn:country_code":"ML",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448598,
+    "gn:latitude":13.293,
+    "gn:longitude":-6.0044,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ouendia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouindia",
+        "Ouinndia",
+        "Ou\u00efana\u00efa",
+        "Windia",
+        "Ouendia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448598
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ae74f5f4cc1c30836fed701654252b42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1226076847,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1226076847,
+    "wof:lastmodified":1537665006,
+    "wof:name":"Ouendia",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0044,
+    13.293,
+    -6.0044,
+    13.293
+],
+  "geometry": {"coordinates":[-6.0044,13.293],"type":"Point"}
+}

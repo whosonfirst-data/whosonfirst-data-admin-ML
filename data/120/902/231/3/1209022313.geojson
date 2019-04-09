@@ -1,0 +1,66 @@
+{
+  "id": 1209022313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.68333,12.15,-10.68333,12.15",
+    "geom:latitude":12.15,
+    "geom:longitude":-10.68333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Atamakolo",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460860,
+    "gn:latitude":12.15,
+    "gn:longitude":-10.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Atamakolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alamakolo",
+        "Atamakolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460860
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4f20f2df42daccdc6812777d5e94b392",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209022313
+        }
+    ],
+    "wof:id":1209022313,
+    "wof:lastmodified":1537665277,
+    "wof:name":"Atamakolo",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.68333,
+    12.15,
+    -10.68333,
+    12.15
+],
+  "geometry": {"coordinates":[-10.68333,12.15],"type":"Point"}
+}

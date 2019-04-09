@@ -1,0 +1,67 @@
+{
+  "id": 1309928079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.9949,12.4693,-4.9949,12.4693",
+    "geom:latitude":12.4693,
+    "geom:longitude":-4.9949,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Boumala",
+    "gn:country_code":"ML",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459711,
+    "gn:latitude":12.4693,
+    "gn:longitude":-4.9949,
+    "gn:modification_date":"2008-11-06",
+    "gn:name":"Boumala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459711
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"69a5f2712d2e5351393fd49b99443276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1309928079,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1309928079,
+    "wof:lastmodified":1536754940,
+    "wof:name":"Boumala",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.9949,
+    12.4693,
+    -4.9949,
+    12.4693
+],
+  "geometry": {"coordinates":[-4.9949,12.4693],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209211765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.96064,13.51986,-7.96064,13.51986",
+    "geom:latitude":13.51986,
+    "geom:longitude":-7.96064,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Koumi",
+    "gn:country_code":"ML",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454458,
+    "gn:latitude":13.51986,
+    "gn:longitude":-7.96064,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Koumi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kounu",
+        "Koumi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454458
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"787bf9b8014ec16db50d04f4ab1cf748",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209211765
+        }
+    ],
+    "wof:id":1209211765,
+    "wof:lastmodified":1537665136,
+    "wof:name":"Koumi",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.96064,
+    13.51986,
+    -7.96064,
+    13.51986
+],
+  "geometry": {"coordinates":[-7.96064,13.51986],"type":"Point"}
+}

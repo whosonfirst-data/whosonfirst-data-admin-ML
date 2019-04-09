@@ -1,0 +1,73 @@
+{
+  "id": 1242965095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.59879,11.99216,-6.59879,11.99216",
+    "geom:latitude":11.99216,
+    "geom:longitude":-6.59879,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sanandio",
+    "gn:country_code":"ML",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451761,
+    "gn:latitude":11.99216,
+    "gn:longitude":-6.59879,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Sanandio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sanando"
+    ],
+    "name:und_x_variant":[
+        "Sanando"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451761
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"53624ac4f4dfac6ce0c58d7ce4d6db19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1242965095,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1242965095,
+    "wof:lastmodified":1537665069,
+    "wof:name":"Sanandio",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.59879,
+    11.99216,
+    -6.59879,
+    11.99216
+],
+  "geometry": {"coordinates":[-6.59879,11.99216],"type":"Point"}
+}

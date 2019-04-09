@@ -1,0 +1,74 @@
+{
+  "id": 1310326431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.5882,12.439,-6.5882,12.439",
+    "geom:latitude":12.439,
+    "geom:longitude":-6.5882,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tonegue",
+    "gn:country_code":"ML",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449031,
+    "gn:latitude":12.439,
+    "gn:longitude":-6.5882,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ton\u00e9gu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ton\u00e9g\u00e9"
+    ],
+    "name:und_x_variant":[
+        "Ton\u00e9g\u00e9",
+        "Ton\u00e9gu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449031
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b6f413fd46cc4738344ac8f3f372f20a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1310326431,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1310326431,
+    "wof:lastmodified":1537665019,
+    "wof:name":"Tonegue",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.5882,
+    12.439,
+    -6.5882,
+    12.439
+],
+  "geometry": {"coordinates":[-6.5882,12.439],"type":"Point"}
+}

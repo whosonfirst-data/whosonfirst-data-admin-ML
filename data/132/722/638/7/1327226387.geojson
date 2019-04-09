@@ -1,0 +1,67 @@
+{
+  "id": 1327226387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.96105,11.89547,-7.96105,11.89547",
+    "geom:latitude":11.89547,
+    "geom:longitude":-7.96105,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tinguele",
+    "gn:country_code":"ML",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449401,
+    "gn:latitude":11.89547,
+    "gn:longitude":-7.96105,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Tingu\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        421177883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449401
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7a2886ba44364f87c1b6d52746be1aa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177883,
+            "locality_id":1327226387,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1327226387,
+    "wof:lastmodified":1536977723,
+    "wof:name":"Tinguele",
+    "wof:parent_id":421177883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.96105,
+    11.89547,
+    -7.96105,
+    11.89547
+],
+  "geometry": {"coordinates":[-7.96105,11.89547],"type":"Point"}
+}

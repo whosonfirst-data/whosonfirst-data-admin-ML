@@ -1,0 +1,71 @@
+{
+  "id": 1293585987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.63143,15.41352,-8.63143,15.41352",
+    "geom:latitude":15.41352,
+    "geom:longitude":-8.63143,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Misira",
+    "gn:country_code":"ML",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453427,
+    "gn:latitude":15.41352,
+    "gn:longitude":-8.63143,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Misira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Missira",
+        "Misira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453427
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1197e7ee93a94d7f2d6395fd52a7b882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562865,
+            "locality_id":1293585987,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1293585987,
+    "wof:lastmodified":1537665113,
+    "wof:name":"Misira",
+    "wof:parent_id":1108562865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.63143,
+    15.41352,
+    -8.63143,
+    15.41352
+],
+  "geometry": {"coordinates":[-8.63143,15.41352],"type":"Point"}
+}

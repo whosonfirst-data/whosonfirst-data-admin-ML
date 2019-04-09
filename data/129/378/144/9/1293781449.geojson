@@ -1,0 +1,67 @@
+{
+  "id": 1293781449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.58426,11.36442,-7.58426,11.36442",
+    "geom:latitude":11.36442,
+    "geom:longitude":-7.58426,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sogola",
+    "gn:country_code":"ML",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450881,
+    "gn:latitude":11.36442,
+    "gn:longitude":-7.58426,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Sogola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450881
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"771816b3bc7af2cdb6da4ccb3caac9bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1293781449,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1293781449,
+    "wof:lastmodified":1536859057,
+    "wof:name":"Sogola",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.58426,
+    11.36442,
+    -7.58426,
+    11.36442
+],
+  "geometry": {"coordinates":[-7.58426,11.36442],"type":"Point"}
+}

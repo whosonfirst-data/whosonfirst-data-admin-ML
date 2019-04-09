@@ -1,0 +1,67 @@
+{
+  "id": 1276547457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.93061,14.38865,-4.93061,14.38865",
+    "geom:latitude":14.38865,
+    "geom:longitude":-4.93061,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Toguel-Amirou",
+    "gn:country_code":"ML",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6763823,
+    "gn:latitude":14.38865,
+    "gn:longitude":-4.93061,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Toguel-Amirou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6763823
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"cdd7327973d1a8e4525c0caf8daed24e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562861,
+            "locality_id":1276547457,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1276547457,
+    "wof:lastmodified":1536988278,
+    "wof:name":"Toguel-Amirou",
+    "wof:parent_id":1108562861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.93061,
+    14.38865,
+    -4.93061,
+    14.38865
+],
+  "geometry": {"coordinates":[-4.93061,14.38865],"type":"Point"}
+}

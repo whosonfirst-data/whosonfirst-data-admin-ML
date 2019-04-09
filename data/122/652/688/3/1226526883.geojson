@@ -1,0 +1,67 @@
+{
+  "id": 1226526883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.01389,16.39194,-0.01389,16.39194",
+    "geom:latitude":16.39194,
+    "geom:longitude":-0.01389,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kamagoundiame",
+    "gn:country_code":"ML",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455847,
+    "gn:latitude":16.39194,
+    "gn:longitude":-0.01389,
+    "gn:modification_date":"2006-05-24",
+    "gn:name":"Kamagoundiam\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        890418899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455847
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"843fb95e5f59cdba6a4a0f408d53e0fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":890418899,
+            "locality_id":1226526883,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1226526883,
+    "wof:lastmodified":1537024186,
+    "wof:name":"Kamagoundiame",
+    "wof:parent_id":890418899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.01389,
+    16.39194,
+    -0.01389,
+    16.39194
+],
+  "geometry": {"coordinates":[-0.01389,16.39194],"type":"Point"}
+}

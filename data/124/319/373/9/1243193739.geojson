@@ -1,0 +1,70 @@
+{
+  "id": 1243193739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.4741,12.59,-6.4741,12.59",
+    "geom:latitude":12.59,
+    "geom:longitude":-6.4741,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Nyontona",
+    "gn:country_code":"ML",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452448,
+    "gn:latitude":12.59,
+    "gn:longitude":-6.4741,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nyontona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nyontona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452448
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2f5b1b41cbab64cd01594b4f5273012b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1243193739,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1243193739,
+    "wof:lastmodified":1537665084,
+    "wof:name":"Nyontona",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.4741,
+    12.59,
+    -6.4741,
+    12.59
+],
+  "geometry": {"coordinates":[-6.4741,12.59],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259894605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.7,13.01667,-9.7,13.01667",
+    "geom:latitude":13.01667,
+    "geom:longitude":-9.7,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Touboundi",
+    "gn:country_code":"ML",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448948,
+    "gn:latitude":13.01667,
+    "gn:longitude":-9.7,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Touboundi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448948
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f514690511e29b88afee05861ceec4d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1259894605,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1259894605,
+    "wof:lastmodified":1536763346,
+    "wof:name":"Touboundi",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.7,
+    13.01667,
+    -9.7,
+    13.01667
+],
+  "geometry": {"coordinates":[-9.7,13.01667],"type":"Point"}
+}

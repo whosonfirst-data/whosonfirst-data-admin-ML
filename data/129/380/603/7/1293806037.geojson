@@ -1,0 +1,72 @@
+{
+  "id": 1293806037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.33425,11.48123,-5.33425,11.48123",
+    "geom:latitude":11.48123,
+    "geom:longitude":-5.33425,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Banbougou",
+    "gn:country_code":"ML",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460568,
+    "gn:latitude":11.48123,
+    "gn:longitude":-5.33425,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Banbougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bamougou",
+        "Bambougou",
+        "Banbougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460568
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"78a4d8cad5b69ec355e77dbd7b58449e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1293806037,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1293806037,
+    "wof:lastmodified":1537665271,
+    "wof:name":"Banbougou",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.33425,
+    11.48123,
+    -5.33425,
+    11.48123
+],
+  "geometry": {"coordinates":[-5.33425,11.48123],"type":"Point"}
+}

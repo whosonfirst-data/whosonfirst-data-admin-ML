@@ -1,0 +1,67 @@
+{
+  "id": 1242674367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.30327,12.15259,-8.30327,12.15259",
+    "geom:latitude":12.15259,
+    "geom:longitude":-8.30327,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Nianganabougou",
+    "gn:country_code":"ML",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452496,
+    "gn:latitude":12.15259,
+    "gn:longitude":-8.30327,
+    "gn:modification_date":"2008-11-13",
+    "gn:name":"Nianganabougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        421177883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452496
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d0b1fc2bb69624a0420aeefb3e5f8991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177883,
+            "locality_id":1242674367,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1242674367,
+    "wof:lastmodified":1536925149,
+    "wof:name":"Nianganabougou",
+    "wof:parent_id":421177883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.30327,
+    12.15259,
+    -8.30327,
+    12.15259
+],
+  "geometry": {"coordinates":[-8.30327,12.15259],"type":"Point"}
+}

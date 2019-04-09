@@ -1,0 +1,70 @@
+{
+  "id": 1292997513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.2335,13.5307,-8.2335,13.5307",
+    "geom:latitude":13.5307,
+    "geom:longitude":-8.2335,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dagadou",
+    "gn:country_code":"ML",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459484,
+    "gn:latitude":13.5307,
+    "gn:longitude":-8.2335,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dagadou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dagadou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459484
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"06062a2cc612eca6625c0bfaf8819026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":1292997513,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1292997513,
+    "wof:lastmodified":1537665247,
+    "wof:name":"Dagadou",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.2335,
+    13.5307,
+    -8.2335,
+    13.5307
+],
+  "geometry": {"coordinates":[-8.2335,13.5307],"type":"Point"}
+}

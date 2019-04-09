@@ -1,0 +1,76 @@
+{
+  "id": 1343553083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.56637,11.94642,-6.56637,11.94642",
+    "geom:latitude":11.94642,
+    "geom:longitude":-6.56637,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Diougouna",
+    "gn:country_code":"ML",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458666,
+    "gn:latitude":11.94642,
+    "gn:longitude":-6.56637,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Diougouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Diougouna"
+    ],
+    "name:fra_x_variant":[
+        "Diougouma"
+    ],
+    "name:und_x_variant":[
+        "Diougouma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458666
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"410ef97c6bf397527c970f0a66b9c338",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1343553083,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1343553083,
+    "wof:lastmodified":1537665226,
+    "wof:name":"Diougouna",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.56637,
+    11.94642,
+    -6.56637,
+    11.94642
+],
+  "geometry": {"coordinates":[-6.56637,11.94642],"type":"Point"}
+}

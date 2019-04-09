@@ -1,0 +1,67 @@
+{
+  "id": 1276672701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.35,12.95,10.35,12.95",
+    "geom:latitude":12.95,
+    "geom:longitude":10.35,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Banbouta",
+    "gn:country_code":"ML",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460494,
+    "gn:latitude":12.95,
+    "gn:longitude":10.35,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Banbouta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108564033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460494
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6d9f1ed0e6c37748eb526072d9ed68be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564033,
+            "locality_id":1276672701,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1276672701,
+    "wof:lastmodified":1536820029,
+    "wof:name":"Banbouta",
+    "wof:parent_id":1108564033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.35,
+    12.95,
+    10.35,
+    12.95
+],
+  "geometry": {"coordinates":[10.35,12.95],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209525353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.51667,11.15,-8.51667,11.15",
+    "geom:latitude":11.15,
+    "geom:longitude":-8.51667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gueleninkoro",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456833,
+    "gn:latitude":11.15,
+    "gn:longitude":-8.51667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gu\u00e9l\u00e9ninkoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bol\u00e9nikoro",
+        "Gou\u00e9l\u00e9ninkoro",
+        "Gu\u00e9l\u00e9ninkoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456833,
+        "wk:page":"Gueleninkoro"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"76f57519f1d49769d4e7f84e7510fdc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209525353
+        }
+    ],
+    "wof:id":1209525353,
+    "wof:lastmodified":1537665179,
+    "wof:name":"Gueleninkoro",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.51667,
+    11.15,
+    -8.51667,
+    11.15
+],
+  "geometry": {"coordinates":[-8.51667,11.15],"type":"Point"}
+}

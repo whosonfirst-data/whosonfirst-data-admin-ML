@@ -1,0 +1,77 @@
+{
+  "id": 1276465047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.8416,12.7427,-6.8416,12.7427",
+    "geom:latitude":12.7427,
+    "geom:longitude":-6.8416,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kerela",
+    "gn:country_code":"ML",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455359,
+    "gn:latitude":12.7427,
+    "gn:longitude":-6.8416,
+    "gn:modification_date":"2018-04-13",
+    "gn:name":"K\u00e9r\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "K\u00e9r\u00e9la"
+    ],
+    "name:fra_x_variant":[
+        "K\u00e9reba"
+    ],
+    "name:und_x_variant":[
+        "K\u00e9reba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455359,
+        "wk:page":"Kerela,_Mali"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"34fddaf557ed5747b5ce7fc1869667df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1276465047,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1276465047,
+    "wof:lastmodified":1537665158,
+    "wof:name":"Kerela",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.8416,
+    12.7427,
+    -6.8416,
+    12.7427
+],
+  "geometry": {"coordinates":[-6.8416,12.7427],"type":"Point"}
+}

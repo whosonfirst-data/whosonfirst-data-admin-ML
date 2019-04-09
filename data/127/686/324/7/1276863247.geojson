@@ -1,0 +1,72 @@
+{
+  "id": 1276863247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.7377,12.2267,-7.7377,12.2267",
+    "geom:latitude":12.2267,
+    "geom:longitude":-7.7377,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Nianzana",
+    "gn:country_code":"ML",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452471,
+    "gn:latitude":12.2267,
+    "gn:longitude":-7.7377,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nianzana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niansana",
+        "Nyanzana",
+        "Nianzana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        421177883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452471
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b3971da591033b42b11c77b761eb77cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177883,
+            "locality_id":1276863247,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1276863247,
+    "wof:lastmodified":1537665086,
+    "wof:name":"Nianzana",
+    "wof:parent_id":421177883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.7377,
+    12.2267,
+    -7.7377,
+    12.2267
+],
+  "geometry": {"coordinates":[-7.7377,12.2267],"type":"Point"}
+}

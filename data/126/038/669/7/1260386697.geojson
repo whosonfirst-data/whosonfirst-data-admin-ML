@@ -1,0 +1,67 @@
+{
+  "id": 1260386697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.23003,12.6585,-5.23003,12.6585",
+    "geom:latitude":12.6585,
+    "geom:longitude":-5.23003,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Wara",
+    "gn:country_code":"ML",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448665,
+    "gn:latitude":12.6585,
+    "gn:longitude":-5.23003,
+    "gn:modification_date":"2008-10-24",
+    "gn:name":"Wara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448665
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c57a1a5b0e90dbc51c0a7533aa1b6154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1260386697,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1260386697,
+    "wof:lastmodified":1537067751,
+    "wof:name":"Wara",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.23003,
+    12.6585,
+    -5.23003,
+    12.6585
+],
+  "geometry": {"coordinates":[-5.23003,12.6585],"type":"Point"}
+}

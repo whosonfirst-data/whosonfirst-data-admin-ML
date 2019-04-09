@@ -1,0 +1,71 @@
+{
+  "id": 1276368865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.5834,13.4073,-4.5834,13.4073",
+    "geom:latitude":13.4073,
+    "geom:longitude":-4.5834,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tene",
+    "gn:country_code":"ML",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449950,
+    "gn:latitude":13.4073,
+    "gn:longitude":-4.5834,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"T\u00e9n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00e9n\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421192717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449950,
+        "wk:page":"Tene%2C_Mali"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a364c0291232736ded21e35ae6df124a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421192717,
+            "locality_id":1276368865,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1276368865,
+    "wof:lastmodified":1537665031,
+    "wof:name":"Tene",
+    "wof:parent_id":421192717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.5834,
+    13.4073,
+    -4.5834,
+    13.4073
+],
+  "geometry": {"coordinates":[-4.5834,13.4073],"type":"Point"}
+}

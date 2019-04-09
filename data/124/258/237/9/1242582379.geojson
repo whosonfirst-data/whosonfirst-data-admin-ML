@@ -1,0 +1,67 @@
+{
+  "id": 1242582379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.08177,12.98808,-5.08177,12.98808",
+    "geom:latitude":12.98808,
+    "geom:longitude":-5.08177,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Totobougouro",
+    "gn:country_code":"ML",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6861927,
+    "gn:latitude":12.98808,
+    "gn:longitude":-5.08177,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Totobougouro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421192717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6861927
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"dcb6fd680076702755e8a127dcf238a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421192717,
+            "locality_id":1242582379,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1242582379,
+    "wof:lastmodified":1537054365,
+    "wof:name":"Totobougouro",
+    "wof:parent_id":421192717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.08177,
+    12.98808,
+    -5.08177,
+    12.98808
+],
+  "geometry": {"coordinates":[-5.08177,12.98808],"type":"Point"}
+}

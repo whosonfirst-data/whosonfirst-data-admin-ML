@@ -1,0 +1,71 @@
+{
+  "id": 1327242997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.15463,12.73127,-11.15463,12.73127",
+    "geom:latitude":12.73127,
+    "geom:longitude":-11.15463,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mamba",
+    "gn:country_code":"ML",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453809,
+    "gn:latitude":12.73127,
+    "gn:longitude":-11.15463,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manba",
+        "Mamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453809
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a4758ddbde5abd8ad51ecdd591e86eb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171903,
+            "locality_id":1327242997,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1327242997,
+    "wof:lastmodified":1537665124,
+    "wof:name":"Mamba",
+    "wof:parent_id":421171903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.15463,
+    12.73127,
+    -11.15463,
+    12.73127
+],
+  "geometry": {"coordinates":[-11.15463,12.73127],"type":"Point"}
+}

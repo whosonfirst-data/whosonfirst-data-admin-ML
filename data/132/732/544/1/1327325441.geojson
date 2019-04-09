@@ -1,0 +1,71 @@
+{
+  "id": 1327325441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.25292,13.77529,-7.25292,13.77529",
+    "geom:latitude":13.77529,
+    "geom:longitude":-7.25292,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kouyana",
+    "gn:country_code":"ML",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454253,
+    "gn:latitude":13.77529,
+    "gn:longitude":-7.25292,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Kouyana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koyana",
+        "Kouyana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454253
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5726d8d2f37b9ed88b2c9bcb933798d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562851,
+            "locality_id":1327325441,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1327325441,
+    "wof:lastmodified":1537665132,
+    "wof:name":"Kouyana",
+    "wof:parent_id":1108562851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.25292,
+    13.77529,
+    -7.25292,
+    13.77529
+],
+  "geometry": {"coordinates":[-7.25292,13.77529],"type":"Point"}
+}

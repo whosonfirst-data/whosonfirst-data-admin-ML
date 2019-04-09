@@ -1,0 +1,71 @@
+{
+  "id": 1193039507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.64157,14.42506,-7.64157,14.42506",
+    "geom:latitude":14.42506,
+    "geom:longitude":-7.64157,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Madina-Sylla",
+    "gn:country_code":"ML",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453968,
+    "gn:latitude":14.42506,
+    "gn:longitude":-7.64157,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Madina-Sylla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e9dina Sylla",
+        "Madina-Sylla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453968
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"03fbf720beb31f88ec31c34f8a609dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562865,
+            "locality_id":1193039507,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1193039507,
+    "wof:lastmodified":1537665127,
+    "wof:name":"Madina-Sylla",
+    "wof:parent_id":1108562865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.64157,
+    14.42506,
+    -7.64157,
+    14.42506
+],
+  "geometry": {"coordinates":[-7.64157,14.42506],"type":"Point"}
+}

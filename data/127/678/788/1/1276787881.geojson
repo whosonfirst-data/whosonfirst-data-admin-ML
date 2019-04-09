@@ -1,0 +1,67 @@
+{
+  "id": 1276787881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.12998,13.11529,-7.12998,13.11529",
+    "geom:latitude":13.11529,
+    "geom:longitude":-7.12998,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Famoribougou",
+    "gn:country_code":"ML",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6906871,
+    "gn:latitude":13.11529,
+    "gn:longitude":-7.12998,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Famoribougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6906871
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1b92b938048903f61f2705504a5cd057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562839,
+            "locality_id":1276787881,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1276787881,
+    "wof:lastmodified":1536666985,
+    "wof:name":"Famoribougou",
+    "wof:parent_id":1108562839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.12998,
+    13.11529,
+    -7.12998,
+    13.11529
+],
+  "geometry": {"coordinates":[-7.12998,13.11529],"type":"Point"}
+}

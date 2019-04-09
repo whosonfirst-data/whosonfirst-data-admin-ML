@@ -1,0 +1,67 @@
+{
+  "id": 1276233719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.48784,14.21977,-4.48784,14.21977",
+    "geom:latitude":14.21977,
+    "geom:longitude":-4.48784,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ouro-Ankona",
+    "gn:country_code":"ML",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6764530,
+    "gn:latitude":14.21977,
+    "gn:longitude":-4.48784,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Ouro-Ankona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421187097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6764530
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"054cf30b5c470324d21d171b1deaa52c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421187097,
+            "locality_id":1276233719,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1276233719,
+    "wof:lastmodified":1536912536,
+    "wof:name":"Ouro-Ankona",
+    "wof:parent_id":421187097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.48784,
+    14.21977,
+    -4.48784,
+    14.21977
+],
+  "geometry": {"coordinates":[-4.48784,14.21977],"type":"Point"}
+}

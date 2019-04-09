@@ -1,0 +1,73 @@
+{
+  "id": 1226339951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.82683,12.7495,-5.82683,12.7495",
+    "geom:latitude":12.7495,
+    "geom:longitude":-5.82683,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Konbere",
+    "gn:country_code":"ML",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454883,
+    "gn:latitude":12.7495,
+    "gn:longitude":-5.82683,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Konb\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koumb\u00e9ri",
+        "Koumb\u00e9r\u00e9",
+        "Komb\u00e9r\u00e9",
+        "Konb\u00e9r\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454883
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8ad011bf834c619b1fffbba6aa9960c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562835,
+            "locality_id":1226339951,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1226339951,
+    "wof:lastmodified":1537665147,
+    "wof:name":"Konbere",
+    "wof:parent_id":1108562835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.82683,
+    12.7495,
+    -5.82683,
+    12.7495
+],
+  "geometry": {"coordinates":[-5.82683,12.7495],"type":"Point"}
+}

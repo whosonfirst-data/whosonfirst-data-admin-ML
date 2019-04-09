@@ -1,0 +1,71 @@
+{
+  "id": 1310428291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.9913,13.8276,-4.9913,13.8276",
+    "geom:latitude":13.8276,
+    "geom:longitude":-4.9913,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sai",
+    "gn:country_code":"ML",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451915,
+    "gn:latitude":13.8276,
+    "gn:longitude":-4.9913,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sa\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Say",
+        "Sa\u00ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451915
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d0f8c866a46f1cc8b7fef461c6a1ccb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":1310428291,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1310428291,
+    "wof:lastmodified":1537665073,
+    "wof:name":"Sai",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.9913,
+    13.8276,
+    -4.9913,
+    13.8276
+],
+  "geometry": {"coordinates":[-4.9913,13.8276],"type":"Point"}
+}

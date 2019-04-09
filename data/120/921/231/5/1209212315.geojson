@@ -1,0 +1,66 @@
+{
+  "id": 1209212315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.29031,11.52884,-7.29031,11.52884",
+    "geom:latitude":11.52884,
+    "geom:longitude":-7.29031,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Niagale",
+    "gn:country_code":"ML",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452497,
+    "gn:latitude":11.52884,
+    "gn:longitude":-7.29031,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Niagal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nygale",
+        "Nyagal\u00e9",
+        "Niagal\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452497
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"90002e2c779a7d51036a7480c764ec58",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209212315
+        }
+    ],
+    "wof:id":1209212315,
+    "wof:lastmodified":1537665087,
+    "wof:name":"Niagale",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.29031,
+    11.52884,
+    -7.29031,
+    11.52884
+],
+  "geometry": {"coordinates":[-7.29031,11.52884],"type":"Point"}
+}

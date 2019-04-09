@@ -1,0 +1,67 @@
+{
+  "id": 1276657737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.5254,15.3775,-4.5254,15.3775",
+    "geom:latitude":15.3775,
+    "geom:longitude":-4.5254,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gounboumba",
+    "gn:country_code":"ML",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6687328,
+    "gn:latitude":15.3775,
+    "gn:longitude":-4.5254,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Gounboumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6687328
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7fce4bb8c4340b927506674aafb32d57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562871,
+            "locality_id":1276657737,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1276657737,
+    "wof:lastmodified":1536840007,
+    "wof:name":"Gounboumba",
+    "wof:parent_id":1108562871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.5254,
+    15.3775,
+    -4.5254,
+    15.3775
+],
+  "geometry": {"coordinates":[-4.5254,15.3775],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242965039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.44834,13.1952,-8.44834,13.1952",
+    "geom:latitude":13.1952,
+    "geom:longitude":-8.44834,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Safinebougou",
+    "gn:country_code":"ML",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451951,
+    "gn:latitude":13.1952,
+    "gn:longitude":-8.44834,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Safin\u00e9bougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Safin\u00e9bougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        421177883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451951
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"afd09cabd93540eb00825429dc513b8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177883,
+            "locality_id":1242965039,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1242965039,
+    "wof:lastmodified":1537665073,
+    "wof:name":"Safinebougou",
+    "wof:parent_id":421177883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.44834,
+    13.1952,
+    -8.44834,
+    13.1952
+],
+  "geometry": {"coordinates":[-8.44834,13.1952],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343668175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.10888,14.87387,-4.10888,14.87387",
+    "geom:latitude":14.87387,
+    "geom:longitude":-4.10888,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Nimoye",
+    "gn:country_code":"ML",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6767990,
+    "gn:latitude":14.87387,
+    "gn:longitude":-4.10888,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Nimoye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6767990
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e4b769614a4bddeb0cf4d8ed681d65e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1343668175,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1343668175,
+    "wof:lastmodified":1536944375,
+    "wof:name":"Nimoye",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.10888,
+    14.87387,
+    -4.10888,
+    14.87387
+],
+  "geometry": {"coordinates":[-4.10888,14.87387],"type":"Point"}
+}

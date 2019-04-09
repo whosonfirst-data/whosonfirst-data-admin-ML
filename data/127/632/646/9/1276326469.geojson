@@ -1,0 +1,67 @@
+{
+  "id": 1276326469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.40333,11.36809,-6.40333,11.36809",
+    "geom:latitude":11.36809,
+    "geom:longitude":-6.40333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mpeguelakoro",
+    "gn:country_code":"ML",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910302,
+    "gn:latitude":11.36809,
+    "gn:longitude":-6.40333,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Mp\u00e9gu\u00e9lakoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910302
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4fb0654bb8fe8ab299d861f76ee60219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1276326469,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1276326469,
+    "wof:lastmodified":1536788312,
+    "wof:name":"Mpeguelakoro",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.40333,
+    11.36809,
+    -6.40333,
+    11.36809
+],
+  "geometry": {"coordinates":[-6.40333,11.36809],"type":"Point"}
+}

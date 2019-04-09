@@ -1,0 +1,72 @@
+{
+  "id": 1326740641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.61667,10.73333,-6.61667,10.73333",
+    "geom:latitude":10.73333,
+    "geom:longitude":-6.61667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dienndo",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458860,
+    "gn:latitude":10.73333,
+    "gn:longitude":-6.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dienndo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dienndio",
+        "Dienndo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458860
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"192260356c24e54ef28e7788b1a1f686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562819,
+            "locality_id":1326740641,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1326740641,
+    "wof:lastmodified":1537665231,
+    "wof:name":"Dienndo",
+    "wof:parent_id":1108562819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.61667,
+    10.73333,
+    -6.61667,
+    10.73333
+],
+  "geometry": {"coordinates":[-6.61667,10.73333],"type":"Point"}
+}

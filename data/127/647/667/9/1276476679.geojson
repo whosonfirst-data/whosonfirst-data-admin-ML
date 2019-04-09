@@ -1,0 +1,71 @@
+{
+  "id": 1276476679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.8945,13.153,-4.8945,13.153",
+    "geom:latitude":13.153,
+    "geom:longitude":-4.8945,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tamaro",
+    "gn:country_code":"ML",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450300,
+    "gn:latitude":13.153,
+    "gn:longitude":-4.8945,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tamaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tamara",
+        "Tamaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421192717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450300
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"536b98c84e9efce574fbae1e859188da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421192717,
+            "locality_id":1276476679,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1276476679,
+    "wof:lastmodified":1537665036,
+    "wof:name":"Tamaro",
+    "wof:parent_id":421192717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.8945,
+    13.153,
+    -4.8945,
+    13.153
+],
+  "geometry": {"coordinates":[-4.8945,13.153],"type":"Point"}
+}

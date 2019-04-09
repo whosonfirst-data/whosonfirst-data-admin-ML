@@ -1,0 +1,71 @@
+{
+  "id": 1309989775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.48795,18.45059,2.48795,18.45059",
+    "geom:latitude":18.45059,
+    "geom:longitude":2.48795,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ti-n-Essako",
+    "gn:country_code":"ML",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8631807,
+    "gn:latitude":18.45059,
+    "gn:longitude":2.48795,
+    "gn:modification_date":"2018-04-13",
+    "gn:name":"Ti-n-Essako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tin-Essako"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674515,
+        1108562881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8631807,
+        "wk:page":"Tin-Essako"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ebc10b81e03ede5f165093d6c5f1aba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562881,
+            "locality_id":1309989775,
+            "region_id":85674515
+        }
+    ],
+    "wof:id":1309989775,
+    "wof:lastmodified":1537665290,
+    "wof:name":"Ti-n-Essako",
+    "wof:parent_id":1108562881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.48795,
+    18.45059,
+    2.48795,
+    18.45059
+],
+  "geometry": {"coordinates":[2.48795,18.45059],"type":"Point"}
+}

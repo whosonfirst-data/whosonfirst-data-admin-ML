@@ -1,0 +1,71 @@
+{
+  "id": 1259468651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.825,15.827,-3.825,15.827",
+    "geom:latitude":15.827,
+    "geom:longitude":-3.825,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Moundiadie",
+    "gn:country_code":"ML",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453281,
+    "gn:latitude":15.827,
+    "gn:longitude":-3.825,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Moundiadi\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moundiad\u00e9",
+        "Moundiadi\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453281
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"cd36b13184d9db3d8e44ededbdd47f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562873,
+            "locality_id":1259468651,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1259468651,
+    "wof:lastmodified":1537665109,
+    "wof:name":"Moundiadie",
+    "wof:parent_id":1108562873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.825,
+    15.827,
+    -3.825,
+    15.827
+],
+  "geometry": {"coordinates":[-3.825,15.827],"type":"Point"}
+}

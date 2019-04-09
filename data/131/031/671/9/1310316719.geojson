@@ -1,0 +1,67 @@
+{
+  "id": 1310316719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.8689,13.2295,-9.8689,13.2295",
+    "geom:latitude":13.2295,
+    "geom:longitude":-9.8689,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Madina Foula",
+    "gn:country_code":"ML",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6912207,
+    "gn:latitude":13.2295,
+    "gn:longitude":-9.8689,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Madina Foula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6912207
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"16378c9fd46bbe43eac2d1166ccdf8c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1310316719,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1310316719,
+    "wof:lastmodified":1536691839,
+    "wof:name":"Madina Foula",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.8689,
+    13.2295,
+    -9.8689,
+    13.2295
+],
+  "geometry": {"coordinates":[-9.8689,13.2295],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259392749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.71667,11.68333,-8.71667,11.68333",
+    "geom:latitude":11.68333,
+    "geom:longitude":-8.71667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tombola",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449070,
+    "gn:latitude":11.68333,
+    "gn:longitude":-8.71667,
+    "gn:modification_date":"2016-09-30",
+    "gn:name":"Tombola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tonbola",
+        "Tombola",
+        "Tombolla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449070
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8007347b781fb2aa430ccb29ff13ae6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562827,
+            "locality_id":1259392749,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1259392749,
+    "wof:lastmodified":1537665020,
+    "wof:name":"Tombola",
+    "wof:parent_id":1108562827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.71667,
+    11.68333,
+    -8.71667,
+    11.68333
+],
+  "geometry": {"coordinates":[-8.71667,11.68333],"type":"Point"}
+}

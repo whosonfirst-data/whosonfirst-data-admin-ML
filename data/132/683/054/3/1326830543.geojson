@@ -1,0 +1,67 @@
+{
+  "id": 1326830543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.65409,14.6562,-3.65409,14.6562",
+    "geom:latitude":14.6562,
+    "geom:longitude":-3.65409,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Banguel-Toupe",
+    "gn:country_code":"ML",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460429,
+    "gn:latitude":14.6562,
+    "gn:longitude":-3.65409,
+    "gn:modification_date":"2008-10-24",
+    "gn:name":"Banguel-Toup\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421171975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460429
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0c4a0c1c81a2d511ab7295f00403ed60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171975,
+            "locality_id":1326830543,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1326830543,
+    "wof:lastmodified":1537049134,
+    "wof:name":"Banguel-Toupe",
+    "wof:parent_id":421171975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.65409,
+    14.6562,
+    -3.65409,
+    14.6562
+],
+  "geometry": {"coordinates":[-3.65409,14.6562],"type":"Point"}
+}

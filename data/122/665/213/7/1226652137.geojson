@@ -1,0 +1,71 @@
+{
+  "id": 1226652137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.1428,14.09722,-4.1428,14.09722",
+    "geom:latitude":14.09722,
+    "geom:longitude":-4.1428,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Diengo",
+    "gn:country_code":"ML",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458867,
+    "gn:latitude":14.09722,
+    "gn:longitude":-4.1428,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Diengo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Foulb\u00e9",
+        "Diengo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421187097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458867
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f139a5176ed85cfd37a6c09b5f5fcf7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421187097,
+            "locality_id":1226652137,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1226652137,
+    "wof:lastmodified":1537665231,
+    "wof:name":"Diengo",
+    "wof:parent_id":421187097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.1428,
+    14.09722,
+    -4.1428,
+    14.09722
+],
+  "geometry": {"coordinates":[-4.1428,14.09722],"type":"Point"}
+}

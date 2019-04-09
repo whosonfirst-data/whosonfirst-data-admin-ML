@@ -1,0 +1,67 @@
+{
+  "id": 1292925757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.2378,15.8441,-4.2378,15.8441",
+    "geom:latitude":15.8441,
+    "geom:longitude":-4.2378,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kourouba",
+    "gn:country_code":"ML",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454352,
+    "gn:latitude":15.8441,
+    "gn:longitude":-4.2378,
+    "gn:modification_date":"2008-01-03",
+    "gn:name":"Kourouba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454352
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1b3b5e2c80ed9c08d0332d237a61a001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562873,
+            "locality_id":1292925757,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1292925757,
+    "wof:lastmodified":1537096714,
+    "wof:name":"Kourouba",
+    "wof:parent_id":1108562873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.2378,
+    15.8441,
+    -4.2378,
+    15.8441
+],
+  "geometry": {"coordinates":[-4.2378,15.8441],"type":"Point"}
+}

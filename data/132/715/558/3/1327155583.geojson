@@ -1,0 +1,67 @@
+{
+  "id": 1327155583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.50295,11.68003,-6.50295,11.68003",
+    "geom:latitude":11.68003,
+    "geom:longitude":-6.50295,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kaba",
+    "gn:country_code":"ML",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910258,
+    "gn:latitude":11.68003,
+    "gn:longitude":-6.50295,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Kaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910258
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e488b618401f5336ff80133ed33d3482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1327155583,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1327155583,
+    "wof:lastmodified":1537077433,
+    "wof:name":"Kaba",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.50295,
+    11.68003,
+    -6.50295,
+    11.68003
+],
+  "geometry": {"coordinates":[-6.50295,11.68003],"type":"Point"}
+}

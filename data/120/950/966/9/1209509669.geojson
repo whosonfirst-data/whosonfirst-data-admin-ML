@@ -1,0 +1,61 @@
+{
+  "id": 1209509669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.69647,15.06276,-7.69647,15.06276",
+    "geom:latitude":15.06276,
+    "geom:longitude":-7.69647,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dina",
+    "gn:country_code":"ML",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6642105,
+    "gn:latitude":15.06276,
+    "gn:longitude":-7.69647,
+    "gn:modification_date":"2008-06-16",
+    "gn:name":"Dina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6642105
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"285455ea0612e3162593614126e56a0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209509669
+        }
+    ],
+    "wof:id":1209509669,
+    "wof:lastmodified":1536284922,
+    "wof:name":"Dina",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.69647,
+    15.06276,
+    -7.69647,
+    15.06276
+],
+  "geometry": {"coordinates":[-7.69647,15.06276],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327148977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.88333,10.7,-5.88333,10.7",
+    "geom:latitude":10.7,
+    "geom:longitude":-5.88333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Fima",
+    "gn:country_code":"ML",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457448,
+    "gn:latitude":10.7,
+    "gn:longitude":-5.88333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Fima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457448
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3972af84d0d395c77df525443604841c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562817,
+            "locality_id":1327148977,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1327148977,
+    "wof:lastmodified":1537086774,
+    "wof:name":"Fima",
+    "wof:parent_id":1108562817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.88333,
+    10.7,
+    -5.88333,
+    10.7
+],
+  "geometry": {"coordinates":[-5.88333,10.7],"type":"Point"}
+}

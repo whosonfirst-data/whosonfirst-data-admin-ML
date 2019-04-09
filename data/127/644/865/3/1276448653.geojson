@@ -1,0 +1,71 @@
+{
+  "id": 1276448653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.0793,15.0341,-3.0793,15.0341",
+    "geom:latitude":15.0341,
+    "geom:longitude":-3.0793,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sinnda",
+    "gn:country_code":"ML",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451100,
+    "gn:latitude":15.0341,
+    "gn:longitude":-3.0793,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sinnda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinda",
+        "Sinnda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451100
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2381879ecbb44773d1807736d6c1afa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1276448653,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1276448653,
+    "wof:lastmodified":1537665053,
+    "wof:name":"Sinnda",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.0793,
+    15.0341,
+    -3.0793,
+    15.0341
+],
+  "geometry": {"coordinates":[-3.0793,15.0341],"type":"Point"}
+}

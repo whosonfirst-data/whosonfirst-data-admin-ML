@@ -1,0 +1,67 @@
+{
+  "id": 1259881629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.57659,14.7796,-11.57659,14.7796",
+    "geom:latitude":14.7796,
+    "geom:longitude":-11.57659,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Gueleibe- Aragas",
+    "gn:country_code":"ML",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456834,
+    "gn:latitude":14.7796,
+    "gn:longitude":-11.57659,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Gu\u00e9le\u00efb\u00e9- Aragas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456834
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"fe6b8e67947b4f6e80cb0b8ad105c6e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1259881629,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1259881629,
+    "wof:lastmodified":1536782329,
+    "wof:name":"Gueleibe- Aragas",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.57659,
+    14.7796,
+    -11.57659,
+    14.7796
+],
+  "geometry": {"coordinates":[-11.57659,14.7796],"type":"Point"}
+}

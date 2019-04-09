@@ -1,0 +1,67 @@
+{
+  "id": 1309809785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.08125,14.6812,-4.08125,14.6812",
+    "geom:latitude":14.6812,
+    "geom:longitude":-4.08125,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tiroguel",
+    "gn:country_code":"ML",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6768301,
+    "gn:latitude":14.6812,
+    "gn:longitude":-4.08125,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Tiroguel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6768301
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"57d7ad9a4eb0505d1a506e72f9398759",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1309809785,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1309809785,
+    "wof:lastmodified":1536925953,
+    "wof:name":"Tiroguel",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.08125,
+    14.6812,
+    -4.08125,
+    14.6812
+],
+  "geometry": {"coordinates":[-4.08125,14.6812],"type":"Point"}
+}

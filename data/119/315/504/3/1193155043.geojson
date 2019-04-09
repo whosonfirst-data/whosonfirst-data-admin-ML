@@ -1,0 +1,67 @@
+{
+  "id": 1193155043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.41667,12.28333,-10.41667,12.28333",
+    "geom:latitude":12.28333,
+    "geom:longitude":-10.41667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sebenikele",
+    "gn:country_code":"ML",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451511,
+    "gn:latitude":12.28333,
+    "gn:longitude":-10.41667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"S\u00e9b\u00e9nik\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451511
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"bffbfc74cc4693afe659cc67622d9288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171903,
+            "locality_id":1193155043,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1193155043,
+    "wof:lastmodified":1536374146,
+    "wof:name":"Sebenikele",
+    "wof:parent_id":421171903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.41667,
+    12.28333,
+    -10.41667,
+    12.28333
+],
+  "geometry": {"coordinates":[-10.41667,12.28333],"type":"Point"}
+}

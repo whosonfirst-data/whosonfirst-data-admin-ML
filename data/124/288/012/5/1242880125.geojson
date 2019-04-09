@@ -1,0 +1,67 @@
+{
+  "id": 1242880125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.7273,13.6873,-3.7273,13.6873",
+    "geom:latitude":13.6873,
+    "geom:longitude":-3.7273,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Doukoro",
+    "gn:country_code":"ML",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6874899,
+    "gn:latitude":13.6873,
+    "gn:longitude":-3.7273,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Doukoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6874899
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"fd34ce9526219a34c20db9e9e041325e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1242880125,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1242880125,
+    "wof:lastmodified":1536626026,
+    "wof:name":"Doukoro",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7273,
+    13.6873,
+    -3.7273,
+    13.6873
+],
+  "geometry": {"coordinates":[-3.7273,13.6873],"type":"Point"}
+}

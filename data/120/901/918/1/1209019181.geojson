@@ -1,0 +1,66 @@
+{
+  "id": 1209019181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0,10.81667,-6.0,10.81667",
+    "geom:latitude":10.81667,
+    "geom:longitude":-6.0,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ngolopene",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452861,
+    "gn:latitude":10.81667,
+    "gn:longitude":-6.0,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ngolop\u00e9n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngolop\u00e9na",
+        "Ngolop\u00e9n\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452861
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a1f66cf0e49a7c1538b16abd43ed3b67",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209019181
+        }
+    ],
+    "wof:id":1209019181,
+    "wof:lastmodified":1537665097,
+    "wof:name":"Ngolopene",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0,
+    10.81667,
+    -6.0,
+    10.81667
+],
+  "geometry": {"coordinates":[-6.0,10.81667],"type":"Point"}
+}

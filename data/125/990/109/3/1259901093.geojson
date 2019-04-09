@@ -1,0 +1,71 @@
+{
+  "id": 1259901093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.40601,13.17935,-7.40601,13.17935",
+    "geom:latitude":13.17935,
+    "geom:longitude":-7.40601,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Fougalembougou",
+    "gn:country_code":"ML",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457342,
+    "gn:latitude":13.17935,
+    "gn:longitude":-7.40601,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Fougal\u00e8mbougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fougalemmbougou",
+        "Fougal\u00e8mbougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457342
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ae2330f511b3e15a9c469870fd0ffd49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562839,
+            "locality_id":1259901093,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1259901093,
+    "wof:lastmodified":1537665191,
+    "wof:name":"Fougalembougou",
+    "wof:parent_id":1108562839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.40601,
+    13.17935,
+    -7.40601,
+    13.17935
+],
+  "geometry": {"coordinates":[-7.40601,13.17935],"type":"Point"}
+}

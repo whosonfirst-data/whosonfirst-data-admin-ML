@@ -1,0 +1,67 @@
+{
+  "id": 1310110753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.45667,13.14316,-6.45667,13.14316",
+    "geom:latitude":13.14316,
+    "geom:longitude":-6.45667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Siradiani",
+    "gn:country_code":"ML",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910764,
+    "gn:latitude":13.14316,
+    "gn:longitude":-6.45667,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Siradiani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910764
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a99738b5a31b17356513a75faf1e6a26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1310110753,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1310110753,
+    "wof:lastmodified":1536988043,
+    "wof:name":"Siradiani",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.45667,
+    13.14316,
+    -6.45667,
+    13.14316
+],
+  "geometry": {"coordinates":[-6.45667,13.14316],"type":"Point"}
+}

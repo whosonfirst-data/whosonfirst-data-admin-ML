@@ -1,0 +1,73 @@
+{
+  "id": 1293104949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.6712,15.2037,-3.6712,15.2037",
+    "geom:latitude":15.2037,
+    "geom:longitude":-3.6712,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kerinngo",
+    "gn:country_code":"ML",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455345,
+    "gn:latitude":15.2037,
+    "gn:longitude":-3.6712,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kerinngo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00e9ringo",
+        "K\u00e9ningo",
+        "K\u00e9ringa",
+        "Kerinngo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455345
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"75e9ed5aa652493988f639b4456f204b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1293104949,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1293104949,
+    "wof:lastmodified":1537665157,
+    "wof:name":"Kerinngo",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6712,
+    15.2037,
+    -3.6712,
+    15.2037
+],
+  "geometry": {"coordinates":[-3.6712,15.2037],"type":"Point"}
+}

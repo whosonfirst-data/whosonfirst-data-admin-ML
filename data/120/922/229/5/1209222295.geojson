@@ -1,0 +1,61 @@
+{
+  "id": 1209222295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.8356,14.2863,-10.8356,14.2863",
+    "geom:latitude":14.2863,
+    "geom:longitude":-10.8356,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Baterande",
+    "gn:country_code":"ML",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460241,
+    "gn:latitude":14.2863,
+    "gn:longitude":-10.8356,
+    "gn:modification_date":"2008-11-19",
+    "gn:name":"Bat\u00e9rand\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460241
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"74d0fa63aa9c6d3ae2113e82c557d782",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209222295
+        }
+    ],
+    "wof:id":1209222295,
+    "wof:lastmodified":1536293920,
+    "wof:name":"Baterande",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.8356,
+    14.2863,
+    -10.8356,
+    14.2863
+],
+  "geometry": {"coordinates":[-10.8356,14.2863],"type":"Point"}
+}

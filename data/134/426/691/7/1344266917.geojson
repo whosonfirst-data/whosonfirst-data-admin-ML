@@ -1,0 +1,77 @@
+{
+  "id": 1344266917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.78333,12.01667,-10.78333,12.01667",
+    "geom:latitude":12.01667,
+    "geom:longitude":-10.78333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pabi",
+    "gn:country_code":"ML",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452150,
+    "gn:latitude":12.01667,
+    "gn:longitude":-10.78333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Pabi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171903,
+        85632691,
+        85671393,
+        421198015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452150
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"05cbc939b3d0f71b7d23361fd8d1db3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171903,
+            "locality_id":1344266917,
+            "region_id":85674529
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421198015,
+            "locality_id":1344266917,
+            "region_id":85671393
+        }
+    ],
+    "wof:id":1344266917,
+    "wof:lastmodified":1537071656,
+    "wof:name":"Pabi",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.78333,
+    12.01667,
+    -10.78333,
+    12.01667
+],
+  "geometry": {"coordinates":[-10.78333,12.01667],"type":"Point"}
+}

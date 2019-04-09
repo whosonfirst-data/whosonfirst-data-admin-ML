@@ -1,0 +1,76 @@
+{
+  "id": 1309704793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.77003,12.5304,-5.77003,12.5304",
+    "geom:latitude":12.5304,
+    "geom:longitude":-5.77003,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"7670554.0",
+    "gn:asciiname":"Ntossoni",
+    "gn:country_code":"ML",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452510,
+    "gn:latitude":12.5304,
+    "gn:longitude":-5.77003,
+    "gn:modification_date":"2016-07-03",
+    "gn:name":"Ntossoni",
+    "gn:population":8700,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ntosoni",
+        "Ntossoni"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452510,
+        "wk:page":"N%27Tossoni"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1f9a8b31a9354f1014acf392e1f925b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1309704793,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1309704793,
+    "wof:lastmodified":1537665088,
+    "wof:name":"Ntossoni",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:population":8700,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.77003,
+    12.5304,
+    -5.77003,
+    12.5304
+],
+  "geometry": {"coordinates":[-5.77003,12.5304],"type":"Point"}
+}

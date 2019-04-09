@@ -1,0 +1,70 @@
+{
+  "id": 1277072035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.10628,11.23577,-6.10628,11.23577",
+    "geom:latitude":11.23577,
+    "geom:longitude":-6.10628,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mahadougou",
+    "gn:country_code":"ML",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453934,
+    "gn:latitude":11.23577,
+    "gn:longitude":-6.10628,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Mahadougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mahadougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453934
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"43d2ff23d33cf071bbe418d55c6b8986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1277072035,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1277072035,
+    "wof:lastmodified":1537665126,
+    "wof:name":"Mahadougou",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.10628,
+    11.23577,
+    -6.10628,
+    11.23577
+],
+  "geometry": {"coordinates":[-6.10628,11.23577],"type":"Point"}
+}

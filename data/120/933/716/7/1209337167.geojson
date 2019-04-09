@@ -1,0 +1,61 @@
+{
+  "id": 1209337167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.8759,13.1584,-6.8759,13.1584",
+    "geom:latitude":13.1584,
+    "geom:longitude":-6.8759,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sougouleni",
+    "gn:country_code":"ML",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910647,
+    "gn:latitude":13.1584,
+    "gn:longitude":-6.8759,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Sougoul\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910647
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b4c99d04410a1d486f1e817219da1901",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209337167
+        }
+    ],
+    "wof:id":1209337167,
+    "wof:lastmodified":1536290181,
+    "wof:name":"Sougouleni",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.8759,
+    13.1584,
+    -6.8759,
+    13.1584
+],
+  "geometry": {"coordinates":[-6.8759,13.1584],"type":"Point"}
+}

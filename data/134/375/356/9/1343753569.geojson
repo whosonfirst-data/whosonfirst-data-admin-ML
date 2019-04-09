@@ -1,0 +1,67 @@
+{
+  "id": 1343753569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.74629,13.62227,-7.74629,13.62227",
+    "geom:latitude":13.62227,
+    "geom:longitude":-7.74629,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Massako",
+    "gn:country_code":"ML",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6906674,
+    "gn:latitude":13.62227,
+    "gn:longitude":-7.74629,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Massako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6906674
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ccc5523c4976db9be3b193863d391de8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":1343753569,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1343753569,
+    "wof:lastmodified":1536820019,
+    "wof:name":"Massako",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.74629,
+    13.62227,
+    -7.74629,
+    13.62227
+],
+  "geometry": {"coordinates":[-7.74629,13.62227],"type":"Point"}
+}

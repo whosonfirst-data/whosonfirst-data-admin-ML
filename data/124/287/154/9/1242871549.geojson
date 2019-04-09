@@ -1,0 +1,67 @@
+{
+  "id": 1242871549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.58353,12.2577,-5.58353,12.2577",
+    "geom:latitude":12.2577,
+    "geom:longitude":-5.58353,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kougoue",
+    "gn:country_code":"ML",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454559,
+    "gn:latitude":12.2577,
+    "gn:longitude":-5.58353,
+    "gn:modification_date":"2008-10-24",
+    "gn:name":"Kougou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454559
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d0a5d97955bf2e66c0e53c9027523da8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1242871549,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1242871549,
+    "wof:lastmodified":1536639334,
+    "wof:name":"Kougoue",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.58353,
+    12.2577,
+    -5.58353,
+    12.2577
+],
+  "geometry": {"coordinates":[-5.58353,12.2577],"type":"Point"}
+}

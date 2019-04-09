@@ -1,0 +1,67 @@
+{
+  "id": 1226452287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.58333,11.66667,-8.58333,11.66667",
+    "geom:latitude":11.66667,
+    "geom:longitude":-8.58333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kobada",
+    "gn:country_code":"ML",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455197,
+    "gn:latitude":11.66667,
+    "gn:longitude":-8.58333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kobada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455197
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"79d74680854e63690855d50fb9777d72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562827,
+            "locality_id":1226452287,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1226452287,
+    "wof:lastmodified":1536634667,
+    "wof:name":"Kobada",
+    "wof:parent_id":1108562827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.58333,
+    11.66667,
+    -8.58333,
+    11.66667
+],
+  "geometry": {"coordinates":[-8.58333,11.66667],"type":"Point"}
+}

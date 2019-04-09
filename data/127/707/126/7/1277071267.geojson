@@ -1,0 +1,67 @@
+{
+  "id": 1277071267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.07827,12.51469,-8.07827,12.51469",
+    "geom:latitude":12.51469,
+    "geom:longitude":-8.07827,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sodieni",
+    "gn:country_code":"ML",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594607,
+    "gn:latitude":12.51469,
+    "gn:longitude":-8.07827,
+    "gn:modification_date":"2008-11-13",
+    "gn:name":"Sodi\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        421177883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594607
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7b0ba36b654b6db5c4c9252f9708d84b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177883,
+            "locality_id":1277071267,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1277071267,
+    "wof:lastmodified":1536784692,
+    "wof:name":"Sodieni",
+    "wof:parent_id":421177883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.07827,
+    12.51469,
+    -8.07827,
+    12.51469
+],
+  "geometry": {"coordinates":[-8.07827,12.51469],"type":"Point"}
+}

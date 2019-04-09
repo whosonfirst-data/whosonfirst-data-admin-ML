@@ -1,0 +1,67 @@
+{
+  "id": 1243075123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.88147,12.90269,-8.88147,12.90269",
+    "geom:latitude":12.90269,
+    "geom:longitude":-8.88147,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Balandougou",
+    "gn:country_code":"ML",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460644,
+    "gn:latitude":12.90269,
+    "gn:longitude":-8.88147,
+    "gn:modification_date":"2008-11-13",
+    "gn:name":"Balandougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460644
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2d82f3fbae20a6de801bc46d380a29e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1243075123,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1243075123,
+    "wof:lastmodified":1536842715,
+    "wof:name":"Balandougou",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.88147,
+    12.90269,
+    -8.88147,
+    12.90269
+],
+  "geometry": {"coordinates":[-8.88147,12.90269],"type":"Point"}
+}

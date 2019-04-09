@@ -1,0 +1,64 @@
+{
+  "id": 1209097901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.1582,13.4875,-8.1582,13.4875",
+    "geom:latitude":13.4875,
+    "geom:longitude":-8.1582,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Fantabougou",
+    "gn:country_code":"ML",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457724,
+    "gn:latitude":13.4875,
+    "gn:longitude":-8.1582,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fantabougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Fantabougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457724
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"535511aadc9189dbbdf9d2b015d4dd35",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209097901
+        }
+    ],
+    "wof:id":1209097901,
+    "wof:lastmodified":1537665199,
+    "wof:name":"Fantabougou",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.1582,
+    13.4875,
+    -8.1582,
+    13.4875
+],
+  "geometry": {"coordinates":[-8.1582,13.4875],"type":"Point"}
+}

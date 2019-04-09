@@ -1,0 +1,61 @@
+{
+  "id": 1209307213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.03127,11.29416,-6.03127,11.29416",
+    "geom:latitude":11.29416,
+    "geom:longitude":-6.03127,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ntyoasso",
+    "gn:country_code":"ML",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910342,
+    "gn:latitude":11.29416,
+    "gn:longitude":-6.03127,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Ntyoasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910342
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"12c6a512e159b28200296907384666c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209307213
+        }
+    ],
+    "wof:id":1209307213,
+    "wof:lastmodified":1536291153,
+    "wof:name":"Ntyoasso",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.03127,
+    11.29416,
+    -6.03127,
+    11.29416
+],
+  "geometry": {"coordinates":[-6.03127,11.29416],"type":"Point"}
+}

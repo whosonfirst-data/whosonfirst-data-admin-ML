@@ -1,0 +1,71 @@
+{
+  "id": 1243452063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.87665,12.40947,-5.87665,12.40947",
+    "geom:latitude":12.40947,
+    "geom:longitude":-5.87665,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Konseguela",
+    "gn:country_code":"ML",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454738,
+    "gn:latitude":12.40947,
+    "gn:longitude":-5.87665,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kons\u00e9gu\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kons\u00e9gu\u00e9la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454738,
+        "wk:page":"Kons%C3%A9qu%C3%A9la"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e6798f2f16b9c44dce36c51d708660e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1243452063,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1243452063,
+    "wof:lastmodified":1537665142,
+    "wof:name":"Konseguela",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.87665,
+    12.40947,
+    -5.87665,
+    12.40947
+],
+  "geometry": {"coordinates":[-5.87665,12.40947],"type":"Point"}
+}

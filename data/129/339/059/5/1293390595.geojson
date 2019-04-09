@@ -1,0 +1,67 @@
+{
+  "id": 1293390595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.0679,14.99913,-2.0679,14.99913",
+    "geom:latitude":14.99913,
+    "geom:longitude":-2.0679,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tega",
+    "gn:country_code":"ML",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6893613,
+    "gn:latitude":14.99913,
+    "gn:longitude":-2.0679,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"T\u00e9ga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6893613
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"942eabdff2d8a69d0e8544ec46fdd70c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1293390595,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1293390595,
+    "wof:lastmodified":1536927407,
+    "wof:name":"Tega",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.0679,
+    14.99913,
+    -2.0679,
+    14.99913
+],
+  "geometry": {"coordinates":[-2.0679,14.99913],"type":"Point"}
+}

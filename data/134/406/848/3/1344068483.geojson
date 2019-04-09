@@ -1,0 +1,67 @@
+{
+  "id": 1344068483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.58538,15.07271,-11.58538,15.07271",
+    "geom:latitude":15.07271,
+    "geom:longitude":-11.58538,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Nreilat",
+    "gn:country_code":"ML",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6650821,
+    "gn:latitude":15.07271,
+    "gn:longitude":-11.58538,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Nre\u00eflat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6650821
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e658a7c7b3fd8af6634fd51b3a817401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1344068483,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1344068483,
+    "wof:lastmodified":1536862560,
+    "wof:name":"Nreilat",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.58538,
+    15.07271,
+    -11.58538,
+    15.07271
+],
+  "geometry": {"coordinates":[-11.58538,15.07271],"type":"Point"}
+}

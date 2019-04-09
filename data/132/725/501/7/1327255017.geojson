@@ -1,0 +1,71 @@
+{
+  "id": 1327255017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.48019,13.77067,-7.48019,13.77067",
+    "geom:latitude":13.77067,
+    "geom:longitude":-7.48019,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Safena",
+    "gn:country_code":"ML",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451956,
+    "gn:latitude":13.77067,
+    "gn:longitude":-7.48019,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Saf\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Safa\u00e9na",
+        "Saf\u00e9na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451956
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c824d768523a2d9a9be8215e207a7c1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562851,
+            "locality_id":1327255017,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1327255017,
+    "wof:lastmodified":1537665073,
+    "wof:name":"Safena",
+    "wof:parent_id":1108562851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.48019,
+    13.77067,
+    -7.48019,
+    13.77067
+],
+  "geometry": {"coordinates":[-7.48019,13.77067],"type":"Point"}
+}

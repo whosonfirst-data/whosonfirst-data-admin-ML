@@ -1,0 +1,67 @@
+{
+  "id": 1277108299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.41912,13.00283,-5.41912,13.00283",
+    "geom:latitude":13.00283,
+    "geom:longitude":-5.41912,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Koutienso",
+    "gn:country_code":"ML",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880828,
+    "gn:latitude":13.00283,
+    "gn:longitude":-5.41912,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Koutienso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880828
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1a0c34477458d0923aebc673e1930e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562835,
+            "locality_id":1277108299,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1277108299,
+    "wof:lastmodified":1536731165,
+    "wof:name":"Koutienso",
+    "wof:parent_id":1108562835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.41912,
+    13.00283,
+    -5.41912,
+    13.00283
+],
+  "geometry": {"coordinates":[-5.41912,13.00283],"type":"Point"}
+}

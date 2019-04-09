@@ -1,0 +1,71 @@
+{
+  "id": 1293881447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.47855,12.01132,-7.47855,12.01132",
+    "geom:latitude":12.01132,
+    "geom:longitude":-7.47855,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Diafarana",
+    "gn:country_code":"ML",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458178,
+    "gn:latitude":12.01132,
+    "gn:longitude":-7.47855,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Diafarana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dyafarana",
+        "Diafarana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458178
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f503883fb7a1445e798c33aa343be7c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1293881447,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1293881447,
+    "wof:lastmodified":1537665212,
+    "wof:name":"Diafarana",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.47855,
+    12.01132,
+    -7.47855,
+    12.01132
+],
+  "geometry": {"coordinates":[-7.47855,12.01132],"type":"Point"}
+}

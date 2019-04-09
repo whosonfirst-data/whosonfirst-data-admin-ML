@@ -1,0 +1,67 @@
+{
+  "id": 1243460719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.8488,15.8039,-2.8488,15.8039",
+    "geom:latitude":15.8039,
+    "geom:longitude":-2.8488,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Daka Amadou Dyale",
+    "gn:country_code":"ML",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459469,
+    "gn:latitude":15.8039,
+    "gn:longitude":-2.8488,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Daka Amadou Dyal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        890418895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459469
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9da85b47ae7955dc617a6052df9eb62a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":890418895,
+            "locality_id":1243460719,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1243460719,
+    "wof:lastmodified":1536785394,
+    "wof:name":"Daka Amadou Dyale",
+    "wof:parent_id":890418895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.8488,
+    15.8039,
+    -2.8488,
+    15.8039
+],
+  "geometry": {"coordinates":[-2.8488,15.8039],"type":"Point"}
+}

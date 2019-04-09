@@ -1,0 +1,71 @@
+{
+  "id": 1193159375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.58779,16.72394,-2.58779,16.72394",
+    "geom:latitude":16.72394,
+    "geom:longitude":-2.58779,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Beregoungou",
+    "gn:country_code":"ML",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460120,
+    "gn:latitude":16.72394,
+    "gn:longitude":-2.58779,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9r\u00e9goungou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beregoungo",
+        "B\u00e9r\u00e9goungou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460120
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"22bafb8848a8fc4f3037aec7f28fdacb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562891,
+            "locality_id":1193159375,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1193159375,
+    "wof:lastmodified":1537665261,
+    "wof:name":"Beregoungou",
+    "wof:parent_id":1108562891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.58779,
+    16.72394,
+    -2.58779,
+    16.72394
+],
+  "geometry": {"coordinates":[-2.58779,16.72394],"type":"Point"}
+}

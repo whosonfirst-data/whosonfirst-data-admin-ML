@@ -1,0 +1,75 @@
+{
+  "id": 1293611291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.1756,12.4789,-6.1756,12.4789",
+    "geom:latitude":12.4789,
+    "geom:longitude":-6.1756,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kona",
+    "gn:country_code":"ML",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454859,
+    "gn:latitude":12.4789,
+    "gn:longitude":-6.1756,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Kon\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Konina"
+    ],
+    "name:und_x_variant":[
+        "Konina",
+        "Kon\u00e2",
+        "Kona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454859
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c17f3fefba14252286a627fadb60b0f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1293611291,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1293611291,
+    "wof:lastmodified":1537665146,
+    "wof:name":"Kona",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.1756,
+    12.4789,
+    -6.1756,
+    12.4789
+],
+  "geometry": {"coordinates":[-6.1756,12.4789],"type":"Point"}
+}

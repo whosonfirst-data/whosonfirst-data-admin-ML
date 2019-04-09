@@ -1,0 +1,71 @@
+{
+  "id": 1243179485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.6784,13.1709,-9.6784,13.1709",
+    "geom:latitude":13.1709,
+    "geom:longitude":-9.6784,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mouroudian",
+    "gn:country_code":"ML",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453259,
+    "gn:latitude":13.1709,
+    "gn:longitude":-9.6784,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mouroudian",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mouroudia",
+        "Mouroudian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453259
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4bfb39e095ded4fcfbfff716fefe8394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1243179485,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1243179485,
+    "wof:lastmodified":1537665108,
+    "wof:name":"Mouroudian",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.6784,
+    13.1709,
+    -9.6784,
+    13.1709
+],
+  "geometry": {"coordinates":[-9.6784,13.1709],"type":"Point"}
+}

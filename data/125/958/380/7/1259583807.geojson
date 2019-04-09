@@ -1,0 +1,71 @@
+{
+  "id": 1259583807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.8295,14.63262,-4.8295,14.63262",
+    "geom:latitude":14.63262,
+    "geom:longitude":-4.8295,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kenta Senta",
+    "gn:country_code":"ML",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455383,
+    "gn:latitude":14.63262,
+    "gn:longitude":-4.8295,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kenta Senta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kinta-S\u00e9b\u00e9",
+        "Kenta Senta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455383
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ff771df478a8574730ceeeb84eb3de16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562861,
+            "locality_id":1259583807,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1259583807,
+    "wof:lastmodified":1537665159,
+    "wof:name":"Kenta Senta",
+    "wof:parent_id":1108562861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.8295,
+    14.63262,
+    -4.8295,
+    14.63262
+],
+  "geometry": {"coordinates":[-4.8295,14.63262],"type":"Point"}
+}

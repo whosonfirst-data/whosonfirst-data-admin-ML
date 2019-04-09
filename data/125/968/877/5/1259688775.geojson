@@ -1,0 +1,67 @@
+{
+  "id": 1259688775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.1771,13.20285,-5.1771,13.20285",
+    "geom:latitude":13.20285,
+    "geom:longitude":-5.1771,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Goualani",
+    "gn:country_code":"ML",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457005,
+    "gn:latitude":13.20285,
+    "gn:longitude":-5.1771,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Goualani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421192717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457005
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7414633bb52f2b22b411993ab44ebc9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421192717,
+            "locality_id":1259688775,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1259688775,
+    "wof:lastmodified":1537056852,
+    "wof:name":"Goualani",
+    "wof:parent_id":421192717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.1771,
+    13.20285,
+    -5.1771,
+    13.20285
+],
+  "geometry": {"coordinates":[-5.1771,13.20285],"type":"Point"}
+}

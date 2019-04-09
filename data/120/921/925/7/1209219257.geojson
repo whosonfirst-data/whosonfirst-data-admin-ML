@@ -1,0 +1,68 @@
+{
+  "id": 1209219257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.05408,12.67077,-6.05408,12.67077",
+    "geom:latitude":12.67077,
+    "geom:longitude":-6.05408,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ndyeguela",
+    "gn:country_code":"ML",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6907198,
+    "gn:latitude":12.67077,
+    "gn:longitude":-6.05408,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ndyegu\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ndyeg\u00e9la"
+    ],
+    "name:und_x_variant":[
+        "Ndyegu\u00e9la",
+        "Ndyeg\u00e9la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6907198
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f6abc3ec6a4012cb13de44a45928212c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209219257
+        }
+    ],
+    "wof:id":1209219257,
+    "wof:lastmodified":1537665288,
+    "wof:name":"Ndyeguela",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.05408,
+    12.67077,
+    -6.05408,
+    12.67077
+],
+  "geometry": {"coordinates":[-6.05408,12.67077],"type":"Point"}
+}

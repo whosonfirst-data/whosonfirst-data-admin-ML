@@ -1,0 +1,67 @@
+{
+  "id": 1293495159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.9355,14.7878,-10.9355,14.7878",
+    "geom:latitude":14.7878,
+    "geom:longitude":-10.9355,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Boudoudemba",
+    "gn:country_code":"ML",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6911957,
+    "gn:latitude":14.7878,
+    "gn:longitude":-10.9355,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Boudoudemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6911957
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"cb9bca2a0145ddfdd28171631488c9ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1293495159,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1293495159,
+    "wof:lastmodified":1536776527,
+    "wof:name":"Boudoudemba",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.9355,
+    14.7878,
+    -10.9355,
+    14.7878
+],
+  "geometry": {"coordinates":[-10.9355,14.7878],"type":"Point"}
+}

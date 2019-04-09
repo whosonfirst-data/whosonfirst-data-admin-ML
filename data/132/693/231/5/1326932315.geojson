@@ -1,0 +1,67 @@
+{
+  "id": 1326932315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.7848,13.7935,-10.7848,13.7935",
+    "geom:latitude":13.7935,
+    "geom:longitude":-10.7848,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Douna",
+    "gn:country_code":"ML",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458260,
+    "gn:latitude":13.7935,
+    "gn:longitude":-10.7848,
+    "gn:modification_date":"2008-11-19",
+    "gn:name":"Douna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458260
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"82925b7d5ba9b9e47f17d95652cc3383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562855,
+            "locality_id":1326932315,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1326932315,
+    "wof:lastmodified":1536904817,
+    "wof:name":"Douna",
+    "wof:parent_id":1108562855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.7848,
+    13.7935,
+    -10.7848,
+    13.7935
+],
+  "geometry": {"coordinates":[-10.7848,13.7935],"type":"Point"}
+}

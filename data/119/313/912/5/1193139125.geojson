@@ -1,0 +1,67 @@
+{
+  "id": 1193139125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.28442,14.17522,-11.28442,14.17522",
+    "geom:latitude":14.17522,
+    "geom:longitude":-11.28442,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Papareda",
+    "gn:country_code":"ML",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452130,
+    "gn:latitude":14.17522,
+    "gn:longitude":-11.28442,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Papar\u00e9da",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452130
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b5c8976f5919260bd1f91062db7e112b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1193139125,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1193139125,
+    "wof:lastmodified":1536367294,
+    "wof:name":"Papareda",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.28442,
+    14.17522,
+    -11.28442,
+    14.17522
+],
+  "geometry": {"coordinates":[-11.28442,14.17522],"type":"Point"}
+}

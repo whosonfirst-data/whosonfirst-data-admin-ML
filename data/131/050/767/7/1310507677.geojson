@@ -1,0 +1,72 @@
+{
+  "id": 1310507677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.89825,14.89898,-2.89825,14.89898",
+    "geom:latitude":14.89898,
+    "geom:longitude":-2.89825,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dianveli Kesel",
+    "gn:country_code":"ML",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458975,
+    "gn:latitude":14.89898,
+    "gn:longitude":-2.89825,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Dianv\u00e8li K\u00e8s\u00e8l",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dianveli",
+        "Dianv\u00e9li K\u00e8ss\u00e8l",
+        "Dianv\u00e8li K\u00e8s\u00e8l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458975
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"44b0b9f7df74e3e4d3fb6ca71bcd818f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1310507677,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1310507677,
+    "wof:lastmodified":1537665234,
+    "wof:name":"Dianveli Kesel",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.89825,
+    14.89898,
+    -2.89825,
+    14.89898
+],
+  "geometry": {"coordinates":[-2.89825,14.89898],"type":"Point"}
+}

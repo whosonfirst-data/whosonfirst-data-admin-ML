@@ -1,0 +1,70 @@
+{
+  "id": 1209911095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.8895,14.3363,-6.8895,14.3363",
+    "geom:latitude":14.3363,
+    "geom:longitude":-6.8895,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Belamougou",
+    "gn:country_code":"ML",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460194,
+    "gn:latitude":14.3363,
+    "gn:longitude":-6.8895,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9lamougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "B\u00e9lamougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460194
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a05f378ffc92cf9173404581a0cd00e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562865,
+            "locality_id":1209911095,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1209911095,
+    "wof:lastmodified":1537665264,
+    "wof:name":"Belamougou",
+    "wof:parent_id":1108562865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.8895,
+    14.3363,
+    -6.8895,
+    14.3363
+],
+  "geometry": {"coordinates":[-6.8895,14.3363],"type":"Point"}
+}

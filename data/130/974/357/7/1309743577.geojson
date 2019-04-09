@@ -1,0 +1,67 @@
+{
+  "id": 1309743577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.4884,13.5564,-4.4884,13.5564",
+    "geom:latitude":13.5564,
+    "geom:longitude":-4.4884,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tia",
+    "gn:country_code":"ML",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449862,
+    "gn:latitude":13.5564,
+    "gn:longitude":-4.4884,
+    "gn:modification_date":"2008-11-03",
+    "gn:name":"Tia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449862
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d1a79fbf52028986b0ff1bc78726411d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562843,
+            "locality_id":1309743577,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1309743577,
+    "wof:lastmodified":1537020032,
+    "wof:name":"Tia",
+    "wof:parent_id":1108562843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4884,
+    13.5564,
+    -4.4884,
+    13.5564
+],
+  "geometry": {"coordinates":[-4.4884,13.5564],"type":"Point"}
+}

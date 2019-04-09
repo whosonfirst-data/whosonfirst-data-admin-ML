@@ -1,0 +1,67 @@
+{
+  "id": 1310028441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.6322,13.4064,-4.6322,13.4064",
+    "geom:latitude":13.4064,
+    "geom:longitude":-4.6322,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Soukourani-Bosso",
+    "gn:country_code":"ML",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6875967,
+    "gn:latitude":13.4064,
+    "gn:longitude":-4.6322,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Soukourani-Bosso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421192717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6875967
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"be3399a4788f2a57e13cdac685208efd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421192717,
+            "locality_id":1310028441,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1310028441,
+    "wof:lastmodified":1536607430,
+    "wof:name":"Soukourani-Bosso",
+    "wof:parent_id":421192717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.6322,
+    13.4064,
+    -4.6322,
+    13.4064
+],
+  "geometry": {"coordinates":[-4.6322,13.4064],"type":"Point"}
+}

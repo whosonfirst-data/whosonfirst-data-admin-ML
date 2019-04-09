@@ -1,0 +1,77 @@
+{
+  "id": 1343266707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.1043,13.3823,-4.1043,13.3823",
+    "geom:latitude":13.3823,
+    "geom:longitude":-4.1043,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tiraba",
+    "gn:country_code":"ML",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6876045,
+    "gn:latitude":13.3823,
+    "gn:longitude":-4.1043,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Tiraba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562843,
+        85632213,
+        1108805707,
+        890413165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6876045
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b50d3fcc30fdecfc164d1ec5c2a1c73b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562843,
+            "locality_id":1343266707,
+            "region_id":85674543
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413165,
+            "locality_id":1343266707,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1343266707,
+    "wof:lastmodified":1537024743,
+    "wof:name":"Tiraba",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.1043,
+    13.3823,
+    -4.1043,
+    13.3823
+],
+  "geometry": {"coordinates":[-4.1043,13.3823],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1310511631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.78333,11.95,-8.78333,11.95",
+    "geom:latitude":11.95,
+    "geom:longitude":-8.78333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kouremale",
+    "gn:country_code":"ML",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454378,
+    "gn:latitude":11.95,
+    "gn:longitude":-8.78333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kour\u00e9mal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454378
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"75b4ceea72a0b3d585d918dde8468be6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1310511631,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310511631,
+    "wof:lastmodified":1536908263,
+    "wof:name":"Kouremale",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.78333,
+    11.95,
+    -8.78333,
+    11.95
+],
+  "geometry": {"coordinates":[-8.78333,11.95],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259474961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.65407,12.16099,-8.65407,12.16099",
+    "geom:latitude":12.16099,
+    "geom:longitude":-8.65407,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Labankono",
+    "gn:country_code":"ML",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594380,
+    "gn:latitude":12.16099,
+    "gn:longitude":-8.65407,
+    "gn:modification_date":"2008-11-13",
+    "gn:name":"Labankono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594380
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"93291ce44b8a4c8ed36e9bfa38948f5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562827,
+            "locality_id":1259474961,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1259474961,
+    "wof:lastmodified":1536870014,
+    "wof:name":"Labankono",
+    "wof:parent_id":1108562827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.65407,
+    12.16099,
+    -8.65407,
+    12.16099
+],
+  "geometry": {"coordinates":[-8.65407,12.16099],"type":"Point"}
+}

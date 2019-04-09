@@ -1,0 +1,72 @@
+{
+  "id": 1293681001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.17437,12.94879,-8.17437,12.94879",
+    "geom:latitude":12.94879,
+    "geom:longitude":-8.17437,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kalifabougou",
+    "gn:country_code":"ML",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455866,
+    "gn:latitude":12.94879,
+    "gn:longitude":-8.17437,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kalifabougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kanfibougou",
+        "Kalifabougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        421177883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455866,
+        "wk:page":"Kalifabougou"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9e8f549711ec937fafe9440862f5e686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177883,
+            "locality_id":1293681001,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1293681001,
+    "wof:lastmodified":1537665169,
+    "wof:name":"Kalifabougou",
+    "wof:parent_id":421177883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.17437,
+    12.94879,
+    -8.17437,
+    12.94879
+],
+  "geometry": {"coordinates":[-8.17437,12.94879],"type":"Point"}
+}

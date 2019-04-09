@@ -1,0 +1,67 @@
+{
+  "id": 1276118867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.44983,14.41767,-3.44983,14.41767",
+    "geom:latitude":14.41767,
+    "geom:longitude":-3.44983,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guineyalema",
+    "gn:country_code":"ML",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6866674,
+    "gn:latitude":14.41767,
+    "gn:longitude":-3.44983,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Guin\u00e9yal\u00e9ma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421171975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6866674
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f76c2b551b2bb6f744d4531a4cdffe70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171975,
+            "locality_id":1276118867,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1276118867,
+    "wof:lastmodified":1537063200,
+    "wof:name":"Guineyalema",
+    "wof:parent_id":421171975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.44983,
+    14.41767,
+    -3.44983,
+    14.41767
+],
+  "geometry": {"coordinates":[-3.44983,14.41767],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343380901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.51006,16.34708,-3.51006,16.34708",
+    "geom:latitude":16.34708,
+    "geom:longitude":-3.51006,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ougoubibi",
+    "gn:country_code":"ML",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452290,
+    "gn:latitude":16.34708,
+    "gn:longitude":-3.51006,
+    "gn:modification_date":"2009-06-26",
+    "gn:name":"Ougoubibi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        421172359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452290
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"52c52e7c7f0bcf42fe5d7648e4c22fb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421172359,
+            "locality_id":1343380901,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1343380901,
+    "wof:lastmodified":1536859684,
+    "wof:name":"Ougoubibi",
+    "wof:parent_id":421172359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.51006,
+    16.34708,
+    -3.51006,
+    16.34708
+],
+  "geometry": {"coordinates":[-3.51006,16.34708],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343271745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.16667,12.28333,-10.16667,12.28333",
+    "geom:latitude":12.28333,
+    "geom:longitude":-10.16667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Friguia",
+    "gn:country_code":"ML",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457288,
+    "gn:latitude":12.28333,
+    "gn:longitude":-10.16667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Friguia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457288
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"66b45a7c660dc94ce58d2dfe12f5fdd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1343271745,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1343271745,
+    "wof:lastmodified":1537017797,
+    "wof:name":"Friguia",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.16667,
+    12.28333,
+    -10.16667,
+    12.28333
+],
+  "geometry": {"coordinates":[-10.16667,12.28333],"type":"Point"}
+}

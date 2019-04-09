@@ -1,0 +1,73 @@
+{
+  "id": 1260277835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.60111,18.04,0.60111,18.04",
+    "geom:latitude":18.04,
+    "geom:longitude":0.60111,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Anefis i-n-Darane",
+    "gn:country_code":"ML",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2461022,
+    "gn:latitude":18.04,
+    "gn:longitude":0.60111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Anefis i-n-Darane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "In Darane",
+        "Anefis i-n-Darane",
+        "An\u00e9fis In Daran",
+        "An\u00e9fis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674515,
+        1108562883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2461022
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d1d435213ea433fdd86bba1188faa295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562883,
+            "locality_id":1260277835,
+            "region_id":85674515
+        }
+    ],
+    "wof:id":1260277835,
+    "wof:lastmodified":1537665279,
+    "wof:name":"Anefis i-n-Darane",
+    "wof:parent_id":1108562883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.60111,
+    18.04,
+    0.60111,
+    18.04
+],
+  "geometry": {"coordinates":[0.60111,18.04],"type":"Point"}
+}

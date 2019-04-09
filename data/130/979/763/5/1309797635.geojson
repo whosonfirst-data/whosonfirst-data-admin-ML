@@ -1,0 +1,77 @@
+{
+  "id": 1309797635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.24531,13.5034,-8.24531,13.5034",
+    "geom:latitude":13.5034,
+    "geom:longitude":-8.24531,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Guioyo",
+    "gn:country_code":"ML",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456724,
+    "gn:latitude":13.5034,
+    "gn:longitude":-8.24531,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guioyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Guioyo"
+    ],
+    "name:fra_x_variant":[
+        "Guihoyo"
+    ],
+    "name:und_x_variant":[
+        "Guihoyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456724,
+        "wk:page":"Guihoyo"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2dc5bfbcc233f4f2995fbbc13a7675d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":1309797635,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1309797635,
+    "wof:lastmodified":1537665176,
+    "wof:name":"Guioyo",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.24531,
+    13.5034,
+    -8.24531,
+    13.5034
+],
+  "geometry": {"coordinates":[-8.24531,13.5034],"type":"Point"}
+}

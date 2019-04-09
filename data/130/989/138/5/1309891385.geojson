@@ -1,0 +1,74 @@
+{
+  "id": 1309891385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.7402,15.6973,-4.7402,15.6973",
+    "geom:latitude":15.6973,
+    "geom:longitude":-4.7402,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tirna",
+    "gn:country_code":"ML",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449154,
+    "gn:latitude":15.6973,
+    "gn:longitude":-4.7402,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tirna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ntirao",
+        "Tirnga",
+        "N\u2018Tirno",
+        "Ntirna",
+        "Tirna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449154
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6bc8b1214c57f70e569ea83bcdb3e872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562873,
+            "locality_id":1309891385,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1309891385,
+    "wof:lastmodified":1537665022,
+    "wof:name":"Tirna",
+    "wof:parent_id":1108562873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7402,
+    15.6973,
+    -4.7402,
+    15.6973
+],
+  "geometry": {"coordinates":[-4.7402,15.6973],"type":"Point"}
+}

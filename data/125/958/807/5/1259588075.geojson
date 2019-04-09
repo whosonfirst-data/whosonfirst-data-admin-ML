@@ -1,0 +1,67 @@
+{
+  "id": 1259588075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.7202,13.311,-6.7202,13.311",
+    "geom:latitude":13.311,
+    "geom:longitude":-6.7202,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tondana",
+    "gn:country_code":"ML",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910697,
+    "gn:latitude":13.311,
+    "gn:longitude":-6.7202,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Tondana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910697
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"72a542e7db5b65590d41ce6ef7f42507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562837,
+            "locality_id":1259588075,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1259588075,
+    "wof:lastmodified":1536708457,
+    "wof:name":"Tondana",
+    "wof:parent_id":1108562837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.7202,
+    13.311,
+    -6.7202,
+    13.311
+],
+  "geometry": {"coordinates":[-6.7202,13.311],"type":"Point"}
+}

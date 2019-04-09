@@ -1,0 +1,67 @@
+{
+  "id": 1343363857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.66085,13.33809,-5.66085,13.33809",
+    "geom:latitude":13.33809,
+    "geom:longitude":-5.66085,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Dougakongo",
+    "gn:country_code":"ML",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458330,
+    "gn:latitude":13.33809,
+    "gn:longitude":-5.66085,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Dougakongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458330
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"27da11b94be34f059fa196e6cac3ca9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1343363857,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1343363857,
+    "wof:lastmodified":1536885012,
+    "wof:name":"Dougakongo",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.66085,
+    13.33809,
+    -5.66085,
+    13.33809
+],
+  "geometry": {"coordinates":[-5.66085,13.33809],"type":"Point"}
+}

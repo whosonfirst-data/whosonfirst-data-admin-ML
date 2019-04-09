@@ -1,0 +1,70 @@
+{
+  "id": 1310498491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.8617,12.2247,-6.8617,12.2247",
+    "geom:latitude":12.2247,
+    "geom:longitude":-6.8617,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Temena",
+    "gn:country_code":"ML",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449965,
+    "gn:latitude":12.2247,
+    "gn:longitude":-6.8617,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"T\u00e9m\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "T\u00e9m\u00e9na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449965
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"cb8c00c189d52c833aeecddb9e57a5d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1310498491,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1310498491,
+    "wof:lastmodified":1537665031,
+    "wof:name":"Temena",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.8617,
+    12.2247,
+    -6.8617,
+    12.2247
+],
+  "geometry": {"coordinates":[-6.8617,12.2247],"type":"Point"}
+}

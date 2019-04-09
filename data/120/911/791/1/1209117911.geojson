@@ -1,0 +1,61 @@
+{
+  "id": 1209117911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.00594,15.20932,-9.00594,15.20932",
+    "geom:latitude":15.20932,
+    "geom:longitude":-9.00594,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dabai Sidi",
+    "gn:country_code":"ML",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459526,
+    "gn:latitude":15.20932,
+    "gn:longitude":-9.00594,
+    "gn:modification_date":"2008-05-08",
+    "gn:name":"Daba\u00ef Sidi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459526
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"dd6f877259f8c341cd924e23e9d8b045",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209117911
+        }
+    ],
+    "wof:id":1209117911,
+    "wof:lastmodified":1536297197,
+    "wof:name":"Dabai Sidi",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.005939999999997,
+    15.209320000000002,
+    -9.005939999999997,
+    15.209320000000002
+],
+  "geometry": {"coordinates":[-9.00594,15.20932],"type":"Point"}
+}

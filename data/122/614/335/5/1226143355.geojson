@@ -1,0 +1,67 @@
+{
+  "id": 1226143355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.06695,15.11092,-2.06695,15.11092",
+    "geom:latitude":15.11092,
+    "geom:longitude":-2.06695,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gandebalo",
+    "gn:country_code":"ML",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6872552,
+    "gn:latitude":15.11092,
+    "gn:longitude":-2.06695,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Gand\u00e9balo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6872552
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7665a334d19a2eef3d77a5fbb342a673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1226143355,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1226143355,
+    "wof:lastmodified":1537078034,
+    "wof:name":"Gandebalo",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.06695,
+    15.11092,
+    -2.06695,
+    15.11092
+],
+  "geometry": {"coordinates":[-2.06695,15.11092],"type":"Point"}
+}

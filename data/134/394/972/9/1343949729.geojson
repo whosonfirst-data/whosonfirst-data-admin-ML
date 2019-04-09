@@ -1,0 +1,71 @@
+{
+  "id": 1343949729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.46857,12.14139,-8.46857,12.14139",
+    "geom:latitude":12.14139,
+    "geom:longitude":-8.46857,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Darakono",
+    "gn:country_code":"ML",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594408,
+    "gn:latitude":12.14139,
+    "gn:longitude":-8.46857,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Darakono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Darakondo",
+        "Darakono"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594408
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0cd9f87aba7376cb38a693daba90c1f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562827,
+            "locality_id":1343949729,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1343949729,
+    "wof:lastmodified":1537665283,
+    "wof:name":"Darakono",
+    "wof:parent_id":1108562827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.46857,
+    12.14139,
+    -8.46857,
+    12.14139
+],
+  "geometry": {"coordinates":[-8.46857,12.14139],"type":"Point"}
+}

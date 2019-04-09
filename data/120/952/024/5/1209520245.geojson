@@ -1,0 +1,61 @@
+{
+  "id": 1209520245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.5492,13.4111,-6.5492,13.4111",
+    "geom:latitude":13.4111,
+    "geom:longitude":-6.5492,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mamouroula",
+    "gn:country_code":"ML",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453832,
+    "gn:latitude":13.4111,
+    "gn:longitude":-6.5492,
+    "gn:modification_date":"2008-11-18",
+    "gn:name":"Mamouroula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453832
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6d037994a2a3135a383e667f3ac9f60c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209520245
+        }
+    ],
+    "wof:id":1209520245,
+    "wof:lastmodified":1536284603,
+    "wof:name":"Mamouroula",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.5492,
+    13.4111,
+    -6.5492,
+    13.4111
+],
+  "geometry": {"coordinates":[-6.5492,13.4111],"type":"Point"}
+}

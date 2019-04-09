@@ -1,0 +1,67 @@
+{
+  "id": 1276130141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.8481,14.3515,-10.8481,14.3515",
+    "geom:latitude":14.3515,
+    "geom:longitude":-10.8481,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Nere",
+    "gn:country_code":"ML",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452950,
+    "gn:latitude":14.3515,
+    "gn:longitude":-10.8481,
+    "gn:modification_date":"2008-11-19",
+    "gn:name":"N\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452950
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"116d93e251502d543e9bce86fc3ce783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562855,
+            "locality_id":1276130141,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1276130141,
+    "wof:lastmodified":1537048772,
+    "wof:name":"Nere",
+    "wof:parent_id":1108562855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.8481,
+    14.3515,
+    -10.8481,
+    14.3515
+],
+  "geometry": {"coordinates":[-10.8481,14.3515],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1210024061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.1921,14.54,-9.1921,14.54",
+    "geom:latitude":14.54,
+    "geom:longitude":-9.1921,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Diema",
+    "gn:country_code":"ML",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2458881,
+    "gn:latitude":14.54,
+    "gn:longitude":-9.1921,
+    "gn:modification_date":"2013-11-09",
+    "gn:name":"Di\u00e9ma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Di\u00e9na",
+        "Di\u00e9ma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458881,
+        "wk:page":"Di%C3%A9ma%2C_Mali"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d1c3f1d925e89f9643acf3fd0334650b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562857,
+            "locality_id":1210024061,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1210024061,
+    "wof:lastmodified":1537665232,
+    "wof:name":"Diema",
+    "wof:parent_id":1108562857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.1921,
+    14.54,
+    -9.1921,
+    14.54
+],
+  "geometry": {"coordinates":[-9.1921,14.54],"type":"Point"}
+}

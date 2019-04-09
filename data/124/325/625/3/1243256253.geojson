@@ -1,0 +1,67 @@
+{
+  "id": 1243256253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.78443,12.2211,-5.78443,12.2211",
+    "geom:latitude":12.2211,
+    "geom:longitude":-5.78443,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Keleni",
+    "gn:country_code":"ML",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455477,
+    "gn:latitude":12.2211,
+    "gn:longitude":-5.78443,
+    "gn:modification_date":"2008-10-24",
+    "gn:name":"K\u00e9l\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455477
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6f86b76a924aaa9c0966c4e8575a5fe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1243256253,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1243256253,
+    "wof:lastmodified":1537076600,
+    "wof:name":"Keleni",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.78443,
+    12.2211,
+    -5.78443,
+    12.2211
+],
+  "geometry": {"coordinates":[-5.78443,12.2211],"type":"Point"}
+}

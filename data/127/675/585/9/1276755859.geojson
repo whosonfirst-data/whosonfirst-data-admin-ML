@@ -1,0 +1,70 @@
+{
+  "id": 1276755859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.0477,13.9238,-8.0477,13.9238",
+    "geom:latitude":13.9238,
+    "geom:longitude":-8.0477,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bana",
+    "gn:country_code":"ML",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460556,
+    "gn:latitude":13.9238,
+    "gn:longitude":-8.0477,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460556
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"fbe412babbe5d48341124bc5c854f263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":1276755859,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1276755859,
+    "wof:lastmodified":1537665271,
+    "wof:name":"Bana",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.0477,
+    13.9238,
+    -8.0477,
+    13.9238
+],
+  "geometry": {"coordinates":[-8.0477,13.9238],"type":"Point"}
+}

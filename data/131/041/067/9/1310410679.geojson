@@ -1,0 +1,67 @@
+{
+  "id": 1310410679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.44917,13.03409,-5.44917,13.03409",
+    "geom:latitude":13.03409,
+    "geom:longitude":-5.44917,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Safolo",
+    "gn:country_code":"ML",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451946,
+    "gn:latitude":13.03409,
+    "gn:longitude":-5.44917,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Safolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451946
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ea8dc5f579cea44513e6b3ca2c9d3246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562835,
+            "locality_id":1310410679,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1310410679,
+    "wof:lastmodified":1537051586,
+    "wof:name":"Safolo",
+    "wof:parent_id":1108562835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.44917,
+    13.03409,
+    -5.44917,
+    13.03409
+],
+  "geometry": {"coordinates":[-5.44917,13.03409],"type":"Point"}
+}

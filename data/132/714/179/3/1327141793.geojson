@@ -1,0 +1,67 @@
+{
+  "id": 1327141793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.03516,12.94302,-11.03516,12.94302",
+    "geom:latitude":12.94302,
+    "geom:longitude":-11.03516,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kalaboto",
+    "gn:country_code":"ML",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455911,
+    "gn:latitude":12.94302,
+    "gn:longitude":-11.03516,
+    "gn:modification_date":"2007-10-09",
+    "gn:name":"Kalaboto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455911
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d1e635cb0089ca971004b1843fa785cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171903,
+            "locality_id":1327141793,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1327141793,
+    "wof:lastmodified":1537096981,
+    "wof:name":"Kalaboto",
+    "wof:parent_id":421171903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.03516,
+    12.94302,
+    -11.03516,
+    12.94302
+],
+  "geometry": {"coordinates":[-11.03516,12.94302],"type":"Point"}
+}

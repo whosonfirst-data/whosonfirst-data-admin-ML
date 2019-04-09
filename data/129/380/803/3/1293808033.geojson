@@ -1,0 +1,67 @@
+{
+  "id": 1293808033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.08753,14.10827,-4.08753,14.10827",
+    "geom:latitude":14.10827,
+    "geom:longitude":-4.08753,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Perou",
+    "gn:country_code":"ML",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452094,
+    "gn:latitude":14.10827,
+    "gn:longitude":-4.08753,
+    "gn:modification_date":"2008-05-14",
+    "gn:name":"P\u00e9rou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421171975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452094
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0d89dd0fa2eb126ac8b2986c61b6e127",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171975,
+            "locality_id":1293808033,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1293808033,
+    "wof:lastmodified":1536821190,
+    "wof:name":"Perou",
+    "wof:parent_id":421171975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.08753,
+    14.10827,
+    -4.08753,
+    14.10827
+],
+  "geometry": {"coordinates":[-4.08753,14.10827],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209100537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.8433,12.5981,-7.8433,12.5981",
+    "geom:latitude":12.5981,
+    "geom:longitude":-7.8433,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Niamalabougou",
+    "gn:country_code":"ML",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594065,
+    "gn:latitude":12.5981,
+    "gn:longitude":-7.8433,
+    "gn:modification_date":"2008-11-07",
+    "gn:name":"Niamalabougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594065
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ab9814a95a84911b0542a5595d30bb8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209100537
+        }
+    ],
+    "wof:id":1209100537,
+    "wof:lastmodified":1536297748,
+    "wof:name":"Niamalabougou",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.8433,
+    12.5981,
+    -7.8433,
+    12.5981
+],
+  "geometry": {"coordinates":[-7.8433,12.5981],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259679455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.31385,16.1896,-3.31385,16.1896",
+    "geom:latitude":16.1896,
+    "geom:longitude":-3.31385,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Minessengue",
+    "gn:country_code":"ML",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453463,
+    "gn:latitude":16.1896,
+    "gn:longitude":-3.31385,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Min\u00e9ssengu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e9nissiague",
+        "Menissi\u00e9gu\u00e9",
+        "Min\u00e9ssengu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        421172359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453463
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"50a4ba1d57809f46cda25e664689c83c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421172359,
+            "locality_id":1259679455,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1259679455,
+    "wof:lastmodified":1537665114,
+    "wof:name":"Minessengue",
+    "wof:parent_id":421172359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.31385,
+    16.1896,
+    -3.31385,
+    16.1896
+],
+  "geometry": {"coordinates":[-3.31385,16.1896],"type":"Point"}
+}

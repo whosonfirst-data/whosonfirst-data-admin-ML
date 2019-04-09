@@ -1,0 +1,67 @@
+{
+  "id": 1343976045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.45,10.46667,-7.45,10.46667",
+    "geom:latitude":10.46667,
+    "geom:longitude":-7.45,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mongoyafara",
+    "gn:country_code":"ML",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453370,
+    "gn:latitude":10.46667,
+    "gn:longitude":-7.45,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Mongoyafara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453370
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7d58011fda6657e06340af1cf25a7b3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1343976045,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1343976045,
+    "wof:lastmodified":1536996770,
+    "wof:name":"Mongoyafara",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.45,
+    10.46667,
+    -7.45,
+    10.46667
+],
+  "geometry": {"coordinates":[-7.45,10.46667],"type":"Point"}
+}

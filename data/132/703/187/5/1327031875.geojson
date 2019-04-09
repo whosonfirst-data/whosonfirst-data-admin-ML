@@ -1,0 +1,67 @@
+{
+  "id": 1327031875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.2385,14.17427,-11.2385,14.17427",
+    "geom:latitude":14.17427,
+    "geom:longitude":-11.2385,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dinguira-Almamia",
+    "gn:country_code":"ML",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458770,
+    "gn:latitude":14.17427,
+    "gn:longitude":-11.2385,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Dinguira-Almamia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458770
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"cd54c9d5c8472879ab032319b06c8142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1327031875,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1327031875,
+    "wof:lastmodified":1536761425,
+    "wof:name":"Dinguira-Almamia",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.2385,
+    14.17427,
+    -11.2385,
+    14.17427
+],
+  "geometry": {"coordinates":[-11.2385,14.17427],"type":"Point"}
+}

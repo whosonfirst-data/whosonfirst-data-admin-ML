@@ -1,0 +1,66 @@
+{
+  "id": 1209629823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.03333,10.76667,-6.03333,10.76667",
+    "geom:latitude":10.76667,
+    "geom:longitude":-6.03333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mbembere",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453565,
+    "gn:latitude":10.76667,
+    "gn:longitude":-6.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mbemb\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbinmb\u00e9r\u00e9",
+        "Mbemb\u00e9r\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453565
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d8b3e21eaa5ec1074119e8f7149829c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209629823
+        }
+    ],
+    "wof:id":1209629823,
+    "wof:lastmodified":1537665117,
+    "wof:name":"Mbembere",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.03333,
+    10.76667,
+    -6.03333,
+    10.76667
+],
+  "geometry": {"coordinates":[-6.03333,10.76667],"type":"Point"}
+}

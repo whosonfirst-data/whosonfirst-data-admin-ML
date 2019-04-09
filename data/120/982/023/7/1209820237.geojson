@@ -1,0 +1,76 @@
+{
+  "id": 1209820237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.5183,12.7755,-6.5183,12.7755",
+    "geom:latitude":12.7755,
+    "geom:longitude":-6.5183,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Baguiba",
+    "gn:country_code":"ML",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460725,
+    "gn:latitude":12.7755,
+    "gn:longitude":-6.5183,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Baguiba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Baguiba"
+    ],
+    "name:fra_x_variant":[
+        "Bagiba"
+    ],
+    "name:und_x_variant":[
+        "Bagiba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460725
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5dbfa4644e0bfc42d064e13aeace72f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562837,
+            "locality_id":1209820237,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1209820237,
+    "wof:lastmodified":1537665275,
+    "wof:name":"Baguiba",
+    "wof:parent_id":1108562837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.5183,
+    12.7755,
+    -6.5183,
+    12.7755
+],
+  "geometry": {"coordinates":[-6.5183,12.7755],"type":"Point"}
+}

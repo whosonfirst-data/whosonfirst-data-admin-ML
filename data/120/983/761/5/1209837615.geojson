@@ -1,0 +1,71 @@
+{
+  "id": 1209837615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.55543,12.1303,-5.55543,12.1303",
+    "geom:latitude":12.1303,
+    "geom:longitude":-5.55543,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Siou",
+    "gn:country_code":"ML",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451071,
+    "gn:latitude":12.1303,
+    "gn:longitude":-5.55543,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Siou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sihou",
+        "Siou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451071
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"dc6b93d4eda81285a8ceca140d23b4f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1209837615,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1209837615,
+    "wof:lastmodified":1537665051,
+    "wof:name":"Siou",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.55543,
+    12.1303,
+    -5.55543,
+    12.1303
+],
+  "geometry": {"coordinates":[-5.55543,12.1303],"type":"Point"}
+}

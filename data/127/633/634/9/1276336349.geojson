@@ -1,0 +1,71 @@
+{
+  "id": 1276336349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.34102,14.65606,-11.34102,14.65606",
+    "geom:latitude":14.65606,
+    "geom:longitude":-11.34102,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tissi-Gansoye",
+    "gn:country_code":"ML",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449137,
+    "gn:latitude":14.65606,
+    "gn:longitude":-11.34102,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Tissi-Gansoye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tichy",
+        "Tissi-Gansoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449137
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"32c986bb54779cd4a0c6ed7a3b1cc951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1276336349,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1276336349,
+    "wof:lastmodified":1537665022,
+    "wof:name":"Tissi-Gansoye",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.34102,
+    14.65606,
+    -11.34102,
+    14.65606
+],
+  "geometry": {"coordinates":[-11.34102,14.65606],"type":"Point"}
+}

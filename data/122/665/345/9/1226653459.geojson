@@ -1,0 +1,67 @@
+{
+  "id": 1226653459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.63084,15.26516,-9.63084,15.26516",
+    "geom:latitude":15.26516,
+    "geom:longitude":-9.63084,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tougouni Rangabe",
+    "gn:country_code":"ML",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448933,
+    "gn:latitude":15.26516,
+    "gn:longitude":-9.63084,
+    "gn:modification_date":"2008-05-07",
+    "gn:name":"Tougouni Rangab\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448933
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"db4d3da33521f2419e3719f1b5e517d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562869,
+            "locality_id":1226653459,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1226653459,
+    "wof:lastmodified":1536847163,
+    "wof:name":"Tougouni Rangabe",
+    "wof:parent_id":1108562869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.63084,
+    15.26516,
+    -9.63084,
+    15.26516
+],
+  "geometry": {"coordinates":[-9.63084,15.26516],"type":"Point"}
+}

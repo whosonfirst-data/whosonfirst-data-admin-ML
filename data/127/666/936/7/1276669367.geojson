@@ -1,0 +1,67 @@
+{
+  "id": 1276669367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.9953,14.5879,-10.9953,14.5879",
+    "geom:latitude":14.5879,
+    "geom:longitude":-10.9953,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Batama",
+    "gn:country_code":"ML",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460245,
+    "gn:latitude":14.5879,
+    "gn:longitude":-10.9953,
+    "gn:modification_date":"2008-11-19",
+    "gn:name":"Batama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460245
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ade1e0f50a48e2d7bb1417311ad5c90c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1276669367,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1276669367,
+    "wof:lastmodified":1536824535,
+    "wof:name":"Batama",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.9953,
+    14.5879,
+    -10.9953,
+    14.5879
+],
+  "geometry": {"coordinates":[-10.9953,14.5879],"type":"Point"}
+}

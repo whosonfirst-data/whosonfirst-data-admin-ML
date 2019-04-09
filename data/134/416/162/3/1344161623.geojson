@@ -1,0 +1,67 @@
+{
+  "id": 1344161623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.52681,12.91118,-5.52681,12.91118",
+    "geom:latitude":12.91118,
+    "geom:longitude":-5.52681,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Namansiala",
+    "gn:country_code":"ML",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6861911,
+    "gn:latitude":12.91118,
+    "gn:longitude":-5.52681,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Namansiala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6861911
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"500867d44792941014c00ee14cdb11a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562835,
+            "locality_id":1344161623,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1344161623,
+    "wof:lastmodified":1536729959,
+    "wof:name":"Namansiala",
+    "wof:parent_id":1108562835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.52681,
+    12.91118,
+    -5.52681,
+    12.91118
+],
+  "geometry": {"coordinates":[-5.52681,12.91118],"type":"Point"}
+}

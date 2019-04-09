@@ -1,0 +1,65 @@
+{
+  "id": 1209300027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.72643,16.63221,-3.72643,16.63221",
+    "geom:latitude":16.63221,
+    "geom:longitude":-3.72643,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Karo-Kamba",
+    "gn:country_code":"ML",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455609,
+    "gn:latitude":16.63221,
+    "gn:longitude":-3.72643,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Karo-Kamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karaokomba",
+        "Karo-Kamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455609
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d4894d14d08b0180f9e948a2a7a7fcfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209300027
+        }
+    ],
+    "wof:id":1209300027,
+    "wof:lastmodified":1537665164,
+    "wof:name":"Karo-Kamba",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.72643,
+    16.63221,
+    -3.72643,
+    16.63221
+],
+  "geometry": {"coordinates":[-3.72643,16.63221],"type":"Point"}
+}

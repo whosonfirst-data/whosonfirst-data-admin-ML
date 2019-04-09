@@ -1,0 +1,67 @@
+{
+  "id": 1276653569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.97495,13.49336,-6.97495,13.49336",
+    "geom:latitude":13.49336,
+    "geom:longitude":-6.97495,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dole",
+    "gn:country_code":"ML",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458449,
+    "gn:latitude":13.49336,
+    "gn:longitude":-6.97495,
+    "gn:modification_date":"2008-11-18",
+    "gn:name":"Dol\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458449
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b5f2ccdb97725128d98836d910dd3646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562839,
+            "locality_id":1276653569,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1276653569,
+    "wof:lastmodified":1536845633,
+    "wof:name":"Dole",
+    "wof:parent_id":1108562839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.97495,
+    13.49336,
+    -6.97495,
+    13.49336
+],
+  "geometry": {"coordinates":[-6.97495,13.49336],"type":"Point"}
+}

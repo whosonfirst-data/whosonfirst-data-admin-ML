@@ -1,0 +1,72 @@
+{
+  "id": 1210038617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.8855,12.0977,-4.8855,12.0977",
+    "geom:latitude":12.0977,
+    "geom:longitude":-4.8855,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Gouele",
+    "gn:country_code":"ML",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456980,
+    "gn:latitude":12.0977,
+    "gn:longitude":-4.8855,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gou\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gouell\u00e9",
+        "Goull\u00e9",
+        "Gou\u00e9l\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456980
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"cb119f03fabf4ec62e7dcba1af1713cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562831,
+            "locality_id":1210038617,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1210038617,
+    "wof:lastmodified":1537665182,
+    "wof:name":"Gouele",
+    "wof:parent_id":1108562831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.8855,
+    12.0977,
+    -4.8855,
+    12.0977
+],
+  "geometry": {"coordinates":[-4.8855,12.0977],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343685943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.37629,14.2039,-3.37629,14.2039",
+    "geom:latitude":14.2039,
+    "geom:longitude":-3.37629,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Saourou",
+    "gn:country_code":"ML",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451605,
+    "gn:latitude":14.2039,
+    "gn:longitude":-3.37629,
+    "gn:modification_date":"2008-10-24",
+    "gn:name":"Saourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451605
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"81893674bf8ff2e74114cf3a518e3e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1343685943,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1343685943,
+    "wof:lastmodified":1536918917,
+    "wof:name":"Saourou",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.37629,
+    14.2039,
+    -3.37629,
+    14.2039
+],
+  "geometry": {"coordinates":[-3.37629,14.2039],"type":"Point"}
+}

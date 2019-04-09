@@ -1,0 +1,73 @@
+{
+  "id": 1327021537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.2295,14.1668,-7.2295,14.1668",
+    "geom:latitude":14.1668,
+    "geom:longitude":-7.2295,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Siguima",
+    "gn:country_code":"ML",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451191,
+    "gn:latitude":14.1668,
+    "gn:longitude":-7.2295,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Siguima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siguimana",
+        "Sigima",
+        "S\u00e9guimana",
+        "Siguima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451191
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4441dfd2b2d1a50a35a7ee46a4f01c03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562865,
+            "locality_id":1327021537,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1327021537,
+    "wof:lastmodified":1537665055,
+    "wof:name":"Siguima",
+    "wof:parent_id":1108562865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.2295,
+    14.1668,
+    -7.2295,
+    14.1668
+],
+  "geometry": {"coordinates":[-7.2295,14.1668],"type":"Point"}
+}

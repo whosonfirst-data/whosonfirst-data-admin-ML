@@ -1,0 +1,61 @@
+{
+  "id": 1209226195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.1006,14.6935,-9.1006,14.6935",
+    "geom:latitude":14.6935,
+    "geom:longitude":-9.1006,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bougoudala",
+    "gn:country_code":"ML",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459807,
+    "gn:latitude":14.6935,
+    "gn:longitude":-9.1006,
+    "gn:modification_date":"2008-11-18",
+    "gn:name":"Bougoudala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459807
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"aeedbc8438fa9d4aca3199e54e95c5ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209226195
+        }
+    ],
+    "wof:id":1209226195,
+    "wof:lastmodified":1536293792,
+    "wof:name":"Bougoudala",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.1006,
+    14.6935,
+    -9.1006,
+    14.6935
+],
+  "geometry": {"coordinates":[-9.1006,14.6935],"type":"Point"}
+}

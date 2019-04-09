@@ -1,0 +1,67 @@
+{
+  "id": 1310427707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.66253,12.3402,-5.66253,12.3402",
+    "geom:latitude":12.3402,
+    "geom:longitude":-5.66253,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Niamananso",
+    "gn:country_code":"ML",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452795,
+    "gn:latitude":12.3402,
+    "gn:longitude":-5.66253,
+    "gn:modification_date":"2008-10-24",
+    "gn:name":"Niamananso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452795
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0724506ea1e98eb1ff0017b64fa9e1b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1310427707,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1310427707,
+    "wof:lastmodified":1537028049,
+    "wof:name":"Niamananso",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.66253,
+    12.3402,
+    -5.66253,
+    12.3402
+],
+  "geometry": {"coordinates":[-5.66253,12.3402],"type":"Point"}
+}

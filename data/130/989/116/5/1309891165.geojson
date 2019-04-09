@@ -1,0 +1,67 @@
+{
+  "id": 1309891165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.4421,15.6354,-4.4421,15.6354",
+    "geom:latitude":15.6354,
+    "geom:longitude":-4.4421,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Simassi",
+    "gn:country_code":"ML",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451146,
+    "gn:latitude":15.6354,
+    "gn:longitude":-4.4421,
+    "gn:modification_date":"2008-01-03",
+    "gn:name":"Simassi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451146
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"606c174299be757e9c53c86a60d33f0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562871,
+            "locality_id":1309891165,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1309891165,
+    "wof:lastmodified":1536807804,
+    "wof:name":"Simassi",
+    "wof:parent_id":1108562871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4421,
+    15.6354,
+    -4.4421,
+    15.6354
+],
+  "geometry": {"coordinates":[-4.4421,15.6354],"type":"Point"}
+}

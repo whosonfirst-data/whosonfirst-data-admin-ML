@@ -1,0 +1,73 @@
+{
+  "id": 1276466107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.07611,11.12364,-6.07611,11.12364",
+    "geom:latitude":11.12364,
+    "geom:longitude":-6.07611,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Lobouala",
+    "gn:country_code":"ML",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454074,
+    "gn:latitude":11.12364,
+    "gn:longitude":-6.07611,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Lobouala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Loboala"
+    ],
+    "name:und_x_variant":[
+        "Loboala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454074
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6dab2ca49a6db63b676fd51480ab7c82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1276466107,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1276466107,
+    "wof:lastmodified":1537665128,
+    "wof:name":"Lobouala",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.07611,
+    11.12364,
+    -6.07611,
+    11.12364
+],
+  "geometry": {"coordinates":[-6.07611,11.12364],"type":"Point"}
+}

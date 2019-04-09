@@ -1,0 +1,67 @@
+{
+  "id": 1260176299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.54418,15.42622,-6.54418,15.42622",
+    "geom:latitude":15.42622,
+    "geom:longitude":-6.54418,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Samakou",
+    "gn:country_code":"ML",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6778154,
+    "gn:latitude":15.42622,
+    "gn:longitude":-6.54418,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Samakou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6778154
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4792956b1805728b94e313f07908e179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562865,
+            "locality_id":1260176299,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1260176299,
+    "wof:lastmodified":1536856681,
+    "wof:name":"Samakou",
+    "wof:parent_id":1108562865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.54418,
+    15.42622,
+    -6.54418,
+    15.42622
+],
+  "geometry": {"coordinates":[-6.54418,15.42622],"type":"Point"}
+}

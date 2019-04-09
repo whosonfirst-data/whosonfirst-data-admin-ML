@@ -1,0 +1,71 @@
+{
+  "id": 1293119841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.2599,15.8206,0.2599,15.8206",
+    "geom:latitude":15.8206,
+    "geom:longitude":0.2599,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Dangaberi",
+    "gn:country_code":"ML",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459368,
+    "gn:latitude":15.8206,
+    "gn:longitude":0.2599,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dangaberi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barab\u00e9ri",
+        "Dangaberi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        890418899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459368
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"fc0ec49c84975ced1a4d21d588456cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":890418899,
+            "locality_id":1293119841,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1293119841,
+    "wof:lastmodified":1537665244,
+    "wof:name":"Dangaberi",
+    "wof:parent_id":890418899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.2599,
+    15.8206,
+    0.2599,
+    15.8206
+],
+  "geometry": {"coordinates":[0.2599,15.8206],"type":"Point"}
+}

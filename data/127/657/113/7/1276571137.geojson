@@ -1,0 +1,71 @@
+{
+  "id": 1276571137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.03778,16.8827,-2.03778,16.8827",
+    "geom:latitude":16.8827,
+    "geom:longitude":-2.03778,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Nana Guinde",
+    "gn:country_code":"ML",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453129,
+    "gn:latitude":16.8827,
+    "gn:longitude":-2.03778,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nana Guind\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nana-Guindi",
+        "Nana Guind\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453129
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"233c77cb6c5a0f809ede58c70b4d455d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562891,
+            "locality_id":1276571137,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1276571137,
+    "wof:lastmodified":1537665105,
+    "wof:name":"Nana Guinde",
+    "wof:parent_id":1108562891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.03778,
+    16.8827,
+    -2.03778,
+    16.8827
+],
+  "geometry": {"coordinates":[-2.03778,16.8827],"type":"Point"}
+}

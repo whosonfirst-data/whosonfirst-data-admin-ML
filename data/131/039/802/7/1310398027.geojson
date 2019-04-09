@@ -1,0 +1,71 @@
+{
+  "id": 1310398027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.75227,11.77869,-7.75227,11.77869",
+    "geom:latitude":11.77869,
+    "geom:longitude":-7.75227,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Soulouba",
+    "gn:country_code":"ML",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450646,
+    "gn:latitude":11.77869,
+    "gn:longitude":-7.75227,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Soulouba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Souloula",
+        "Soulouba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450646
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0130c978f501d7ed04d81d9174a63151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1310398027,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1310398027,
+    "wof:lastmodified":1537665041,
+    "wof:name":"Soulouba",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.75227,
+    11.77869,
+    -7.75227,
+    11.77869
+],
+  "geometry": {"coordinates":[-7.75227,11.77869],"type":"Point"}
+}

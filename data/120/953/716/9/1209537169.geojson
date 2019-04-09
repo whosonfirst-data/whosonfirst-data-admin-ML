@@ -1,0 +1,65 @@
+{
+  "id": 1209537169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.60094,13.10513,-7.60094,13.10513",
+    "geom:latitude":13.10513,
+    "geom:longitude":-7.60094,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sokorola",
+    "gn:country_code":"ML",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450665,
+    "gn:latitude":13.10513,
+    "gn:longitude":-7.60094,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Sokorola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soukorola",
+        "Sokorola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450665
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"587b53c7bec85945d7b86ee3cd45df0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209537169
+        }
+    ],
+    "wof:id":1209537169,
+    "wof:lastmodified":1537665041,
+    "wof:name":"Sokorola",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.60094,
+    13.10513,
+    -7.60094,
+    13.10513
+],
+  "geometry": {"coordinates":[-7.60094,13.10513],"type":"Point"}
+}

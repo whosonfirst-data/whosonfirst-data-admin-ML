@@ -1,0 +1,71 @@
+{
+  "id": 1277098727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.20388,11.367,-7.20388,11.367",
+    "geom:latitude":11.367,
+    "geom:longitude":-7.20388,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Zaniela",
+    "gn:country_code":"ML",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448347,
+    "gn:latitude":11.367,
+    "gn:longitude":-7.20388,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Zani\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zandi\u00e9la",
+        "Zani\u00e9la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448347
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"bcb73e0fedb8d5c90102492c88a6c5bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1277098727,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1277098727,
+    "wof:lastmodified":1537664999,
+    "wof:name":"Zaniela",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.20388,
+    11.367,
+    -7.20388,
+    11.367
+],
+  "geometry": {"coordinates":[-7.20388,11.367],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259806417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.5056,13.3105,-6.5056,13.3105",
+    "geom:latitude":13.3105,
+    "geom:longitude":-6.5056,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ngara",
+    "gn:country_code":"ML",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452900,
+    "gn:latitude":13.3105,
+    "gn:longitude":-6.5056,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ngara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gara",
+        "Ngara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452900
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f65f2a934b62fa52a5cfbb9976577afe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562837,
+            "locality_id":1259806417,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1259806417,
+    "wof:lastmodified":1537665099,
+    "wof:name":"Ngara",
+    "wof:parent_id":1108562837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.5056,
+    13.3105,
+    -6.5056,
+    13.3105
+],
+  "geometry": {"coordinates":[-6.5056,13.3105],"type":"Point"}
+}

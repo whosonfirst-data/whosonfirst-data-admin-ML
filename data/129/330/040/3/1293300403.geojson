@@ -1,0 +1,68 @@
+{
+  "id": 1293300403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.2805,14.62791,-11.2805,14.62791",
+    "geom:latitude":14.62791,
+    "geom:longitude":-11.2805,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Guidibine",
+    "gn:country_code":"ML",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456758,
+    "gn:latitude":14.62791,
+    "gn:longitude":-11.2805,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Guidibine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456758,
+        "wk:page":"Gu%C3%A9d%C3%A9bin%C3%A9"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"27f478a39f510cc0eb86baf05e58d332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1293300403,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1293300403,
+    "wof:lastmodified":1537568425,
+    "wof:name":"Guidibine",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.2805,
+    14.62791,
+    -11.2805,
+    14.62791
+],
+  "geometry": {"coordinates":[-11.2805,14.62791],"type":"Point"}
+}

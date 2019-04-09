@@ -1,0 +1,67 @@
+{
+  "id": 1293394881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.82275,13.82821,-5.82275,13.82821",
+    "geom:latitude":13.82821,
+    "geom:longitude":-5.82275,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bangaka",
+    "gn:country_code":"ML",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880222,
+    "gn:latitude":13.82821,
+    "gn:longitude":-5.82275,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Bangaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880222
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ca669fa595da6307325280e88dedc67d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":1293394881,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1293394881,
+    "wof:lastmodified":1536921129,
+    "wof:name":"Bangaka",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.82275,
+    13.82821,
+    -5.82275,
+    13.82821
+],
+  "geometry": {"coordinates":[-5.82275,13.82821],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326729551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.37506,13.70275,-6.37506,13.70275",
+    "geom:latitude":13.70275,
+    "geom:longitude":-6.37506,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Samango",
+    "gn:country_code":"ML",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451835,
+    "gn:latitude":13.70275,
+    "gn:longitude":-6.37506,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Samango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samankou",
+        "Samango"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451835
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"dd44c50aec3f9f54e0ab271ca337c235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1326729551,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1326729551,
+    "wof:lastmodified":1537665071,
+    "wof:name":"Samango",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.37506,
+    13.70275,
+    -6.37506,
+    13.70275
+],
+  "geometry": {"coordinates":[-6.37506,13.70275],"type":"Point"}
+}

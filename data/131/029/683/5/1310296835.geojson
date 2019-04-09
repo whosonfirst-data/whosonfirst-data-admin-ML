@@ -1,0 +1,67 @@
+{
+  "id": 1310296835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.49943,13.28427,-7.49943,13.28427",
+    "geom:latitude":13.28427,
+    "geom:longitude":-7.49943,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bandiougoula",
+    "gn:country_code":"ML",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6906855,
+    "gn:latitude":13.28427,
+    "gn:longitude":-7.49943,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Bandiougoula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6906855
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7e6125eda92782bcb56c452b01cc3092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562839,
+            "locality_id":1310296835,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1310296835,
+    "wof:lastmodified":1536720831,
+    "wof:name":"Bandiougoula",
+    "wof:parent_id":1108562839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.49943,
+    13.28427,
+    -7.49943,
+    13.28427
+],
+  "geometry": {"coordinates":[-7.49943,13.28427],"type":"Point"}
+}

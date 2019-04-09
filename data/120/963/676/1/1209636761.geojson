@@ -1,0 +1,65 @@
+{
+  "id": 1209636761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.98813,13.68536,-7.98813,13.68536",
+    "geom:latitude":13.68536,
+    "geom:longitude":-7.98813,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tao",
+    "gn:country_code":"ML",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450177,
+    "gn:latitude":13.68536,
+    "gn:longitude":-7.98813,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Tao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taou",
+        "Tao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450177
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7188306fda20f746b236a3e9bdb6d0fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209636761
+        }
+    ],
+    "wof:id":1209636761,
+    "wof:lastmodified":1537665034,
+    "wof:name":"Tao",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.98813,
+    13.68536,
+    -7.98813,
+    13.68536
+],
+  "geometry": {"coordinates":[-7.98813,13.68536],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292928085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.90854,11.63463,-6.90854,11.63463",
+    "geom:latitude":11.63463,
+    "geom:longitude":-6.90854,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sokela",
+    "gn:country_code":"ML",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910138,
+    "gn:latitude":11.63463,
+    "gn:longitude":-6.90854,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Sok\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910138
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5b2284bf942d0bc3f0d83b8dfc5d79bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1292928085,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1292928085,
+    "wof:lastmodified":1537093412,
+    "wof:name":"Sokela",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.90854,
+    11.63463,
+    -6.90854,
+    11.63463
+],
+  "geometry": {"coordinates":[-6.90854,11.63463],"type":"Point"}
+}

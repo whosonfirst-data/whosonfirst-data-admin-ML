@@ -1,0 +1,72 @@
+{
+  "id": 1242678387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.89677,14.92525,-3.89677,14.92525",
+    "geom:latitude":14.92525,
+    "geom:longitude":-3.89677,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sama",
+    "gn:country_code":"ML",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451866,
+    "gn:latitude":14.92525,
+    "gn:longitude":-3.89677,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sana",
+        "Sanabougou",
+        "Sama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451866
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4d7b59994482d9915660586645cb7129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1242678387,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1242678387,
+    "wof:lastmodified":1537665072,
+    "wof:name":"Sama",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.89677,
+    14.92525,
+    -3.89677,
+    14.92525
+],
+  "geometry": {"coordinates":[-3.89677,14.92525],"type":"Point"}
+}

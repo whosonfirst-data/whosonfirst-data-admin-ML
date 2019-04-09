@@ -1,0 +1,70 @@
+{
+  "id": 1226344101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.6931,13.7021,-8.6931,13.7021",
+    "geom:latitude":13.7021,
+    "geom:longitude":-8.6931,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Niantelela",
+    "gn:country_code":"ML",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452755,
+    "gn:latitude":13.7021,
+    "gn:longitude":-8.6931,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Niant\u00e9l\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Niant\u00e9l\u00e9la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452755
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f514d49a3034e93190ead49e1e09efd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1226344101,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1226344101,
+    "wof:lastmodified":1537665095,
+    "wof:name":"Niantelela",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.6931,
+    13.7021,
+    -8.6931,
+    13.7021
+],
+  "geometry": {"coordinates":[-8.6931,13.7021],"type":"Point"}
+}

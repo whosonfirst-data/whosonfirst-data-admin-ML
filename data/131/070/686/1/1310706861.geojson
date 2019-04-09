@@ -1,0 +1,72 @@
+{
+  "id": 1310706861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.5397,12.8516,-4.5397,12.8516",
+    "geom:latitude":12.8516,
+    "geom:longitude":-4.5397,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Touba",
+    "gn:country_code":"ML",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448963,
+    "gn:latitude":12.8516,
+    "gn:longitude":-4.5397,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Touba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuba",
+        "Touba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448963,
+        "wk:page":"Touba%2C_Mali"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"58bbfdc18d6ad51ad360d8c57e6ebe94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562843,
+            "locality_id":1310706861,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1310706861,
+    "wof:lastmodified":1537665017,
+    "wof:name":"Touba",
+    "wof:parent_id":1108562843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.5397,
+    12.8516,
+    -4.5397,
+    12.8516
+],
+  "geometry": {"coordinates":[-4.5397,12.8516],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293610547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.5243,12.1885,-6.5243,12.1885",
+    "geom:latitude":12.1885,
+    "geom:longitude":-6.5243,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Koula",
+    "gn:country_code":"ML",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454546,
+    "gn:latitude":12.1885,
+    "gn:longitude":-6.5243,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Koula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454546
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e1fe3581f1cf509da23e7a60e80c14ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1293610547,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1293610547,
+    "wof:lastmodified":1537665138,
+    "wof:name":"Koula",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.5243,
+    12.1885,
+    -6.5243,
+    12.1885
+],
+  "geometry": {"coordinates":[-6.5243,12.1885],"type":"Point"}
+}

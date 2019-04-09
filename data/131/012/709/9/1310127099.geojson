@@ -1,0 +1,76 @@
+{
+  "id": 1310127099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.1983,13.6544,-8.1983,13.6544",
+    "geom:latitude":13.6544,
+    "geom:longitude":-8.1983,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bohidinie",
+    "gn:country_code":"ML",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459964,
+    "gn:latitude":13.6544,
+    "gn:longitude":-8.1983,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bohidini\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bohidini\u00e9"
+    ],
+    "name:fra_x_variant":[
+        "Bo\u00efdigu\u00e9"
+    ],
+    "name:und_x_variant":[
+        "Bo\u00efdigu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459964
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a231b56b2035856509cf9a90a9082547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":1310127099,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1310127099,
+    "wof:lastmodified":1537665258,
+    "wof:name":"Bohidinie",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.1983,
+    13.6544,
+    -8.1983,
+    13.6544
+],
+  "geometry": {"coordinates":[-8.1983,13.6544],"type":"Point"}
+}

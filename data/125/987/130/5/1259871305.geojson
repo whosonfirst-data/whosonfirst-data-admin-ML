@@ -1,0 +1,70 @@
+{
+  "id": 1259871305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.2114,13.214,-8.2114,13.214",
+    "geom:latitude":13.214,
+    "geom:longitude":-8.2114,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Torobougou",
+    "gn:country_code":"ML",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448998,
+    "gn:latitude":13.214,
+    "gn:longitude":-8.2114,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Torobougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Torobougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448998
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ff91b9556b7bedaaa1d69732bbe2e3a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":1259871305,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1259871305,
+    "wof:lastmodified":1537665018,
+    "wof:name":"Torobougou",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.2114,
+    13.214,
+    -8.2114,
+    13.214
+],
+  "geometry": {"coordinates":[-8.2114,13.214],"type":"Point"}
+}

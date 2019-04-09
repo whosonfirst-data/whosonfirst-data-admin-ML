@@ -1,0 +1,68 @@
+{
+  "id": 1225830679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.1145,16.01198,-4.1145,16.01198",
+    "geom:latitude":16.01198,
+    "geom:longitude":-4.1145,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tondidarou",
+    "gn:country_code":"ML",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6847265,
+    "gn:latitude":16.01198,
+    "gn:longitude":-4.1145,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Tondidarou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6847265,
+        "wk:page":"Tondidarou"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"164551d23e35ad1ef84b6bef162fb6cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562873,
+            "locality_id":1225830679,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1225830679,
+    "wof:lastmodified":1537568439,
+    "wof:name":"Tondidarou",
+    "wof:parent_id":1108562873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.1145,
+    16.01198,
+    -4.1145,
+    16.01198
+],
+  "geometry": {"coordinates":[-4.1145,16.01198],"type":"Point"}
+}

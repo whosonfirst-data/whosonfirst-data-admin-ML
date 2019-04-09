@@ -1,0 +1,71 @@
+{
+  "id": 1327339685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.1609,15.10766,-2.1609,15.10766",
+    "geom:latitude":15.10766,
+    "geom:longitude":-2.1609,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ouro Nguerou",
+    "gn:country_code":"ML",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452183,
+    "gn:latitude":15.10766,
+    "gn:longitude":-2.1609,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ouro Ngu\u00e9rou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouro Ng\u00e9rou",
+        "Ouro Ngu\u00e9rou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452183
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"385e11afb87c5267007d7f8ffb5c3c91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1327339685,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1327339685,
+    "wof:lastmodified":1537665077,
+    "wof:name":"Ouro Nguerou",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.1609,
+    15.10766,
+    -2.1609,
+    15.10766
+],
+  "geometry": {"coordinates":[-2.1609,15.10766],"type":"Point"}
+}

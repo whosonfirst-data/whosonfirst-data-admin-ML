@@ -1,0 +1,67 @@
+{
+  "id": 1242782589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.2999,13.4663,-6.2999,13.4663",
+    "geom:latitude":13.4663,
+    "geom:longitude":-6.2999,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kala Ouere",
+    "gn:country_code":"ML",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910804,
+    "gn:latitude":13.4663,
+    "gn:longitude":-6.2999,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Kala Ou\u00e8r\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910804
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"704c15ef84ebdf8aa8d852cf6d7f11a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1242782589,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1242782589,
+    "wof:lastmodified":1536768829,
+    "wof:name":"Kala Ouere",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.2999,
+    13.4663,
+    -6.2999,
+    13.4663
+],
+  "geometry": {"coordinates":[-6.2999,13.4663],"type":"Point"}
+}

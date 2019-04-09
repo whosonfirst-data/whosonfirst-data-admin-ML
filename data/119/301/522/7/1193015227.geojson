@@ -1,0 +1,71 @@
+{
+  "id": 1193015227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.26933,13.09987,-5.26933,13.09987",
+    "geom:latitude":13.09987,
+    "geom:longitude":-5.26933,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Wakoro",
+    "gn:country_code":"ML",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452364,
+    "gn:latitude":13.09987,
+    "gn:longitude":-5.26933,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Wakoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouakoro",
+        "Wakoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452364
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7d327b12b0501a1adf43384ace4b4098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562835,
+            "locality_id":1193015227,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1193015227,
+    "wof:lastmodified":1537665082,
+    "wof:name":"Wakoro",
+    "wof:parent_id":1108562835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.26933,
+    13.09987,
+    -5.26933,
+    13.09987
+],
+  "geometry": {"coordinates":[-5.26933,13.09987],"type":"Point"}
+}

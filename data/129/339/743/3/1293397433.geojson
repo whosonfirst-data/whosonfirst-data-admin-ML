@@ -1,0 +1,67 @@
+{
+  "id": 1293397433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.65474,15.32844,-9.65474,15.32844",
+    "geom:latitude":15.32844,
+    "geom:longitude":-9.65474,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Amadi Oumourou",
+    "gn:country_code":"ML",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2461119,
+    "gn:latitude":15.32844,
+    "gn:longitude":-9.65474,
+    "gn:modification_date":"2008-05-07",
+    "gn:name":"Amadi Oumourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2461119
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"46dd7b266748b248da3ac077dfbbe9c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562869,
+            "locality_id":1293397433,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1293397433,
+    "wof:lastmodified":1536917290,
+    "wof:name":"Amadi Oumourou",
+    "wof:parent_id":1108562869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.65474,
+    15.32844,
+    -9.65474,
+    15.32844
+],
+  "geometry": {"coordinates":[-9.65474,15.32844],"type":"Point"}
+}

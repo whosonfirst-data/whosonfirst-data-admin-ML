@@ -1,0 +1,67 @@
+{
+  "id": 1293106265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.54066,14.08205,-11.54066,14.08205",
+    "geom:latitude":14.08205,
+    "geom:longitude":-11.54066,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Faga",
+    "gn:country_code":"ML",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457840,
+    "gn:latitude":14.08205,
+    "gn:longitude":-11.54066,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Faga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457840
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1621ace7e2938aaa868f6e9446159662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1293106265,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1293106265,
+    "wof:lastmodified":1536838594,
+    "wof:name":"Faga",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.54066,
+    14.08205,
+    -11.54066,
+    14.08205
+],
+  "geometry": {"coordinates":[-11.54066,14.08205],"type":"Point"}
+}

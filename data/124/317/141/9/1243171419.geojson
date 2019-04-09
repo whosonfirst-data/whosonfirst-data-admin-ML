@@ -1,0 +1,67 @@
+{
+  "id": 1243171419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.53076,13.95359,-5.53076,13.95359",
+    "geom:latitude":13.95359,
+    "geom:longitude":-5.53076,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Nara",
+    "gn:country_code":"ML",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880284,
+    "gn:latitude":13.95359,
+    "gn:longitude":-5.53076,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Nara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880284
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d367bb28580e0abad44acda2c4ea5105",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":1243171419,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1243171419,
+    "wof:lastmodified":1536705355,
+    "wof:name":"Nara",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.53076,
+    13.95359,
+    -5.53076,
+    13.95359
+],
+  "geometry": {"coordinates":[-5.53076,13.95359],"type":"Point"}
+}

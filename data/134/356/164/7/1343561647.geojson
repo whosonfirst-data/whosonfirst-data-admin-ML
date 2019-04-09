@@ -1,0 +1,67 @@
+{
+  "id": 1343561647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.74818,15.34831,-1.74818,15.34831",
+    "geom:latitude":15.34831,
+    "geom:longitude":-1.74818,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Honde",
+    "gn:country_code":"ML",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6869671,
+    "gn:latitude":15.34831,
+    "gn:longitude":-1.74818,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Hond\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6869671
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"68d0a435faa28f191d7882ffb33bf2bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1343561647,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1343561647,
+    "wof:lastmodified":1537094551,
+    "wof:name":"Honde",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.74818,
+    15.34831,
+    -1.74818,
+    15.34831
+],
+  "geometry": {"coordinates":[-1.74818,15.34831],"type":"Point"}
+}

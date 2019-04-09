@@ -1,0 +1,67 @@
+{
+  "id": 1226454217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.17137,14.51294,-11.17137,14.51294",
+    "geom:latitude":14.51294,
+    "geom:longitude":-11.17137,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Niamiga",
+    "gn:country_code":"ML",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452786,
+    "gn:latitude":14.51294,
+    "gn:longitude":-11.17137,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Niamiga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452786
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d6a60bb121c8df57413f15d5990d9b66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1226454217,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1226454217,
+    "wof:lastmodified":1536631708,
+    "wof:name":"Niamiga",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.17137,
+    14.51294,
+    -11.17137,
+    14.51294
+],
+  "geometry": {"coordinates":[-11.17137,14.51294],"type":"Point"}
+}

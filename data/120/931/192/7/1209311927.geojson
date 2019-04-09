@@ -1,0 +1,61 @@
+{
+  "id": 1209311927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.05583,12.4399,-5.05583,12.4399",
+    "geom:latitude":12.4399,
+    "geom:longitude":-5.05583,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Morosso",
+    "gn:country_code":"ML",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453307,
+    "gn:latitude":12.4399,
+    "gn:longitude":-5.05583,
+    "gn:modification_date":"2008-10-24",
+    "gn:name":"Morosso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453307
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"64b8a8185ef810a2ccec5b01474e2032",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209311927
+        }
+    ],
+    "wof:id":1209311927,
+    "wof:lastmodified":1536290998,
+    "wof:name":"Morosso",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.05583,
+    12.4399,
+    -5.05583,
+    12.4399
+],
+  "geometry": {"coordinates":[-5.05583,12.4399],"type":"Point"}
+}

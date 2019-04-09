@@ -1,0 +1,67 @@
+{
+  "id": 1276549141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.01209,15.17936,-11.01209,15.17936",
+    "geom:latitude":15.17936,
+    "geom:longitude":-11.01209,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Manina Bereli",
+    "gn:country_code":"ML",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6652231,
+    "gn:latitude":15.17936,
+    "gn:longitude":-11.01209,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Manina B\u00e9r\u00e9li",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6652231
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"fb57650fce9c5402c424735b5dc18e4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1276549141,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1276549141,
+    "wof:lastmodified":1536986026,
+    "wof:name":"Manina Bereli",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.01209,
+    15.17936,
+    -11.01209,
+    15.17936
+],
+  "geometry": {"coordinates":[-11.01209,15.17936],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259575023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.4719,12.3788,-7.4719,12.3788",
+    "geom:latitude":12.3788,
+    "geom:longitude":-7.4719,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Diemabougou",
+    "gn:country_code":"ML",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593973,
+    "gn:latitude":12.3788,
+    "gn:longitude":-7.4719,
+    "gn:modification_date":"2008-11-07",
+    "gn:name":"Di\u00e9mabougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        421177883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593973
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2380e28a6832bc21210eb70c9e33e47a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177883,
+            "locality_id":1259575023,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1259575023,
+    "wof:lastmodified":1536727451,
+    "wof:name":"Diemabougou",
+    "wof:parent_id":421177883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.4719,
+    12.3788,
+    -7.4719,
+    12.3788
+],
+  "geometry": {"coordinates":[-7.4719,12.3788],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309709941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.09971,10.70753,-8.09971,10.70753",
+    "geom:latitude":10.70753,
+    "geom:longitude":-8.09971,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dabaran",
+    "gn:country_code":"ML",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11428511,
+    "gn:latitude":10.70753,
+    "gn:longitude":-8.09971,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Dabaran",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11428511
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1ee7b4b1b557c40fdd7638b31d610515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562821,
+            "locality_id":1309709941,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1309709941,
+    "wof:lastmodified":1537066432,
+    "wof:name":"Dabaran",
+    "wof:parent_id":1108562821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.09971,
+    10.70753,
+    -8.09971,
+    10.70753
+],
+  "geometry": {"coordinates":[-8.09971,10.70753],"type":"Point"}
+}

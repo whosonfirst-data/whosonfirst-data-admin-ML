@@ -1,0 +1,64 @@
+{
+  "id": 1209038311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.6767,12.9833,-6.6767,12.9833",
+    "geom:latitude":12.9833,
+    "geom:longitude":-6.6767,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ngabakoro",
+    "gn:country_code":"ML",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452924,
+    "gn:latitude":12.9833,
+    "gn:longitude":-6.6767,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ngabakoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ngabakoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452924
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"37fee8cfa658f14e6b66d98afb3c9166",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209038311
+        }
+    ],
+    "wof:id":1209038311,
+    "wof:lastmodified":1537665100,
+    "wof:name":"Ngabakoro",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.6767,
+    12.9833,
+    -6.6767,
+    12.9833
+],
+  "geometry": {"coordinates":[-6.6767,12.9833],"type":"Point"}
+}

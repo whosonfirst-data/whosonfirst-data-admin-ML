@@ -1,0 +1,67 @@
+{
+  "id": 1327345123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.50676,15.49159,-11.50676,15.49159",
+    "geom:latitude":15.49159,
+    "geom:longitude":-11.50676,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bonie",
+    "gn:country_code":"ML",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459915,
+    "gn:latitude":15.49159,
+    "gn:longitude":-11.50676,
+    "gn:modification_date":"2007-09-24",
+    "gn:name":"Boni\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459915
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a5f82a0888f22c41a25da56d060526fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1327345123,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1327345123,
+    "wof:lastmodified":1536806556,
+    "wof:name":"Bonie",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.50676,
+    15.49159,
+    -11.50676,
+    15.49159
+],
+  "geometry": {"coordinates":[-11.50676,15.49159],"type":"Point"}
+}

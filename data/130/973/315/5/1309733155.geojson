@@ -1,0 +1,71 @@
+{
+  "id": 1309733155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.02662,15.21476,-8.02662,15.21476",
+    "geom:latitude":15.21476,
+    "geom:longitude":-8.02662,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gemoune",
+    "gn:country_code":"ML",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6642003,
+    "gn:latitude":15.21476,
+    "gn:longitude":-8.02662,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"G\u00e9moun\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tou\u00e9rmit",
+        "G\u00e9moun\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6642003
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"91a1ba18c6b5205c7a54aa7cc067777a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562865,
+            "locality_id":1309733155,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1309733155,
+    "wof:lastmodified":1537665284,
+    "wof:name":"Gemoune",
+    "wof:parent_id":1108562865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.02662,
+    15.21476,
+    -8.02662,
+    15.21476
+],
+  "geometry": {"coordinates":[-8.02662,15.21476],"type":"Point"}
+}

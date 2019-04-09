@@ -1,0 +1,68 @@
+{
+  "id": 1276331879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.77062,11.42738,-7.77062,11.42738",
+    "geom:latitude":11.42738,
+    "geom:longitude":-7.77062,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sibirila",
+    "gn:country_code":"ML",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451252,
+    "gn:latitude":11.42738,
+    "gn:longitude":-7.77062,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Sibirila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451252,
+        "wk:page":"Sibirila"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"efeb6f11efa84ce85678f0510c59d73b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1276331879,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1276331879,
+    "wof:lastmodified":1537568408,
+    "wof:name":"Sibirila",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.77062,
+    11.42738,
+    -7.77062,
+    11.42738
+],
+  "geometry": {"coordinates":[-7.77062,11.42738],"type":"Point"}
+}

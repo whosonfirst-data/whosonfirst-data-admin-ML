@@ -1,0 +1,74 @@
+{
+  "id": 1226363875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.7582,12.2356,-6.7582,12.2356",
+    "geom:latitude":12.2356,
+    "geom:longitude":-6.7582,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Segueye",
+    "gn:country_code":"ML",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451448,
+    "gn:latitude":12.2356,
+    "gn:longitude":-6.7582,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u00e8gueye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "S\u00e8geye"
+    ],
+    "name:und_x_variant":[
+        "S\u00e8gueye",
+        "S\u00e8geye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451448
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"39bca64c510fc4f1a9f2c33df0ca15c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1226363875,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1226363875,
+    "wof:lastmodified":1537665061,
+    "wof:name":"Segueye",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.7582,
+    12.2356,
+    -6.7582,
+    12.2356
+],
+  "geometry": {"coordinates":[-6.7582,12.2356],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243164671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.92896,11.72187,-6.92896,11.72187",
+    "geom:latitude":11.72187,
+    "geom:longitude":-6.92896,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Yeni",
+    "gn:country_code":"ML",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448484,
+    "gn:latitude":11.72187,
+    "gn:longitude":-6.92896,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Y\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Y\u00e9ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448484
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1bb095a578b2005669c08a84632a53ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1243164671,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1243164671,
+    "wof:lastmodified":1537665003,
+    "wof:name":"Yeni",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.92896,
+    11.72187,
+    -6.92896,
+    11.72187
+],
+  "geometry": {"coordinates":[-6.92896,11.72187],"type":"Point"}
+}

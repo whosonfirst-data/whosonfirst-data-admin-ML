@@ -1,0 +1,67 @@
+{
+  "id": 1260173203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.23053,15.14611,-7.23053,15.14611",
+    "geom:latitude":15.14611,
+    "geom:longitude":-7.23053,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Debay Marhad",
+    "gn:country_code":"ML",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6779109,
+    "gn:latitude":15.14611,
+    "gn:longitude":-7.23053,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Debay Marhad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6779109
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8e2b9d36cecc1dfb5539ef699973a16a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562865,
+            "locality_id":1260173203,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1260173203,
+    "wof:lastmodified":1536860678,
+    "wof:name":"Debay Marhad",
+    "wof:parent_id":1108562865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.23053,
+    15.14611,
+    -7.23053,
+    15.14611
+],
+  "geometry": {"coordinates":[-7.23053,15.14611],"type":"Point"}
+}

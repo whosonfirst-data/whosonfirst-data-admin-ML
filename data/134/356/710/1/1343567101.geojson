@@ -1,0 +1,67 @@
+{
+  "id": 1343567101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.1874,13.9713,-3.1874,13.9713",
+    "geom:latitude":13.9713,
+    "geom:longitude":-3.1874,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Demoro",
+    "gn:country_code":"ML",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6875012,
+    "gn:latitude":13.9713,
+    "gn:longitude":-3.1874,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"D\u00e9moro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6875012
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a8b682c3a10d1371b4c739872f87b196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1343567101,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1343567101,
+    "wof:lastmodified":1537086630,
+    "wof:name":"Demoro",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.1874,
+    13.9713,
+    -3.1874,
+    13.9713
+],
+  "geometry": {"coordinates":[-3.1874,13.9713],"type":"Point"}
+}

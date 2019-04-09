@@ -1,0 +1,67 @@
+{
+  "id": 1209925871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.00909,14.40127,-11.00909,14.40127",
+    "geom:latitude":14.40127,
+    "geom:longitude":-11.00909,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sonio",
+    "gn:country_code":"ML",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450766,
+    "gn:latitude":14.40127,
+    "gn:longitude":-11.00909,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Sonio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450766
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"dd14c1130f5b98723886bf050f0c8b8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1209925871,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1209925871,
+    "wof:lastmodified":1536394938,
+    "wof:name":"Sonio",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.00909,
+    14.40127,
+    -11.00909,
+    14.40127
+],
+  "geometry": {"coordinates":[-11.00909,14.40127],"type":"Point"}
+}

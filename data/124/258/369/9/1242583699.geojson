@@ -1,0 +1,71 @@
+{
+  "id": 1242583699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.68983,14.82327,-4.68983,14.82327",
+    "geom:latitude":14.82327,
+    "geom:longitude":-4.68983,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Koubitera",
+    "gn:country_code":"ML",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454578,
+    "gn:latitude":14.82327,
+    "gn:longitude":-4.68983,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koubit\u00e9ra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koubi",
+        "Koubit\u00e9ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454578
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"bb7dcf9a284a53d1954a429ba7ea5c61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562861,
+            "locality_id":1242583699,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1242583699,
+    "wof:lastmodified":1537665138,
+    "wof:name":"Koubitera",
+    "wof:parent_id":1108562861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.68983,
+    14.82327,
+    -4.68983,
+    14.82327
+],
+  "geometry": {"coordinates":[-4.68983,14.82327],"type":"Point"}
+}

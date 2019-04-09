@@ -1,0 +1,71 @@
+{
+  "id": 1309790303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.4526,15.6019,0.4526,15.6019",
+    "geom:latitude":15.6019,
+    "geom:longitude":0.4526,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Golya",
+    "gn:country_code":"ML",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457064,
+    "gn:latitude":15.6019,
+    "gn:longitude":0.4526,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Golya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gol\u00e9a",
+        "Golya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        890418903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457064
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"44689dc4d27be6c5bc165d1d5ec161a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":890418903,
+            "locality_id":1309790303,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1309790303,
+    "wof:lastmodified":1537665184,
+    "wof:name":"Golya",
+    "wof:parent_id":890418903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.4526,
+    15.6019,
+    0.4526,
+    15.6019
+],
+  "geometry": {"coordinates":[0.4526,15.6019],"type":"Point"}
+}

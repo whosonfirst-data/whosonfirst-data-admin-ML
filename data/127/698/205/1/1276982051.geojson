@@ -1,0 +1,67 @@
+{
+  "id": 1276982051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.8042,14.0515,-9.8042,14.0515",
+    "geom:latitude":14.0515,
+    "geom:longitude":-9.8042,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Boundourolo",
+    "gn:country_code":"ML",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459688,
+    "gn:latitude":14.0515,
+    "gn:longitude":-9.8042,
+    "gn:modification_date":"2008-11-18",
+    "gn:name":"Boundourolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459688
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"94dda021ffea5813e9aba8bcc331e82d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1276982051,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1276982051,
+    "wof:lastmodified":1536904425,
+    "wof:name":"Boundourolo",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.8042,
+    14.0515,
+    -9.8042,
+    14.0515
+],
+  "geometry": {"coordinates":[-9.8042,14.0515],"type":"Point"}
+}

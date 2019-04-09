@@ -1,0 +1,67 @@
+{
+  "id": 1292905349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.19247,14.08187,-11.19247,14.08187",
+    "geom:latitude":14.08187,
+    "geom:longitude":-11.19247,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Marania",
+    "gn:country_code":"ML",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453715,
+    "gn:latitude":14.08187,
+    "gn:longitude":-11.19247,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Marania",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453715
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"feb63095731678062091ca68ea75998c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1292905349,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1292905349,
+    "wof:lastmodified":1536630578,
+    "wof:name":"Marania",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.19247,
+    14.08187,
+    -11.19247,
+    14.08187
+],
+  "geometry": {"coordinates":[-11.19247,14.08187],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293613255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.77463,14.33426,-4.77463,14.33426",
+    "geom:latitude":14.33426,
+    "geom:longitude":-4.77463,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ganguel",
+    "gn:country_code":"ML",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457173,
+    "gn:latitude":14.33426,
+    "gn:longitude":-4.77463,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ganguel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ganguei",
+        "Ganguel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457173
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"bfd81e210df4d2faf6788a1d95e5a6d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562861,
+            "locality_id":1293613255,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1293613255,
+    "wof:lastmodified":1537665187,
+    "wof:name":"Ganguel",
+    "wof:parent_id":1108562861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.77463,
+    14.33426,
+    -4.77463,
+    14.33426
+],
+  "geometry": {"coordinates":[-4.77463,14.33426],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193139029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.0954,14.41877,-10.0954,14.41877",
+    "geom:latitude":14.41877,
+    "geom:longitude":-10.0954,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Lekouraga",
+    "gn:country_code":"ML",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454122,
+    "gn:latitude":14.41877,
+    "gn:longitude":-10.0954,
+    "gn:modification_date":"2008-11-19",
+    "gn:name":"L\u00e9kouraga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454122
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d1f2a45f927bdcfa1c2cc9c647cc8523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562857,
+            "locality_id":1193139029,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1193139029,
+    "wof:lastmodified":1536367360,
+    "wof:name":"Lekouraga",
+    "wof:parent_id":1108562857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.0954,
+    14.41877,
+    -10.0954,
+    14.41877
+],
+  "geometry": {"coordinates":[-10.0954,14.41877],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226527773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.64021,16.75916,-2.64021,16.75916",
+    "geom:latitude":16.75916,
+    "geom:longitude":-2.64021,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tinafeoua",
+    "gn:country_code":"ML",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449596,
+    "gn:latitude":16.75916,
+    "gn:longitude":-2.64021,
+    "gn:modification_date":"2009-10-13",
+    "gn:name":"Tinaf\u00e9oua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449596
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0d37d55c0b0bacc8615784c057862125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562891,
+            "locality_id":1226527773,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1226527773,
+    "wof:lastmodified":1537022961,
+    "wof:name":"Tinafeoua",
+    "wof:parent_id":1108562891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.64021,
+    16.75916,
+    -2.64021,
+    16.75916
+],
+  "geometry": {"coordinates":[-2.64021,16.75916],"type":"Point"}
+}

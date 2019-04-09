@@ -1,0 +1,71 @@
+{
+  "id": 1193049733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.7643,13.4005,-4.7643,13.4005",
+    "geom:latitude":13.4005,
+    "geom:longitude":-4.7643,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Toune",
+    "gn:country_code":"ML",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448851,
+    "gn:latitude":13.4005,
+    "gn:longitude":-4.7643,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Toun\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tour\u00e9",
+        "Toun\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421192717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448851
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5f9f737f1618598e17ba39271f71c8cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421192717,
+            "locality_id":1193049733,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1193049733,
+    "wof:lastmodified":1537665014,
+    "wof:name":"Toune",
+    "wof:parent_id":421192717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7643,
+    13.4005,
+    -4.7643,
+    13.4005
+],
+  "geometry": {"coordinates":[-4.7643,13.4005],"type":"Point"}
+}

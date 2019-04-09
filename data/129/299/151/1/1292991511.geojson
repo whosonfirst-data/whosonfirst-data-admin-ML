@@ -1,0 +1,67 @@
+{
+  "id": 1292991511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.86614,16.71032,-2.86614,16.71032",
+    "geom:latitude":16.71032,
+    "geom:longitude":-2.86614,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Elaket",
+    "gn:country_code":"ML",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458007,
+    "gn:latitude":16.71032,
+    "gn:longitude":-2.86614,
+    "gn:modification_date":"2009-10-13",
+    "gn:name":"Elak\u00e8t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458007
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c992c29c9af05f495ae18db531106d9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562891,
+            "locality_id":1292991511,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1292991511,
+    "wof:lastmodified":1537004303,
+    "wof:name":"Elaket",
+    "wof:parent_id":1108562891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.86614,
+    16.71032,
+    -2.86614,
+    16.71032
+],
+  "geometry": {"coordinates":[-2.86614,16.71032],"type":"Point"}
+}

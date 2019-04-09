@@ -1,0 +1,73 @@
+{
+  "id": 1259379723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.2526,13.6886,-8.2526,13.6886",
+    "geom:latitude":13.6886,
+    "geom:longitude":-8.2526,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Badiankabougou",
+    "gn:country_code":"ML",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460485,
+    "gn:latitude":13.6886,
+    "gn:longitude":-8.2526,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Badiankabougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bandiankabougou"
+    ],
+    "name:und_x_variant":[
+        "Bandiankabougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460485
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c910869755c96408a8f35d6b1b88fc9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":1259379723,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1259379723,
+    "wof:lastmodified":1537665269,
+    "wof:name":"Badiankabougou",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.2526,
+    13.6886,
+    -8.2526,
+    13.6886
+],
+  "geometry": {"coordinates":[-8.2526,13.6886],"type":"Point"}
+}

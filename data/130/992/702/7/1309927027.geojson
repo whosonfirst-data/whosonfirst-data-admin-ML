@@ -1,0 +1,70 @@
+{
+  "id": 1309927027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.1892,12.3403,-6.1892,12.3403",
+    "geom:latitude":12.3403,
+    "geom:longitude":-6.1892,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ntyola",
+    "gn:country_code":"ML",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452502,
+    "gn:latitude":12.3403,
+    "gn:longitude":-6.1892,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ntyola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ntyola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452502
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6602fa306d2b30016c00a5abfa402431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1309927027,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1309927027,
+    "wof:lastmodified":1537665088,
+    "wof:name":"Ntyola",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.1892,
+    12.3403,
+    -6.1892,
+    12.3403
+],
+  "geometry": {"coordinates":[-6.1892,12.3403],"type":"Point"}
+}

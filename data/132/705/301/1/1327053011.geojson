@@ -1,0 +1,67 @@
+{
+  "id": 1327053011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.2796,13.3118,-6.2796,13.3118",
+    "geom:latitude":13.3118,
+    "geom:longitude":-6.2796,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sakoueba",
+    "gn:country_code":"ML",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451894,
+    "gn:latitude":13.3118,
+    "gn:longitude":-6.2796,
+    "gn:modification_date":"2008-11-18",
+    "gn:name":"Sakou\u00e9ba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451894
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"bbfb6a6ef181e331e019e2e231a594ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1327053011,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1327053011,
+    "wof:lastmodified":1536731006,
+    "wof:name":"Sakoueba",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.2796,
+    13.3118,
+    -6.2796,
+    13.3118
+],
+  "geometry": {"coordinates":[-6.2796,13.3118],"type":"Point"}
+}

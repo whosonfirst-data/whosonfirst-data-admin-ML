@@ -1,0 +1,72 @@
+{
+  "id": 1260098441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.25372,12.54652,-10.25372,12.54652",
+    "geom:latitude":12.54652,
+    "geom:longitude":-10.25372,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bafing Makana",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460758,
+    "gn:latitude":12.54652,
+    "gn:longitude":-10.25372,
+    "gn:modification_date":"2012-06-25",
+    "gn:name":"Bafing Makana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bafing-Makhana",
+        "Bafing Makana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460758
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8c9739aa5bf6a62cc109de8812cf0df9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1260098441,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1260098441,
+    "wof:lastmodified":1537665275,
+    "wof:name":"Bafing Makana",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.25372,
+    12.54652,
+    -10.25372,
+    12.54652
+],
+  "geometry": {"coordinates":[-10.25372,12.54652],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260072575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.8124,11.68877,-5.8124,11.68877",
+    "geom:latitude":11.68877,
+    "geom:longitude":-5.8124,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ouna",
+    "gn:country_code":"ML",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452244,
+    "gn:latitude":11.68877,
+    "gn:longitude":-5.8124,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452244
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8a3de43adfa0ba52c795a093774d94de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1260072575,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1260072575,
+    "wof:lastmodified":1537003013,
+    "wof:name":"Ouna",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.8124,
+    11.68877,
+    -5.8124,
+    11.68877
+],
+  "geometry": {"coordinates":[-5.8124,11.68877],"type":"Point"}
+}

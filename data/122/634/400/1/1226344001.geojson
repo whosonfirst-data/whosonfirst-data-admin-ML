@@ -1,0 +1,67 @@
+{
+  "id": 1226344001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.7162,14.9047,-9.7162,14.9047",
+    "geom:latitude":14.9047,
+    "geom:longitude":-9.7162,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Diaminankare Siaro",
+    "gn:country_code":"ML",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6911502,
+    "gn:latitude":14.9047,
+    "gn:longitude":-9.7162,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Diaminankar\u00e9 Siaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6911502
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d733ece696a39edcd3a619a3497c604c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562869,
+            "locality_id":1226344001,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1226344001,
+    "wof:lastmodified":1536792293,
+    "wof:name":"Diaminankare Siaro",
+    "wof:parent_id":1108562869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.7162,
+    14.9047,
+    -9.7162,
+    14.9047
+],
+  "geometry": {"coordinates":[-9.7162,14.9047],"type":"Point"}
+}

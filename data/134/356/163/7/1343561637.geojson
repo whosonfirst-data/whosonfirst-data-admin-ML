@@ -1,0 +1,67 @@
+{
+  "id": 1343561637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.91799,14.87423,-2.91799,14.87423",
+    "geom:latitude":14.87423,
+    "geom:longitude":-2.91799,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dianveli Maounde",
+    "gn:country_code":"ML",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458974,
+    "gn:latitude":14.87423,
+    "gn:longitude":-2.91799,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Dianv\u00e8li Maound\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458974
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"378ebdbcbda4ff41e20306319d80502c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1343561637,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1343561637,
+    "wof:lastmodified":1537094564,
+    "wof:name":"Dianveli Maounde",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.91799,
+    14.87423,
+    -2.91799,
+    14.87423
+],
+  "geometry": {"coordinates":[-2.91799,14.87423],"type":"Point"}
+}

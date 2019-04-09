@@ -1,0 +1,67 @@
+{
+  "id": 1326832129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.8622,14.5937,-10.8622,14.5937",
+    "geom:latitude":14.5937,
+    "geom:longitude":-10.8622,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Gourel Samba",
+    "gn:country_code":"ML",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456881,
+    "gn:latitude":14.5937,
+    "gn:longitude":-10.8622,
+    "gn:modification_date":"2008-11-19",
+    "gn:name":"Gourel Samba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456881
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b8d5997c3161e597c5c855747e5db35f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1326832129,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1326832129,
+    "wof:lastmodified":1537046953,
+    "wof:name":"Gourel Samba",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.8622,
+    14.5937,
+    -10.8622,
+    14.5937
+],
+  "geometry": {"coordinates":[-10.8622,14.5937],"type":"Point"}
+}

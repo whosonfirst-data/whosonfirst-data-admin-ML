@@ -1,0 +1,67 @@
+{
+  "id": 1293795339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.17187,14.75856,-12.17187,14.75856",
+    "geom:latitude":14.75856,
+    "geom:longitude":-12.17187,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kotera",
+    "gn:country_code":"ML",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454607,
+    "gn:latitude":14.75856,
+    "gn:longitude":-12.17187,
+    "gn:modification_date":"2007-09-13",
+    "gn:name":"Kot\u00e9ra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632679,
+        85674887,
+        1091694791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454607
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a90937bce4bf118b6ff7e95c807402f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632679,
+            "county_id":1091694791,
+            "locality_id":1293795339,
+            "region_id":85674887
+        }
+    ],
+    "wof:id":1293795339,
+    "wof:lastmodified":1536839276,
+    "wof:name":"Kotera",
+    "wof:parent_id":1091694791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.17187,
+    14.75856,
+    -12.17187,
+    14.75856
+],
+  "geometry": {"coordinates":[-12.17187,14.75856],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360084183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.93628,13.50594,-5.93628,13.50594",
+    "geom:latitude":13.50594,
+    "geom:longitude":-5.93628,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bousse",
+    "gn:country_code":"ML",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459638,
+    "gn:latitude":13.50594,
+    "gn:longitude":-5.93628,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Bouss\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Busse",
+        "Bouss\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459638
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3bc2dd5f2665446d9931b96c86b363b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1360084183,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1360084183,
+    "wof:lastmodified":1537665249,
+    "wof:name":"Bousse",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.93628,
+    13.50594,
+    -5.93628,
+    13.50594
+],
+  "geometry": {"coordinates":[-5.93628,13.50594],"type":"Point"}
+}

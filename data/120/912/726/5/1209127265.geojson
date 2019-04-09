@@ -1,0 +1,65 @@
+{
+  "id": 1209127265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.3457,13.06229,-7.3457,13.06229",
+    "geom:latitude":13.06229,
+    "geom:longitude":-7.3457,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tafalabougou",
+    "gn:country_code":"ML",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450446,
+    "gn:latitude":13.06229,
+    "gn:longitude":-7.3457,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Tafalabougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taffalabougou",
+        "Tafalabougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450446
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3782e75b1a28fef0eec67b3882d8c67d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209127265
+        }
+    ],
+    "wof:id":1209127265,
+    "wof:lastmodified":1537665037,
+    "wof:name":"Tafalabougou",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.3457,
+    13.06229,
+    -7.3457,
+    13.06229
+],
+  "geometry": {"coordinates":[-7.3457,13.06229],"type":"Point"}
+}

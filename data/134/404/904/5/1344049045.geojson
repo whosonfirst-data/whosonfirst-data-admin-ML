@@ -1,0 +1,71 @@
+{
+  "id": 1344049045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.12438,13.47063,-7.12438,13.47063",
+    "geom:latitude":13.47063,
+    "geom:longitude":-7.12438,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bembala",
+    "gn:country_code":"ML",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460056,
+    "gn:latitude":13.47063,
+    "gn:longitude":-7.12438,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Bembala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bimbala",
+        "Bembala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460056
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"49b109beb88821d83796dbb35e936fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562839,
+            "locality_id":1344049045,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1344049045,
+    "wof:lastmodified":1537665260,
+    "wof:name":"Bembala",
+    "wof:parent_id":1108562839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.12438,
+    13.47063,
+    -7.12438,
+    13.47063
+],
+  "geometry": {"coordinates":[-7.12438,13.47063],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1309925717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.04876,16.65484,-3.04876,16.65484",
+    "geom:latitude":16.65484,
+    "geom:longitude":-3.04876,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Toya",
+    "gn:country_code":"ML",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7044517,
+    "gn:latitude":16.65484,
+    "gn:longitude":-3.04876,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Toya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7044517,
+        "wk:page":"Toya%2C_Tombouctou"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"50094a3d55144d263918aaac44d0702c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562891,
+            "locality_id":1309925717,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1309925717,
+    "wof:lastmodified":1537568442,
+    "wof:name":"Toya",
+    "wof:parent_id":1108562891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.04876,
+    16.65484,
+    -3.04876,
+    16.65484
+],
+  "geometry": {"coordinates":[-3.04876,16.65484],"type":"Point"}
+}

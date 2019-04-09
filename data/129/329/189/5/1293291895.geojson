@@ -1,0 +1,67 @@
+{
+  "id": 1293291895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.96551,13.00147,-4.96551,13.00147",
+    "geom:latitude":13.00147,
+    "geom:longitude":-4.96551,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Wolo",
+    "gn:country_code":"ML",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6876021,
+    "gn:latitude":13.00147,
+    "gn:longitude":-4.96551,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Wolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421192717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6876021
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f5e16b343fed3cb1254a38a035806cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421192717,
+            "locality_id":1293291895,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1293291895,
+    "wof:lastmodified":1537066095,
+    "wof:name":"Wolo",
+    "wof:parent_id":421192717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.96551,
+    13.00147,
+    -4.96551,
+    13.00147
+],
+  "geometry": {"coordinates":[-4.96551,13.00147],"type":"Point"}
+}

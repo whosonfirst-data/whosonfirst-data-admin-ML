@@ -1,0 +1,67 @@
+{
+  "id": 1293680985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.29878,13.27515,-7.29878,13.27515",
+    "geom:latitude":13.27515,
+    "geom:longitude":-7.29878,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Niebele Djibougou",
+    "gn:country_code":"ML",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6906863,
+    "gn:latitude":13.27515,
+    "gn:longitude":-7.29878,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Ni\u00e8b\u00e9l\u00e9 Djibougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6906863
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"21e1ad09dc7c1951a6a26bb3fccad22c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562839,
+            "locality_id":1293680985,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1293680985,
+    "wof:lastmodified":1537004687,
+    "wof:name":"Niebele Djibougou",
+    "wof:parent_id":1108562839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.29878,
+    13.27515,
+    -7.29878,
+    13.27515
+],
+  "geometry": {"coordinates":[-7.29878,13.27515],"type":"Point"}
+}

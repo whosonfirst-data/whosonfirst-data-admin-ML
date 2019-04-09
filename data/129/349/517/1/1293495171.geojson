@@ -1,0 +1,71 @@
+{
+  "id": 1293495171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.05477,14.25372,-11.05477,14.25372",
+    "geom:latitude":14.25372,
+    "geom:longitude":-11.05477,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Diadia",
+    "gn:country_code":"ML",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459506,
+    "gn:latitude":14.25372,
+    "gn:longitude":-11.05477,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Diadia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dadia",
+        "Diadia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459506
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ef610716513adf50a50c06ed9c250242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1293495171,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1293495171,
+    "wof:lastmodified":1537665247,
+    "wof:name":"Diadia",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.05477,
+    14.25372,
+    -11.05477,
+    14.25372
+],
+  "geometry": {"coordinates":[-11.05477,14.25372],"type":"Point"}
+}

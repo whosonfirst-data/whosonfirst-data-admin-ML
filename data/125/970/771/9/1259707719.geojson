@@ -1,0 +1,67 @@
+{
+  "id": 1259707719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.58168,14.35561,-4.58168,14.35561",
+    "geom:latitude":14.35561,
+    "geom:longitude":-4.58168,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Diabi",
+    "gn:country_code":"ML",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459152,
+    "gn:latitude":14.35561,
+    "gn:longitude":-4.58168,
+    "gn:modification_date":"2008-05-13",
+    "gn:name":"Diabi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421187097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459152
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5f1855f4bb1e72da8121b778ebe76515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421187097,
+            "locality_id":1259707719,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1259707719,
+    "wof:lastmodified":1537030856,
+    "wof:name":"Diabi",
+    "wof:parent_id":421187097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.58168,
+    14.35561,
+    -4.58168,
+    14.35561
+],
+  "geometry": {"coordinates":[-4.58168,14.35561],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293698199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.28042,12.13438,-11.28042,12.13438",
+    "geom:latitude":12.13438,
+    "geom:longitude":-11.28042,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Missira",
+    "gn:country_code":"ML",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453436,
+    "gn:latitude":12.13438,
+    "gn:longitude":-11.28042,
+    "gn:modification_date":"2007-10-12",
+    "gn:name":"Missira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453436
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9290022673657296a45d4b80a789c631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171903,
+            "locality_id":1293698199,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1293698199,
+    "wof:lastmodified":1536979900,
+    "wof:name":"Missira",
+    "wof:parent_id":421171903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.28042,
+    12.13438,
+    -11.28042,
+    12.13438
+],
+  "geometry": {"coordinates":[-11.28042,12.13438],"type":"Point"}
+}

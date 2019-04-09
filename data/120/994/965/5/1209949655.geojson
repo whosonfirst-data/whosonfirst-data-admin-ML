@@ -1,0 +1,67 @@
+{
+  "id": 1209949655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.001,14.88993,-4.001,14.88993",
+    "geom:latitude":14.88993,
+    "geom:longitude":-4.001,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kotaka",
+    "gn:country_code":"ML",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454612,
+    "gn:latitude":14.88993,
+    "gn:longitude":-4.001,
+    "gn:modification_date":"2008-05-14",
+    "gn:name":"Kotaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454612
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ce749b83402e776c16aef2e359f5b3ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1209949655,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1209949655,
+    "wof:lastmodified":1536384773,
+    "wof:name":"Kotaka",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.001,
+    14.88993,
+    -4.001,
+    14.88993
+],
+  "geometry": {"coordinates":[-4.001,14.88993],"type":"Point"}
+}

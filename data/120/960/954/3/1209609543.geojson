@@ -1,0 +1,61 @@
+{
+  "id": 1209609543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.06,14.5536,-8.06,14.5536",
+    "geom:latitude":14.5536,
+    "geom:longitude":-8.06,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kolobo",
+    "gn:country_code":"ML",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454960,
+    "gn:latitude":14.5536,
+    "gn:longitude":-8.06,
+    "gn:modification_date":"2008-11-18",
+    "gn:name":"Kolobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454960
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"41a7fda928e038d610f491c8f7f04466",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209609543
+        }
+    ],
+    "wof:id":1209609543,
+    "wof:lastmodified":1536281894,
+    "wof:name":"Kolobo",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.06,
+    14.5536,
+    -8.06,
+    14.5536
+],
+  "geometry": {"coordinates":[-8.06,14.5536],"type":"Point"}
+}

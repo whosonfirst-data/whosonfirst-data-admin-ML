@@ -1,0 +1,67 @@
+{
+  "id": 1277073539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.3536,13.168,-6.3536,13.168",
+    "geom:latitude":13.168,
+    "geom:longitude":-6.3536,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kossoumale",
+    "gn:country_code":"ML",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910770,
+    "gn:latitude":13.168,
+    "gn:longitude":-6.3536,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Kossoumal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910770
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4c7f0a93fc4892f06a523ec1fb70e1c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562837,
+            "locality_id":1277073539,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1277073539,
+    "wof:lastmodified":1536781403,
+    "wof:name":"Kossoumale",
+    "wof:parent_id":1108562837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.3536,
+    13.168,
+    -6.3536,
+    13.168
+],
+  "geometry": {"coordinates":[-6.3536,13.168],"type":"Point"}
+}

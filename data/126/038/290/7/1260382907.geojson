@@ -1,0 +1,70 @@
+{
+  "id": 1260382907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.04294,13.44063,-8.04294,13.44063",
+    "geom:latitude":13.44063,
+    "geom:longitude":-8.04294,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Baguebougou",
+    "gn:country_code":"ML",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460728,
+    "gn:latitude":13.44063,
+    "gn:longitude":-8.04294,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bagu\u00e9bougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bagu\u00e9bougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460728
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"57980faf98a733aebb1bc4c2e62ee9f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":1260382907,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1260382907,
+    "wof:lastmodified":1537665275,
+    "wof:name":"Baguebougou",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.04294,
+    13.44063,
+    -8.04294,
+    13.44063
+],
+  "geometry": {"coordinates":[-8.04294,13.44063],"type":"Point"}
+}

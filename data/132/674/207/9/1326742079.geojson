@@ -1,0 +1,67 @@
+{
+  "id": 1326742079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.527,15.20437,-9.527,15.20437",
+    "geom:latitude":15.20437,
+    "geom:longitude":-9.527,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Gourel Bassirou",
+    "gn:country_code":"ML",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456885,
+    "gn:latitude":15.20437,
+    "gn:longitude":-9.527,
+    "gn:modification_date":"2008-05-07",
+    "gn:name":"Gourel Bassirou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456885
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f80e622a71b3dbaf963c8f71566de6e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562869,
+            "locality_id":1326742079,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1326742079,
+    "wof:lastmodified":1536681437,
+    "wof:name":"Gourel Bassirou",
+    "wof:parent_id":1108562869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.527,
+    15.20437,
+    -9.527,
+    15.20437
+],
+  "geometry": {"coordinates":[-9.527,15.20437],"type":"Point"}
+}

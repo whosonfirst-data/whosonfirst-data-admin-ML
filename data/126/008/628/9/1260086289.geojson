@@ -1,0 +1,67 @@
+{
+  "id": 1260086289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.7292,14.6956,-3.7292,14.6956",
+    "geom:latitude":14.6956,
+    "geom:longitude":-3.7292,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Emmbari",
+    "gn:country_code":"ML",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6867581,
+    "gn:latitude":14.6956,
+    "gn:longitude":-3.7292,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Emmbari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421171975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6867581
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"55b67e56b21740aec580debdf0a8c3f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171975,
+            "locality_id":1260086289,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1260086289,
+    "wof:lastmodified":1536983167,
+    "wof:name":"Emmbari",
+    "wof:parent_id":421171975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7292,
+    14.6956,
+    -3.7292,
+    14.6956
+],
+  "geometry": {"coordinates":[-3.7292,14.6956],"type":"Point"}
+}

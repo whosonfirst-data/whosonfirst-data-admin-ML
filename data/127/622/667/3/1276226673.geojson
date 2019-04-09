@@ -1,0 +1,70 @@
+{
+  "id": 1276226673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.05618,14.9073,-6.05618,14.9073",
+    "geom:latitude":14.9073,
+    "geom:longitude":-6.05618,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kourmangoube",
+    "gn:country_code":"ML",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454372,
+    "gn:latitude":14.9073,
+    "gn:longitude":-6.05618,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kourmangoub\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kourmangoub\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454372
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"662d90bbd8f245b21a4d901ea34f0d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562867,
+            "locality_id":1276226673,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1276226673,
+    "wof:lastmodified":1537665134,
+    "wof:name":"Kourmangoube",
+    "wof:parent_id":1108562867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.05618,
+    14.9073,
+    -6.05618,
+    14.9073
+],
+  "geometry": {"coordinates":[-6.05618,14.9073],"type":"Point"}
+}

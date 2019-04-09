@@ -1,0 +1,71 @@
+{
+  "id": 1310097257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.28663,15.36468,-7.28663,15.36468",
+    "geom:latitude":15.36468,
+    "geom:longitude":-7.28663,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Gesiri",
+    "gn:country_code":"ML",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456773,
+    "gn:latitude":15.36468,
+    "gn:longitude":-7.28663,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"G\u00e9siri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gu\u00e9ssiri",
+        "G\u00e9siri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456773
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"cedc9e4acd719d1c00c7f5df8bb93227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562865,
+            "locality_id":1310097257,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1310097257,
+    "wof:lastmodified":1537665177,
+    "wof:name":"Gesiri",
+    "wof:parent_id":1108562865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.28663,
+    15.36468,
+    -7.28663,
+    15.36468
+],
+  "geometry": {"coordinates":[-7.28663,15.36468],"type":"Point"}
+}

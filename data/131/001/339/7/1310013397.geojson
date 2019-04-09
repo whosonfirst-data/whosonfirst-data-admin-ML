@@ -1,0 +1,71 @@
+{
+  "id": 1310013397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.75479,14.47313,-9.75479,14.47313",
+    "geom:latitude":14.47313,
+    "geom:longitude":-9.75479,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Saboussire",
+    "gn:country_code":"ML",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451971,
+    "gn:latitude":14.47313,
+    "gn:longitude":-9.75479,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Saboussir\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saboucir\u00e9",
+        "Saboussir\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451971
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c266b33b1c4c007d572ad03b34a2fe56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562857,
+            "locality_id":1310013397,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1310013397,
+    "wof:lastmodified":1537665074,
+    "wof:name":"Saboussire",
+    "wof:parent_id":1108562857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.75479,
+    14.47313,
+    -9.75479,
+    14.47313
+],
+  "geometry": {"coordinates":[-9.75479,14.47313],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243550087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.2131,15.7812,-4.2131,15.7812",
+    "geom:latitude":15.7812,
+    "geom:longitude":-4.2131,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sebi",
+    "gn:country_code":"ML",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451502,
+    "gn:latitude":15.7812,
+    "gn:longitude":-4.2131,
+    "gn:modification_date":"2008-01-03",
+    "gn:name":"S\u00e9bi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451502
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"571bf5c55f3fd42e1a10414172b19315",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562873,
+            "locality_id":1243550087,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1243550087,
+    "wof:lastmodified":1536656294,
+    "wof:name":"Sebi",
+    "wof:parent_id":1108562873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.2131,
+    15.7812,
+    -4.2131,
+    15.7812
+],
+  "geometry": {"coordinates":[-4.2131,15.7812],"type":"Point"}
+}

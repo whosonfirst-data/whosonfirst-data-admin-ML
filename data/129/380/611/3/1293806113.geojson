@@ -1,0 +1,71 @@
+{
+  "id": 1293806113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.8245,12.3585,-4.8245,12.3585",
+    "geom:latitude":12.3585,
+    "geom:longitude":-4.8245,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Diarakongo",
+    "gn:country_code":"ML",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458966,
+    "gn:latitude":12.3585,
+    "gn:longitude":-4.8245,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Diarakongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diarrakongo",
+        "Diarakongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458966
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6e5b319bb35972a754d546c47553c66e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562831,
+            "locality_id":1293806113,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1293806113,
+    "wof:lastmodified":1537665234,
+    "wof:name":"Diarakongo",
+    "wof:parent_id":1108562831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.8245,
+    12.3585,
+    -4.8245,
+    12.3585
+],
+  "geometry": {"coordinates":[-4.8245,12.3585],"type":"Point"}
+}

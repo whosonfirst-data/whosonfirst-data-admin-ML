@@ -1,0 +1,70 @@
+{
+  "id": 1276555135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.889,13.4966,-8.889,13.4966",
+    "geom:latitude":13.4966,
+    "geom:longitude":-8.889,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Missimifara",
+    "gn:country_code":"ML",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453438,
+    "gn:latitude":13.4966,
+    "gn:longitude":-8.889,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Missimifara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Missimifara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453438
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"392d8ac0786d53ba6cd33be4435b0970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1276555135,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1276555135,
+    "wof:lastmodified":1537665113,
+    "wof:name":"Missimifara",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.889,
+    13.4966,
+    -8.889,
+    13.4966
+],
+  "geometry": {"coordinates":[-8.889,13.4966],"type":"Point"}
+}

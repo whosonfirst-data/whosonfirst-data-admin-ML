@@ -1,0 +1,67 @@
+{
+  "id": 1243447053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.28455,11.23722,-5.28455,11.23722",
+    "geom:latitude":11.23722,
+    "geom:longitude":-5.28455,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nigouo",
+    "gn:country_code":"ML",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6875187,
+    "gn:latitude":11.23722,
+    "gn:longitude":-5.28455,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Nigouo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6875187
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4ff206c61c4169147229c85d34fa900a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1243447053,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1243447053,
+    "wof:lastmodified":1536804528,
+    "wof:name":"Nigouo",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.28455,
+    11.23722,
+    -5.28455,
+    11.23722
+],
+  "geometry": {"coordinates":[-5.28455,11.23722],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327236211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.5252,13.3987,-5.5252,13.3987",
+    "geom:latitude":13.3987,
+    "geom:longitude":-5.5252,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bougoukoura",
+    "gn:country_code":"ML",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6880737,
+    "gn:latitude":13.3987,
+    "gn:longitude":-5.5252,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Bougoukoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880737
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"47db103bbeed25cee40a858cd11b81e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1327236211,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1327236211,
+    "wof:lastmodified":1536963844,
+    "wof:name":"Bougoukoura",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.5252,
+    13.3987,
+    -5.5252,
+    13.3987
+],
+  "geometry": {"coordinates":[-5.5252,13.3987],"type":"Point"}
+}

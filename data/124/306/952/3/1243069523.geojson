@@ -1,0 +1,67 @@
+{
+  "id": 1243069523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.3894,13.252,-9.3894,13.252",
+    "geom:latitude":13.252,
+    "geom:longitude":-9.3894,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Batimakana",
+    "gn:country_code":"ML",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460236,
+    "gn:latitude":13.252,
+    "gn:longitude":-9.3894,
+    "gn:modification_date":"2008-11-19",
+    "gn:name":"Batimakana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460236
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f39a29a375772e29d0a8fa8f46029d08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1243069523,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1243069523,
+    "wof:lastmodified":1536850781,
+    "wof:name":"Batimakana",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.3894,
+    13.252,
+    -9.3894,
+    13.252
+],
+  "geometry": {"coordinates":[-9.3894,13.252],"type":"Point"}
+}

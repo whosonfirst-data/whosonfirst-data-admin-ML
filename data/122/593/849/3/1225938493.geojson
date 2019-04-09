@@ -1,0 +1,67 @@
+{
+  "id": 1225938493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.58988,12.47785,-7.58988,12.47785",
+    "geom:latitude":12.47785,
+    "geom:longitude":-7.58988,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Famou",
+    "gn:country_code":"ML",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594022,
+    "gn:latitude":12.47785,
+    "gn:longitude":-7.58988,
+    "gn:modification_date":"2008-11-07",
+    "gn:name":"Famou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        421177883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594022
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e3c60754934a48e18c8c04c208af593c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177883,
+            "locality_id":1225938493,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1225938493,
+    "wof:lastmodified":1536879102,
+    "wof:name":"Famou",
+    "wof:parent_id":421177883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.58988,
+    12.47785,
+    -7.58988,
+    12.47785
+],
+  "geometry": {"coordinates":[-7.58988,12.47785],"type":"Point"}
+}

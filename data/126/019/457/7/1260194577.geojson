@@ -1,0 +1,67 @@
+{
+  "id": 1260194577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.79988,15.34216,-9.79988,15.34216",
+    "geom:latitude":15.34216,
+    "geom:longitude":-9.79988,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Palal",
+    "gn:country_code":"ML",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6759792,
+    "gn:latitude":15.34216,
+    "gn:longitude":-9.79988,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Palal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6759792
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7cb6a0ef9898a7b92b8be8cf99554f51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562869,
+            "locality_id":1260194577,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1260194577,
+    "wof:lastmodified":1536831639,
+    "wof:name":"Palal",
+    "wof:parent_id":1108562869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.79988,
+    15.34216,
+    -9.79988,
+    15.34216
+],
+  "geometry": {"coordinates":[-9.79988,15.34216],"type":"Point"}
+}

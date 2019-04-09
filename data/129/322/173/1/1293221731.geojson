@@ -1,0 +1,67 @@
+{
+  "id": 1293221731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.14683,13.07446,-7.14683,13.07446",
+    "geom:latitude":13.07446,
+    "geom:longitude":-7.14683,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kakobougou",
+    "gn:country_code":"ML",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455937,
+    "gn:latitude":13.07446,
+    "gn:longitude":-7.14683,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Kakobougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455937
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5ee0826f5a1d4fdf6bd82fb6c86b7b18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562839,
+            "locality_id":1293221731,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1293221731,
+    "wof:lastmodified":1536673159,
+    "wof:name":"Kakobougou",
+    "wof:parent_id":1108562839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.14683,
+    13.07446,
+    -7.14683,
+    13.07446
+],
+  "geometry": {"coordinates":[-7.14683,13.07446],"type":"Point"}
+}

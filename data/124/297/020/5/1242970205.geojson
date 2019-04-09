@@ -1,0 +1,72 @@
+{
+  "id": 1242970205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.34132,13.20651,-6.34132,13.20651",
+    "geom:latitude":13.20651,
+    "geom:longitude":-6.34132,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ndiebougou",
+    "gn:country_code":"ML",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453037,
+    "gn:latitude":13.20651,
+    "gn:longitude":-6.34132,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ndi\u00e9bougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soanti\u00e9bougou",
+        "Souanyi\u00e9bougou",
+        "Ndi\u00e9bougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453037
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"38f4e24822e9faa5745166c594301158",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1242970205,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1242970205,
+    "wof:lastmodified":1537665102,
+    "wof:name":"Ndiebougou",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.34132,
+    13.20651,
+    -6.34132,
+    13.20651
+],
+  "geometry": {"coordinates":[-6.34132,13.20651],"type":"Point"}
+}

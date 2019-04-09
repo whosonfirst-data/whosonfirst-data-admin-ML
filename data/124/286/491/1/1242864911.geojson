@@ -1,0 +1,67 @@
+{
+  "id": 1242864911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.8228,15.7846,-3.8228,15.7846",
+    "geom:latitude":15.7846,
+    "geom:longitude":-3.8228,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Doumbou",
+    "gn:country_code":"ML",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458269,
+    "gn:latitude":15.7846,
+    "gn:longitude":-3.8228,
+    "gn:modification_date":"2008-11-04",
+    "gn:name":"Doumbou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458269
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5ee7980ff8dd0f8631e723f5475ae210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562873,
+            "locality_id":1242864911,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1242864911,
+    "wof:lastmodified":1536649576,
+    "wof:name":"Doumbou",
+    "wof:parent_id":1108562873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8228,
+    15.7846,
+    -3.8228,
+    15.7846
+],
+  "geometry": {"coordinates":[-3.8228,15.7846],"type":"Point"}
+}

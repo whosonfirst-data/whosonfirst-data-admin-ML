@@ -1,0 +1,67 @@
+{
+  "id": 1344149425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.1433,12.0399,-5.1433,12.0399",
+    "geom:latitude":12.0399,
+    "geom:longitude":-5.1433,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Wolela",
+    "gn:country_code":"ML",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6861780,
+    "gn:latitude":12.0399,
+    "gn:longitude":-5.1433,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Wol\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6861780
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a52376f7cb3ced348f22450516036900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562831,
+            "locality_id":1344149425,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1344149425,
+    "wof:lastmodified":1536747022,
+    "wof:name":"Wolela",
+    "wof:parent_id":1108562831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.1433,
+    12.0399,
+    -5.1433,
+    12.0399
+],
+  "geometry": {"coordinates":[-5.1433,12.0399],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259986065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.26917,14.08444,-3.26917,14.08444",
+    "geom:latitude":14.08444,
+    "geom:longitude":-3.26917,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pel Maoude",
+    "gn:country_code":"ML",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10340354,
+    "gn:latitude":14.08444,
+    "gn:longitude":-3.26917,
+    "gn:modification_date":"2018-04-13",
+    "gn:name":"Pel Maoud\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10340354
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4a97ef9fd64a91a5fbbea7e7e7a8f309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1259986065,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1259986065,
+    "wof:lastmodified":1536629699,
+    "wof:name":"Pel Maoude",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.26917,
+    14.08444,
+    -3.26917,
+    14.08444
+],
+  "geometry": {"coordinates":[-3.26917,14.08444],"type":"Point"}
+}

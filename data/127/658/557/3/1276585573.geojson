@@ -1,0 +1,67 @@
+{
+  "id": 1276585573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.3087,14.8672,-5.3087,14.8672",
+    "geom:latitude":14.8672,
+    "geom:longitude":-5.3087,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Finadji",
+    "gn:country_code":"ML",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457445,
+    "gn:latitude":14.8672,
+    "gn:longitude":-5.3087,
+    "gn:modification_date":"2008-11-03",
+    "gn:name":"Finadji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457445
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b0fd1cc67968cac88108a69d53c51748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562861,
+            "locality_id":1276585573,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1276585573,
+    "wof:lastmodified":1536939071,
+    "wof:name":"Finadji",
+    "wof:parent_id":1108562861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.3087,
+    14.8672,
+    -5.3087,
+    14.8672
+],
+  "geometry": {"coordinates":[-5.3087,14.8672],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225866137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.19487,12.51238,-7.19487,12.51238",
+    "geom:latitude":12.51238,
+    "geom:longitude":-7.19487,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Makonobougou",
+    "gn:country_code":"ML",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594216,
+    "gn:latitude":12.51238,
+    "gn:longitude":-7.19487,
+    "gn:modification_date":"2008-11-07",
+    "gn:name":"Makonobougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594216
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f8da2596fb7f228ac5ac64f1dbb58bb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1225866137,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1225866137,
+    "wof:lastmodified":1536983585,
+    "wof:name":"Makonobougou",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.19487,
+    12.51238,
+    -7.19487,
+    12.51238
+],
+  "geometry": {"coordinates":[-7.19487,12.51238],"type":"Point"}
+}

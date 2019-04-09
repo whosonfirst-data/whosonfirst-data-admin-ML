@@ -1,0 +1,67 @@
+{
+  "id": 1343262219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.7237,15.0743,-4.7237,15.0743",
+    "geom:latitude":15.0743,
+    "geom:longitude":-4.7237,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tomoro",
+    "gn:country_code":"ML",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449052,
+    "gn:latitude":15.0743,
+    "gn:longitude":-4.7237,
+    "gn:modification_date":"2008-01-03",
+    "gn:name":"Tomoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449052
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ade56e843ed76a62b821dc3767f9146e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562861,
+            "locality_id":1343262219,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1343262219,
+    "wof:lastmodified":1537031008,
+    "wof:name":"Tomoro",
+    "wof:parent_id":1108562861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7237,
+    15.0743,
+    -4.7237,
+    15.0743
+],
+  "geometry": {"coordinates":[-4.7237,15.0743],"type":"Point"}
+}

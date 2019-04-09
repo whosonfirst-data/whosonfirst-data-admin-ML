@@ -1,0 +1,67 @@
+{
+  "id": 1326550189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.7508,15.7797,-3.7508,15.7797",
+    "geom:latitude":15.7797,
+    "geom:longitude":-3.7508,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ngaina",
+    "gn:country_code":"ML",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452917,
+    "gn:latitude":15.7797,
+    "gn:longitude":-3.7508,
+    "gn:modification_date":"2008-11-04",
+    "gn:name":"Nga\u00efna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452917
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"db9dbee1b0da26cc13eba0882944fd36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562873,
+            "locality_id":1326550189,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1326550189,
+    "wof:lastmodified":1536958151,
+    "wof:name":"Ngaina",
+    "wof:parent_id":1108562873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7508,
+    15.7797,
+    -3.7508,
+    15.7797
+],
+  "geometry": {"coordinates":[-3.7508,15.7797],"type":"Point"}
+}

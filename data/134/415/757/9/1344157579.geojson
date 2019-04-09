@@ -1,0 +1,67 @@
+{
+  "id": 1344157579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.81423,14.62111,-4.81423,14.62111",
+    "geom:latitude":14.62111,
+    "geom:longitude":-4.81423,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Assi",
+    "gn:country_code":"ML",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6764150,
+    "gn:latitude":14.62111,
+    "gn:longitude":-4.81423,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Assi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6764150
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a9e935679dd2376947b8a38c4b09d6b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562861,
+            "locality_id":1344157579,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1344157579,
+    "wof:lastmodified":1536735551,
+    "wof:name":"Assi",
+    "wof:parent_id":1108562861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.81423,
+    14.62111,
+    -4.81423,
+    14.62111
+],
+  "geometry": {"coordinates":[-4.81423,14.62111],"type":"Point"}
+}

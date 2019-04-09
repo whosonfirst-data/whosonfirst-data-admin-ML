@@ -1,0 +1,67 @@
+{
+  "id": 1343262277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.94596,14.37944,-4.94596,14.37944",
+    "geom:latitude":14.37944,
+    "geom:longitude":-4.94596,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gourel-Madie",
+    "gn:country_code":"ML",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6763822,
+    "gn:latitude":14.37944,
+    "gn:longitude":-4.94596,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Gourel-Madi\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6763822
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9112e8223b0382bc6ff4ced41d4fef57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562861,
+            "locality_id":1343262277,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1343262277,
+    "wof:lastmodified":1537030928,
+    "wof:name":"Gourel-Madie",
+    "wof:parent_id":1108562861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.94596,
+    14.37944,
+    -4.94596,
+    14.37944
+],
+  "geometry": {"coordinates":[-4.94596,14.37944],"type":"Point"}
+}

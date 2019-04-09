@@ -1,0 +1,72 @@
+{
+  "id": 1259785153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.05153,14.71302,-12.05153,14.71302",
+    "geom:latitude":14.71302,
+    "geom:longitude":-12.05153,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Lani Tounka",
+    "gn:country_code":"ML",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454160,
+    "gn:latitude":14.71302,
+    "gn:longitude":-12.05153,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Lani Tounka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lany Tounka",
+        "Lani Tounka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454160,
+        "wk:page":"Lany_Tounka"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"75568fcea298e60933a3d0009e3e98a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1259785153,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1259785153,
+    "wof:lastmodified":1537665130,
+    "wof:name":"Lani Tounka",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.05153,
+    14.71302,
+    -12.05153,
+    14.71302
+],
+  "geometry": {"coordinates":[-12.05153,14.71302],"type":"Point"}
+}

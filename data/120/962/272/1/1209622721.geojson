@@ -1,0 +1,65 @@
+{
+  "id": 1209622721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.21423,14.51109,-12.21423,14.51109",
+    "geom:latitude":14.51109,
+    "geom:longitude":-12.21423,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dialanbi",
+    "gn:country_code":"ML",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459043,
+    "gn:latitude":14.51109,
+    "gn:longitude":-12.21423,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dialanbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dialambi",
+        "Dialanbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459043
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"23d552983729f2b1f40831b0ea8e06bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209622721
+        }
+    ],
+    "wof:id":1209622721,
+    "wof:lastmodified":1537665237,
+    "wof:name":"Dialanbi",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.21423,
+    14.51109,
+    -12.21423,
+    14.51109
+],
+  "geometry": {"coordinates":[-12.21423,14.51109],"type":"Point"}
+}

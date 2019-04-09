@@ -1,0 +1,73 @@
+{
+  "id": 1293681785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.48043,12.518,-5.48043,12.518",
+    "geom:latitude":12.518,
+    "geom:longitude":-5.48043,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sirakele",
+    "gn:country_code":"ML",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451038,
+    "gn:latitude":12.518,
+    "gn:longitude":-5.48043,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sirak\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e9rak\u00e9l\u00e9",
+        "S\u00e9nak\u00e9l\u00e9",
+        "Sirak\u00e9l\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451038,
+        "wk:page":"Sirak%C3%A9l%C3%A9"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"16a9d02f59a4b9d247c7ebcf7d51a89e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1293681785,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1293681785,
+    "wof:lastmodified":1537665051,
+    "wof:name":"Sirakele",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.48043,
+    12.518,
+    -5.48043,
+    12.518
+],
+  "geometry": {"coordinates":[-5.48043,12.518],"type":"Point"}
+}

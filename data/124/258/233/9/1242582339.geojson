@@ -1,0 +1,67 @@
+{
+  "id": 1242582339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.68203,13.19882,-5.68203,13.19882",
+    "geom:latitude":13.19882,
+    "geom:longitude":-5.68203,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Nani",
+    "gn:country_code":"ML",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453111,
+    "gn:latitude":13.19882,
+    "gn:longitude":-5.68203,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Nani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453111
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d5f23113f9f071ec61c8ce32cb035cf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562835,
+            "locality_id":1242582339,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1242582339,
+    "wof:lastmodified":1537054417,
+    "wof:name":"Nani",
+    "wof:parent_id":1108562835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.68203,
+    13.19882,
+    -5.68203,
+    13.19882
+],
+  "geometry": {"coordinates":[-5.68203,13.19882],"type":"Point"}
+}

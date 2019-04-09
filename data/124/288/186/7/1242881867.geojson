@@ -1,0 +1,67 @@
+{
+  "id": 1242881867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.3374,13.9688,-10.3374,13.9688",
+    "geom:latitude":13.9688,
+    "geom:longitude":-10.3374,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mayodan",
+    "gn:country_code":"ML",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453590,
+    "gn:latitude":13.9688,
+    "gn:longitude":-10.3374,
+    "gn:modification_date":"2008-11-19",
+    "gn:name":"Mayodan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453590
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"91ad3d759e7d67069c8ab0a19a9906cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562855,
+            "locality_id":1242881867,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1242881867,
+    "wof:lastmodified":1536623377,
+    "wof:name":"Mayodan",
+    "wof:parent_id":1108562855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.3374,
+    13.9688,
+    -10.3374,
+    13.9688
+],
+  "geometry": {"coordinates":[-10.3374,13.9688],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310327267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.73853,12.3193,-5.73853,12.3193",
+    "geom:latitude":12.3193,
+    "geom:longitude":-5.73853,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kadoubala",
+    "gn:country_code":"ML",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455970,
+    "gn:latitude":12.3193,
+    "gn:longitude":-5.73853,
+    "gn:modification_date":"2008-10-24",
+    "gn:name":"Kadoubala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455970
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"889aeae20302a970eed9d1c066cc33be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1310327267,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1310327267,
+    "wof:lastmodified":1536676600,
+    "wof:name":"Kadoubala",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.73853,
+    12.3193,
+    -5.73853,
+    12.3193
+],
+  "geometry": {"coordinates":[-5.73853,12.3193],"type":"Point"}
+}

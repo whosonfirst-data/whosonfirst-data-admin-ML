@@ -1,0 +1,67 @@
+{
+  "id": 1343666657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.02562,13.62062,-5.02562,13.62062",
+    "geom:latitude":13.62062,
+    "geom:longitude":-5.02562,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Diadaka",
+    "gn:country_code":"ML",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880584,
+    "gn:latitude":13.62062,
+    "gn:longitude":-5.02562,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Diadaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880584
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9dfb900b5ab75bea740678b9c30d4a13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":1343666657,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1343666657,
+    "wof:lastmodified":1536946476,
+    "wof:name":"Diadaka",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.02562,
+    13.62062,
+    -5.02562,
+    13.62062
+],
+  "geometry": {"coordinates":[-5.02562,13.62062],"type":"Point"}
+}

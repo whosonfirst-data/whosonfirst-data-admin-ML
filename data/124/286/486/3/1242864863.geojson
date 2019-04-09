@@ -1,0 +1,67 @@
+{
+  "id": 1242864863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.69266,16.08226,-3.69266,16.08226",
+    "geom:latitude":16.08226,
+    "geom:longitude":-3.69266,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Serouel",
+    "gn:country_code":"ML",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451295,
+    "gn:latitude":16.08226,
+    "gn:longitude":-3.69266,
+    "gn:modification_date":"2009-06-26",
+    "gn:name":"S\u00e8rouel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451295
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"27ca62c6c0908ddb869f2dbf5d023ba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562873,
+            "locality_id":1242864863,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1242864863,
+    "wof:lastmodified":1536649651,
+    "wof:name":"Serouel",
+    "wof:parent_id":1108562873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.69266,
+    16.08226,
+    -3.69266,
+    16.08226
+],
+  "geometry": {"coordinates":[-3.69266,16.08226],"type":"Point"}
+}

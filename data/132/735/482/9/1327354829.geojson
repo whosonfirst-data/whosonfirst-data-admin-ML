@@ -1,0 +1,67 @@
+{
+  "id": 1327354829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.66611,14.37329,-7.66611,14.37329",
+    "geom:latitude":14.37329,
+    "geom:longitude":-7.66611,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Madina-Kagoro",
+    "gn:country_code":"ML",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453975,
+    "gn:latitude":14.37329,
+    "gn:longitude":-7.66611,
+    "gn:modification_date":"2008-11-07",
+    "gn:name":"Madina-Kagoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453975
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1d983d614c159b898fcf01845537c919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562865,
+            "locality_id":1327354829,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1327354829,
+    "wof:lastmodified":1536793215,
+    "wof:name":"Madina-Kagoro",
+    "wof:parent_id":1108562865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.66611,
+    14.37329,
+    -7.66611,
+    14.37329
+],
+  "geometry": {"coordinates":[-7.66611,14.37329],"type":"Point"}
+}

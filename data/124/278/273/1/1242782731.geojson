@@ -1,0 +1,67 @@
+{
+  "id": 1242782731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.9451,13.1036,-4.9451,13.1036",
+    "geom:latitude":13.1036,
+    "geom:longitude":-4.9451,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Noungosso",
+    "gn:country_code":"ML",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452581,
+    "gn:latitude":13.1036,
+    "gn:longitude":-4.9451,
+    "gn:modification_date":"2008-11-03",
+    "gn:name":"Noungosso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421192717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452581
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6657d137ec3eb75b93b1b6a83613c3b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421192717,
+            "locality_id":1242782731,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1242782731,
+    "wof:lastmodified":1536768609,
+    "wof:name":"Noungosso",
+    "wof:parent_id":421192717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.9451,
+    13.1036,
+    -4.9451,
+    13.1036
+],
+  "geometry": {"coordinates":[-4.9451,13.1036],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276144555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.2318,12.473,-6.2318,12.473",
+    "geom:latitude":12.473,
+    "geom:longitude":-6.2318,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mpetyela",
+    "gn:country_code":"ML",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453216,
+    "gn:latitude":12.473,
+    "gn:longitude":-6.2318,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Mp\u00e9ty\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "M\u2019P\u00e9ti\u00e9la"
+    ],
+    "name:fra_x_variant":[
+        "Mp\u00e9ty\u00e9la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453216
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"47bcda4691b0dd31edeeb7f60fca9648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1276144555,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1276144555,
+    "wof:lastmodified":1537665107,
+    "wof:name":"Mpetyela",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.2318,
+    12.473,
+    -6.2318,
+    12.473
+],
+  "geometry": {"coordinates":[-6.2318,12.473],"type":"Point"}
+}

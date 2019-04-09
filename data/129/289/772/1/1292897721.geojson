@@ -1,0 +1,72 @@
+{
+  "id": 1292897721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.07973,15.27668,-7.07973,15.27668",
+    "geom:latitude":15.27668,
+    "geom:longitude":-7.07973,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Geneybe",
+    "gn:country_code":"ML",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456796,
+    "gn:latitude":15.27668,
+    "gn:longitude":-7.07973,
+    "gn:modification_date":"2018-04-13",
+    "gn:name":"G\u00e9n\u00e8yb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gu\u00e9neyb\u00e9",
+        "G\u00e9n\u00e8yb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456796,
+        "wk:page":"Gu%C3%A9ni%C3%A9b%C3%A9"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7fa40a7c409ac7d6207d5874352e242e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562865,
+            "locality_id":1292897721,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1292897721,
+    "wof:lastmodified":1537665178,
+    "wof:name":"Geneybe",
+    "wof:parent_id":1108562865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.07973,
+    15.27668,
+    -7.07973,
+    15.27668
+],
+  "geometry": {"coordinates":[-7.07973,15.27668],"type":"Point"}
+}

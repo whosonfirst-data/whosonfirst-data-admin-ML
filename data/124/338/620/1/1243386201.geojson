@@ -1,0 +1,70 @@
+{
+  "id": 1243386201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0996,14.2215,-6.0996,14.2215",
+    "geom:latitude":14.2215,
+    "geom:longitude":-6.0996,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Manyali",
+    "gn:country_code":"ML",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453740,
+    "gn:latitude":14.2215,
+    "gn:longitude":-6.0996,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Manyali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Manyali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453740
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"107666028930fa8ae77f386ebc1bf9c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562867,
+            "locality_id":1243386201,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1243386201,
+    "wof:lastmodified":1537665121,
+    "wof:name":"Manyali",
+    "wof:parent_id":1108562867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0996,
+    14.2215,
+    -6.0996,
+    14.2215
+],
+  "geometry": {"coordinates":[-6.0996,14.2215],"type":"Point"}
+}

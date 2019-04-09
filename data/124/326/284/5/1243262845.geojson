@@ -1,0 +1,67 @@
+{
+  "id": 1243262845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.71285,13.86681,-5.71285,13.86681",
+    "geom:latitude":13.86681,
+    "geom:longitude":-5.71285,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yekoura",
+    "gn:country_code":"ML",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880262,
+    "gn:latitude":13.86681,
+    "gn:longitude":-5.71285,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Y\u00e9koura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880262
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2e3f86a952697f67fd194b1e68760229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":1243262845,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1243262845,
+    "wof:lastmodified":1537067277,
+    "wof:name":"Yekoura",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.71285,
+    13.86681,
+    -5.71285,
+    13.86681
+],
+  "geometry": {"coordinates":[-5.71285,13.86681],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326853185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.1464,13.5679,-4.1464,13.5679",
+    "geom:latitude":13.5679,
+    "geom:longitude":-4.1464,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Poussate",
+    "gn:country_code":"ML",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6875925,
+    "gn:latitude":13.5679,
+    "gn:longitude":-4.1464,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Poussat\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6875925
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a0f1088da7c438514af13e7e3c11a266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562843,
+            "locality_id":1326853185,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1326853185,
+    "wof:lastmodified":1537017851,
+    "wof:name":"Poussate",
+    "wof:parent_id":1108562843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.1464,
+    13.5679,
+    -4.1464,
+    13.5679
+],
+  "geometry": {"coordinates":[-4.1464,13.5679],"type":"Point"}
+}

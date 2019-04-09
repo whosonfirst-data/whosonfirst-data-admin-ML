@@ -1,0 +1,67 @@
+{
+  "id": 1260087853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.7284,14.5314,-9.7284,14.5314",
+    "geom:latitude":14.5314,
+    "geom:longitude":-9.7284,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Lataraf",
+    "gn:country_code":"ML",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454147,
+    "gn:latitude":14.5314,
+    "gn:longitude":-9.7284,
+    "gn:modification_date":"2008-11-18",
+    "gn:name":"Lataraf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454147
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"590819a7b0fc1ef9b6700b4186d6699a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562857,
+            "locality_id":1260087853,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1260087853,
+    "wof:lastmodified":1536980977,
+    "wof:name":"Lataraf",
+    "wof:parent_id":1108562857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.7284,
+    14.5314,
+    -9.7284,
+    14.5314
+],
+  "geometry": {"coordinates":[-9.7284,14.5314],"type":"Point"}
+}

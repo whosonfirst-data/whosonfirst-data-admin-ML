@@ -1,0 +1,71 @@
+{
+  "id": 1343843697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.18416,17.03046,-1.18416,17.03046",
+    "geom:latitude":17.03046,
+    "geom:longitude":-1.18416,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tinafozo",
+    "gn:country_code":"ML",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449594,
+    "gn:latitude":17.03046,
+    "gn:longitude":-1.18416,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Tinafozo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tinafoso",
+        "Tinafozo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        1108562879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449594
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"75a088bdc3054291e0f25534a625aedd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562879,
+            "locality_id":1343843697,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1343843697,
+    "wof:lastmodified":1537665024,
+    "wof:name":"Tinafozo",
+    "wof:parent_id":1108562879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.18416,
+    17.03046,
+    -1.18416,
+    17.03046
+],
+  "geometry": {"coordinates":[-1.18416,17.03046],"type":"Point"}
+}

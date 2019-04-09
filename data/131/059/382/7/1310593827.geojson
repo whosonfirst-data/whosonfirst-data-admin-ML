@@ -1,0 +1,73 @@
+{
+  "id": 1310593827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.65174,11.6311,-5.65174,11.6311",
+    "geom:latitude":11.6311,
+    "geom:longitude":-5.65174,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Loutana",
+    "gn:country_code":"ML",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454036,
+    "gn:latitude":11.6311,
+    "gn:longitude":-5.65174,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Loutana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lountana",
+        "Luntana",
+        "Loutan",
+        "Loutana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454036
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f6c6ad48130e6a24bd1712c3b9363944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1310593827,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1310593827,
+    "wof:lastmodified":1537665128,
+    "wof:name":"Loutana",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.65174,
+    11.6311,
+    -5.65174,
+    11.6311
+],
+  "geometry": {"coordinates":[-5.65174,11.6311],"type":"Point"}
+}

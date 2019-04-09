@@ -1,0 +1,67 @@
+{
+  "id": 1260179713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.06012,11.31233,-7.06012,11.31233",
+    "geom:latitude":11.31233,
+    "geom:longitude":-7.06012,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bohi",
+    "gn:country_code":"ML",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459965,
+    "gn:latitude":11.31233,
+    "gn:longitude":-7.06012,
+    "gn:modification_date":"2008-07-16",
+    "gn:name":"Bohi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459965
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"24bb5e67afea5ef5688f50d2cea2ebed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562819,
+            "locality_id":1260179713,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1260179713,
+    "wof:lastmodified":1536852072,
+    "wof:name":"Bohi",
+    "wof:parent_id":1108562819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.06012,
+    11.31233,
+    -7.06012,
+    11.31233
+],
+  "geometry": {"coordinates":[-7.06012,11.31233],"type":"Point"}
+}

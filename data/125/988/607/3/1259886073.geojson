@@ -1,0 +1,67 @@
+{
+  "id": 1259886073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.45116,14.95664,-4.45116,14.95664",
+    "geom:latitude":14.95664,
+    "geom:longitude":-4.45116,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Silde",
+    "gn:country_code":"ML",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451155,
+    "gn:latitude":14.95664,
+    "gn:longitude":-4.45116,
+    "gn:modification_date":"2008-05-13",
+    "gn:name":"Sild\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451155
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8b70820e2b3dbf39f882404ae9b1d7ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562861,
+            "locality_id":1259886073,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1259886073,
+    "wof:lastmodified":1536775966,
+    "wof:name":"Silde",
+    "wof:parent_id":1108562861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.45116,
+    14.95664,
+    -4.45116,
+    14.95664
+],
+  "geometry": {"coordinates":[-4.45116,14.95664],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259388875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.14851,15.10716,-2.14851,15.10716",
+    "geom:latitude":15.10716,
+    "geom:longitude":-2.14851,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Piringa",
+    "gn:country_code":"ML",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6872559,
+    "gn:latitude":15.10716,
+    "gn:longitude":-2.14851,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Piringa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6872559
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3c7f6cb568336b3d113a0dcb3b72a205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1259388875,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1259388875,
+    "wof:lastmodified":1536993597,
+    "wof:name":"Piringa",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.14851,
+    15.10716,
+    -2.14851,
+    15.10716
+],
+  "geometry": {"coordinates":[-2.14851,15.10716],"type":"Point"}
+}

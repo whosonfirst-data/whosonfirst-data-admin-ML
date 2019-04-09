@@ -1,0 +1,71 @@
+{
+  "id": 1360070717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.6429,15.7258,-4.6429,15.7258",
+    "geom:latitude":15.7258,
+    "geom:longitude":-4.6429,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dianke",
+    "gn:country_code":"ML",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458978,
+    "gn:latitude":15.7258,
+    "gn:longitude":-4.6429,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Diank\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diank\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458978,
+        "wk:page":"Dianke"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"28487848636e1cf592b9ed8be4df8d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562873,
+            "locality_id":1360070717,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1360070717,
+    "wof:lastmodified":1537665234,
+    "wof:name":"Dianke",
+    "wof:parent_id":1108562873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.6429,
+    15.7258,
+    -4.6429,
+    15.7258
+],
+  "geometry": {"coordinates":[-4.6429,15.7258],"type":"Point"}
+}

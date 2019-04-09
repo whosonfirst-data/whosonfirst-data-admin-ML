@@ -1,0 +1,67 @@
+{
+  "id": 1310301841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.37396,13.27481,-7.37396,13.27481",
+    "geom:latitude":13.27481,
+    "geom:longitude":-7.37396,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yomana",
+    "gn:country_code":"ML",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6906862,
+    "gn:latitude":13.27481,
+    "gn:longitude":-7.37396,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Yomana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6906862
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7e95d380553189a3c44843aaced99dc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562839,
+            "locality_id":1310301841,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1310301841,
+    "wof:lastmodified":1536713568,
+    "wof:name":"Yomana",
+    "wof:parent_id":1108562839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.37396,
+    13.27481,
+    -7.37396,
+    13.27481
+],
+  "geometry": {"coordinates":[-7.37396,13.27481],"type":"Point"}
+}

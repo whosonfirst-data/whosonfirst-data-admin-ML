@@ -1,0 +1,67 @@
+{
+  "id": 1326948341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.8,13.13333,-9.8,13.13333",
+    "geom:latitude":13.13333,
+    "geom:longitude":-9.8,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dofakoto",
+    "gn:country_code":"ML",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458488,
+    "gn:latitude":13.13333,
+    "gn:longitude":-9.8,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Dofakoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458488
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c95e897bbba67b5bd7cafd000d5277d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1326948341,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1326948341,
+    "wof:lastmodified":1536880908,
+    "wof:name":"Dofakoto",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.8,
+    13.13333,
+    -9.8,
+    13.13333
+],
+  "geometry": {"coordinates":[-9.8,13.13333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326735263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.19363,13.83008,-6.19363,13.83008",
+    "geom:latitude":13.83008,
+    "geom:longitude":-6.19363,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kolobele",
+    "gn:country_code":"ML",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454964,
+    "gn:latitude":13.83008,
+    "gn:longitude":-6.19363,
+    "gn:modification_date":"2008-11-18",
+    "gn:name":"Kolob\u00e8l\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454964
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7637646e0826bde1531e117a99632343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1326735263,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1326735263,
+    "wof:lastmodified":1536691475,
+    "wof:name":"Kolobele",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.19363,
+    13.83008,
+    -6.19363,
+    13.83008
+],
+  "geometry": {"coordinates":[-6.19363,13.83008],"type":"Point"}
+}

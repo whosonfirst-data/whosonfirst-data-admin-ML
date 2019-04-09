@@ -1,0 +1,67 @@
+{
+  "id": 1360207055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.6661,15.8503,-3.6661,15.8503",
+    "geom:latitude":15.8503,
+    "geom:longitude":-3.6661,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Koufa",
+    "gn:country_code":"ML",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880898,
+    "gn:latitude":15.8503,
+    "gn:longitude":-3.6661,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Koufa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880898
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"da394aa7d4dbff5c3ef53b7b38baafd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562873,
+            "locality_id":1360207055,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1360207055,
+    "wof:lastmodified":1536770277,
+    "wof:name":"Koufa",
+    "wof:parent_id":1108562873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6661,
+    15.8503,
+    -3.6661,
+    15.8503
+],
+  "geometry": {"coordinates":[-3.6661,15.8503],"type":"Point"}
+}

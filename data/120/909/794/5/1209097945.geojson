@@ -1,0 +1,64 @@
+{
+  "id": 1209097945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.418,14.5701,-6.418,14.5701",
+    "geom:latitude":14.5701,
+    "geom:longitude":-6.418,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Nyoko",
+    "gn:country_code":"ML",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452453,
+    "gn:latitude":14.5701,
+    "gn:longitude":-6.418,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nyoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nyoko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452453
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d4d328c7c9a727ae58719b4013d22190",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209097945
+        }
+    ],
+    "wof:id":1209097945,
+    "wof:lastmodified":1537665085,
+    "wof:name":"Nyoko",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.418,
+    14.5701,
+    -6.418,
+    14.5701
+],
+  "geometry": {"coordinates":[-6.418,14.5701],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310716529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.95,10.55,-7.95,10.55",
+    "geom:latitude":10.55,
+    "geom:longitude":-7.95,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sankaredjin",
+    "gn:country_code":"ML",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451655,
+    "gn:latitude":10.55,
+    "gn:longitude":-7.95,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Sankaredjin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451655
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ddb73bf605c18a5f014d55bd5cfa543f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562821,
+            "locality_id":1310716529,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1310716529,
+    "wof:lastmodified":1536609777,
+    "wof:name":"Sankaredjin",
+    "wof:parent_id":1108562821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.95,
+    10.55,
+    -7.95,
+    10.55
+],
+  "geometry": {"coordinates":[-7.95,10.55],"type":"Point"}
+}

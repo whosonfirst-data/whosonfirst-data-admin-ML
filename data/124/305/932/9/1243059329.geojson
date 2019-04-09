@@ -1,0 +1,67 @@
+{
+  "id": 1243059329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.69037,15.30551,-8.69037,15.30551",
+    "geom:latitude":15.30551,
+    "geom:longitude":-8.69037,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kipou",
+    "gn:country_code":"ML",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455238,
+    "gn:latitude":15.30551,
+    "gn:longitude":-8.69037,
+    "gn:modification_date":"2007-12-18",
+    "gn:name":"Kipou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455238
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9047d32ff6e51a8010cd31e3684decba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562865,
+            "locality_id":1243059329,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1243059329,
+    "wof:lastmodified":1536865318,
+    "wof:name":"Kipou",
+    "wof:parent_id":1108562865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.69037,
+    15.30551,
+    -8.69037,
+    15.30551
+],
+  "geometry": {"coordinates":[-8.69037,15.30551],"type":"Point"}
+}

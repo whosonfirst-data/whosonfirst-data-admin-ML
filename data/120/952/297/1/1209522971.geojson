@@ -1,0 +1,61 @@
+{
+  "id": 1209522971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.4407,14.544,-8.4407,14.544",
+    "geom:latitude":14.544,
+    "geom:longitude":-8.4407,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Taloubebougou",
+    "gn:country_code":"ML",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450328,
+    "gn:latitude":14.544,
+    "gn:longitude":-8.4407,
+    "gn:modification_date":"2008-11-18",
+    "gn:name":"Taloub\u00e9bougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450328
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"afa4aedd17409a1f6d3cef0966f9cfd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209522971
+        }
+    ],
+    "wof:id":1209522971,
+    "wof:lastmodified":1536284521,
+    "wof:name":"Taloubebougou",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.4407,
+    14.544,
+    -8.4407,
+    14.544
+],
+  "geometry": {"coordinates":[-8.4407,14.544],"type":"Point"}
+}

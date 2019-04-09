@@ -1,0 +1,67 @@
+{
+  "id": 1327152615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.03333,11.9,-8.03333,11.9",
+    "geom:latitude":11.9,
+    "geom:longitude":-8.03333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bazayokobougou",
+    "gn:country_code":"ML",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460219,
+    "gn:latitude":11.9,
+    "gn:longitude":-8.03333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Bazayokobougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        421177883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460219
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d4e533dcdb041a54f64c12dfbd612bd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177883,
+            "locality_id":1327152615,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1327152615,
+    "wof:lastmodified":1537081610,
+    "wof:name":"Bazayokobougou",
+    "wof:parent_id":421177883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.03333,
+    11.9,
+    -8.03333,
+    11.9
+],
+  "geometry": {"coordinates":[-8.03333,11.9],"type":"Point"}
+}

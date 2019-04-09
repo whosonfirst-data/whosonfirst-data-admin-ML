@@ -1,0 +1,67 @@
+{
+  "id": 1209914619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.0207,14.6309,-5.0207,14.6309",
+    "geom:latitude":14.6309,
+    "geom:longitude":-5.0207,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Petal",
+    "gn:country_code":"ML",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452092,
+    "gn:latitude":14.6309,
+    "gn:longitude":-5.0207,
+    "gn:modification_date":"2008-11-03",
+    "gn:name":"Petal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452092
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7f2d2255cd3016c09aa2708df201ef0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562861,
+            "locality_id":1209914619,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1209914619,
+    "wof:lastmodified":1536375086,
+    "wof:name":"Petal",
+    "wof:parent_id":1108562861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.0207,
+    14.6309,
+    -5.0207,
+    14.6309
+],
+  "geometry": {"coordinates":[-5.0207,14.6309],"type":"Point"}
+}

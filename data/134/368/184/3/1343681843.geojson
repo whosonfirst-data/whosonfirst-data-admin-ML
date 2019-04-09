@@ -1,0 +1,71 @@
+{
+  "id": 1343681843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.5744,15.6309,-4.5744,15.6309",
+    "geom:latitude":15.6309,
+    "geom:longitude":-4.5744,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Nyennie",
+    "gn:country_code":"ML",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452462,
+    "gn:latitude":15.6309,
+    "gn:longitude":-4.5744,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nyenni\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyeny\u00e9",
+        "Nyenni\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452462
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b90920a1511f455d92ccf4dc9387555e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562873,
+            "locality_id":1343681843,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1343681843,
+    "wof:lastmodified":1537665085,
+    "wof:name":"Nyennie",
+    "wof:parent_id":1108562873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.5744,
+    15.6309,
+    -4.5744,
+    15.6309
+],
+  "geometry": {"coordinates":[-4.5744,15.6309],"type":"Point"}
+}

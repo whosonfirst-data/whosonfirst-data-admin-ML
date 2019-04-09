@@ -1,0 +1,71 @@
+{
+  "id": 1242685123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.5963,13.3778,-9.5963,13.3778",
+    "geom:latitude":13.3778,
+    "geom:longitude":-9.5963,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Lenguema",
+    "gn:country_code":"ML",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454079,
+    "gn:latitude":13.3778,
+    "gn:longitude":-9.5963,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lengu\u00e8ma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lingu\u00e8ma",
+        "Lengu\u00e8ma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454079
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d3f2ab694aad945f0b2103c46c3817ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1242685123,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1242685123,
+    "wof:lastmodified":1537665128,
+    "wof:name":"Lenguema",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.5963,
+    13.3778,
+    -9.5963,
+    13.3778
+],
+  "geometry": {"coordinates":[-9.5963,13.3778],"type":"Point"}
+}

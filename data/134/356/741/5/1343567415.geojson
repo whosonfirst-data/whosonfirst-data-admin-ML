@@ -1,0 +1,71 @@
+{
+  "id": 1343567415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.426,14.566,-5.426,14.566",
+    "geom:latitude":14.566,
+    "geom:longitude":-5.426,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Malemana",
+    "gn:country_code":"ML",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453870,
+    "gn:latitude":14.566,
+    "gn:longitude":-5.426,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mal\u00e9mana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malimana",
+        "Mal\u00e9mana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453870
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"33e86c50003ceacdcf9eb9d694468547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562861,
+            "locality_id":1343567415,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1343567415,
+    "wof:lastmodified":1537665125,
+    "wof:name":"Malemana",
+    "wof:parent_id":1108562861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.426,
+    14.566,
+    -5.426,
+    14.566
+],
+  "geometry": {"coordinates":[-5.426,14.566],"type":"Point"}
+}

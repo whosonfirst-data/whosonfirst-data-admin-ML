@@ -1,0 +1,71 @@
+{
+  "id": 1225869101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.262,13.9319,-4.262,13.9319",
+    "geom:latitude":13.9319,
+    "geom:longitude":-4.262,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mansaba",
+    "gn:country_code":"ML",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453763,
+    "gn:latitude":13.9319,
+    "gn:longitude":-4.262,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mansaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mansala",
+        "Mansaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421187097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453763
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"941fd867794a266de9f8b13cd2001f91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421187097,
+            "locality_id":1225869101,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1225869101,
+    "wof:lastmodified":1537665122,
+    "wof:name":"Mansaba",
+    "wof:parent_id":421187097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.262,
+    13.9319,
+    -4.262,
+    13.9319
+],
+  "geometry": {"coordinates":[-4.262,13.9319],"type":"Point"}
+}

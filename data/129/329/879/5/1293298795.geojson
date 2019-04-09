@@ -1,0 +1,67 @@
+{
+  "id": 1293298795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.6246,13.8355,-3.6246,13.8355",
+    "geom:latitude":13.8355,
+    "geom:longitude":-3.6246,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lagassagou",
+    "gn:country_code":"ML",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454203,
+    "gn:latitude":13.8355,
+    "gn:longitude":-3.6246,
+    "gn:modification_date":"2008-10-31",
+    "gn:name":"Lagassagou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454203
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"46e0c511c811b929c7cdec0ead6c913a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1293298795,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1293298795,
+    "wof:lastmodified":1537056517,
+    "wof:name":"Lagassagou",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6246,
+    13.8355,
+    -3.6246,
+    13.8355
+],
+  "geometry": {"coordinates":[-3.6246,13.8355],"type":"Point"}
+}

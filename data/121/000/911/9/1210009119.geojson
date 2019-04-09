@@ -1,0 +1,67 @@
+{
+  "id": 1210009119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.30313,12.5255,-5.30313,12.5255",
+    "geom:latitude":12.5255,
+    "geom:longitude":-5.30313,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Zangorosso",
+    "gn:country_code":"ML",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448357,
+    "gn:latitude":12.5255,
+    "gn:longitude":-5.30313,
+    "gn:modification_date":"2008-10-24",
+    "gn:name":"Zangorosso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448357
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c449a24ca5b07e6e4ff6d65e6d5b331d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1210009119,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1210009119,
+    "wof:lastmodified":1536370422,
+    "wof:name":"Zangorosso",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.30313,
+    12.5255,
+    -5.30313,
+    12.5255
+],
+  "geometry": {"coordinates":[-5.30313,12.5255],"type":"Point"}
+}

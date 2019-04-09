@@ -1,0 +1,67 @@
+{
+  "id": 1310390981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.57483,16.14971,-3.57483,16.14971",
+    "geom:latitude":16.14971,
+    "geom:longitude":-3.57483,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bala-Maounde",
+    "gn:country_code":"ML",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460655,
+    "gn:latitude":16.14971,
+    "gn:longitude":-3.57483,
+    "gn:modification_date":"2009-06-26",
+    "gn:name":"Bala-Maound\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        421172359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460655
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a746a0a191d3d4b8e0aeba0f021bbfaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421172359,
+            "locality_id":1310390981,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1310390981,
+    "wof:lastmodified":1537079059,
+    "wof:name":"Bala-Maounde",
+    "wof:parent_id":421172359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.57483,
+    16.14971,
+    -3.57483,
+    16.14971
+],
+  "geometry": {"coordinates":[-3.57483,16.14971],"type":"Point"}
+}

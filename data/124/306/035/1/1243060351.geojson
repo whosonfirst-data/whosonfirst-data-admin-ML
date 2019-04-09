@@ -1,0 +1,67 @@
+{
+  "id": 1243060351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.34133,12.5949,-5.34133,12.5949",
+    "geom:latitude":12.5949,
+    "geom:longitude":-5.34133,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kalanga",
+    "gn:country_code":"ML",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455891,
+    "gn:latitude":12.5949,
+    "gn:longitude":-5.34133,
+    "gn:modification_date":"2008-10-24",
+    "gn:name":"Kalanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455891
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"950d27448a1b6438730b6239a70824b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1243060351,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1243060351,
+    "wof:lastmodified":1536863791,
+    "wof:name":"Kalanga",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.34133,
+    12.5949,
+    -5.34133,
+    12.5949
+],
+  "geometry": {"coordinates":[-5.34133,12.5949],"type":"Point"}
+}

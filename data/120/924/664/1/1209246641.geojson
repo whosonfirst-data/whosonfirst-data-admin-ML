@@ -1,0 +1,61 @@
+{
+  "id": 1209246641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.4051,15.1726,-5.4051,15.1726",
+    "geom:latitude":15.1726,
+    "geom:longitude":-5.4051,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Zamaga",
+    "gn:country_code":"ML",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448413,
+    "gn:latitude":15.1726,
+    "gn:longitude":-5.4051,
+    "gn:modification_date":"2008-01-04",
+    "gn:name":"Zamaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448413
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"207a6d44f57077a689f95e59062c4b1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209246641
+        }
+    ],
+    "wof:id":1209246641,
+    "wof:lastmodified":1536293142,
+    "wof:name":"Zamaga",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.4051,
+    15.1726,
+    -5.4051,
+    15.1726
+],
+  "geometry": {"coordinates":[-5.4051,15.1726],"type":"Point"}
+}

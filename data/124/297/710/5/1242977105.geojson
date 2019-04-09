@@ -1,0 +1,67 @@
+{
+  "id": 1242977105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.8142,13.7597,-4.8142,13.7597",
+    "geom:latitude":13.7597,
+    "geom:longitude":-4.8142,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Souma",
+    "gn:country_code":"ML",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450642,
+    "gn:latitude":13.7597,
+    "gn:longitude":-4.8142,
+    "gn:modification_date":"2008-11-03",
+    "gn:name":"Souma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421187097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450642
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2e1068578655026318bc7be766e46db8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421187097,
+            "locality_id":1242977105,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1242977105,
+    "wof:lastmodified":1536984335,
+    "wof:name":"Souma",
+    "wof:parent_id":421187097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.8142,
+    13.7597,
+    -4.8142,
+    13.7597
+],
+  "geometry": {"coordinates":[-4.8142,13.7597],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260289281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.5648,12.9659,-5.5648,12.9659",
+    "geom:latitude":12.9659,
+    "geom:longitude":-5.5648,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sogue",
+    "gn:country_code":"ML",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6861920,
+    "gn:latitude":12.9659,
+    "gn:longitude":-5.5648,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sogu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sog\u00e9",
+        "Sogu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6861920
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ed2354d119807dfed0d1c647ddb78303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562835,
+            "locality_id":1260289281,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1260289281,
+    "wof:lastmodified":1537665285,
+    "wof:name":"Sogue",
+    "wof:parent_id":1108562835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.5648,
+    12.9659,
+    -5.5648,
+    12.9659
+],
+  "geometry": {"coordinates":[-5.5648,12.9659],"type":"Point"}
+}

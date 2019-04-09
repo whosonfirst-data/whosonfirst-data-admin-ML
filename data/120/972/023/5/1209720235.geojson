@@ -1,0 +1,67 @@
+{
+  "id": 1209720235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.3587,15.3367,-5.3587,15.3367",
+    "geom:latitude":15.3367,
+    "geom:longitude":-5.3587,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Modi-Sabou",
+    "gn:country_code":"ML",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6687524,
+    "gn:latitude":15.3367,
+    "gn:longitude":-5.3587,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Modi-Sabou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6687524
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4b397245e03cd11b0bb82f771df65b1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562867,
+            "locality_id":1209720235,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1209720235,
+    "wof:lastmodified":1536386711,
+    "wof:name":"Modi-Sabou",
+    "wof:parent_id":1108562867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.3587,
+    15.3367,
+    -5.3587,
+    15.3367
+],
+  "geometry": {"coordinates":[-5.3587,15.3367],"type":"Point"}
+}

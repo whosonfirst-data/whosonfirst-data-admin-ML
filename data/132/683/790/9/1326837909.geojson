@@ -1,0 +1,67 @@
+{
+  "id": 1326837909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.57281,14.36696,-11.57281,14.36696",
+    "geom:latitude":14.36696,
+    "geom:longitude":-11.57281,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Eremakonokourou",
+    "gn:country_code":"ML",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457921,
+    "gn:latitude":14.36696,
+    "gn:longitude":-11.57281,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Er\u00e9makonokourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457921
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2ca7382d965804a263d6797c8eb249d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1326837909,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1326837909,
+    "wof:lastmodified":1537038838,
+    "wof:name":"Eremakonokourou",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.57281,
+    14.36696,
+    -11.57281,
+    14.36696
+],
+  "geometry": {"coordinates":[-11.57281,14.36696],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226576065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.35391,14.13084,-3.35391,14.13084",
+    "geom:latitude":14.13084,
+    "geom:longitude":-3.35391,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Koporo-Kenie-na",
+    "gn:country_code":"ML",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454721,
+    "gn:latitude":14.13084,
+    "gn:longitude":-3.35391,
+    "gn:modification_date":"2018-04-13",
+    "gn:name":"Koporo-K\u00e9ni\u00e9-na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaborokindi\u00e9",
+        "Koporokondi\u00e9-Na",
+        "Koporo-K\u00e9m\u00e9ma",
+        "Koporo-K\u00e9ni\u00e9-na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454721,
+        "wk:page":"Koporokendie_Na"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e3f7e6fa278c4f81ddc39530ad1f14d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1226576065,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1226576065,
+    "wof:lastmodified":1537665142,
+    "wof:name":"Koporo-Kenie-na",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.35391,
+    14.13084,
+    -3.35391,
+    14.13084
+],
+  "geometry": {"coordinates":[-3.35391,14.13084],"type":"Point"}
+}

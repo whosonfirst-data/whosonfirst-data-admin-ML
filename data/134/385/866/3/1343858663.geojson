@@ -1,0 +1,67 @@
+{
+  "id": 1343858663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.9597,13.9936,-3.9597,13.9936",
+    "geom:latitude":13.9936,
+    "geom:longitude":-3.9597,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nene",
+    "gn:country_code":"ML",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452959,
+    "gn:latitude":13.9936,
+    "gn:longitude":-3.9597,
+    "gn:modification_date":"2008-10-31",
+    "gn:name":"N\u00e9n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421171975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452959
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6a0f5ade87819882008e2ea57cc94af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171975,
+            "locality_id":1343858663,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1343858663,
+    "wof:lastmodified":1536669194,
+    "wof:name":"Nene",
+    "wof:parent_id":421171975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.9597,
+    13.9936,
+    -3.9597,
+    13.9936
+],
+  "geometry": {"coordinates":[-3.9597,13.9936],"type":"Point"}
+}

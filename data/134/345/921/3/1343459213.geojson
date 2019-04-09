@@ -1,0 +1,68 @@
+{
+  "id": 1343459213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.21976,15.07658,-2.21976,15.07658",
+    "geom:latitude":15.07658,
+    "geom:longitude":-2.21976,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Boni",
+    "gn:country_code":"ML",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459917,
+    "gn:latitude":15.07658,
+    "gn:longitude":-2.21976,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Boni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459917,
+        "wk:page":"Boni%2C_Mali"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9d765262c56b1846b0b5aa667bff7f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1343459213,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1343459213,
+    "wof:lastmodified":1537568435,
+    "wof:name":"Boni",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.21976,
+    15.07658,
+    -2.21976,
+    15.07658
+],
+  "geometry": {"coordinates":[-2.21976,15.07658],"type":"Point"}
+}

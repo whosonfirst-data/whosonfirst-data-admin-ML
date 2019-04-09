@@ -1,0 +1,67 @@
+{
+  "id": 1344157453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.73585,14.20889,-4.73585,14.20889",
+    "geom:latitude":14.20889,
+    "geom:longitude":-4.73585,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Diougouni",
+    "gn:country_code":"ML",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6764178,
+    "gn:latitude":14.20889,
+    "gn:longitude":-4.73585,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Diougouni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421187097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6764178
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"bee7a1dffd95903b9dd6a11704e0684f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421187097,
+            "locality_id":1344157453,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1344157453,
+    "wof:lastmodified":1536735718,
+    "wof:name":"Diougouni",
+    "wof:parent_id":421187097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.73585,
+    14.20889,
+    -4.73585,
+    14.20889
+],
+  "geometry": {"coordinates":[-4.73585,14.20889],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226161325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.81976,17.01194,-0.81976,17.01194",
+    "geom:latitude":17.01194,
+    "geom:longitude":-0.81976,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ti-n-Sakou",
+    "gn:country_code":"ML",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449307,
+    "gn:latitude":17.01194,
+    "gn:longitude":-0.81976,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Ti-n-Sakou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tin Sakou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        1108562879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449307
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b8b8adc1ee130a3c18356f87423dd6cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562879,
+            "locality_id":1226161325,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1226161325,
+    "wof:lastmodified":1537665023,
+    "wof:name":"Ti-n-Sakou",
+    "wof:parent_id":1108562879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.81976,
+    17.01194,
+    -0.81976,
+    17.01194
+],
+  "geometry": {"coordinates":[-0.81976,17.01194],"type":"Point"}
+}

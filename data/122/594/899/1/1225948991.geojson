@@ -1,0 +1,68 @@
+{
+  "id": 1225948991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.87776,13.77788,-5.87776,13.77788",
+    "geom:latitude":13.77788,
+    "geom:longitude":-5.87776,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sibila",
+    "gn:country_code":"ML",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451258,
+    "gn:latitude":13.77788,
+    "gn:longitude":-5.87776,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Sibila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451258,
+        "wk:page":"Sibila"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0a0f7c9e597b4488f3184bd7384daec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1225948991,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1225948991,
+    "wof:lastmodified":1537568408,
+    "wof:name":"Sibila",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.87776,
+    13.77788,
+    -5.87776,
+    13.77788
+],
+  "geometry": {"coordinates":[-5.87776,13.77788],"type":"Point"}
+}

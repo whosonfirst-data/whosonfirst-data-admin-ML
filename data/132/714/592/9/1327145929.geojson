@@ -1,0 +1,70 @@
+{
+  "id": 1327145929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.8159,13.0328,-8.8159,13.0328",
+    "geom:latitude":13.0328,
+    "geom:longitude":-8.8159,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tama",
+    "gn:country_code":"ML",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450327,
+    "gn:latitude":13.0328,
+    "gn:longitude":-8.8159,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450327
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"73dbb1dd53d516cb12f8a0a1c1d892b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1327145929,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1327145929,
+    "wof:lastmodified":1537665036,
+    "wof:name":"Tama",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.8159,
+    13.0328,
+    -8.8159,
+    13.0328
+],
+  "geometry": {"coordinates":[-8.8159,13.0328],"type":"Point"}
+}

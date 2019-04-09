@@ -1,0 +1,67 @@
+{
+  "id": 1343864415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.3691,13.9336,-3.3691,13.9336",
+    "geom:latitude":13.9336,
+    "geom:longitude":-3.3691,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Azanga",
+    "gn:country_code":"ML",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460838,
+    "gn:latitude":13.9336,
+    "gn:longitude":-3.3691,
+    "gn:modification_date":"2008-10-31",
+    "gn:name":"Azanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460838
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8df54a3111caa6d91e7e960bc75319a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1343864415,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1343864415,
+    "wof:lastmodified":1536660908,
+    "wof:name":"Azanga",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.3691,
+    13.9336,
+    -3.3691,
+    13.9336
+],
+  "geometry": {"coordinates":[-3.3691,13.9336],"type":"Point"}
+}

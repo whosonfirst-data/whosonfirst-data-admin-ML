@@ -1,0 +1,67 @@
+{
+  "id": 1360177067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.63947,11.82285,-7.63947,11.82285",
+    "geom:latitude":11.82285,
+    "geom:longitude":-7.63947,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bokoro",
+    "gn:country_code":"ML",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459953,
+    "gn:latitude":11.82285,
+    "gn:longitude":-7.63947,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Bokoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459953
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8d883e0612319bb9f1503baad3d83304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1360177067,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1360177067,
+    "wof:lastmodified":1536812442,
+    "wof:name":"Bokoro",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.63947,
+    11.82285,
+    -7.63947,
+    11.82285
+],
+  "geometry": {"coordinates":[-7.63947,11.82285],"type":"Point"}
+}

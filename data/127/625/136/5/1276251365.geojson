@@ -1,0 +1,72 @@
+{
+  "id": 1276251365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.37775,16.37789,-3.37775,16.37789",
+    "geom:latitude":16.37789,
+    "geom:longitude":-3.37775,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Araham",
+    "gn:country_code":"ML",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460959,
+    "gn:latitude":16.37789,
+    "gn:longitude":-3.37775,
+    "gn:modification_date":"2018-04-15",
+    "gn:name":"Araham",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arahan",
+        "Araham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        421172359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460959,
+        "wk:page":"Arham"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"10857d471dbf13507f5bda289893d3eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421172359,
+            "locality_id":1276251365,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1276251365,
+    "wof:lastmodified":1537665278,
+    "wof:name":"Araham",
+    "wof:parent_id":421172359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.37775,
+    16.37789,
+    -3.37775,
+    16.37789
+],
+  "geometry": {"coordinates":[-3.37775,16.37789],"type":"Point"}
+}

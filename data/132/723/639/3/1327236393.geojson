@@ -1,0 +1,71 @@
+{
+  "id": 1327236393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.6974,13.2392,-4.6974,13.2392",
+    "geom:latitude":13.2392,
+    "geom:longitude":-4.6974,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Seoulasso",
+    "gn:country_code":"ML",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451346,
+    "gn:latitude":13.2392,
+    "gn:longitude":-4.6974,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u00e9oulasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Solokui",
+        "S\u00e9oulasso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451346
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f7d0581320099bd3b3a149dfecd674d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562843,
+            "locality_id":1327236393,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1327236393,
+    "wof:lastmodified":1537665059,
+    "wof:name":"Seoulasso",
+    "wof:parent_id":1108562843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.6974,
+    13.2392,
+    -4.6974,
+    13.2392
+],
+  "geometry": {"coordinates":[-4.6974,13.2392],"type":"Point"}
+}

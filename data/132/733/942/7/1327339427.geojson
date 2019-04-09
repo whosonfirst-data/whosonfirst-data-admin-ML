@@ -1,0 +1,71 @@
+{
+  "id": 1327339427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.1988,15.3829,-4.1988,15.3829",
+    "geom:latitude":15.3829,
+    "geom:longitude":-4.1988,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sobe",
+    "gn:country_code":"ML",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450900,
+    "gn:latitude":15.3829,
+    "gn:longitude":-4.1988,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sob\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sab\u00e9",
+        "Sob\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450900
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"512b3cf80e46c60f5889f2a0323fcd65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562871,
+            "locality_id":1327339427,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1327339427,
+    "wof:lastmodified":1537665047,
+    "wof:name":"Sobe",
+    "wof:parent_id":1108562871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.1988,
+    15.3829,
+    -4.1988,
+    15.3829
+],
+  "geometry": {"coordinates":[-4.1988,15.3829],"type":"Point"}
+}

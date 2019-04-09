@@ -1,0 +1,71 @@
+{
+  "id": 1343663723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.10155,14.47067,-11.10155,14.47067",
+    "geom:latitude":14.47067,
+    "geom:longitude":-11.10155,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Goumera",
+    "gn:country_code":"ML",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456936,
+    "gn:latitude":14.47067,
+    "gn:longitude":-11.10155,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Goum\u00e9ra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goum\u00e9ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456936,
+        "wk:page":"Goum%C3%A9ra"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"aac5a7703363fecef89a01c4b98a320c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1343663723,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1343663723,
+    "wof:lastmodified":1537665181,
+    "wof:name":"Goumera",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.10155,
+    14.47067,
+    -11.10155,
+    14.47067
+],
+  "geometry": {"coordinates":[-11.10155,14.47067],"type":"Point"}
+}

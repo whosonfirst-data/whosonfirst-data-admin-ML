@@ -1,0 +1,67 @@
+{
+  "id": 1226541713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.46972,14.37125,-11.46972,14.37125",
+    "geom:latitude":14.37125,
+    "geom:longitude":-11.46972,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Inkitraorela",
+    "gn:country_code":"ML",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456297,
+    "gn:latitude":14.37125,
+    "gn:longitude":-11.46972,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Inkitraorela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456297
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"68ec0c3d336d3d1a6c862080a2d30d17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1226541713,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1226541713,
+    "wof:lastmodified":1537003087,
+    "wof:name":"Inkitraorela",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.46972,
+    14.37125,
+    -11.46972,
+    14.37125
+],
+  "geometry": {"coordinates":[-11.46972,14.37125],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310513161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.78022,13.93376,-11.78022,13.93376",
+    "geom:latitude":13.93376,
+    "geom:longitude":-11.78022,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Korindji",
+    "gn:country_code":"ML",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454685,
+    "gn:latitude":13.93376,
+    "gn:longitude":-11.78022,
+    "gn:modification_date":"2007-10-18",
+    "gn:name":"Korindji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454685
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b97e58f2d7d2c3fb029adf4b9cea440b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1310513161,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1310513161,
+    "wof:lastmodified":1536906035,
+    "wof:name":"Korindji",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.78022,
+    13.93376,
+    -11.78022,
+    13.93376
+],
+  "geometry": {"coordinates":[-11.78022,13.93376],"type":"Point"}
+}

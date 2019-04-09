@@ -1,0 +1,71 @@
+{
+  "id": 1225966355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.94767,11.34994,-5.94767,11.34994",
+    "geom:latitude":11.34994,
+    "geom:longitude":-5.94767,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mpedougou",
+    "gn:country_code":"ML",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453223,
+    "gn:latitude":11.34994,
+    "gn:longitude":-5.94767,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Mp\u00e9dougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mpedugu",
+        "Mp\u00e9dougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453223
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2b5286a0dc5011b8d5f7fd26c7f116b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1225966355,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1225966355,
+    "wof:lastmodified":1537665107,
+    "wof:name":"Mpedougou",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.94767,
+    11.34994,
+    -5.94767,
+    11.34994
+],
+  "geometry": {"coordinates":[-5.94767,11.34994],"type":"Point"}
+}

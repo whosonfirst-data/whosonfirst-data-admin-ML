@@ -1,0 +1,67 @@
+{
+  "id": 1293593979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.27597,13.75581,-5.27597,13.75581",
+    "geom:latitude":13.75581,
+    "geom:longitude":-5.27597,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Madeira",
+    "gn:country_code":"ML",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880304,
+    "gn:latitude":13.75581,
+    "gn:longitude":-5.27597,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Madeira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880304
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"79fb4c3b652b7a3a33b23265e697869f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":1293593979,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1293593979,
+    "wof:lastmodified":1536632068,
+    "wof:name":"Madeira",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.27597,
+    13.75581,
+    -5.27597,
+    13.75581
+],
+  "geometry": {"coordinates":[-5.27597,13.75581],"type":"Point"}
+}

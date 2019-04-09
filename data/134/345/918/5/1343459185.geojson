@@ -1,0 +1,67 @@
+{
+  "id": 1343459185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.268,15.6865,-4.268,15.6865",
+    "geom:latitude":15.6865,
+    "geom:longitude":-4.268,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ayom",
+    "gn:country_code":"ML",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6687394,
+    "gn:latitude":15.6865,
+    "gn:longitude":-4.268,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Ayom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6687394
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b4112acca0798dd5d72c685f9eadc858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562871,
+            "locality_id":1343459185,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1343459185,
+    "wof:lastmodified":1536747822,
+    "wof:name":"Ayom",
+    "wof:parent_id":1108562871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.268,
+    15.6865,
+    -4.268,
+    15.6865
+],
+  "geometry": {"coordinates":[-4.268,15.6865],"type":"Point"}
+}

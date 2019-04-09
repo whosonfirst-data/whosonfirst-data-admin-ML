@@ -1,0 +1,74 @@
+{
+  "id": 1225845911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.6265,13.7377,-3.6265,13.7377",
+    "geom:latitude":13.7377,
+    "geom:longitude":-3.6265,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Diallassagou",
+    "gn:country_code":"ML",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459040,
+    "gn:latitude":13.7377,
+    "gn:longitude":-3.6265,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Diallassagou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dialsago",
+        "Diallassagu",
+        "Dialassagou",
+        "Diallassagou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459040,
+        "wk:page":"Diallassagou"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"72836bca51feec8b991cbf512c208e3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1225845911,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1225845911,
+    "wof:lastmodified":1537665237,
+    "wof:name":"Diallassagou",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6265,
+    13.7377,
+    -3.6265,
+    13.7377
+],
+  "geometry": {"coordinates":[-3.6265,13.7377],"type":"Point"}
+}

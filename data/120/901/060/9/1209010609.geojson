@@ -1,0 +1,61 @@
+{
+  "id": 1209010609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.64275,15.27716,-1.64275,15.27716",
+    "geom:latitude":15.27716,
+    "geom:longitude":-1.64275,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tkiri",
+    "gn:country_code":"ML",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449122,
+    "gn:latitude":15.27716,
+    "gn:longitude":-1.64275,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Tkiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449122
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"93b6f9cf8d37736409895e6a3d8a30bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209010609
+        }
+    ],
+    "wof:id":1209010609,
+    "wof:lastmodified":1536300459,
+    "wof:name":"Tkiri",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.64275,
+    15.27716,
+    -1.64275,
+    15.27716
+],
+  "geometry": {"coordinates":[-1.64275,15.27716],"type":"Point"}
+}

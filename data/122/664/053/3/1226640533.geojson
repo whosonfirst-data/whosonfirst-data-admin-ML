@@ -1,0 +1,67 @@
+{
+  "id": 1226640533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.22301,13.95778,-7.22301,13.95778",
+    "geom:latitude":13.95778,
+    "geom:longitude":-7.22301,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sogoni",
+    "gn:country_code":"ML",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450876,
+    "gn:latitude":13.95778,
+    "gn:longitude":-7.22301,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Sogoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450876
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2e609f396445b098f44f7294d514b7fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562851,
+            "locality_id":1226640533,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1226640533,
+    "wof:lastmodified":1536865670,
+    "wof:name":"Sogoni",
+    "wof:parent_id":1108562851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.22301,
+    13.95778,
+    -7.22301,
+    13.95778
+],
+  "geometry": {"coordinates":[-7.22301,13.95778],"type":"Point"}
+}

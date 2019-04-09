@@ -1,0 +1,67 @@
+{
+  "id": 1259484949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.709,13.1352,-10.709,13.1352",
+    "geom:latitude":13.1352,
+    "geom:longitude":-10.709,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Fore",
+    "gn:country_code":"ML",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457359,
+    "gn:latitude":13.1352,
+    "gn:longitude":-10.709,
+    "gn:modification_date":"2008-11-19",
+    "gn:name":"For\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457359
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"682f76196d83dc1308633f5551f88658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562855,
+            "locality_id":1259484949,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1259484949,
+    "wof:lastmodified":1536855502,
+    "wof:name":"Fore",
+    "wof:parent_id":1108562855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.709,
+    13.1352,
+    -10.709,
+    13.1352
+],
+  "geometry": {"coordinates":[-10.709,13.1352],"type":"Point"}
+}

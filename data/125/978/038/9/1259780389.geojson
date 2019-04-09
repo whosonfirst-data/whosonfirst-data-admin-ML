@@ -1,0 +1,67 @@
+{
+  "id": 1259780389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.8021,14.1306,-7.8021,14.1306",
+    "geom:latitude":14.1306,
+    "geom:longitude":-7.8021,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Boila",
+    "gn:country_code":"ML",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459961,
+    "gn:latitude":14.1306,
+    "gn:longitude":-7.8021,
+    "gn:modification_date":"2008-11-07",
+    "gn:name":"Bo\u00efla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459961
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"162faf0bf1a55292d9b2d7edc4816e04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":1259780389,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1259780389,
+    "wof:lastmodified":1536928400,
+    "wof:name":"Boila",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.8021,
+    14.1306,
+    -7.8021,
+    14.1306
+],
+  "geometry": {"coordinates":[-7.8021,14.1306],"type":"Point"}
+}

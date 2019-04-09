@@ -1,0 +1,67 @@
+{
+  "id": 1259478753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.1947,16.7036,-4.1947,16.7036",
+    "geom:latitude":16.7036,
+    "geom:longitude":-4.1947,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Arkachene",
+    "gn:country_code":"ML",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6847231,
+    "gn:latitude":16.7036,
+    "gn:longitude":-4.1947,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Arkachene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6847231
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"cced39d08d3bd974b65e2acded036e39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562889,
+            "locality_id":1259478753,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1259478753,
+    "wof:lastmodified":1536864292,
+    "wof:name":"Arkachene",
+    "wof:parent_id":1108562889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.1947,
+    16.7036,
+    -4.1947,
+    16.7036
+],
+  "geometry": {"coordinates":[-4.1947,16.7036],"type":"Point"}
+}

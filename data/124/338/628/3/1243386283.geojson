@@ -1,0 +1,67 @@
+{
+  "id": 1243386283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.92475,13.3324,-5.92475,13.3324",
+    "geom:latitude":13.3324,
+    "geom:longitude":-5.92475,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kouandiabougou",
+    "gn:country_code":"ML",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454592,
+    "gn:latitude":13.3324,
+    "gn:longitude":-5.92475,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Kouandiabougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454592
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6ba4ab45849dcae8cf21afa5296f1cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1243386283,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1243386283,
+    "wof:lastmodified":1536892047,
+    "wof:name":"Kouandiabougou",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.92475,
+    13.3324,
+    -5.92475,
+    13.3324
+],
+  "geometry": {"coordinates":[-5.92475,13.3324],"type":"Point"}
+}

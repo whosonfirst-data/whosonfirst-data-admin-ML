@@ -1,0 +1,67 @@
+{
+  "id": 1343585335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.25393,14.49187,-3.25393,14.49187",
+    "geom:latitude":14.49187,
+    "geom:longitude":-3.25393,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Arou",
+    "gn:country_code":"ML",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6866696,
+    "gn:latitude":14.49187,
+    "gn:longitude":-3.25393,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Arou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421171975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6866696
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9a0a4f3676212d19b0d6caf814ab6403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171975,
+            "locality_id":1343585335,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1343585335,
+    "wof:lastmodified":1537060880,
+    "wof:name":"Arou",
+    "wof:parent_id":421171975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.25393,
+    14.49187,
+    -3.25393,
+    14.49187
+],
+  "geometry": {"coordinates":[-3.25393,14.49187],"type":"Point"}
+}

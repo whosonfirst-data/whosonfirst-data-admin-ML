@@ -1,0 +1,67 @@
+{
+  "id": 1326631907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.2372,13.685,-10.2372,13.685",
+    "geom:latitude":13.685,
+    "geom:longitude":-10.2372,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Marena",
+    "gn:country_code":"ML",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453699,
+    "gn:latitude":13.685,
+    "gn:longitude":-10.2372,
+    "gn:modification_date":"2008-11-19",
+    "gn:name":"Mar\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453699
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5e9fa2855f7291f5a5f7bfdd8d370ad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562855,
+            "locality_id":1326631907,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1326631907,
+    "wof:lastmodified":1536839249,
+    "wof:name":"Marena",
+    "wof:parent_id":1108562855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.2372,
+    13.685,
+    -10.2372,
+    13.685
+],
+  "geometry": {"coordinates":[-10.2372,13.685],"type":"Point"}
+}

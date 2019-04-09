@@ -1,0 +1,71 @@
+{
+  "id": 1243295693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.48743,12.8235,-5.48743,12.8235",
+    "geom:latitude":12.8235,
+    "geom:longitude":-5.48743,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kolomasso",
+    "gn:country_code":"ML",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454951,
+    "gn:latitude":12.8235,
+    "gn:longitude":-5.48743,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kolomasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolomosso",
+        "Kolomasso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454951
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"191058d2a039c4bb9ad10d61871a0586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562835,
+            "locality_id":1243295693,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1243295693,
+    "wof:lastmodified":1537665149,
+    "wof:name":"Kolomasso",
+    "wof:parent_id":1108562835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.48743,
+    12.8235,
+    -5.48743,
+    12.8235
+],
+  "geometry": {"coordinates":[-5.48743,12.8235],"type":"Point"}
+}

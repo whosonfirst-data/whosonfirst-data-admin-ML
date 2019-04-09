@@ -1,0 +1,67 @@
+{
+  "id": 1277080473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.08125,14.55805,-4.08125,14.55805",
+    "geom:latitude":14.55805,
+    "geom:longitude":-4.08125,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Takouti",
+    "gn:country_code":"ML",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450350,
+    "gn:latitude":14.55805,
+    "gn:longitude":-4.08125,
+    "gn:modification_date":"2008-05-14",
+    "gn:name":"Takouti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450350
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"faeffd8ecb3acd89914f75c1545619d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1277080473,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1277080473,
+    "wof:lastmodified":1536771372,
+    "wof:name":"Takouti",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.08125,
+    14.55805,
+    -4.08125,
+    14.55805
+],
+  "geometry": {"coordinates":[-4.08125,14.55805],"type":"Point"}
+}

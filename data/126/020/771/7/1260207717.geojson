@@ -1,0 +1,71 @@
+{
+  "id": 1260207717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.59476,15.11633,-2.59476,15.11633",
+    "geom:latitude":15.11633,
+    "geom:longitude":-2.59476,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Boussouma",
+    "gn:country_code":"ML",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459637,
+    "gn:latitude":15.11633,
+    "gn:longitude":-2.59476,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Boussouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bousauma",
+        "Boussouma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459637
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a970b401d6175dad8423a02c50742248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1260207717,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1260207717,
+    "wof:lastmodified":1537665249,
+    "wof:name":"Boussouma",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.59476,
+    15.11633,
+    -2.59476,
+    15.11633
+],
+  "geometry": {"coordinates":[-2.59476,15.11633],"type":"Point"}
+}

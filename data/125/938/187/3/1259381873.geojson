@@ -1,0 +1,67 @@
+{
+  "id": 1259381873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.90779,13.78211,-5.90779,13.78211",
+    "geom:latitude":13.78211,
+    "geom:longitude":-5.90779,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tiongo",
+    "gn:country_code":"ML",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880232,
+    "gn:latitude":13.78211,
+    "gn:longitude":-5.90779,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Tiongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880232
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7b0af7ac0c0013fb589b4358716e1584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1259381873,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1259381873,
+    "wof:lastmodified":1537003855,
+    "wof:name":"Tiongo",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.90779,
+    13.78211,
+    -5.90779,
+    13.78211
+],
+  "geometry": {"coordinates":[-5.90779,13.78211],"type":"Point"}
+}

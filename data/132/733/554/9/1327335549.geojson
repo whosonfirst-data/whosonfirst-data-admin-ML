@@ -1,0 +1,67 @@
+{
+  "id": 1327335549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.45946,12.23482,-11.45946,12.23482",
+    "geom:latitude":12.23482,
+    "geom:longitude":-11.45946,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Diouki",
+    "gn:country_code":"ML",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458661,
+    "gn:latitude":12.23482,
+    "gn:longitude":-11.45946,
+    "gn:modification_date":"2007-10-11",
+    "gn:name":"Diouki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458661
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"821812b12ea4b8c4af6d46f6e662a36f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171903,
+            "locality_id":1327335549,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1327335549,
+    "wof:lastmodified":1536819771,
+    "wof:name":"Diouki",
+    "wof:parent_id":421171903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.45946,
+    12.23482,
+    -11.45946,
+    12.23482
+],
+  "geometry": {"coordinates":[-11.45946,12.23482],"type":"Point"}
+}

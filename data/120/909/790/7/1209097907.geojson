@@ -1,0 +1,64 @@
+{
+  "id": 1209097907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.3616,13.081,-8.3616,13.081",
+    "geom:latitude":13.081,
+    "geom:longitude":-8.3616,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Wolobougou",
+    "gn:country_code":"ML",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448580,
+    "gn:latitude":13.081,
+    "gn:longitude":-8.3616,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wolobougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Wolobougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448580
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"07a98e5b596ea8a54cfd65793c1e807a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209097907
+        }
+    ],
+    "wof:id":1209097907,
+    "wof:lastmodified":1537665006,
+    "wof:name":"Wolobougou",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.3616,
+    13.081,
+    -8.3616,
+    13.081
+],
+  "geometry": {"coordinates":[-8.3616,13.081],"type":"Point"}
+}

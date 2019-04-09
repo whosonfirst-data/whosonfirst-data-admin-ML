@@ -1,0 +1,67 @@
+{
+  "id": 1327052381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.5183,15.7455,-3.5183,15.7455",
+    "geom:latitude":15.7455,
+    "geom:longitude":-3.5183,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Goungui",
+    "gn:country_code":"ML",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456897,
+    "gn:latitude":15.7455,
+    "gn:longitude":-3.5183,
+    "gn:modification_date":"2008-11-04",
+    "gn:name":"Goungui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456897
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"cf32d6a80368433f5a1305b875c9b673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562873,
+            "locality_id":1327052381,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1327052381,
+    "wof:lastmodified":1536731881,
+    "wof:name":"Goungui",
+    "wof:parent_id":1108562873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5183,
+    15.7455,
+    -3.5183,
+    15.7455
+],
+  "geometry": {"coordinates":[-3.5183,15.7455],"type":"Point"}
+}

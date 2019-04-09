@@ -1,0 +1,67 @@
+{
+  "id": 1193270689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0624,12.0708,-6.0624,12.0708",
+    "geom:latitude":12.0708,
+    "geom:longitude":-6.0624,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nangola",
+    "gn:country_code":"ML",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6907217,
+    "gn:latitude":12.0708,
+    "gn:longitude":-6.0624,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Nangola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6907217
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9d145beaf7f3d8bd752397320b5488e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1193270689,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1193270689,
+    "wof:lastmodified":1536371016,
+    "wof:name":"Nangola",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0624,
+    12.0708,
+    -6.0624,
+    12.0708
+],
+  "geometry": {"coordinates":[-6.0624,12.0708],"type":"Point"}
+}

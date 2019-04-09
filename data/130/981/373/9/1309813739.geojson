@@ -1,0 +1,67 @@
+{
+  "id": 1309813739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.46667,13.11667,-7.46667,13.11667",
+    "geom:latitude":13.11667,
+    "geom:longitude":-7.46667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Banzano",
+    "gn:country_code":"ML",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460348,
+    "gn:latitude":13.11667,
+    "gn:longitude":-7.46667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Banzano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460348
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ba536ddbc401274f63d80463d511b29b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562839,
+            "locality_id":1309813739,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1309813739,
+    "wof:lastmodified":1536920157,
+    "wof:name":"Banzano",
+    "wof:parent_id":1108562839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.46667,
+    13.11667,
+    -7.46667,
+    13.11667
+],
+  "geometry": {"coordinates":[-7.46667,13.11667],"type":"Point"}
+}

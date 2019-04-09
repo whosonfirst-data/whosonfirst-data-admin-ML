@@ -1,0 +1,73 @@
+{
+  "id": 1309733033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.77932,11.93508,-6.77932,11.93508",
+    "geom:latitude":11.93508,
+    "geom:longitude":-6.77932,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Doubalakoro",
+    "gn:country_code":"ML",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458348,
+    "gn:latitude":11.93508,
+    "gn:longitude":-6.77932,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Doubalakoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Doubala"
+    ],
+    "name:und_x_variant":[
+        "Doubala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458348
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e822d6507d2ae607db1866525f54dbd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1309733033,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1309733033,
+    "wof:lastmodified":1537665217,
+    "wof:name":"Doubalakoro",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.77932,
+    11.93508,
+    -6.77932,
+    11.93508
+],
+  "geometry": {"coordinates":[-6.77932,11.93508],"type":"Point"}
+}

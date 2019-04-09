@@ -1,0 +1,67 @@
+{
+  "id": 1242965029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.98517,12.50469,-8.98517,12.50469",
+    "geom:latitude":12.50469,
+    "geom:longitude":-8.98517,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Farako",
+    "gn:country_code":"ML",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594563,
+    "gn:latitude":12.50469,
+    "gn:longitude":-8.98517,
+    "gn:modification_date":"2008-11-13",
+    "gn:name":"Farako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594563
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2a669ba6d6f18035b48422d39decc85d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1242965029,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1242965029,
+    "wof:lastmodified":1537001925,
+    "wof:name":"Farako",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.98517,
+    12.50469,
+    -8.98517,
+    12.50469
+],
+  "geometry": {"coordinates":[-8.98517,12.50469],"type":"Point"}
+}

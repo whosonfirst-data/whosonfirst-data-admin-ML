@@ -1,0 +1,67 @@
+{
+  "id": 1360008525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.5469,13.5584,-6.5469,13.5584",
+    "geom:latitude":13.5584,
+    "geom:longitude":-6.5469,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Neguebougou",
+    "gn:country_code":"ML",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452985,
+    "gn:latitude":13.5584,
+    "gn:longitude":-6.5469,
+    "gn:modification_date":"2008-11-18",
+    "gn:name":"N\u00e8gu\u00e8bougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452985
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"dc3b8ffaa5621f5e49166cbf5c1ab8ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1360008525,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1360008525,
+    "wof:lastmodified":1537053792,
+    "wof:name":"Neguebougou",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.5469,
+    13.5584,
+    -6.5469,
+    13.5584
+],
+  "geometry": {"coordinates":[-6.5469,13.5584],"type":"Point"}
+}

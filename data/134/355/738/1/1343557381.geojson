@@ -1,0 +1,67 @@
+{
+  "id": 1343557381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.71611,18.84758,2.71611,18.84758",
+    "geom:latitude":18.84758,
+    "geom:longitude":2.71611,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ibhawane",
+    "gn:country_code":"ML",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11428273,
+    "gn:latitude":18.84758,
+    "gn:longitude":2.71611,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Ibhawane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674515,
+        1108562881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11428273
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c55dc58e096df5ed5b27aa5b74022f26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562881,
+            "locality_id":1343557381,
+            "region_id":85674515
+        }
+    ],
+    "wof:id":1343557381,
+    "wof:lastmodified":1536603310,
+    "wof:name":"Ibhawane",
+    "wof:parent_id":1108562881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.71611,
+    18.84758,
+    2.71611,
+    18.84758
+],
+  "geometry": {"coordinates":[2.71611,18.84758],"type":"Point"}
+}

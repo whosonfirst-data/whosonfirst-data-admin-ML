@@ -1,0 +1,71 @@
+{
+  "id": 1276669423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.0257,13.1879,-10.0257,13.1879",
+    "geom:latitude":13.1879,
+    "geom:longitude":-10.0257,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Naroumba",
+    "gn:country_code":"ML",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453074,
+    "gn:latitude":13.1879,
+    "gn:longitude":-10.0257,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Naroumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u00e9roumba",
+        "Naroumba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453074
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"80e57cf00d6004c38ddf455e5e3a9c78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1276669423,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1276669423,
+    "wof:lastmodified":1537665104,
+    "wof:name":"Naroumba",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.0257,
+    13.1879,
+    -10.0257,
+    13.1879
+],
+  "geometry": {"coordinates":[-10.0257,13.1879],"type":"Point"}
+}

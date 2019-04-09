@@ -1,0 +1,67 @@
+{
+  "id": 1310398895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.38324,11.4197,-6.38324,11.4197",
+    "geom:latitude":11.4197,
+    "geom:longitude":-6.38324,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Meguela",
+    "gn:country_code":"ML",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910301,
+    "gn:latitude":11.4197,
+    "gn:longitude":-6.38324,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"M\u00e9gu\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910301
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c5628762452e86da73d3d4d18b4dcd28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1310398895,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1310398895,
+    "wof:lastmodified":1537067836,
+    "wof:name":"Meguela",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.38324,
+    11.4197,
+    -6.38324,
+    11.4197
+],
+  "geometry": {"coordinates":[-6.38324,11.4197],"type":"Point"}
+}

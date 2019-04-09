@@ -1,0 +1,67 @@
+{
+  "id": 1226366693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.8994,13.6144,-3.8994,13.6144",
+    "geom:latitude":13.6144,
+    "geom:longitude":-3.8994,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Logori",
+    "gn:country_code":"ML",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454067,
+    "gn:latitude":13.6144,
+    "gn:longitude":-3.8994,
+    "gn:modification_date":"2008-10-31",
+    "gn:name":"Logori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454067
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4c10dfbc033914e2deb335cd1fbf29eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1226366693,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1226366693,
+    "wof:lastmodified":1536759551,
+    "wof:name":"Logori",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8994,
+    13.6144,
+    -3.8994,
+    13.6144
+],
+  "geometry": {"coordinates":[-3.8994,13.6144],"type":"Point"}
+}

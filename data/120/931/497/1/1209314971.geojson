@@ -1,0 +1,61 @@
+{
+  "id": 1209314971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.21944,14.24923,-5.21944,14.24923",
+    "geom:latitude":14.24923,
+    "geom:longitude":-5.21944,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sango",
+    "gn:country_code":"ML",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451673,
+    "gn:latitude":14.24923,
+    "gn:longitude":-5.21944,
+    "gn:modification_date":"2008-11-03",
+    "gn:name":"Sango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451673
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e81aa412af1c755eab16dbf553a27576",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209314971
+        }
+    ],
+    "wof:id":1209314971,
+    "wof:lastmodified":1536290897,
+    "wof:name":"Sango",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.2194400000000005,
+    14.24923,
+    -5.2194400000000005,
+    14.24923
+],
+  "geometry": {"coordinates":[-5.21944,14.24923],"type":"Point"}
+}

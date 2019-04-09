@@ -1,0 +1,65 @@
+{
+  "id": 1209400345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.6097,15.6836,-4.6097,15.6836",
+    "geom:latitude":15.6836,
+    "geom:longitude":-4.6097,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dar-el-Salam",
+    "gn:country_code":"ML",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459301,
+    "gn:latitude":15.6836,
+    "gn:longitude":-4.6097,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dar-el-Salam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dar es Salam",
+        "Dar-el-Salam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459301
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"287271f30942c577412215633b884eaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209400345
+        }
+    ],
+    "wof:id":1209400345,
+    "wof:lastmodified":1537665242,
+    "wof:name":"Dar-el-Salam",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.6097,
+    15.6836,
+    -4.6097,
+    15.6836
+],
+  "geometry": {"coordinates":[-4.6097,15.6836],"type":"Point"}
+}

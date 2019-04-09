@@ -1,0 +1,65 @@
+{
+  "id": 1209516307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.56605,15.51738,-3.56605,15.51738",
+    "geom:latitude":15.51738,
+    "geom:longitude":-3.56605,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sare-Demmba",
+    "gn:country_code":"ML",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451578,
+    "gn:latitude":15.51738,
+    "gn:longitude":-3.56605,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sar\u00e9-Demmba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sar\u00e9 Demba",
+        "Sar\u00e9-Demmba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451578
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1591310bb8b91307e14e8fe97414f698",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209516307
+        }
+    ],
+    "wof:id":1209516307,
+    "wof:lastmodified":1537665065,
+    "wof:name":"Sare-Demmba",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.56605,
+    15.51738,
+    -3.56605,
+    15.51738
+],
+  "geometry": {"coordinates":[-3.56605,15.51738],"type":"Point"}
+}

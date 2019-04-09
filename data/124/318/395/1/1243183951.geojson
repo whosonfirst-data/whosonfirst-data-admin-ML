@@ -1,0 +1,67 @@
+{
+  "id": 1243183951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.48594,14.30305,-11.48594,14.30305",
+    "geom:latitude":14.30305,
+    "geom:longitude":-11.48594,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Fassaraya",
+    "gn:country_code":"ML",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457551,
+    "gn:latitude":14.30305,
+    "gn:longitude":-11.48594,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Fassaraya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457551
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7d4875c4fb045494aa3d75d6a95d4e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1243183951,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1243183951,
+    "wof:lastmodified":1536686972,
+    "wof:name":"Fassaraya",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.48594,
+    14.30305,
+    -11.48594,
+    14.30305
+],
+  "geometry": {"coordinates":[-11.48594,14.30305],"type":"Point"}
+}

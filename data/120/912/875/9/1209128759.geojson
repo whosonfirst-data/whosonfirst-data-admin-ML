@@ -1,0 +1,61 @@
+{
+  "id": 1209128759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0622,12.7244,-6.0622,12.7244",
+    "geom:latitude":12.7244,
+    "geom:longitude":-6.0622,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ndomabougou",
+    "gn:country_code":"ML",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6907303,
+    "gn:latitude":12.7244,
+    "gn:longitude":-6.0622,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Ndomabougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6907303
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4f7a8aea547338115f07de49112edd2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209128759
+        }
+    ],
+    "wof:id":1209128759,
+    "wof:lastmodified":1536296872,
+    "wof:name":"Ndomabougou",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0622,
+    12.7244,
+    -6.0622,
+    12.7244
+],
+  "geometry": {"coordinates":[-6.0622,12.7244],"type":"Point"}
+}

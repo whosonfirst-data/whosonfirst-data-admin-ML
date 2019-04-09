@@ -1,0 +1,71 @@
+{
+  "id": 1276885061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.0142,14.28715,-12.0142,14.28715",
+    "geom:latitude":14.28715,
+    "geom:longitude":-12.0142,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dakassenou",
+    "gn:country_code":"ML",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459452,
+    "gn:latitude":14.28715,
+    "gn:longitude":-12.0142,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dakass\u00e9nou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakass\u00e9mou",
+        "Dakass\u00e9nou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459452
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"de1cdd5551834babd3c219f626c1b52b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1276885061,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1276885061,
+    "wof:lastmodified":1537665246,
+    "wof:name":"Dakassenou",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.0142,
+    14.28715,
+    -12.0142,
+    14.28715
+],
+  "geometry": {"coordinates":[-12.0142,14.28715],"type":"Point"}
+}

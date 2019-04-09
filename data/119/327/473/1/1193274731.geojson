@@ -1,0 +1,67 @@
+{
+  "id": 1193274731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.5815,13.2583,-6.5815,13.2583",
+    "geom:latitude":13.2583,
+    "geom:longitude":-6.5815,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Demerebougou",
+    "gn:country_code":"ML",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910719,
+    "gn:latitude":13.2583,
+    "gn:longitude":-6.5815,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"D\u00e8m\u00e8r\u00e8bougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910719
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8f1e3f33b2cf14185dac5d3b8f344ba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562837,
+            "locality_id":1193274731,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1193274731,
+    "wof:lastmodified":1536366866,
+    "wof:name":"Demerebougou",
+    "wof:parent_id":1108562837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.5815,
+    13.2583,
+    -6.5815,
+    13.2583
+],
+  "geometry": {"coordinates":[-6.5815,13.2583],"type":"Point"}
+}

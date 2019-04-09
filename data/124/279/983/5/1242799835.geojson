@@ -1,0 +1,68 @@
+{
+  "id": 1242799835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.12623,12.5683,-5.12623,12.5683",
+    "geom:latitude":12.5683,
+    "geom:longitude":-5.12623,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kouniana",
+    "gn:country_code":"ML",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454410,
+    "gn:latitude":12.5683,
+    "gn:longitude":-5.12623,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kouniana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454410,
+        "wk:page":"Kouniana"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b59bf01d53e3313fb49df4f5209baf88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1242799835,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1242799835,
+    "wof:lastmodified":1537568419,
+    "wof:name":"Kouniana",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.12623,
+    12.5683,
+    -5.12623,
+    12.5683
+],
+  "geometry": {"coordinates":[-5.12623,12.5683],"type":"Point"}
+}

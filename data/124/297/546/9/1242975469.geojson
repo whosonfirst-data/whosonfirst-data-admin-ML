@@ -1,0 +1,77 @@
+{
+  "id": 1242975469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0404,12.8068,-6.0404,12.8068",
+    "geom:latitude":12.8068,
+    "geom:longitude":-6.0404,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Nyamana",
+    "gn:country_code":"ML",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452489,
+    "gn:latitude":12.8068,
+    "gn:longitude":-6.0404,
+    "gn:modification_date":"2018-04-14",
+    "gn:name":"Nyamana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nyamana"
+    ],
+    "name:fra_x_variant":[
+        "Niamana"
+    ],
+    "name:und_x_variant":[
+        "Niamana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452489,
+        "wk:page":"Niamana,_S%C3%A9gou"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"736addce1870de55cd47f126d9cb0a44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562835,
+            "locality_id":1242975469,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1242975469,
+    "wof:lastmodified":1537665087,
+    "wof:name":"Nyamana",
+    "wof:parent_id":1108562835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0404,
+    12.8068,
+    -6.0404,
+    12.8068
+],
+  "geometry": {"coordinates":[-6.0404,12.8068],"type":"Point"}
+}

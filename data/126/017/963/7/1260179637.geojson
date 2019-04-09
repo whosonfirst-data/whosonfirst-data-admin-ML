@@ -1,0 +1,70 @@
+{
+  "id": 1260179637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.14613,11.49458,-6.14613,11.49458",
+    "geom:latitude":11.49458,
+    "geom:longitude":-6.14613,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Keremena",
+    "gn:country_code":"ML",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455354,
+    "gn:latitude":11.49458,
+    "gn:longitude":-6.14613,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"K\u00e9r\u00e9m\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "K\u00e9r\u00e9m\u00e9na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455354
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7c5ddd5c6fa5c94d2591695bfe1f2337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1260179637,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1260179637,
+    "wof:lastmodified":1537665158,
+    "wof:name":"Keremena",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.14613,
+    11.49458,
+    -6.14613,
+    11.49458
+],
+  "geometry": {"coordinates":[-6.14613,11.49458],"type":"Point"}
+}

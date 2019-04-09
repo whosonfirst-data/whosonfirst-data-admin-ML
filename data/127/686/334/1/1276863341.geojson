@@ -1,0 +1,74 @@
+{
+  "id": 1276863341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.80092,11.88875,-6.80092,11.88875",
+    "geom:latitude":11.88875,
+    "geom:longitude":-6.80092,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Serimanbougou",
+    "gn:country_code":"ML",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450958,
+    "gn:latitude":11.88875,
+    "gn:longitude":-6.80092,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"S\u00e9rimanbougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sirimanbougou"
+    ],
+    "name:und_x_variant":[
+        "S\u00e9rimanbougou",
+        "Sirimanbougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450958
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b6626d2b3c8bb1aa1974007fb63d4e09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1276863341,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1276863341,
+    "wof:lastmodified":1537665048,
+    "wof:name":"Serimanbougou",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.80092,
+    11.88875,
+    -6.80092,
+    11.88875
+],
+  "geometry": {"coordinates":[-6.80092,11.88875],"type":"Point"}
+}

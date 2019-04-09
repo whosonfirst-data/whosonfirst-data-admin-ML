@@ -1,0 +1,71 @@
+{
+  "id": 1242800589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.30309,13.00393,-5.30309,13.00393",
+    "geom:latitude":13.00393,
+    "geom:longitude":-5.30309,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Penesso",
+    "gn:country_code":"ML",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452098,
+    "gn:latitude":13.00393,
+    "gn:longitude":-5.30309,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"P\u00e9nesso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00e9nenso",
+        "P\u00e9nesso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452098
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"355d6470a6225e65f55e3b6ebad55a98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562835,
+            "locality_id":1242800589,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1242800589,
+    "wof:lastmodified":1537665076,
+    "wof:name":"Penesso",
+    "wof:parent_id":1108562835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.30309,
+    13.00393,
+    -5.30309,
+    13.00393
+],
+  "geometry": {"coordinates":[-5.30309,13.00393],"type":"Point"}
+}

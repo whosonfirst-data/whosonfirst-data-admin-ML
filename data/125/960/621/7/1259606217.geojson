@@ -1,0 +1,67 @@
+{
+  "id": 1259606217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0247,14.7694,-6.0247,14.7694",
+    "geom:latitude":14.7694,
+    "geom:longitude":-6.0247,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tyentyenbougou",
+    "gn:country_code":"ML",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448746,
+    "gn:latitude":14.7694,
+    "gn:longitude":-6.0247,
+    "gn:modification_date":"2008-11-17",
+    "gn:name":"Ty\u00e8nty\u00e8nbougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448746
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4c570729304098fc62d35ad30924c75d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562867,
+            "locality_id":1259606217,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1259606217,
+    "wof:lastmodified":1536682009,
+    "wof:name":"Tyentyenbougou",
+    "wof:parent_id":1108562867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0247,
+    14.7694,
+    -6.0247,
+    14.7694
+],
+  "geometry": {"coordinates":[-6.0247,14.7694],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276761309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.7714,12.8623,-6.7714,12.8623",
+    "geom:latitude":12.8623,
+    "geom:longitude":-6.7714,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Velakoura",
+    "gn:country_code":"ML",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448721,
+    "gn:latitude":12.8623,
+    "gn:longitude":-6.7714,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"V\u00e9lakoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "V\u00e9lakoura"
+    ],
+    "name:fra_x_variant":[
+        "Ou\u00e9lakoura"
+    ],
+    "name:und_x_variant":[
+        "Ou\u00e9lakoura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448721
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"68023a66842dd807239907f836e7c042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562837,
+            "locality_id":1276761309,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1276761309,
+    "wof:lastmodified":1537665011,
+    "wof:name":"Velakoura",
+    "wof:parent_id":1108562837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.7714,
+    12.8623,
+    -6.7714,
+    12.8623
+],
+  "geometry": {"coordinates":[-6.7714,12.8623],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1225933675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.35667,16.90889,-0.35667,16.90889",
+    "geom:latitude":16.90889,
+    "geom:longitude":-0.35667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bourem Guindou",
+    "gn:country_code":"ML",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459655,
+    "gn:latitude":16.90889,
+    "gn:longitude":-0.35667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bour\u00e8m Guindou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bourem",
+        "Bour\u00e8m Guindou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        1108562879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459655
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7312724133a7353003b9895317cb213b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562879,
+            "locality_id":1225933675,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1225933675,
+    "wof:lastmodified":1537665250,
+    "wof:name":"Bourem Guindou",
+    "wof:parent_id":1108562879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.35667,
+    16.90889,
+    -0.35667,
+    16.90889
+],
+  "geometry": {"coordinates":[-0.35667,16.90889],"type":"Point"}
+}

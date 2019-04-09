@@ -1,0 +1,67 @@
+{
+  "id": 1309704787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.31597,11.67923,-7.31597,11.67923",
+    "geom:latitude":11.67923,
+    "geom:longitude":-7.31597,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Massafala",
+    "gn:country_code":"ML",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6798200,
+    "gn:latitude":11.67923,
+    "gn:longitude":-7.31597,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Massafala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6798200
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"de829c94ae7e0aca0419b610c40ddda3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1309704787,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1309704787,
+    "wof:lastmodified":1537073725,
+    "wof:name":"Massafala",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.31597,
+    11.67923,
+    -7.31597,
+    11.67923
+],
+  "geometry": {"coordinates":[-7.31597,11.67923],"type":"Point"}
+}

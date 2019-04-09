@@ -1,0 +1,71 @@
+{
+  "id": 1260386545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.54624,12.23345,-5.54624,12.23345",
+    "geom:latitude":12.23345,
+    "geom:longitude":-5.54624,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kolonto",
+    "gn:country_code":"ML",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454909,
+    "gn:latitude":12.23345,
+    "gn:longitude":-5.54624,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kolonto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolounto",
+        "Kolonto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454909
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d80fb21f8eeb0a2d08047dca6c3aaa8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1260386545,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1260386545,
+    "wof:lastmodified":1537665148,
+    "wof:name":"Kolonto",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.54624,
+    12.23345,
+    -5.54624,
+    12.23345
+],
+  "geometry": {"coordinates":[-5.54624,12.23345],"type":"Point"}
+}

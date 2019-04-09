@@ -1,0 +1,67 @@
+{
+  "id": 1327146207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.92213,15.37454,-9.92213,15.37454",
+    "geom:latitude":15.37454,
+    "geom:longitude":-9.92213,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Koriga",
+    "gn:country_code":"ML",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454688,
+    "gn:latitude":15.37454,
+    "gn:longitude":-9.92213,
+    "gn:modification_date":"2008-05-06",
+    "gn:name":"Koriga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454688
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"117c05646f5ee5825c7cd311f7552d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562869,
+            "locality_id":1327146207,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1327146207,
+    "wof:lastmodified":1537090790,
+    "wof:name":"Koriga",
+    "wof:parent_id":1108562869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.92213,
+    15.37454,
+    -9.92213,
+    15.37454
+],
+  "geometry": {"coordinates":[-9.92213,15.37454],"type":"Point"}
+}

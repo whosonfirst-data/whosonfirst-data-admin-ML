@@ -1,0 +1,68 @@
+{
+  "id": 1310189665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.15,16.46667,-0.15,16.46667",
+    "geom:latitude":16.46667,
+    "geom:longitude":-0.15,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Forgo Sourhai",
+    "gn:country_code":"ML",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10942949,
+    "gn:latitude":16.46667,
+    "gn:longitude":-0.15,
+    "gn:modification_date":"2018-04-12",
+    "gn:name":"Forgo Sourhai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        890418899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10942949,
+        "wk:page":"Forgo_Sourhai"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"cf028d669863053968a6eb2f4c387dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":890418899,
+            "locality_id":1310189665,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1310189665,
+    "wof:lastmodified":1537568442,
+    "wof:name":"Forgo Sourhai",
+    "wof:parent_id":890418899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.15,
+    16.46667,
+    -0.15,
+    16.46667
+],
+  "geometry": {"coordinates":[-0.15,16.46667],"type":"Point"}
+}

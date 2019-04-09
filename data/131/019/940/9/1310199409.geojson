@@ -1,0 +1,71 @@
+{
+  "id": 1310199409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.76242,12.14678,-8.76242,12.14678",
+    "geom:latitude":12.14678,
+    "geom:longitude":-8.76242,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bogokole",
+    "gn:country_code":"ML",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594345,
+    "gn:latitude":12.14678,
+    "gn:longitude":-8.76242,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Bogokol\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bogokot\u00e9",
+        "Bogokol\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594345
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c04e8d7460ca733396451d48ba6b3b90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562827,
+            "locality_id":1310199409,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1310199409,
+    "wof:lastmodified":1537665282,
+    "wof:name":"Bogokole",
+    "wof:parent_id":1108562827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.76242,
+    12.14678,
+    -8.76242,
+    12.14678
+],
+  "geometry": {"coordinates":[-8.76242,12.14678],"type":"Point"}
+}

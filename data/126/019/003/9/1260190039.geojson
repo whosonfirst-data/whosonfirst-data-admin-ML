@@ -1,0 +1,72 @@
+{
+  "id": 1260190039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.0464,14.7942,-10.0464,14.7942",
+    "geom:latitude":14.7942,
+    "geom:longitude":-10.0464,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sekoure",
+    "gn:country_code":"ML",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451412,
+    "gn:latitude":14.7942,
+    "gn:longitude":-10.0464,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u00e9kour\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e9kouni-Bas",
+        "S\u00e9kouni-B\u00e2",
+        "S\u00e9kour\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451412
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c47faf9878db1e0ba8fbccc092e7336c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562869,
+            "locality_id":1260190039,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1260190039,
+    "wof:lastmodified":1537665061,
+    "wof:name":"Sekoure",
+    "wof:parent_id":1108562869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.0464,
+    14.7942,
+    -10.0464,
+    14.7942
+],
+  "geometry": {"coordinates":[-10.0464,14.7942],"type":"Point"}
+}

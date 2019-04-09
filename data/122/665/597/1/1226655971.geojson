@@ -1,0 +1,67 @@
+{
+  "id": 1226655971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.11667,12.61667,-9.11667,12.61667",
+    "geom:latitude":12.61667,
+    "geom:longitude":-9.11667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kotedo",
+    "gn:country_code":"ML",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454609,
+    "gn:latitude":12.61667,
+    "gn:longitude":-9.11667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kot\u00e9do",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454609
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"857df841cee4b031de80fb2c64519726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1226655971,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1226655971,
+    "wof:lastmodified":1536843541,
+    "wof:name":"Kotedo",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.11667,
+    12.61667,
+    -9.11667,
+    12.61667
+],
+  "geometry": {"coordinates":[-9.11667,12.61667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209937677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.7645,13.7914,-7.7645,13.7914",
+    "geom:latitude":13.7914,
+    "geom:longitude":-7.7645,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kelefabougou",
+    "gn:country_code":"ML",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455483,
+    "gn:latitude":13.7914,
+    "gn:longitude":-7.7645,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"K\u00e8l\u00e8fabougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kelfabougou",
+        "K\u00e8l\u00e8fabougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455483
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"dd4093e2b50f0ea1eed61bacb3d04673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562851,
+            "locality_id":1209937677,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1209937677,
+    "wof:lastmodified":1537665160,
+    "wof:name":"Kelefabougou",
+    "wof:parent_id":1108562851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.7645,
+    13.7914,
+    -7.7645,
+    13.7914
+],
+  "geometry": {"coordinates":[-7.7645,13.7914],"type":"Point"}
+}

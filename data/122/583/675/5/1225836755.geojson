@@ -1,0 +1,67 @@
+{
+  "id": 1225836755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.75,14.11667,-7.75,14.11667",
+    "geom:latitude":14.11667,
+    "geom:longitude":-7.75,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kouloufara",
+    "gn:country_code":"ML",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454515,
+    "gn:latitude":14.11667,
+    "gn:longitude":-7.75,
+    "gn:modification_date":"2008-11-07",
+    "gn:name":"Kouloufara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454515
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"414e0387c72bbf456e58b0fb08e9b622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562851,
+            "locality_id":1225836755,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1225836755,
+    "wof:lastmodified":1537025555,
+    "wof:name":"Kouloufara",
+    "wof:parent_id":1108562851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.75,
+    14.11667,
+    -7.75,
+    14.11667
+],
+  "geometry": {"coordinates":[-7.75,14.11667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1225949203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.65773,13.55388,-5.65773,13.55388",
+    "geom:latitude":13.55388,
+    "geom:longitude":-5.65773,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Toume",
+    "gn:country_code":"ML",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448885,
+    "gn:latitude":13.55388,
+    "gn:longitude":-5.65773,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Toum\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tume",
+        "Toum\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448885
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d4eafe3ff00e4af4d3e65aa4d59aacd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1225949203,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1225949203,
+    "wof:lastmodified":1537665015,
+    "wof:name":"Toume",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.65773,
+    13.55388,
+    -5.65773,
+    13.55388
+],
+  "geometry": {"coordinates":[-5.65773,13.55388],"type":"Point"}
+}

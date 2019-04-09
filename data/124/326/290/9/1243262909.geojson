@@ -1,0 +1,67 @@
+{
+  "id": 1243262909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.35553,13.34366,-6.35553,13.34366",
+    "geom:latitude":13.34366,
+    "geom:longitude":-6.35553,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sido Ouere",
+    "gn:country_code":"ML",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910857,
+    "gn:latitude":13.34366,
+    "gn:longitude":-6.35553,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Sido Ou\u00e8r\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910857
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5f387cad169696a03af56912f344e07b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1243262909,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1243262909,
+    "wof:lastmodified":1537067195,
+    "wof:name":"Sido Ouere",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.35553,
+    13.34366,
+    -6.35553,
+    13.34366
+],
+  "geometry": {"coordinates":[-6.35553,13.34366],"type":"Point"}
+}

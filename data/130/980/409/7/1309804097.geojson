@@ -1,0 +1,67 @@
+{
+  "id": 1309804097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.77658,14.5694,-4.77658,14.5694",
+    "geom:latitude":14.5694,
+    "geom:longitude":-4.77658,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tinta",
+    "gn:country_code":"ML",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6764159,
+    "gn:latitude":14.5694,
+    "gn:longitude":-4.77658,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Tinta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6764159
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f6cd607e0608ceaddb1975e12083a9cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562861,
+            "locality_id":1309804097,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1309804097,
+    "wof:lastmodified":1536934251,
+    "wof:name":"Tinta",
+    "wof:parent_id":1108562861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.77658,
+    14.5694,
+    -4.77658,
+    14.5694
+],
+  "geometry": {"coordinates":[-4.77658,14.5694],"type":"Point"}
+}

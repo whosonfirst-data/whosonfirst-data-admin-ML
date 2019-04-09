@@ -1,0 +1,67 @@
+{
+  "id": 1276799213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.97033,13.51403,-5.97033,13.51403",
+    "geom:latitude":13.51403,
+    "geom:longitude":-5.97033,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bagueka",
+    "gn:country_code":"ML",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880647,
+    "gn:latitude":13.51403,
+    "gn:longitude":-5.97033,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Bagu\u00e9ka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880647
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"764e1ad2fe467636a2572f92a0616a8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1276799213,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1276799213,
+    "wof:lastmodified":1536651552,
+    "wof:name":"Bagueka",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.97033,
+    13.51403,
+    -5.97033,
+    13.51403
+],
+  "geometry": {"coordinates":[-5.97033,13.51403],"type":"Point"}
+}

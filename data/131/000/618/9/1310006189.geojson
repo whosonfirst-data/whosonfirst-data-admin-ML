@@ -1,0 +1,67 @@
+{
+  "id": 1310006189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.57282,14.25789,-2.57282,14.25789",
+    "geom:latitude":14.25789,
+    "geom:longitude":-2.57282,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tondo Erkokoni",
+    "gn:country_code":"ML",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449035,
+    "gn:latitude":14.25789,
+    "gn:longitude":-2.57282,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Tondo Erkokoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449035
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"89f6fbfd678dd2b3c89c108301987656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1310006189,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1310006189,
+    "wof:lastmodified":1536641469,
+    "wof:name":"Tondo Erkokoni",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.57282,
+    14.25789,
+    -2.57282,
+    14.25789
+],
+  "geometry": {"coordinates":[-2.57282,14.25789],"type":"Point"}
+}

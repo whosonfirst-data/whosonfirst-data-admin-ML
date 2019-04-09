@@ -1,0 +1,71 @@
+{
+  "id": 1293401393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.8715,14.602,-8.8715,14.602",
+    "geom:latitude":14.602,
+    "geom:longitude":-8.8715,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Hasi Adrami",
+    "gn:country_code":"ML",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456647,
+    "gn:latitude":14.602,
+    "gn:longitude":-8.8715,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"H\u00e2si Adrami",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hassi Adrami",
+        "H\u00e2si Adrami"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456647
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e80178d14824408a9d15020e7da145b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562857,
+            "locality_id":1293401393,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1293401393,
+    "wof:lastmodified":1537665174,
+    "wof:name":"Hasi Adrami",
+    "wof:parent_id":1108562857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.8715,
+    14.602,
+    -8.8715,
+    14.602
+],
+  "geometry": {"coordinates":[-8.8715,14.602],"type":"Point"}
+}

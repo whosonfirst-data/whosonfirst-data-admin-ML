@@ -1,0 +1,71 @@
+{
+  "id": 1276339511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.89177,13.27103,-4.89177,13.27103",
+    "geom:latitude":13.27103,
+    "geom:longitude":-4.89177,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Parana",
+    "gn:country_code":"ML",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452125,
+    "gn:latitude":13.27103,
+    "gn:longitude":-4.89177,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Parana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wahui",
+        "Parana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421192717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452125
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a6044eb15b087865879614dd5aa77044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421192717,
+            "locality_id":1276339511,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1276339511,
+    "wof:lastmodified":1537665076,
+    "wof:name":"Parana",
+    "wof:parent_id":421192717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.89177,
+    13.27103,
+    -4.89177,
+    13.27103
+],
+  "geometry": {"coordinates":[-4.89177,13.27103],"type":"Point"}
+}

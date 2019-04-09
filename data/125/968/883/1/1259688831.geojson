@@ -1,0 +1,67 @@
+{
+  "id": 1259688831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.94522,13.40367,-5.94522,13.40367",
+    "geom:latitude":13.40367,
+    "geom:longitude":-5.94522,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ngarababougou",
+    "gn:country_code":"ML",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880712,
+    "gn:latitude":13.40367,
+    "gn:longitude":-5.94522,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Ngarababougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880712
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"dde42753cc2d62d0aac9ab8bd7296570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1259688831,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1259688831,
+    "wof:lastmodified":1537056775,
+    "wof:name":"Ngarababougou",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.94522,
+    13.40367,
+    -5.94522,
+    13.40367
+],
+  "geometry": {"coordinates":[-5.94522,13.40367],"type":"Point"}
+}

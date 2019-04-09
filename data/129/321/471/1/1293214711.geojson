@@ -1,0 +1,67 @@
+{
+  "id": 1293214711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.98281,12.64742,-7.98281,12.64742",
+    "geom:latitude":12.64742,
+    "geom:longitude":-7.98281,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zone Industrielle",
+    "gn:country_code":"ML",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11427440,
+    "gn:latitude":12.64742,
+    "gn:longitude":-7.98281,
+    "gn:modification_date":"2017-01-14",
+    "gn:name":"Zone Industrielle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674525,
+        421187095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11427440
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"18ebaf6a09c861c169479fa846fb8710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421187095,
+            "locality_id":1293214711,
+            "region_id":85674525
+        }
+    ],
+    "wof:id":1293214711,
+    "wof:lastmodified":1536683142,
+    "wof:name":"Zone Industrielle",
+    "wof:parent_id":421187095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.98281,
+    12.64742,
+    -7.98281,
+    12.64742
+],
+  "geometry": {"coordinates":[-7.98281,12.64742],"type":"Point"}
+}

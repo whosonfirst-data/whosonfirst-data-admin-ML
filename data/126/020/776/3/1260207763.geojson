@@ -1,0 +1,71 @@
+{
+  "id": 1260207763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.60749,14.89745,-4.60749,14.89745",
+    "geom:latitude":14.89745,
+    "geom:longitude":-4.60749,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Koumbe Sare",
+    "gn:country_code":"ML",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454467,
+    "gn:latitude":14.89745,
+    "gn:longitude":-4.60749,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koumb\u00e9 Sar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koumba-Sar\u00e9",
+        "Koumb\u00e9 Sar\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454467
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"37d47738f8704201535c1cb285ce7f89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562861,
+            "locality_id":1260207763,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1260207763,
+    "wof:lastmodified":1537665136,
+    "wof:name":"Koumbe Sare",
+    "wof:parent_id":1108562861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.60749,
+    14.89745,
+    -4.60749,
+    14.89745
+],
+  "geometry": {"coordinates":[-4.60749,14.89745],"type":"Point"}
+}

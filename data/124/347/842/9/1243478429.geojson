@@ -1,0 +1,67 @@
+{
+  "id": 1243478429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.54916,15.62467,-3.54916,15.62467",
+    "geom:latitude":15.62467,
+    "geom:longitude":-3.54916,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Koundioum",
+    "gn:country_code":"ML",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454429,
+    "gn:latitude":15.62467,
+    "gn:longitude":-3.54916,
+    "gn:modification_date":"2008-11-04",
+    "gn:name":"Koundioum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454429
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0012b8e773d7219dc75eec37100a50b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1243478429,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1243478429,
+    "wof:lastmodified":1536759582,
+    "wof:name":"Koundioum",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.54916,
+    15.62467,
+    -3.54916,
+    15.62467
+],
+  "geometry": {"coordinates":[-3.54916,15.62467],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209337413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.1063,14.426,-6.1063,14.426",
+    "geom:latitude":14.426,
+    "geom:longitude":-6.1063,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Nyebebougou",
+    "gn:country_code":"ML",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452470,
+    "gn:latitude":14.426,
+    "gn:longitude":-6.1063,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ny\u00e9b\u00e9bougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ny\u00e9b\u00e9bougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452470
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b63ed541e46cf189e234d46d9aa95d87",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209337413
+        }
+    ],
+    "wof:id":1209337413,
+    "wof:lastmodified":1537665086,
+    "wof:name":"Nyebebougou",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.1063,
+    14.426,
+    -6.1063,
+    14.426
+],
+  "geometry": {"coordinates":[-6.1063,14.426],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343879741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.38109,13.70546,-7.38109,13.70546",
+    "geom:latitude":13.70546,
+    "geom:longitude":-7.38109,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Nganoukoro",
+    "gn:country_code":"ML",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452905,
+    "gn:latitude":13.70546,
+    "gn:longitude":-7.38109,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Nganoukoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nganou",
+        "Nganoukoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452905
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3cacc243e22cd4773f45589393340169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562851,
+            "locality_id":1343879741,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1343879741,
+    "wof:lastmodified":1537665099,
+    "wof:name":"Nganoukoro",
+    "wof:parent_id":1108562851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.38109,
+    13.70546,
+    -7.38109,
+    13.70546
+],
+  "geometry": {"coordinates":[-7.38109,13.70546],"type":"Point"}
+}

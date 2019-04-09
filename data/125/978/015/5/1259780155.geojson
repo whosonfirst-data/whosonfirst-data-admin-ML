@@ -1,0 +1,73 @@
+{
+  "id": 1259780155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.42809,15.07713,-8.42809,15.07713",
+    "geom:latitude":15.07713,
+    "geom:longitude":-8.42809,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Boula",
+    "gn:country_code":"ML",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459742,
+    "gn:latitude":15.07713,
+    "gn:longitude":-8.42809,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boullal",
+        "Boulal",
+        "Boula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459742,
+        "wk:page":"Boulal"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"bb1f4087d1c381b80f4219db3ea0ce49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562865,
+            "locality_id":1259780155,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1259780155,
+    "wof:lastmodified":1537665252,
+    "wof:name":"Boula",
+    "wof:parent_id":1108562865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.42809,
+    15.07713,
+    -8.42809,
+    15.07713
+],
+  "geometry": {"coordinates":[-8.42809,15.07713],"type":"Point"}
+}

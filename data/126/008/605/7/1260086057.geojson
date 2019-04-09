@@ -1,0 +1,67 @@
+{
+  "id": 1260086057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.3746,15.0877,-4.3746,15.0877",
+    "geom:latitude":15.0877,
+    "geom:longitude":-4.3746,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Fara Yeni",
+    "gn:country_code":"ML",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6687373,
+    "gn:latitude":15.0877,
+    "gn:longitude":-4.3746,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Fara Y\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6687373
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"88ea866ac59d99f572d1837d7ef7d67c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562871,
+            "locality_id":1260086057,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1260086057,
+    "wof:lastmodified":1536983482,
+    "wof:name":"Fara Yeni",
+    "wof:parent_id":1108562871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.3746,
+    15.0877,
+    -4.3746,
+    15.0877
+],
+  "geometry": {"coordinates":[-4.3746,15.0877],"type":"Point"}
+}

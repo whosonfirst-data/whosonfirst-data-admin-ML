@@ -1,0 +1,72 @@
+{
+  "id": 1276247011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.76667,10.95,-7.76667,10.95",
+    "geom:latitude":10.95,
+    "geom:longitude":-7.76667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lanfara",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454171,
+    "gn:latitude":10.95,
+    "gn:longitude":-7.76667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lanfara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lenfara",
+        "Lanfara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454171
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"cd94ac5f9eb4b0506ac1d17eedb82f40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562821,
+            "locality_id":1276247011,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1276247011,
+    "wof:lastmodified":1537665130,
+    "wof:name":"Lanfara",
+    "wof:parent_id":1108562821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.76667,
+    10.95,
+    -7.76667,
+    10.95
+],
+  "geometry": {"coordinates":[-7.76667,10.95],"type":"Point"}
+}

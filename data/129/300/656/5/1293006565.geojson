@@ -1,0 +1,71 @@
+{
+  "id": 1293006565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.92026,15.06638,-2.92026,15.06638",
+    "geom:latitude":15.06638,
+    "geom:longitude":-2.92026,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Oualo",
+    "gn:country_code":"ML",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452353,
+    "gn:latitude":15.06638,
+    "gn:longitude":-2.92026,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Oualo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Walo",
+        "Oualo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452353
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"fe6c824b46b66fcad226f2f88392c728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1293006565,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1293006565,
+    "wof:lastmodified":1537665081,
+    "wof:name":"Oualo",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.92026,
+    15.06638,
+    -2.92026,
+    15.06638
+],
+  "geometry": {"coordinates":[-2.92026,15.06638],"type":"Point"}
+}

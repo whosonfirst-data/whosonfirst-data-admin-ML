@@ -1,0 +1,67 @@
+{
+  "id": 1309897615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.2758,12.8134,-7.2758,12.8134",
+    "geom:latitude":12.8134,
+    "geom:longitude":-7.2758,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ndiabougou",
+    "gn:country_code":"ML",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594288,
+    "gn:latitude":12.8134,
+    "gn:longitude":-7.2758,
+    "gn:modification_date":"2008-11-07",
+    "gn:name":"Ndiabougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594288
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8c1ab8aa05790bb8f8761743c3133af3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1309897615,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1309897615,
+    "wof:lastmodified":1536798839,
+    "wof:name":"Ndiabougou",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.2758,
+    12.8134,
+    -7.2758,
+    12.8134
+],
+  "geometry": {"coordinates":[-7.2758,12.8134],"type":"Point"}
+}

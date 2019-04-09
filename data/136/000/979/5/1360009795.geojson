@@ -1,0 +1,67 @@
+{
+  "id": 1360009795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.34549,14.5606,-3.34549,14.5606",
+    "geom:latitude":14.5606,
+    "geom:longitude":-3.34549,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ouroli-Tolo",
+    "gn:country_code":"ML",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6866630,
+    "gn:latitude":14.5606,
+    "gn:longitude":-3.34549,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Ouroli-Tolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421171975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6866630
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"16e5381e1c97bc641d18d7547918adfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171975,
+            "locality_id":1360009795,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1360009795,
+    "wof:lastmodified":1537052072,
+    "wof:name":"Ouroli-Tolo",
+    "wof:parent_id":421171975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.34549,
+    14.5606,
+    -3.34549,
+    14.5606
+],
+  "geometry": {"coordinates":[-3.34549,14.5606],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209606727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.7959,14.3414,-7.7959,14.3414",
+    "geom:latitude":14.3414,
+    "geom:longitude":-7.7959,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Toumboula",
+    "gn:country_code":"ML",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448888,
+    "gn:latitude":14.3414,
+    "gn:longitude":-7.7959,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Toumboula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tomboula",
+        "Toumboula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448888
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"aceeb4c314e9030360a3a50fffaa9833",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209606727
+        }
+    ],
+    "wof:id":1209606727,
+    "wof:lastmodified":1537665015,
+    "wof:name":"Toumboula",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.7959,
+    14.3414,
+    -7.7959,
+    14.3414
+],
+  "geometry": {"coordinates":[-7.7959,14.3414],"type":"Point"}
+}

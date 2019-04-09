@@ -1,0 +1,67 @@
+{
+  "id": 1293686017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.54375,13.08748,-5.54375,13.08748",
+    "geom:latitude":13.08748,
+    "geom:longitude":-5.54375,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Wassasso",
+    "gn:country_code":"ML",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448643,
+    "gn:latitude":13.08748,
+    "gn:longitude":-5.54375,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Wassasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448643
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5940e24dbb4b3e9e47df87b6b9791d7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562835,
+            "locality_id":1293686017,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1293686017,
+    "wof:lastmodified":1536997397,
+    "wof:name":"Wassasso",
+    "wof:parent_id":1108562835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.54375,
+    13.08748,
+    -5.54375,
+    13.08748
+],
+  "geometry": {"coordinates":[-5.54375,13.08748],"type":"Point"}
+}

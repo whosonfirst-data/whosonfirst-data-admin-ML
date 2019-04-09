@@ -1,0 +1,67 @@
+{
+  "id": 1343667983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.8281,13.5033,-3.8281,13.5033",
+    "geom:latitude":13.5033,
+    "geom:longitude":-3.8281,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mana",
+    "gn:country_code":"ML",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6874912,
+    "gn:latitude":13.5033,
+    "gn:longitude":-3.8281,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Mana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6874912
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"61a4a244e83230ccb871bf2e690b4258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1343667983,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1343667983,
+    "wof:lastmodified":1536944639,
+    "wof:name":"Mana",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8281,
+    13.5033,
+    -3.8281,
+    13.5033
+],
+  "geometry": {"coordinates":[-3.8281,13.5033],"type":"Point"}
+}

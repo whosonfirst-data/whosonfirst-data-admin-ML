@@ -1,0 +1,72 @@
+{
+  "id": 1343572851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.68684,14.58935,-11.68684,14.58935",
+    "geom:latitude":14.58935,
+    "geom:longitude":-11.68684,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ganyi",
+    "gn:country_code":"ML",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457165,
+    "gn:latitude":14.58935,
+    "gn:longitude":-11.68684,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Ganyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gagni",
+        "Gagny",
+        "Ganyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457165
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c5b891af55afc891733919fa81ca253a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1343572851,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1343572851,
+    "wof:lastmodified":1537665187,
+    "wof:name":"Ganyi",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.68684,
+    14.58935,
+    -11.68684,
+    14.58935
+],
+  "geometry": {"coordinates":[-11.68684,14.58935],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276336361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.7385,13.5124,-8.7385,13.5124",
+    "geom:latitude":13.5124,
+    "geom:longitude":-8.7385,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Barakorodji",
+    "gn:country_code":"ML",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460325,
+    "gn:latitude":13.5124,
+    "gn:longitude":-8.7385,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Barakorodji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Barakorodji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460325
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"235d85329f2dff9e09bff03a3730c20f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1276336361,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1276336361,
+    "wof:lastmodified":1537665267,
+    "wof:name":"Barakorodji",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.7385,
+    13.5124,
+    -8.7385,
+    13.5124
+],
+  "geometry": {"coordinates":[-8.7385,13.5124],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209308863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.82324,13.34557,-7.82324,13.34557",
+    "geom:latitude":13.34557,
+    "geom:longitude":-7.82324,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ben",
+    "gn:country_code":"ML",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460154,
+    "gn:latitude":13.34557,
+    "gn:longitude":-7.82324,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"B\u00e8n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bin",
+        "B\u00e8n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460154
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2b67beb70a34cbd93e3e0782a24bb83b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209308863
+        }
+    ],
+    "wof:id":1209308863,
+    "wof:lastmodified":1537665262,
+    "wof:name":"Ben",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.82324,
+    13.34557,
+    -7.82324,
+    13.34557
+],
+  "geometry": {"coordinates":[-7.82324,13.34557],"type":"Point"}
+}

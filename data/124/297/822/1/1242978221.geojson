@@ -1,0 +1,67 @@
+{
+  "id": 1242978221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.1933,13.2945,-9.1933,13.2945",
+    "geom:latitude":13.2945,
+    "geom:longitude":-9.1933,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sambako",
+    "gn:country_code":"ML",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6912283,
+    "gn:latitude":13.2945,
+    "gn:longitude":-9.1933,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Sambako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6912283
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"98848b4ec9bdc9adfd230abee4e4a14b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1242978221,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1242978221,
+    "wof:lastmodified":1536982801,
+    "wof:name":"Sambako",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.1933,
+    13.2945,
+    -9.1933,
+    13.2945
+],
+  "geometry": {"coordinates":[-9.1933,13.2945],"type":"Point"}
+}

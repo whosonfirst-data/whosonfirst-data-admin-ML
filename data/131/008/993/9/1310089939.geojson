@@ -1,0 +1,71 @@
+{
+  "id": 1310089939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.43553,17.01954,-1.43553,17.01954",
+    "geom:latitude":17.01954,
+    "geom:longitude":-1.43553,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Goundji",
+    "gn:country_code":"ML",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456912,
+    "gn:latitude":17.01954,
+    "gn:longitude":-1.43553,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Goundji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goungui",
+        "Goundji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        1108562879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456912
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0a2ac150a6744bfffa2b1e50691e3e72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562879,
+            "locality_id":1310089939,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1310089939,
+    "wof:lastmodified":1537665181,
+    "wof:name":"Goundji",
+    "wof:parent_id":1108562879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.43553,
+    17.01954,
+    -1.43553,
+    17.01954
+],
+  "geometry": {"coordinates":[-1.43553,17.01954],"type":"Point"}
+}

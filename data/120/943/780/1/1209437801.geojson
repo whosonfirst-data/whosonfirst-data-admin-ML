@@ -1,0 +1,62 @@
+{
+  "id": 1209437801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.04703,12.6595,-5.04703,12.6595",
+    "geom:latitude":12.6595,
+    "geom:longitude":-5.04703,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Moribila",
+    "gn:country_code":"ML",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453333,
+    "gn:latitude":12.6595,
+    "gn:longitude":-5.04703,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Moribila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453333,
+        "wk:page":"Moribila"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b282285714cb15f8bd5ddd576e3884de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209437801
+        }
+    ],
+    "wof:id":1209437801,
+    "wof:lastmodified":1537568415,
+    "wof:name":"Moribila",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.04703,
+    12.6595,
+    -5.04703,
+    12.6595
+],
+  "geometry": {"coordinates":[-5.04703,12.6595],"type":"Point"}
+}

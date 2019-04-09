@@ -1,0 +1,70 @@
+{
+  "id": 1242600443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.2858,12.94,-6.2858,12.94",
+    "geom:latitude":12.94,
+    "geom:longitude":-6.2858,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ki",
+    "gn:country_code":"ML",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455300,
+    "gn:latitude":12.94,
+    "gn:longitude":-6.2858,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455300
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ebefab8f81b14b84cbcdd3e7bc482565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562835,
+            "locality_id":1242600443,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1242600443,
+    "wof:lastmodified":1537665156,
+    "wof:name":"Ki",
+    "wof:parent_id":1108562835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.2858,
+    12.94,
+    -6.2858,
+    12.94
+],
+  "geometry": {"coordinates":[-6.2858,12.94],"type":"Point"}
+}

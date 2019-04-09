@@ -1,0 +1,70 @@
+{
+  "id": 1259414589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.9282,12.9934,-6.9282,12.9934",
+    "geom:latitude":12.9934,
+    "geom:longitude":-6.9282,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sindebougou",
+    "gn:country_code":"ML",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451120,
+    "gn:latitude":12.9934,
+    "gn:longitude":-6.9282,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sind\u00e9bougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sind\u00e9bougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451120
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0b7e4807d16f8d0cccf5aa01ac91112d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562837,
+            "locality_id":1259414589,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1259414589,
+    "wof:lastmodified":1537665054,
+    "wof:name":"Sindebougou",
+    "wof:parent_id":1108562837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.9282,
+    12.9934,
+    -6.9282,
+    12.9934
+],
+  "geometry": {"coordinates":[-6.9282,12.9934],"type":"Point"}
+}

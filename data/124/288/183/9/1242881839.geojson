@@ -1,0 +1,67 @@
+{
+  "id": 1242881839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.3124,13.5433,-10.3124,13.5433",
+    "geom:latitude":13.5433,
+    "geom:longitude":-10.3124,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mansala",
+    "gn:country_code":"ML",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453759,
+    "gn:latitude":13.5433,
+    "gn:longitude":-10.3124,
+    "gn:modification_date":"2008-11-19",
+    "gn:name":"Mansala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453759
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"76d4e3f50ebd946b446778733f79cd24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562855,
+            "locality_id":1242881839,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1242881839,
+    "wof:lastmodified":1536623413,
+    "wof:name":"Mansala",
+    "wof:parent_id":1108562855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.3124,
+    13.5433,
+    -10.3124,
+    13.5433
+],
+  "geometry": {"coordinates":[-10.3124,13.5433],"type":"Point"}
+}

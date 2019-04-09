@@ -1,0 +1,71 @@
+{
+  "id": 1276897213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.6375,13.5765,-4.6375,13.5765",
+    "geom:latitude":13.5765,
+    "geom:longitude":-4.6375,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kouakwoula",
+    "gn:country_code":"ML",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454222,
+    "gn:latitude":13.5765,
+    "gn:longitude":-4.6375,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kouakwoula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwakwoula",
+        "Kouakwoula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421192717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454222
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a6ae7449ea8c389eec241a823fe03888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421192717,
+            "locality_id":1276897213,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1276897213,
+    "wof:lastmodified":1537665132,
+    "wof:name":"Kouakwoula",
+    "wof:parent_id":421192717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.6375,
+    13.5765,
+    -4.6375,
+    13.5765
+],
+  "geometry": {"coordinates":[-4.6375,13.5765],"type":"Point"}
+}

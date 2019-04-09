@@ -1,0 +1,71 @@
+{
+  "id": 1326537461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.31578,15.44566,-11.31578,15.44566",
+    "geom:latitude":15.44566,
+    "geom:longitude":-11.31578,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kangaodague",
+    "gn:country_code":"ML",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455732,
+    "gn:latitude":15.44566,
+    "gn:longitude":-11.31578,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kangaodagu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kangaodag\u00e9",
+        "Kangaodagu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455732
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"cf8b0fb46547cb9e6721ae6b45f8562d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1326537461,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1326537461,
+    "wof:lastmodified":1537665167,
+    "wof:name":"Kangaodague",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.31578,
+    15.44566,
+    -11.31578,
+    15.44566
+],
+  "geometry": {"coordinates":[-11.31578,15.44566],"type":"Point"}
+}

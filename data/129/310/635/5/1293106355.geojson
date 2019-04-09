@@ -1,0 +1,67 @@
+{
+  "id": 1293106355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.00506,13.67853,-12.00506,13.67853",
+    "geom:latitude":13.67853,
+    "geom:longitude":-12.00506,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dialadidian",
+    "gn:country_code":"ML",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459077,
+    "gn:latitude":13.67853,
+    "gn:longitude":-12.00506,
+    "gn:modification_date":"2008-04-11",
+    "gn:name":"Dialadidian",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459077
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b20a6906c9ff836a3a055d5fe2c799ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1293106355,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1293106355,
+    "wof:lastmodified":1536838465,
+    "wof:name":"Dialadidian",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.00506,
+    13.67853,
+    -12.00506,
+    13.67853
+],
+  "geometry": {"coordinates":[-12.00506,13.67853],"type":"Point"}
+}

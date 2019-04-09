@@ -1,0 +1,70 @@
+{
+  "id": 1310498389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.356,13.0673,-8.356,13.0673",
+    "geom:latitude":13.0673,
+    "geom:longitude":-8.356,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mpiebougou",
+    "gn:country_code":"ML",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453214,
+    "gn:latitude":13.0673,
+    "gn:longitude":-8.356,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mpi\u00e9bougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mpi\u00e9bougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        421177883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453214
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3a844a13b684218cb2ce4425ddf92a14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177883,
+            "locality_id":1310498389,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1310498389,
+    "wof:lastmodified":1537665107,
+    "wof:name":"Mpiebougou",
+    "wof:parent_id":421177883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.356,
+    13.0673,
+    -8.356,
+    13.0673
+],
+  "geometry": {"coordinates":[-8.356,13.0673],"type":"Point"}
+}

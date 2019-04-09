@@ -1,0 +1,72 @@
+{
+  "id": 1309839259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.13515,14.17636,-2.13515,14.17636",
+    "geom:latitude":14.17636,
+    "geom:longitude":-2.13515,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nassouwele",
+    "gn:country_code":"ML",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453067,
+    "gn:latitude":14.17636,
+    "gn:longitude":-2.13515,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Nassouw\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nasouw\u00e9l\u00e9",
+        "Mossi",
+        "Nassouw\u00e9l\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453067
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0d99f00c879cbb5f7ede9aaa331a0ab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1309839259,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1309839259,
+    "wof:lastmodified":1537665103,
+    "wof:name":"Nassouwele",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.13515,
+    14.17636,
+    -2.13515,
+    14.17636
+],
+  "geometry": {"coordinates":[-2.13515,14.17636],"type":"Point"}
+}

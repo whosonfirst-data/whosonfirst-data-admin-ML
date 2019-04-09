@@ -1,0 +1,67 @@
+{
+  "id": 1327334117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.0761,14.3399,-3.0761,14.3399",
+    "geom:latitude":14.3399,
+    "geom:longitude":-3.0761,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Banikani",
+    "gn:country_code":"ML",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6866952,
+    "gn:latitude":14.3399,
+    "gn:longitude":-3.0761,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Banikani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6866952
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ca4e54d8a7fc1e5482f73354a841bd70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1327334117,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1327334117,
+    "wof:lastmodified":1536821852,
+    "wof:name":"Banikani",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.0761,
+    14.3399,
+    -3.0761,
+    14.3399
+],
+  "geometry": {"coordinates":[-3.0761,14.3399],"type":"Point"}
+}

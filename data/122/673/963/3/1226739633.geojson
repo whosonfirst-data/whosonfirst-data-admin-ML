@@ -1,0 +1,71 @@
+{
+  "id": 1226739633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.75102,16.95834,-0.75102,16.95834",
+    "geom:latitude":16.95834,
+    "geom:longitude":-0.75102,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Barkaina",
+    "gn:country_code":"ML",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460284,
+    "gn:latitude":16.95834,
+    "gn:longitude":-0.75102,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Barka\u00efna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barka\u00efna",
+        "Barkeyna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        1108562879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460284
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f3778e8567588793d257ccce42d36e39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562879,
+            "locality_id":1226739633,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1226739633,
+    "wof:lastmodified":1537665266,
+    "wof:name":"Barkaina",
+    "wof:parent_id":1108562879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.75102,
+    16.95834,
+    -0.75102,
+    16.95834
+],
+  "geometry": {"coordinates":[-0.75102,16.95834],"type":"Point"}
+}

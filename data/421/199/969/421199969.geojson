@@ -1,0 +1,107 @@
+{
+  "id": 421199969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.5022,15.6597,0.5022,15.6597",
+    "geom:latitude":15.6597,
+    "geom:longitude":0.5022,
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03c3\u03bf\u03bd\u03b3\u03ba\u03cc"
+    ],
+    "name:fin_x_preferred":[
+        "Ansongo"
+    ],
+    "name:fra_x_preferred":[
+        "Ansongo"
+    ],
+    "name:ita_x_preferred":[
+        "Ansongo"
+    ],
+    "name:nld_x_preferred":[
+        "Ansongo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0441\u043e\u043d\u0433\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u677e\u6208"
+    ],
+    "qs:gn_country":"ML",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2461003,
+    "qs:gn_pop":3000,
+    "qs:name":"Ansongo",
+    "qs:name_adm0":"Mali",
+    "qs:name_adm1":"Gao",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"4",
+    "qs:qs_id":539065,
+    "qs:woe_adm0":23424891,
+    "qs:woe_id":56014687,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"quattroshapes",
+    "wd:wordcount":739,
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        890418903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2461003,
+        "gp:id":56014687,
+        "qs:id":539065,
+        "qs_pg:id":539065,
+        "wd:id":"Q2620152",
+        "wk:page":"Ansongo"
+    },
+    "wof:country":"ML",
+    "wof:created":1459010006,
+    "wof:geomhash":"6eec021d23b3cc16161cc74e15ada69a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":890418903,
+            "localadmin_id":421199969,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":421199969,
+    "wof:lastmodified":1527716415,
+    "wof:name":"Ansongo",
+    "wof:parent_id":890418903,
+    "wof:placetype":"localadmin",
+    "wof:population":3000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.5022,
+    15.6597,
+    0.5022,
+    15.6597
+],
+  "geometry": {"coordinates":[0.5022,15.6597],"type":"Point"}
+}

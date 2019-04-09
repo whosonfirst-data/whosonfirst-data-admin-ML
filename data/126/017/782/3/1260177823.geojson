@@ -1,0 +1,67 @@
+{
+  "id": 1260177823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.3035,15.7738,0.3035,15.7738",
+    "geom:latitude":15.7738,
+    "geom:longitude":0.3035,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Taaba",
+    "gn:country_code":"ML",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450542,
+    "gn:latitude":15.7738,
+    "gn:longitude":0.3035,
+    "gn:modification_date":"2008-01-28",
+    "gn:name":"Taaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        890418903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450542
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d65c7ca3b4d4c63ebe23bc9a8d8bb459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":890418903,
+            "locality_id":1260177823,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1260177823,
+    "wof:lastmodified":1536854675,
+    "wof:name":"Taaba",
+    "wof:parent_id":890418903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.3035,
+    15.7738,
+    0.3035,
+    15.7738
+],
+  "geometry": {"coordinates":[0.3035,15.7738],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343663831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.25077,14.35542,-8.25077,14.35542",
+    "geom:latitude":14.35542,
+    "geom:longitude":-8.25077,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Koyentyia",
+    "gn:country_code":"ML",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454251,
+    "gn:latitude":14.35542,
+    "gn:longitude":-8.25077,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koyentyia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koyentiya",
+        "Koyentyia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454251
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9ebbced7e5890617951be664ef668e72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562857,
+            "locality_id":1343663831,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1343663831,
+    "wof:lastmodified":1537665132,
+    "wof:name":"Koyentyia",
+    "wof:parent_id":1108562857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.25077,
+    14.35542,
+    -8.25077,
+    14.35542
+],
+  "geometry": {"coordinates":[-8.25077,14.35542],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209614313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.96757,13.48311,-5.96757,13.48311",
+    "geom:latitude":13.48311,
+    "geom:longitude":-5.96757,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Maliguika",
+    "gn:country_code":"ML",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880695,
+    "gn:latitude":13.48311,
+    "gn:longitude":-5.96757,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Maliguika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880695
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2252754676ff3a3d3d905fc9bbb540e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209614313
+        }
+    ],
+    "wof:id":1209614313,
+    "wof:lastmodified":1536281742,
+    "wof:name":"Maliguika",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.9675699999999985,
+    13.48311,
+    -5.9675699999999985,
+    13.48311
+],
+  "geometry": {"coordinates":[-5.96757,13.48311],"type":"Point"}
+}

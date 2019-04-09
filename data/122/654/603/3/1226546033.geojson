@@ -1,0 +1,67 @@
+{
+  "id": 1226546033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.24594,15.06595,-2.24594,15.06595",
+    "geom:latitude":15.06595,
+    "geom:longitude":-2.24594,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ela Boni",
+    "gn:country_code":"ML",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458009,
+    "gn:latitude":15.06595,
+    "gn:longitude":-2.24594,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ela Boni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458009
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d8889ece6ed2506f9ff18af09a28539b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1226546033,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1226546033,
+    "wof:lastmodified":1536996802,
+    "wof:name":"Ela Boni",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.24594,
+    15.06595,
+    -2.24594,
+    15.06595
+],
+  "geometry": {"coordinates":[-2.24594,15.06595],"type":"Point"}
+}

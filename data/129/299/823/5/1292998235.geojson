@@ -1,0 +1,72 @@
+{
+  "id": 1292998235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.8992,12.5015,-4.8992,12.5015",
+    "geom:latitude":12.5015,
+    "geom:longitude":-4.8992,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kifosso",
+    "gn:country_code":"ML",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455281,
+    "gn:latitude":12.5015,
+    "gn:longitude":-4.8992,
+    "gn:modification_date":"2018-04-14",
+    "gn:name":"Kifosso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ti\u00e9fosso",
+        "Kifosso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455281,
+        "wk:page":"Kiffosso"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"900aa595394582598bcbb7a9bba9dc6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562831,
+            "locality_id":1292998235,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1292998235,
+    "wof:lastmodified":1537665156,
+    "wof:name":"Kifosso",
+    "wof:parent_id":1108562831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.8992,
+    12.5015,
+    -4.8992,
+    12.5015
+],
+  "geometry": {"coordinates":[-4.8992,12.5015],"type":"Point"}
+}

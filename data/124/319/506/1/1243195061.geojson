@@ -1,0 +1,80 @@
+{
+  "id": 1243195061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.31827,12.79379,-6.31827,12.79379",
+    "geom:latitude":12.79379,
+    "geom:longitude":-6.31827,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Gendou",
+    "gn:country_code":"ML",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456801,
+    "gn:latitude":12.79379,
+    "gn:longitude":-6.31827,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Gendou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Guendou"
+    ],
+    "name:fra_x_variant":[
+        "Guendo",
+        "Gou\u00e9nou",
+        "Gendou"
+    ],
+    "name:und_x_variant":[
+        "Gou\u00e9nou",
+        "Gendou",
+        "Guendo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456801
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c8785d42138d2da87a5f817ecf9748b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562837,
+            "locality_id":1243195061,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1243195061,
+    "wof:lastmodified":1537665179,
+    "wof:name":"Gendou",
+    "wof:parent_id":1108562837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.31827,
+    12.79379,
+    -6.31827,
+    12.79379
+],
+  "geometry": {"coordinates":[-6.31827,12.79379],"type":"Point"}
+}

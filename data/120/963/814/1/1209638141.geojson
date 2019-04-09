@@ -1,0 +1,64 @@
+{
+  "id": 1209638141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.994,12.96379,-6.994,12.96379",
+    "geom:latitude":12.96379,
+    "geom:longitude":-6.994,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bamadou",
+    "gn:country_code":"ML",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460598,
+    "gn:latitude":12.96379,
+    "gn:longitude":-6.994,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bamadou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bamadou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460598
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7054abbed25cf30b355f1a98e0bbb04d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209638141
+        }
+    ],
+    "wof:id":1209638141,
+    "wof:lastmodified":1537665272,
+    "wof:name":"Bamadou",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.994,
+    12.96379,
+    -6.994,
+    12.96379
+],
+  "geometry": {"coordinates":[-6.994,12.96379],"type":"Point"}
+}

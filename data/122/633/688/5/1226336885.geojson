@@ -1,0 +1,72 @@
+{
+  "id": 1226336885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.86252,13.58415,-7.86252,13.58415",
+    "geom:latitude":13.58415,
+    "geom:longitude":-7.86252,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Metembougou",
+    "gn:country_code":"ML",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453486,
+    "gn:latitude":13.58415,
+    "gn:longitude":-7.86252,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"M\u00e8t\u00e8mbougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mindinbougou",
+        "M\u00e9t\u00e9bougou",
+        "M\u00e8t\u00e8mbougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453486
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b5ea9436df0477e1a987fca68ab0d965",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":1226336885,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1226336885,
+    "wof:lastmodified":1537665115,
+    "wof:name":"Metembougou",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.86252,
+    13.58415,
+    -7.86252,
+    13.58415
+],
+  "geometry": {"coordinates":[-7.86252,13.58415],"type":"Point"}
+}

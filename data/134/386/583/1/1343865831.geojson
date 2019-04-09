@@ -1,0 +1,71 @@
+{
+  "id": 1343865831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.8527,13.1816,-9.8527,13.1816",
+    "geom:latitude":13.1816,
+    "geom:longitude":-9.8527,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Fouloumba",
+    "gn:country_code":"ML",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457316,
+    "gn:latitude":13.1816,
+    "gn:longitude":-9.8527,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fouloumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Foulounba",
+        "Fouloumba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457316
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9d4fdc692de9eca31c1136e182363638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1343865831,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1343865831,
+    "wof:lastmodified":1537665190,
+    "wof:name":"Fouloumba",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.8527,
+    13.1816,
+    -9.8527,
+    13.1816
+],
+  "geometry": {"coordinates":[-9.8527,13.1816],"type":"Point"}
+}

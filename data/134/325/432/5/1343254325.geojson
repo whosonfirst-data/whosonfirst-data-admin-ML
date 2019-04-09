@@ -1,0 +1,67 @@
+{
+  "id": 1343254325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.56836,11.28785,-7.56836,11.28785",
+    "geom:latitude":11.28785,
+    "geom:longitude":-7.56836,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sidiole",
+    "gn:country_code":"ML",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6798694,
+    "gn:latitude":11.28785,
+    "gn:longitude":-7.56836,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Sidiol\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6798694
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"01e580c5c2b012a785f0d8c60123330f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1343254325,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1343254325,
+    "wof:lastmodified":1537042023,
+    "wof:name":"Sidiole",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.56836,
+    11.28785,
+    -7.56836,
+    11.28785
+],
+  "geometry": {"coordinates":[-7.56836,11.28785],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209414291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.7135,12.9888,-6.7135,12.9888",
+    "geom:latitude":12.9888,
+    "geom:longitude":-6.7135,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sanankoro",
+    "gn:country_code":"ML",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451745,
+    "gn:latitude":12.9888,
+    "gn:longitude":-6.7135,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sanankoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sanankoro"
+    ],
+    "name:fra_x_variant":[
+        "Sanankora"
+    ],
+    "name:und_x_variant":[
+        "Sanankora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451745
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"218fca7761a141a1e7182b66bcb64bc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209414291
+        }
+    ],
+    "wof:id":1209414291,
+    "wof:lastmodified":1537665068,
+    "wof:name":"Sanankoro",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.7135,
+    12.9888,
+    -6.7135,
+    12.9888
+],
+  "geometry": {"coordinates":[-6.7135,12.9888],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1360291757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.07883,14.39915,-3.07883,14.39915",
+    "geom:latitude":14.39915,
+    "geom:longitude":-3.07883,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Madougou",
+    "gn:country_code":"ML",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453955,
+    "gn:latitude":14.39915,
+    "gn:longitude":-3.07883,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Madougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453955,
+        "wk:page":"Madougou"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1e575d2d90442ff89d73756ed4c0fdb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1360291757,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1360291757,
+    "wof:lastmodified":1537568417,
+    "wof:name":"Madougou",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.07883,
+    14.39915,
+    -3.07883,
+    14.39915
+],
+  "geometry": {"coordinates":[-3.07883,14.39915],"type":"Point"}
+}

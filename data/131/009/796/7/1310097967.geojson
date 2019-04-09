@@ -1,0 +1,67 @@
+{
+  "id": 1310097967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.9512,11.63862,-7.9512,11.63862",
+    "geom:latitude":11.63862,
+    "geom:longitude":-7.9512,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tienko",
+    "gn:country_code":"ML",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449739,
+    "gn:latitude":11.63862,
+    "gn:longitude":-7.9512,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Tienko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449739
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"087b8471a996e993c3a595edf4688651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562821,
+            "locality_id":1310097967,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1310097967,
+    "wof:lastmodified":1537006632,
+    "wof:name":"Tienko",
+    "wof:parent_id":1108562821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.9512,
+    11.63862,
+    -7.9512,
+    11.63862
+],
+  "geometry": {"coordinates":[-7.9512,11.63862],"type":"Point"}
+}

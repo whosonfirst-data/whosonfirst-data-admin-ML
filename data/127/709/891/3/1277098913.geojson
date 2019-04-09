@@ -1,0 +1,67 @@
+{
+  "id": 1277098913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.5839,15.788,-4.5839,15.788",
+    "geom:latitude":15.788,
+    "geom:longitude":-4.5839,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Diartou",
+    "gn:country_code":"ML",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458956,
+    "gn:latitude":15.788,
+    "gn:longitude":-4.5839,
+    "gn:modification_date":"2008-01-03",
+    "gn:name":"Diartou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458956
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8365ab790b5361a060519989966e08cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562873,
+            "locality_id":1277098913,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1277098913,
+    "wof:lastmodified":1536744073,
+    "wof:name":"Diartou",
+    "wof:parent_id":1108562873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.5839,
+    15.788,
+    -4.5839,
+    15.788
+],
+  "geometry": {"coordinates":[-4.5839,15.788],"type":"Point"}
+}

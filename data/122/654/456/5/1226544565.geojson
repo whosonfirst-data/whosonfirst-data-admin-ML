@@ -1,0 +1,67 @@
+{
+  "id": 1226544565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.543,14.0771,-5.543,14.0771",
+    "geom:latitude":14.0771,
+    "geom:longitude":-5.543,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Koulibougou",
+    "gn:country_code":"ML",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454534,
+    "gn:latitude":14.0771,
+    "gn:longitude":-5.543,
+    "gn:modification_date":"2008-11-03",
+    "gn:name":"Koulibougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454534
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"af1b1cafddc5258761e69ed5f0cc1828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":1226544565,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1226544565,
+    "wof:lastmodified":1536998940,
+    "wof:name":"Koulibougou",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.543,
+    14.0771,
+    -5.543,
+    14.0771
+],
+  "geometry": {"coordinates":[-5.543,14.0771],"type":"Point"}
+}

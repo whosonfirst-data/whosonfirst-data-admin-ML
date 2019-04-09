@@ -1,0 +1,67 @@
+{
+  "id": 1242874445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.88789,13.87438,-4.88789,13.87438",
+    "geom:latitude":13.87438,
+    "geom:longitude":-4.88789,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tabatou",
+    "gn:country_code":"ML",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450510,
+    "gn:latitude":13.87438,
+    "gn:longitude":-4.88789,
+    "gn:modification_date":"2008-11-03",
+    "gn:name":"Tabatou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421187097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450510
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3829e2d66164a2367ac5961101261df9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421187097,
+            "locality_id":1242874445,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1242874445,
+    "wof:lastmodified":1536634841,
+    "wof:name":"Tabatou",
+    "wof:parent_id":421187097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.88789,
+    13.87438,
+    -4.88789,
+    13.87438
+],
+  "geometry": {"coordinates":[-4.88789,13.87438],"type":"Point"}
+}

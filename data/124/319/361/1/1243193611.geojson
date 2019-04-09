@@ -1,0 +1,67 @@
+{
+  "id": 1243193611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.27977,12.74719,-8.27977,12.74719",
+    "geom:latitude":12.74719,
+    "geom:longitude":-8.27977,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Djiguibougou",
+    "gn:country_code":"ML",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594605,
+    "gn:latitude":12.74719,
+    "gn:longitude":-8.27977,
+    "gn:modification_date":"2008-11-13",
+    "gn:name":"Djiguibougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        421177883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594605
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8ee638900d7720c18969435c6ebe43b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177883,
+            "locality_id":1243193611,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1243193611,
+    "wof:lastmodified":1536673055,
+    "wof:name":"Djiguibougou",
+    "wof:parent_id":421177883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.27977,
+    12.74719,
+    -8.27977,
+    12.74719
+],
+  "geometry": {"coordinates":[-8.27977,12.74719],"type":"Point"}
+}

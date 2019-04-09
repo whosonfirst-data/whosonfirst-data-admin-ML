@@ -1,0 +1,73 @@
+{
+  "id": 1310027917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.8299,11.63758,-6.8299,11.63758",
+    "geom:latitude":11.63758,
+    "geom:longitude":-6.8299,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Fingola",
+    "gn:country_code":"ML",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457495,
+    "gn:latitude":11.63758,
+    "gn:longitude":-6.8299,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Fingola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Fengola"
+    ],
+    "name:und_x_variant":[
+        "Fengola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457495
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"cc1090a1a1293af4dbadf91754aaac40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1310027917,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1310027917,
+    "wof:lastmodified":1537665195,
+    "wof:name":"Fingola",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.8299,
+    11.63758,
+    -6.8299,
+    11.63758
+],
+  "geometry": {"coordinates":[-6.8299,11.63758],"type":"Point"}
+}

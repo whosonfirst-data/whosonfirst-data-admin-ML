@@ -1,0 +1,71 @@
+{
+  "id": 1243454729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.97627,14.8019,-2.97627,14.8019",
+    "geom:latitude":14.8019,
+    "geom:longitude":-2.97627,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Pergue",
+    "gn:country_code":"ML",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452095,
+    "gn:latitude":14.8019,
+    "gn:longitude":-2.97627,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"P\u00e8rgu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Perg\u00e9",
+        "P\u00e8rgu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421171975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452095
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2bdbe9cf4bb44ce72cd5c02038096d78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171975,
+            "locality_id":1243454729,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1243454729,
+    "wof:lastmodified":1537665076,
+    "wof:name":"Pergue",
+    "wof:parent_id":421171975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.97627,
+    14.8019,
+    -2.97627,
+    14.8019
+],
+  "geometry": {"coordinates":[-2.97627,14.8019],"type":"Point"}
+}

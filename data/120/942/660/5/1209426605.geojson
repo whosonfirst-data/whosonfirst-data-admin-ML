@@ -1,0 +1,65 @@
+{
+  "id": 1209426605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.20281,13.2253,-11.20281,13.2253",
+    "geom:latitude":13.2253,
+    "geom:longitude":-11.20281,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Waianba",
+    "gn:country_code":"ML",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448632,
+    "gn:latitude":13.2253,
+    "gn:longitude":-11.20281,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wa\u00efanba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wayanba",
+        "Wa\u00efanba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448632
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"65f5bd0b1c15a3896d62d180e85c242f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209426605
+        }
+    ],
+    "wof:id":1209426605,
+    "wof:lastmodified":1537665008,
+    "wof:name":"Waianba",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.20281,
+    13.2253,
+    -11.20281,
+    13.2253
+],
+  "geometry": {"coordinates":[-11.20281,13.2253],"type":"Point"}
+}

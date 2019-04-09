@@ -1,0 +1,67 @@
+{
+  "id": 1327030199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.51762,15.20258,-2.51762,15.20258",
+    "geom:latitude":15.20258,
+    "geom:longitude":-2.51762,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Banga",
+    "gn:country_code":"ML",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6872743,
+    "gn:latitude":15.20258,
+    "gn:longitude":-2.51762,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Banga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6872743
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d2ced17a585b8ceb581a86395b7eeb13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1327030199,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1327030199,
+    "wof:lastmodified":1536763957,
+    "wof:name":"Banga",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.51762,
+    15.20258,
+    -2.51762,
+    15.20258
+],
+  "geometry": {"coordinates":[-2.51762,15.20258],"type":"Point"}
+}

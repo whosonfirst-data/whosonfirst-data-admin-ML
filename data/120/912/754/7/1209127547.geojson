@@ -1,0 +1,64 @@
+{
+  "id": 1209127547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.09311,13.9054,-8.09311,13.9054",
+    "geom:latitude":13.9054,
+    "geom:longitude":-8.09311,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sabougou",
+    "gn:country_code":"ML",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451984,
+    "gn:latitude":13.9054,
+    "gn:longitude":-8.09311,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sabougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sabougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451984
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"57f01e946cb6e5700995a2c491927e11",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209127547
+        }
+    ],
+    "wof:id":1209127547,
+    "wof:lastmodified":1537665074,
+    "wof:name":"Sabougou",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.09311,
+    13.9054,
+    -8.09311,
+    13.9054
+],
+  "geometry": {"coordinates":[-8.09311,13.9054],"type":"Point"}
+}

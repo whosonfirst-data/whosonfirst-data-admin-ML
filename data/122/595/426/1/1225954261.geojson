@@ -1,0 +1,72 @@
+{
+  "id": 1225954261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.51667,12.93333,-9.51667,12.93333",
+    "geom:latitude":12.93333,
+    "geom:longitude":-9.51667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dounia",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458230,
+    "gn:latitude":12.93333,
+    "gn:longitude":-9.51667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dounia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dougnan",
+        "Dounia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458230
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e5370476359f434926c4cfb7c13175b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1225954261,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1225954261,
+    "wof:lastmodified":1537665214,
+    "wof:name":"Dounia",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.51667,
+    12.93333,
+    -9.51667,
+    12.93333
+],
+  "geometry": {"coordinates":[-9.51667,12.93333],"type":"Point"}
+}

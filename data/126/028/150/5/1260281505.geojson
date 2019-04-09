@@ -1,0 +1,67 @@
+{
+  "id": 1260281505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.31754,12.13947,-7.31754,12.13947",
+    "geom:latitude":12.13947,
+    "geom:longitude":-7.31754,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dontambougou",
+    "gn:country_code":"ML",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593885,
+    "gn:latitude":12.13947,
+    "gn:longitude":-7.31754,
+    "gn:modification_date":"2008-11-07",
+    "gn:name":"Dontambougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593885
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"fdef90a2d591694d8f7d3635f8a9e274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1260281505,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1260281505,
+    "wof:lastmodified":1536714924,
+    "wof:name":"Dontambougou",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.31754,
+    12.13947,
+    -7.31754,
+    12.13947
+],
+  "geometry": {"coordinates":[-7.31754,12.13947],"type":"Point"}
+}

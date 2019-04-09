@@ -1,0 +1,72 @@
+{
+  "id": 1293413851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.02247,15.17096,-2.02247,15.17096",
+    "geom:latitude":15.17096,
+    "geom:longitude":-2.02247,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ouro Fassi",
+    "gn:country_code":"ML",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452193,
+    "gn:latitude":15.17096,
+    "gn:longitude":-2.02247,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ouro Fassi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fasi",
+        "Ouro Fasi",
+        "Ouro Fassi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452193
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"668fbbb25848a4e6690de0602dc974d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1293413851,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1293413851,
+    "wof:lastmodified":1537665078,
+    "wof:name":"Ouro Fassi",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.02247,
+    15.17096,
+    -2.02247,
+    15.17096
+],
+  "geometry": {"coordinates":[-2.02247,15.17096],"type":"Point"}
+}

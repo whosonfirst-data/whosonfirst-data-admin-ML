@@ -1,0 +1,71 @@
+{
+  "id": 1293580855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.88719,13.96096,-7.88719,13.96096",
+    "geom:latitude":13.96096,
+    "geom:longitude":-7.88719,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Siele",
+    "gn:country_code":"ML",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451406,
+    "gn:latitude":13.96096,
+    "gn:longitude":-7.88719,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Si\u00e8l\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e9l\u00e9",
+        "Si\u00e8l\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451406
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b048d947a3c8f4391ece91d4ee35687b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":1293580855,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1293580855,
+    "wof:lastmodified":1537665061,
+    "wof:name":"Siele",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.88719,
+    13.96096,
+    -7.88719,
+    13.96096
+],
+  "geometry": {"coordinates":[-7.88719,13.96096],"type":"Point"}
+}

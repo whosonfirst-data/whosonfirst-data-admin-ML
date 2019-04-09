@@ -1,0 +1,67 @@
+{
+  "id": 1243194907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.8546,14.7508,-5.8546,14.7508",
+    "geom:latitude":14.7508,
+    "geom:longitude":-5.8546,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sabere",
+    "gn:country_code":"ML",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451993,
+    "gn:latitude":14.7508,
+    "gn:longitude":-5.8546,
+    "gn:modification_date":"2008-11-03",
+    "gn:name":"Sab\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451993
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8b446de5a1b647dbf709f06e41829c8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562867,
+            "locality_id":1243194907,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1243194907,
+    "wof:lastmodified":1536671167,
+    "wof:name":"Sabere",
+    "wof:parent_id":1108562867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.8546,
+    14.7508,
+    -5.8546,
+    14.7508
+],
+  "geometry": {"coordinates":[-5.8546,14.7508],"type":"Point"}
+}

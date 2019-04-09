@@ -1,0 +1,67 @@
+{
+  "id": 1343881031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0074,13.3706,-6.0074,13.3706",
+    "geom:latitude":13.3706,
+    "geom:longitude":-6.0074,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Denzana",
+    "gn:country_code":"ML",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910883,
+    "gn:latitude":13.3706,
+    "gn:longitude":-6.0074,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Denzana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910883
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"86cc9a4f9bf019babcbbb280a60cfb7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1343881031,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1343881031,
+    "wof:lastmodified":1536635720,
+    "wof:name":"Denzana",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0074,
+    13.3706,
+    -6.0074,
+    13.3706
+],
+  "geometry": {"coordinates":[-6.0074,13.3706],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276650961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.4267,15.7254,0.4267,15.7254",
+    "geom:latitude":15.7254,
+    "geom:longitude":0.4267,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Sondey",
+    "gn:country_code":"ML",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451707,
+    "gn:latitude":15.7254,
+    "gn:longitude":0.4267,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sondey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sandey",
+        "Sondey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        890418903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451707
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1788a3d1f358de2dc10bf1b1e9dea902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":890418903,
+            "locality_id":1276650961,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1276650961,
+    "wof:lastmodified":1537665068,
+    "wof:name":"Sondey",
+    "wof:parent_id":890418903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.4267,
+    15.7254,
+    0.4267,
+    15.7254
+],
+  "geometry": {"coordinates":[0.4267,15.7254],"type":"Point"}
+}

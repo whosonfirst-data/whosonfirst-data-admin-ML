@@ -1,0 +1,67 @@
+{
+  "id": 1210030955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.8,12.53333,-9.8,12.53333",
+    "geom:latitude":12.53333,
+    "geom:longitude":-9.8,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gouroutini",
+    "gn:country_code":"ML",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456865,
+    "gn:latitude":12.53333,
+    "gn:longitude":-9.8,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Gouroutini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456865
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"cfab675da37d44595716e2427c5cf4a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1210030955,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1210030955,
+    "wof:lastmodified":1536388590,
+    "wof:name":"Gouroutini",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.8,
+    12.53333,
+    -9.8,
+    12.53333
+],
+  "geometry": {"coordinates":[-9.8,12.53333],"type":"Point"}
+}

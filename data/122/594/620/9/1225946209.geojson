@@ -1,0 +1,71 @@
+{
+  "id": 1225946209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.7563,14.7096,-8.7563,14.7096",
+    "geom:latitude":14.7096,
+    "geom:longitude":-8.7563,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sitakare",
+    "gn:country_code":"ML",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450935,
+    "gn:latitude":14.7096,
+    "gn:longitude":-8.7563,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sitakar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mangara",
+        "Sitakar\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450935
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a2ba57b144390809ba09897aadcd2133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562857,
+            "locality_id":1225946209,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1225946209,
+    "wof:lastmodified":1537665048,
+    "wof:name":"Sitakare",
+    "wof:parent_id":1108562857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.7563,
+    14.7096,
+    -8.7563,
+    14.7096
+],
+  "geometry": {"coordinates":[-8.7563,14.7096],"type":"Point"}
+}

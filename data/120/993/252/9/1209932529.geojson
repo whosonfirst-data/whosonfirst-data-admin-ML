@@ -1,0 +1,72 @@
+{
+  "id": 1209932529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.83333,12.2,-10.83333,12.2",
+    "geom:latitude":12.2,
+    "geom:longitude":-10.83333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dantare Ouologo",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459335,
+    "gn:latitude":12.2,
+    "gn:longitude":-10.83333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dantar\u00e9 Ouologo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dantar\u00e9-Wologo",
+        "Dantar\u00e9 Ouologo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459335
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3a42310e17b79d906ef6e77f68703879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171903,
+            "locality_id":1209932529,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1209932529,
+    "wof:lastmodified":1537665243,
+    "wof:name":"Dantare Ouologo",
+    "wof:parent_id":421171903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.83333,
+    12.2,
+    -10.83333,
+    12.2
+],
+  "geometry": {"coordinates":[-10.83333,12.2],"type":"Point"}
+}

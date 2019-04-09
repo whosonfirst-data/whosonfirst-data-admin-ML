@@ -1,0 +1,71 @@
+{
+  "id": 1259475703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.71129,11.87895,-7.71129,11.87895",
+    "geom:latitude":11.87895,
+    "geom:longitude":-7.71129,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Oure",
+    "gn:country_code":"ML",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452210,
+    "gn:latitude":11.87895,
+    "gn:longitude":-7.71129,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Our\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dure",
+        "Our\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452210
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a947f4c11a7e8949c6fd8e334ab284b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1259475703,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1259475703,
+    "wof:lastmodified":1537665078,
+    "wof:name":"Oure",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.71129,
+    11.87895,
+    -7.71129,
+    11.87895
+],
+  "geometry": {"coordinates":[-7.71129,11.87895],"type":"Point"}
+}

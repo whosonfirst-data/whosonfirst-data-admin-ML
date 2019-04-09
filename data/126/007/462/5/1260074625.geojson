@@ -1,0 +1,71 @@
+{
+  "id": 1260074625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.06611,16.15972,0.06611,16.15972",
+    "geom:latitude":16.15972,
+    "geom:longitude":0.06611,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tacharan",
+    "gn:country_code":"ML",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450489,
+    "gn:latitude":16.15972,
+    "gn:longitude":0.06611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tacharan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tacharane",
+        "Tacharan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        890418899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450489
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4ea8e091cea1f95908d99dff1c15b26f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":890418899,
+            "locality_id":1260074625,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1260074625,
+    "wof:lastmodified":1537665038,
+    "wof:name":"Tacharan",
+    "wof:parent_id":890418899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.06611,
+    16.15972,
+    0.06611,
+    16.15972
+],
+  "geometry": {"coordinates":[0.06611,16.15972],"type":"Point"}
+}

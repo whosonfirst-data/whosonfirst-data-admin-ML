@@ -1,0 +1,71 @@
+{
+  "id": 1343653273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.0483,13.81142,-7.0483,13.81142",
+    "geom:latitude":13.81142,
+    "geom:longitude":-7.0483,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Koyo",
+    "gn:country_code":"ML",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454242,
+    "gn:latitude":13.81142,
+    "gn:longitude":-7.0483,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Koyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ko\u00efo",
+        "Koyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454242
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0ac36072da3ef24d41b0e940f36fab5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562851,
+            "locality_id":1343653273,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1343653273,
+    "wof:lastmodified":1537665132,
+    "wof:name":"Koyo",
+    "wof:parent_id":1108562851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.0483,
+    13.81142,
+    -7.0483,
+    13.81142
+],
+  "geometry": {"coordinates":[-7.0483,13.81142],"type":"Point"}
+}

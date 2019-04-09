@@ -1,0 +1,71 @@
+{
+  "id": 1344080607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.41036,15.05555,-2.41036,15.05555",
+    "geom:latitude":15.05555,
+    "geom:longitude":-2.41036,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ogui",
+    "gn:country_code":"ML",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452419,
+    "gn:latitude":15.05555,
+    "gn:longitude":-2.41036,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ogui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ogi",
+        "Ogui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452419
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f0d7c4f4859b8258c271e384a61a7098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1344080607,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1344080607,
+    "wof:lastmodified":1537665084,
+    "wof:name":"Ogui",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.41036,
+    15.05555,
+    -2.41036,
+    15.05555
+],
+  "geometry": {"coordinates":[-2.41036,15.05555],"type":"Point"}
+}

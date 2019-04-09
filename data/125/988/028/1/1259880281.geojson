@@ -1,0 +1,72 @@
+{
+  "id": 1259880281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.09135,14.54619,-4.09135,14.54619",
+    "geom:latitude":14.54619,
+    "geom:longitude":-4.09135,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sokoura",
+    "gn:country_code":"ML",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450834,
+    "gn:latitude":14.54619,
+    "gn:longitude":-4.09135,
+    "gn:modification_date":"2018-04-13",
+    "gn:name":"Sokoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sokouna",
+        "Sokoura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450834,
+        "wk:page":"Sokoura,_Mali"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f3ab2045ecb7254c48cb41036c42164c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1259880281,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1259880281,
+    "wof:lastmodified":1537665046,
+    "wof:name":"Sokoura",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.09135,
+    14.54619,
+    -4.09135,
+    14.54619
+],
+  "geometry": {"coordinates":[-4.09135,14.54619],"type":"Point"}
+}

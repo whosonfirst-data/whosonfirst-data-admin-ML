@@ -1,0 +1,191 @@
+{
+  "id": 1141907395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.58996789696,15.2304256378,-9.58996789696,15.2304256378",
+    "geom:latitude":15.230426,
+    "geom:longitude":-9.589968,
+    "iso:country":"ML",
+    "lbl:latitude":15.230426,
+    "lbl:longitude":-9.589968,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Nioro"
+    ],
+    "name:chi_x_preferred":[
+        "\u5c3c\u5967\u7f85"
+    ],
+    "name:dut_x_preferred":[
+        "Nioro du Sahel"
+    ],
+    "name:eng_x_preferred":[
+        "Nioro du Sahel"
+    ],
+    "name:epo_x_preferred":[
+        "Nioro du Sahel"
+    ],
+    "name:fin_x_preferred":[
+        "Nioro"
+    ],
+    "name:fre_x_preferred":[
+        "Nioro du Sahel"
+    ],
+    "name:ger_x_preferred":[
+        "Nioro du Sahel"
+    ],
+    "name:hun_x_preferred":[
+        "Nioro du Sahel"
+    ],
+    "name:ita_x_preferred":[
+        "Nioro du Sahel"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30aa\u30ed\u30fb\u30c7\u30e5\u30fb\u30b5\u30d8\u30eb"
+    ],
+    "name:pol_x_preferred":[
+        "Nioro du Sahel"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u043e\u0440\u043e"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Mali",
+    "ne:ADM0_A3":"MLI",
+    "ne:ADM1NAME":"Kayes",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"ML",
+    "ne:LABELRANK":6,
+    "ne:LATITUDE":15.230426,
+    "ne:LONGITUDE":-9.589968,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Nioro du Sahel",
+    "ne:MAX_AREAKM":5.0,
+    "ne:MAX_AREAMI":2.0,
+    "ne:MAX_BBXMAX":-9.566667,
+    "ne:MAX_BBXMIN":-9.6,
+    "ne:MAX_BBYMAX":15.241667,
+    "ne:MAX_BBYMIN":15.225,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":11.0,
+    "ne:MAX_PERMI":7.0,
+    "ne:MAX_POP10":14421,
+    "ne:MAX_POP20":14421,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-9.583333,
+    "ne:MEAN_BBYC":15.233333,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":5.0,
+    "ne:MIN_AREAMI":2.0,
+    "ne:MIN_BBXMAX":-9.566667,
+    "ne:MIN_BBXMIN":-9.6,
+    "ne:MIN_BBYMAX":15.241667,
+    "ne:MIN_BBYMIN":15.225,
+    "ne:MIN_PERKM":11.0,
+    "ne:MIN_PERMI":7.0,
+    "ne:NAME":"Nioro du Sahel",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Nioro du Sahel",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":14421,
+    "ne:POP_MIN":14421,
+    "ne:POP_OTHER":14421,
+    "ne:RANK_MAX":6,
+    "ne:RANK_MIN":6,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Mali",
+    "ne:SOV_A3":"MLI",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":6.7,
+    "reversegeo:latitude":15.230426,
+    "reversegeo:longitude":-9.589968,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q614243"
+    },
+    "wof:country":"ML",
+    "wof:created":1499130719,
+    "wof:geomhash":"894f5983db6527fc6fcb8d21e72f21e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562869,
+            "locality_id":1141907395,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1141907395,
+    "wof:lastmodified":1514484802,
+    "wof:name":"Nioro du Sahel",
+    "wof:parent_id":1108562869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.58996789696084,
+    15.23042563777261,
+    -9.58996789696084,
+    15.23042563777261
+],
+  "geometry": {"coordinates":[-9.58996789696084,15.23042563777261],"type":"Point"}
+}

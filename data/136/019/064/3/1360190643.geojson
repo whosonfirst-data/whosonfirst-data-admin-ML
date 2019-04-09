@@ -1,0 +1,67 @@
+{
+  "id": 1360190643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.3852,15.6597,-4.3852,15.6597",
+    "geom:latitude":15.6597,
+    "geom:longitude":-4.3852,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Koira",
+    "gn:country_code":"ML",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6687339,
+    "gn:latitude":15.6597,
+    "gn:longitude":-4.3852,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Ko\u00efra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6687339
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f8988020b1b905301aa4ffa2c22767ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562871,
+            "locality_id":1360190643,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1360190643,
+    "wof:lastmodified":1536793624,
+    "wof:name":"Koira",
+    "wof:parent_id":1108562871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.3852,
+    15.6597,
+    -4.3852,
+    15.6597
+],
+  "geometry": {"coordinates":[-4.3852,15.6597],"type":"Point"}
+}

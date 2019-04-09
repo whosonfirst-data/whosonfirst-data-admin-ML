@@ -1,0 +1,67 @@
+{
+  "id": 1259788345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.5058,13.1505,-4.5058,13.1505",
+    "geom:latitude":13.1505,
+    "geom:longitude":-4.5058,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Batchirikui",
+    "gn:country_code":"ML",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460242,
+    "gn:latitude":13.1505,
+    "gn:longitude":-4.5058,
+    "gn:modification_date":"2008-11-03",
+    "gn:name":"Batchirikui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460242
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c21636d04c41b9ec706b8d7562bcf1b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562843,
+            "locality_id":1259788345,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1259788345,
+    "wof:lastmodified":1536916641,
+    "wof:name":"Batchirikui",
+    "wof:parent_id":1108562843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.5058,
+    13.1505,
+    -4.5058,
+    13.1505
+],
+  "geometry": {"coordinates":[-4.5058,13.1505],"type":"Point"}
+}

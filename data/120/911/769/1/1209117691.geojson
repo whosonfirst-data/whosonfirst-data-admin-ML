@@ -1,0 +1,65 @@
+{
+  "id": 1209117691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.65122,15.08939,-11.65122,15.08939",
+    "geom:latitude":15.08939,
+    "geom:longitude":-11.65122,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Aite",
+    "gn:country_code":"ML",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2461214,
+    "gn:latitude":15.08939,
+    "gn:longitude":-11.65122,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"A\u00eft\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00eft\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2461214,
+        "wk:page":"A%C3%AFt%C3%A9"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"521f700afdce81f96fd3f7550a5c9531",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209117691
+        }
+    ],
+    "wof:id":1209117691,
+    "wof:lastmodified":1537665280,
+    "wof:name":"Aite",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.65122,
+    15.08939,
+    -11.65122,
+    15.08939
+],
+  "geometry": {"coordinates":[-11.65122,15.08939],"type":"Point"}
+}

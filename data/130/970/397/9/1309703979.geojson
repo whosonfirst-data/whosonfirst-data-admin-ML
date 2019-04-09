@@ -1,0 +1,71 @@
+{
+  "id": 1309703979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.7295,15.27659,-7.7295,15.27659",
+    "geom:latitude":15.27659,
+    "geom:longitude":-7.7295,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Moulkerati",
+    "gn:country_code":"ML",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453283,
+    "gn:latitude":15.27659,
+    "gn:longitude":-7.7295,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Moulk\u00e9rati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sarakol\u00e9s",
+        "Moulk\u00e9rati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453283
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"25064c8355dee7f61fa6f61b689affa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562865,
+            "locality_id":1309703979,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1309703979,
+    "wof:lastmodified":1537665109,
+    "wof:name":"Moulkerati",
+    "wof:parent_id":1108562865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.7295,
+    15.27659,
+    -7.7295,
+    15.27659
+],
+  "geometry": {"coordinates":[-7.7295,15.27659],"type":"Point"}
+}

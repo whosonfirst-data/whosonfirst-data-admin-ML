@@ -1,0 +1,67 @@
+{
+  "id": 1259490889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.0171,14.4605,-10.0171,14.4605",
+    "geom:latitude":14.4605,
+    "geom:longitude":-10.0171,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Guingui",
+    "gn:country_code":"ML",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456734,
+    "gn:latitude":14.4605,
+    "gn:longitude":-10.0171,
+    "gn:modification_date":"2008-11-19",
+    "gn:name":"Guingui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456734
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"cc2c49ca53c206e06ace26e485d7b853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562857,
+            "locality_id":1259490889,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1259490889,
+    "wof:lastmodified":1536846994,
+    "wof:name":"Guingui",
+    "wof:parent_id":1108562857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.0171,
+    14.4605,
+    -10.0171,
+    14.4605
+],
+  "geometry": {"coordinates":[-10.0171,14.4605],"type":"Point"}
+}

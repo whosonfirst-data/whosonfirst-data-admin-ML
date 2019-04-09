@@ -1,0 +1,72 @@
+{
+  "id": 1259978785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.94023,13.00606,-6.94023,13.00606",
+    "geom:latitude":13.00606,
+    "geom:longitude":-6.94023,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Myiala",
+    "gn:country_code":"ML",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452809,
+    "gn:latitude":13.00606,
+    "gn:longitude":-6.94023,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Myiala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u2019Guila",
+        "Niala",
+        "Myiala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452809
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"420bfb0c57f0326c85af1c2598792260",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562837,
+            "locality_id":1259978785,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1259978785,
+    "wof:lastmodified":1537665096,
+    "wof:name":"Myiala",
+    "wof:parent_id":1108562837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.94023,
+    13.00606,
+    -6.94023,
+    13.00606
+],
+  "geometry": {"coordinates":[-6.94023,13.00606],"type":"Point"}
+}

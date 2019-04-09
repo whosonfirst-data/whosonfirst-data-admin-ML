@@ -1,0 +1,67 @@
+{
+  "id": 1259691497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.01,13.03051,-11.01,13.03051",
+    "geom:latitude":13.03051,
+    "geom:longitude":-11.01,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Berola",
+    "gn:country_code":"ML",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460101,
+    "gn:latitude":13.03051,
+    "gn:longitude":-11.01,
+    "gn:modification_date":"2007-10-29",
+    "gn:name":"B\u00e9rola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460101
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"68f0596bcf4cfbf6e1d5557c86870cd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171903,
+            "locality_id":1259691497,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1259691497,
+    "wof:lastmodified":1537053123,
+    "wof:name":"Berola",
+    "wof:parent_id":421171903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.01,
+    13.03051,
+    -11.01,
+    13.03051
+],
+  "geometry": {"coordinates":[-11.01,13.03051],"type":"Point"}
+}

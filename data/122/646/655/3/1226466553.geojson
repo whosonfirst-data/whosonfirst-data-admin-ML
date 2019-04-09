@@ -1,0 +1,67 @@
+{
+  "id": 1226466553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.9861,15.6584,-3.9861,15.6584",
+    "geom:latitude":15.6584,
+    "geom:longitude":-3.9861,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sogo-Ouro",
+    "gn:country_code":"ML",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880967,
+    "gn:latitude":15.6584,
+    "gn:longitude":-3.9861,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Sogo-Ouro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880967
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"01743791904487f942fb9fca3fefeef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562871,
+            "locality_id":1226466553,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1226466553,
+    "wof:lastmodified":1536613091,
+    "wof:name":"Sogo-Ouro",
+    "wof:parent_id":1108562871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.9861,
+    15.6584,
+    -3.9861,
+    15.6584
+],
+  "geometry": {"coordinates":[-3.9861,15.6584],"type":"Point"}
+}

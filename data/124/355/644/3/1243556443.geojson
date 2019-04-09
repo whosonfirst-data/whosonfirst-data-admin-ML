@@ -1,0 +1,67 @@
+{
+  "id": 1243556443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.2441,14.885,-9.2441,14.885",
+    "geom:latitude":14.885,
+    "geom:longitude":-9.2441,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Misseoude Mitimoibo",
+    "gn:country_code":"ML",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6911524,
+    "gn:latitude":14.885,
+    "gn:longitude":-9.2441,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Miss\u00e9oud\u00e9 Mitimo\u00efbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6911524
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5f3b110b03aead2dffd290ba54c9a3a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562857,
+            "locality_id":1243556443,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1243556443,
+    "wof:lastmodified":1536646545,
+    "wof:name":"Misseoude Mitimoibo",
+    "wof:parent_id":1108562857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.2441,
+    14.885,
+    -9.2441,
+    14.885
+],
+  "geometry": {"coordinates":[-9.2441,14.885],"type":"Point"}
+}

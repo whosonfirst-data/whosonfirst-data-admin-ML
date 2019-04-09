@@ -1,0 +1,67 @@
+{
+  "id": 1243067093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.25009,13.05399,-6.25009,13.05399",
+    "geom:latitude":13.05399,
+    "geom:longitude":-6.25009,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Nasseguela",
+    "gn:country_code":"ML",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910821,
+    "gn:latitude":13.05399,
+    "gn:longitude":-6.25009,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Nass\u00e9gu\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910821
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"fe16718ff96524c1d9f28b8eba486e58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562837,
+            "locality_id":1243067093,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1243067093,
+    "wof:lastmodified":1536854258,
+    "wof:name":"Nasseguela",
+    "wof:parent_id":1108562837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.25009,
+    13.05399,
+    -6.25009,
+    13.05399
+],
+  "geometry": {"coordinates":[-6.25009,13.05399],"type":"Point"}
+}

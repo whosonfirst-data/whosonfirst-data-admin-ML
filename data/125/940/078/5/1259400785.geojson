@@ -1,0 +1,72 @@
+{
+  "id": 1259400785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.83333,10.95,-5.83333,10.95",
+    "geom:latitude":10.95,
+    "geom:longitude":-5.83333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sourkoudingueye",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450588,
+    "gn:latitude":10.95,
+    "gn:longitude":-5.83333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sourkoudingu\u00e8ye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sourgoudiga",
+        "Sourkoudingu\u00e8ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450588
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1ae0d024eacf57a3ebc8af0c3176ef91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1259400785,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1259400785,
+    "wof:lastmodified":1537665039,
+    "wof:name":"Sourkoudingueye",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.83333,
+    10.95,
+    -5.83333,
+    10.95
+],
+  "geometry": {"coordinates":[-5.83333,10.95],"type":"Point"}
+}

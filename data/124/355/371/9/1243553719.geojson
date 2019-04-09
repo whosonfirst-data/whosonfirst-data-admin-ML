@@ -1,0 +1,67 @@
+{
+  "id": 1243553719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.55541,13.39094,-5.55541,13.39094",
+    "geom:latitude":13.39094,
+    "geom:longitude":-5.55541,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kooka",
+    "gn:country_code":"ML",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880729,
+    "gn:latitude":13.39094,
+    "gn:longitude":-5.55541,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Kooka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880729
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1d78fd72ff9bf5cd29cf00fc3df51ad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1243553719,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1243553719,
+    "wof:lastmodified":1536650766,
+    "wof:name":"Kooka",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.55541,
+    13.39094,
+    -5.55541,
+    13.39094
+],
+  "geometry": {"coordinates":[-5.55541,13.39094],"type":"Point"}
+}

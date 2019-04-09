@@ -1,0 +1,67 @@
+{
+  "id": 1309716817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.1916,12.8621,-5.1916,12.8621",
+    "geom:latitude":12.8621,
+    "geom:longitude":-5.1916,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tiessouroussou",
+    "gn:country_code":"ML",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6861901,
+    "gn:latitude":12.8621,
+    "gn:longitude":-5.1916,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Ti\u00e9ssouroussou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421192717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6861901
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"780a53bf8f7d1a53c7f21561a6166e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421192717,
+            "locality_id":1309716817,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1309716817,
+    "wof:lastmodified":1537056859,
+    "wof:name":"Tiessouroussou",
+    "wof:parent_id":421192717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.1916,
+    12.8621,
+    -5.1916,
+    12.8621
+],
+  "geometry": {"coordinates":[-5.1916,12.8621],"type":"Point"}
+}

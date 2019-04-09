@@ -1,0 +1,71 @@
+{
+  "id": 1310693271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.32777,15.28283,-8.32777,15.28283",
+    "geom:latitude":15.28283,
+    "geom:longitude":-8.32777,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dyontesege",
+    "gn:country_code":"ML",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458073,
+    "gn:latitude":15.28283,
+    "gn:longitude":-8.32777,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dyont\u00e9s\u00e9g\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dyont\u00e9ss\u00e9gu\u00e9",
+        "Dyont\u00e9s\u00e9g\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458073
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ab0b2fbae24543b75cb7f4aea5dade26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562865,
+            "locality_id":1310693271,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1310693271,
+    "wof:lastmodified":1537665206,
+    "wof:name":"Dyontesege",
+    "wof:parent_id":1108562865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.32777,
+    15.28283,
+    -8.32777,
+    15.28283
+],
+  "geometry": {"coordinates":[-8.32777,15.28283],"type":"Point"}
+}

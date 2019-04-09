@@ -1,0 +1,74 @@
+{
+  "id": 1310102481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.4388,12.4277,-6.4388,12.4277",
+    "geom:latitude":12.4277,
+    "geom:longitude":-6.4388,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gwenguena-Flala",
+    "gn:country_code":"ML",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6907363,
+    "gn:latitude":12.4277,
+    "gn:longitude":-6.4388,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Gw\u00e9ngu\u00e9na-Flala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gw\u00e9ng\u00e9na-Flala"
+    ],
+    "name:und_x_variant":[
+        "Gw\u00e9ngu\u00e9na-Flala",
+        "Gw\u00e9ng\u00e9na-Flala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6907363
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"dcd5321e11abc6e43240e46d903d00aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1310102481,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1310102481,
+    "wof:lastmodified":1537665289,
+    "wof:name":"Gwenguena-Flala",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.4388,
+    12.4277,
+    -6.4388,
+    12.4277
+],
+  "geometry": {"coordinates":[-6.4388,12.4277],"type":"Point"}
+}

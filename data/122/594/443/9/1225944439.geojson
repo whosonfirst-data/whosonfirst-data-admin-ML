@@ -1,0 +1,67 @@
+{
+  "id": 1225944439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.91216,13.92329,-2.91216,13.92329",
+    "geom:latitude":13.92329,
+    "geom:longitude":-2.91216,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nangabara",
+    "gn:country_code":"ML",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453119,
+    "gn:latitude":13.92329,
+    "gn:longitude":-2.91216,
+    "gn:modification_date":"2008-06-24",
+    "gn:name":"Nangabara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453119
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6fb9cc1c9420cec61645664ca389b500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1225944439,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1225944439,
+    "wof:lastmodified":1536870146,
+    "wof:name":"Nangabara",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.91216,
+    13.92329,
+    -2.91216,
+    13.92329
+],
+  "geometry": {"coordinates":[-2.91216,13.92329],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259695637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.3201,14.01511,-11.3201,14.01511",
+    "geom:latitude":14.01511,
+    "geom:longitude":-11.3201,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mokomoko",
+    "gn:country_code":"ML",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453391,
+    "gn:latitude":14.01511,
+    "gn:longitude":-11.3201,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Mokomoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453391
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9a3651ef50d2b37e4af53c52a2ad5992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1259695637,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1259695637,
+    "wof:lastmodified":1537047467,
+    "wof:name":"Mokomoko",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.3201,
+    14.01511,
+    -11.3201,
+    14.01511
+],
+  "geometry": {"coordinates":[-11.3201,14.01511],"type":"Point"}
+}

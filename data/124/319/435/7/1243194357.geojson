@@ -1,0 +1,67 @@
+{
+  "id": 1243194357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.31081,11.23271,-5.31081,11.23271",
+    "geom:latitude":11.23271,
+    "geom:longitude":-5.31081,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ntiogobougou",
+    "gn:country_code":"ML",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6875190,
+    "gn:latitude":11.23271,
+    "gn:longitude":-5.31081,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Ntiogobougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6875190
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"336d229535593b8cf6333a78225d1b41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1243194357,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1243194357,
+    "wof:lastmodified":1536671962,
+    "wof:name":"Ntiogobougou",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.31081,
+    11.23271,
+    -5.31081,
+    11.23271
+],
+  "geometry": {"coordinates":[-5.31081,11.23271],"type":"Point"}
+}

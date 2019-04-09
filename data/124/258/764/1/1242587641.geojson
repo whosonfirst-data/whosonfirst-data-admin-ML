@@ -1,0 +1,72 @@
+{
+  "id": 1242587641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.98333,10.66667,-5.98333,10.66667",
+    "geom:latitude":10.66667,
+    "geom:longitude":-5.98333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sessinie",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451288,
+    "gn:latitude":10.66667,
+    "gn:longitude":-5.98333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sessini\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ciss\u00e9gu\u00e9",
+        "Sessini\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451288
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e711a04209448221004ffaa6844083a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562817,
+            "locality_id":1242587641,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1242587641,
+    "wof:lastmodified":1537665057,
+    "wof:name":"Sessinie",
+    "wof:parent_id":1108562817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.98333,
+    10.66667,
+    -5.98333,
+    10.66667
+],
+  "geometry": {"coordinates":[-5.98333,10.66667],"type":"Point"}
+}

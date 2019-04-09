@@ -1,0 +1,65 @@
+{
+  "id": 1209622613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.44725,12.24412,-11.44725,12.24412",
+    "geom:latitude":12.24412,
+    "geom:longitude":-11.44725,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tombo",
+    "gn:country_code":"ML",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449049,
+    "gn:latitude":12.24412,
+    "gn:longitude":-11.44725,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tonbo",
+        "Tombo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449049
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7df795895788ef5be8a588b19f6b4bc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209622613
+        }
+    ],
+    "wof:id":1209622613,
+    "wof:lastmodified":1537665019,
+    "wof:name":"Tombo",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.44725,
+    12.24412,
+    -11.44725,
+    12.24412
+],
+  "geometry": {"coordinates":[-11.44725,12.24412],"type":"Point"}
+}

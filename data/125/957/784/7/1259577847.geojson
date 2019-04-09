@@ -1,0 +1,74 @@
+{
+  "id": 1259577847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.1377,13.8526,-8.1377,13.8526",
+    "geom:latitude":13.8526,
+    "geom:longitude":-8.1377,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sanguerena",
+    "gn:country_code":"ML",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451665,
+    "gn:latitude":13.8526,
+    "gn:longitude":-8.1377,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sangu\u00e9r\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sangu\u00e9n\u00e9na"
+    ],
+    "name:und_x_variant":[
+        "Sangu\u00e9r\u00e9na",
+        "Sangu\u00e9n\u00e9na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451665
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3b433c5fb9a778b93d09aa76ac71217c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":1259577847,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1259577847,
+    "wof:lastmodified":1537665066,
+    "wof:name":"Sanguerena",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.1377,
+    13.8526,
+    -8.1377,
+    13.8526
+],
+  "geometry": {"coordinates":[-8.1377,13.8526],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209515759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.73309,14.0767,-3.73309,14.0767",
+    "geom:latitude":14.0767,
+    "geom:longitude":-3.73309,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Toumouni",
+    "gn:country_code":"ML",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448875,
+    "gn:latitude":14.0767,
+    "gn:longitude":-3.73309,
+    "gn:modification_date":"2008-10-24",
+    "gn:name":"Toumouni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448875
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c82b8a24051735394f6cca70f030188b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209515759
+        }
+    ],
+    "wof:id":1209515759,
+    "wof:lastmodified":1536284738,
+    "wof:name":"Toumouni",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.73309,
+    14.0767,
+    -3.73309,
+    14.0767
+],
+  "geometry": {"coordinates":[-3.73309,14.0767],"type":"Point"}
+}

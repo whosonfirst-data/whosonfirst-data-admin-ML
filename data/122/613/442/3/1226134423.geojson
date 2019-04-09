@@ -1,0 +1,71 @@
+{
+  "id": 1226134423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.93623,12.14632,-6.93623,12.14632",
+    "geom:latitude":12.14632,
+    "geom:longitude":-6.93623,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Senou",
+    "gn:country_code":"ML",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451351,
+    "gn:latitude":12.14632,
+    "gn:longitude":-6.93623,
+    "gn:modification_date":"2018-04-13",
+    "gn:name":"S\u00e9nou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "S\u00e9nou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451351,
+        "wk:page":"Senou"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2f82422fb36790c1f2cd525a94e68a68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1226134423,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1226134423,
+    "wof:lastmodified":1537665059,
+    "wof:name":"Senou",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.93623,
+    12.14632,
+    -6.93623,
+    12.14632
+],
+  "geometry": {"coordinates":[-6.93623,12.14632],"type":"Point"}
+}

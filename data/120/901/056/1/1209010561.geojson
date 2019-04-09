@@ -1,0 +1,61 @@
+{
+  "id": 1209010561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.24569,14.606,-3.24569,14.606",
+    "geom:latitude":14.606,
+    "geom:longitude":-3.24569,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Guene",
+    "gn:country_code":"ML",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456799,
+    "gn:latitude":14.606,
+    "gn:longitude":-3.24569,
+    "gn:modification_date":"2008-10-24",
+    "gn:name":"Gu\u00e9n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456799
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"bf443a26fbdb4a54f0345b5be3af3637",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209010561
+        }
+    ],
+    "wof:id":1209010561,
+    "wof:lastmodified":1536300461,
+    "wof:name":"Guene",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.24569,
+    14.606,
+    -3.24569,
+    14.606
+],
+  "geometry": {"coordinates":[-3.24569,14.606],"type":"Point"}
+}

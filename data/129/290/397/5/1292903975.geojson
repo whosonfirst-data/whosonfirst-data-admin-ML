@@ -1,0 +1,67 @@
+{
+  "id": 1292903975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.3522,13.8893,-3.3522,13.8893",
+    "geom:latitude":13.8893,
+    "geom:longitude":-3.3522,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Omo",
+    "gn:country_code":"ML",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452412,
+    "gn:latitude":13.8893,
+    "gn:longitude":-3.3522,
+    "gn:modification_date":"2008-10-31",
+    "gn:name":"Omo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452412
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e70eb8f1f79865f18ae740ec4cd6a08e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1292903975,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1292903975,
+    "wof:lastmodified":1536632739,
+    "wof:name":"Omo",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.3522,
+    13.8893,
+    -3.3522,
+    13.8893
+],
+  "geometry": {"coordinates":[-3.3522,13.8893],"type":"Point"}
+}

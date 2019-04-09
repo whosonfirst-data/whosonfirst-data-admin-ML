@@ -1,0 +1,71 @@
+{
+  "id": 1209722969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.606,13.1646,-9.606,13.1646",
+    "geom:latitude":13.1646,
+    "geom:longitude":-9.606,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dialikebafata",
+    "gn:country_code":"ML",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458884,
+    "gn:latitude":13.1646,
+    "gn:longitude":-9.606,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dialik\u00e9bafata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Di\u00e9lik\u00e9bafata",
+        "Dialik\u00e9bafata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458884
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c13264a7d6e0db1a6ad52b79200b27e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1209722969,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1209722969,
+    "wof:lastmodified":1537665232,
+    "wof:name":"Dialikebafata",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.606,
+    13.1646,
+    -9.606,
+    13.1646
+],
+  "geometry": {"coordinates":[-9.606,13.1646],"type":"Point"}
+}

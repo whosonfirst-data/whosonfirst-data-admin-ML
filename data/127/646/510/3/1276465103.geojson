@@ -1,0 +1,67 @@
+{
+  "id": 1276465103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.90345,12.21882,-8.90345,12.21882",
+    "geom:latitude":12.21882,
+    "geom:longitude":-8.90345,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Namarana",
+    "gn:country_code":"ML",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453144,
+    "gn:latitude":12.21882,
+    "gn:longitude":-8.90345,
+    "gn:modification_date":"2008-11-13",
+    "gn:name":"Namarana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453144
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2c039c904667700a3c7a664af57f8554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562827,
+            "locality_id":1276465103,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1276465103,
+    "wof:lastmodified":1537096096,
+    "wof:name":"Namarana",
+    "wof:parent_id":1108562827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.90345,
+    12.21882,
+    -8.90345,
+    12.21882
+],
+  "geometry": {"coordinates":[-8.90345,12.21882],"type":"Point"}
+}

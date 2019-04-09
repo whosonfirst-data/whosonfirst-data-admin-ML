@@ -1,0 +1,61 @@
+{
+  "id": 1209337357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.08051,13.7774,-6.08051,13.7774",
+    "geom:latitude":13.7774,
+    "geom:longitude":-6.08051,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bourama Ouere",
+    "gn:country_code":"ML",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910493,
+    "gn:latitude":13.7774,
+    "gn:longitude":-6.08051,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Bourama Ou\u00e8r\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910493
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1a3adac93910c72d770ceeef80fddb91",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209337357
+        }
+    ],
+    "wof:id":1209337357,
+    "wof:lastmodified":1536290175,
+    "wof:name":"Bourama Ouere",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0805099999999985,
+    13.7774,
+    -6.0805099999999985,
+    13.7774
+],
+  "geometry": {"coordinates":[-6.08051,13.7774],"type":"Point"}
+}

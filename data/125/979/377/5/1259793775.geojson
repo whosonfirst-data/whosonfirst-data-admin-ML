@@ -1,0 +1,67 @@
+{
+  "id": 1259793775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.9,13.5,-9.9,13.5",
+    "geom:latitude":13.5,
+    "geom:longitude":-9.9,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Soribougouda",
+    "gn:country_code":"ML",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450745,
+    "gn:latitude":13.5,
+    "gn:longitude":-9.9,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Soribougouda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450745
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1d1ca5fa4d1fe5ace7f775fd095a6b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562855,
+            "locality_id":1259793775,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1259793775,
+    "wof:lastmodified":1536908541,
+    "wof:name":"Soribougouda",
+    "wof:parent_id":1108562855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.9,
+    13.5,
+    -9.9,
+    13.5
+],
+  "geometry": {"coordinates":[-9.9,13.5],"type":"Point"}
+}

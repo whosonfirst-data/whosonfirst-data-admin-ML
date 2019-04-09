@@ -1,0 +1,73 @@
+{
+  "id": 1276559387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.1753,13.2764,-10.1753,13.2764",
+    "geom:latitude":13.2764,
+    "geom:longitude":-10.1753,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Niantassou",
+    "gn:country_code":"ML",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452756,
+    "gn:latitude":13.2764,
+    "gn:longitude":-10.1753,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Niantassou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niantansso",
+        "Niantanso",
+        "Niantassou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452756,
+        "wk:page":"Niantanso"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"58de186117740420947fb4b38a0fc61f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1276559387,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1276559387,
+    "wof:lastmodified":1537665095,
+    "wof:name":"Niantassou",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.1753,
+    13.2764,
+    -10.1753,
+    13.2764
+],
+  "geometry": {"coordinates":[-10.1753,13.2764],"type":"Point"}
+}

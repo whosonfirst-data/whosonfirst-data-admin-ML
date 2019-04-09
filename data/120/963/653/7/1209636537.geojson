@@ -1,0 +1,66 @@
+{
+  "id": 1209636537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.96463,12.70354,-7.96463,12.70354",
+    "geom:latitude":12.70354,
+    "geom:longitude":-7.96463,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dialakorodji",
+    "gn:country_code":"ML",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594078,
+    "gn:latitude":12.70354,
+    "gn:longitude":-7.96463,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Dialakorodji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dialakoroji",
+        "Dialakorodji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594078,
+        "wk:page":"Dialakorodji"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f5c225c8d50b7833073eb738cc8ed45e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209636537
+        }
+    ],
+    "wof:id":1209636537,
+    "wof:lastmodified":1537665282,
+    "wof:name":"Dialakorodji",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.96463,
+    12.70354,
+    -7.96463,
+    12.70354
+],
+  "geometry": {"coordinates":[-7.96463,12.70354],"type":"Point"}
+}

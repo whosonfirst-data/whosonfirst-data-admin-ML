@@ -1,0 +1,68 @@
+{
+  "id": 1259485257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.50333,12.58472,-9.50333,12.58472",
+    "geom:latitude":12.58472,
+    "geom:longitude":-9.50333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Galle",
+    "gn:country_code":"ML",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11288612,
+    "gn:latitude":12.58472,
+    "gn:longitude":-9.50333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Galle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11288612,
+        "wk:page":"Gall%C3%A9,_Mali"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4c65c6eaf5ceb07ae603e1df9a257e32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1259485257,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1259485257,
+    "wof:lastmodified":1537568443,
+    "wof:name":"Galle",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.50333,
+    12.58472,
+    -9.50333,
+    12.58472
+],
+  "geometry": {"coordinates":[-9.50333,12.58472],"type":"Point"}
+}

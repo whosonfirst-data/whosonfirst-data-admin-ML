@@ -1,0 +1,67 @@
+{
+  "id": 1309716885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.03,12.816,-5.03,12.816",
+    "geom:latitude":12.816,
+    "geom:longitude":-5.03,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Niessoumadougou",
+    "gn:country_code":"ML",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6861893,
+    "gn:latitude":12.816,
+    "gn:longitude":-5.03,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Ni\u00e8ssoumadougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421192717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6861893
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"27c342effa18e3226484d3d0e978a4c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421192717,
+            "locality_id":1309716885,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1309716885,
+    "wof:lastmodified":1537056758,
+    "wof:name":"Niessoumadougou",
+    "wof:parent_id":421192717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.03,
+    12.816,
+    -5.03,
+    12.816
+],
+  "geometry": {"coordinates":[-5.03,12.816],"type":"Point"}
+}

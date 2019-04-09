@@ -1,0 +1,71 @@
+{
+  "id": 1226747935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.1526,15.7909,-3.1526,15.7909",
+    "geom:latitude":15.7909,
+    "geom:longitude":-3.1526,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kanioume",
+    "gn:country_code":"ML",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455705,
+    "gn:latitude":15.7909,
+    "gn:longitude":-3.1526,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kanioum\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kagnoume",
+        "Kanioum\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455705
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b2188d2a3572c9ceff009c5af5c73f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1226747935,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1226747935,
+    "wof:lastmodified":1537665166,
+    "wof:name":"Kanioume",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.1526,
+    15.7909,
+    -3.1526,
+    15.7909
+],
+  "geometry": {"coordinates":[-3.1526,15.7909],"type":"Point"}
+}

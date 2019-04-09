@@ -1,0 +1,67 @@
+{
+  "id": 1260080845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.70057,15.35377,-1.70057,15.35377",
+    "geom:latitude":15.35377,
+    "geom:longitude":-1.70057,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Damsosso",
+    "gn:country_code":"ML",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6869672,
+    "gn:latitude":15.35377,
+    "gn:longitude":-1.70057,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Damsosso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6869672
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0e814dcc5c5c2392507a13827c43515e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1260080845,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1260080845,
+    "wof:lastmodified":1536991011,
+    "wof:name":"Damsosso",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.70057,
+    15.35377,
+    -1.70057,
+    15.35377
+],
+  "geometry": {"coordinates":[-1.70057,15.35377],"type":"Point"}
+}

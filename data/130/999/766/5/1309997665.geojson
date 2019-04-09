@@ -1,0 +1,67 @@
+{
+  "id": 1309997665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.4134,12.4773,-6.4134,12.4773",
+    "geom:latitude":12.4773,
+    "geom:longitude":-6.4134,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Beleko-Dyawarela",
+    "gn:country_code":"ML",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6907353,
+    "gn:latitude":12.4773,
+    "gn:longitude":-6.4134,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"B\u00e9l\u00e9ko-Dyawar\u00e8la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6907353
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f47c89ef499d405799a86408716a6779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1309997665,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1309997665,
+    "wof:lastmodified":1536654644,
+    "wof:name":"Beleko-Dyawarela",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.4134,
+    12.4773,
+    -6.4134,
+    12.4773
+],
+  "geometry": {"coordinates":[-6.4134,12.4773],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310417313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.4815,14.3203,-8.4815,14.3203",
+    "geom:latitude":14.3203,
+    "geom:longitude":-8.4815,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Konokoule",
+    "gn:country_code":"ML",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454749,
+    "gn:latitude":14.3203,
+    "gn:longitude":-8.4815,
+    "gn:modification_date":"2008-11-18",
+    "gn:name":"Konokoul\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454749
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e46000941fa0df3af8af99bb51f00ddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562857,
+            "locality_id":1310417313,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1310417313,
+    "wof:lastmodified":1537042443,
+    "wof:name":"Konokoule",
+    "wof:parent_id":1108562857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.4815,
+    14.3203,
+    -8.4815,
+    14.3203
+],
+  "geometry": {"coordinates":[-8.4815,14.3203],"type":"Point"}
+}

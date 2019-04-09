@@ -1,0 +1,67 @@
+{
+  "id": 1276118783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.06983,14.71501,-4.06983,14.71501",
+    "geom:latitude":14.71501,
+    "geom:longitude":-4.06983,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ouro Gaya",
+    "gn:country_code":"ML",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6768289,
+    "gn:latitude":14.71501,
+    "gn:longitude":-4.06983,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Ouro Gaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6768289
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0bf2f6d2c7f6b639bb7c07407a26cdf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1276118783,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1276118783,
+    "wof:lastmodified":1537063306,
+    "wof:name":"Ouro Gaya",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.06983,
+    14.71501,
+    -4.06983,
+    14.71501
+],
+  "geometry": {"coordinates":[-4.06983,14.71501],"type":"Point"}
+}

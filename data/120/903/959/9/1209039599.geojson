@@ -1,0 +1,65 @@
+{
+  "id": 1209039599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.7819,13.5752,-3.7819,13.5752",
+    "geom:latitude":13.5752,
+    "geom:longitude":-3.7819,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Weregara",
+    "gn:country_code":"ML",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448611,
+    "gn:latitude":13.5752,
+    "gn:longitude":-3.7819,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"W\u00e9r\u00e9gara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u00e9r\u00e9guara",
+        "W\u00e9r\u00e9gara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448611
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d1dfebc5474b7c563df1d807b309064f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209039599
+        }
+    ],
+    "wof:id":1209039599,
+    "wof:lastmodified":1537665007,
+    "wof:name":"Weregara",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7819,
+    13.5752,
+    -3.7819,
+    13.5752
+],
+  "geometry": {"coordinates":[-3.7819,13.5752],"type":"Point"}
+}

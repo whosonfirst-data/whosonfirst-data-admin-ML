@@ -1,0 +1,72 @@
+{
+  "id": 1276325653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.2911,12.7366,-7.2911,12.7366",
+    "geom:latitude":12.7366,
+    "geom:longitude":-7.2911,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Markakoungo",
+    "gn:country_code":"ML",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594157,
+    "gn:latitude":12.7366,
+    "gn:longitude":-7.2911,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Markakoungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marka Coungo",
+        "Markakoungo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594157,
+        "wk:page":"Marka_Coungo"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c530b695aa222c5f64482c991d5f356e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1276325653,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1276325653,
+    "wof:lastmodified":1537665282,
+    "wof:name":"Markakoungo",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.2911,
+    12.7366,
+    -7.2911,
+    12.7366
+],
+  "geometry": {"coordinates":[-7.2911,12.7366],"type":"Point"}
+}

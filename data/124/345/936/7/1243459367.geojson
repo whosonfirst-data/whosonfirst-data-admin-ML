@@ -1,0 +1,70 @@
+{
+  "id": 1243459367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0294,14.7343,-6.0294,14.7343",
+    "geom:latitude":14.7343,
+    "geom:longitude":-6.0294,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kogoni",
+    "gn:country_code":"ML",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455081,
+    "gn:latitude":14.7343,
+    "gn:longitude":-6.0294,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kogoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kogoni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455081
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"782e9e9c0eb1475e5d5c32d7bd81a512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562867,
+            "locality_id":1243459367,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1243459367,
+    "wof:lastmodified":1537665152,
+    "wof:name":"Kogoni",
+    "wof:parent_id":1108562867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0294,
+    14.7343,
+    -6.0294,
+    14.7343
+],
+  "geometry": {"coordinates":[-6.0294,14.7343],"type":"Point"}
+}

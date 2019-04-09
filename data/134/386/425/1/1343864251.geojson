@@ -1,0 +1,74 @@
+{
+  "id": 1343864251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.2324,15.0191,-4.2324,15.0191",
+    "geom:latitude":15.0191,
+    "geom:longitude":-4.2324,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dialoube",
+    "gn:country_code":"ML",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459035,
+    "gn:latitude":15.0191,
+    "gn:longitude":-4.2324,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dialoub\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouro Dialoub\u00e9",
+        "Ouro-Dialloub\u00e9",
+        "Dialloub\u00e9",
+        "Dialoub\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459035,
+        "wk:page":"Dialloub%C3%A9"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b05a1d172104dbf030f04fe71c79008a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1343864251,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1343864251,
+    "wof:lastmodified":1537665236,
+    "wof:name":"Dialoube",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.2324,
+    15.0191,
+    -4.2324,
+    15.0191
+],
+  "geometry": {"coordinates":[-4.2324,15.0191],"type":"Point"}
+}

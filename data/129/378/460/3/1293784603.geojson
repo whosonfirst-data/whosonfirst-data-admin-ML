@@ -1,0 +1,67 @@
+{
+  "id": 1293784603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.3897,13.8826,-3.3897,13.8826",
+    "geom:latitude":13.8826,
+    "geom:longitude":-3.3897,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tansogou",
+    "gn:country_code":"ML",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450183,
+    "gn:latitude":13.8826,
+    "gn:longitude":-3.3897,
+    "gn:modification_date":"2008-10-31",
+    "gn:name":"Tansogou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450183
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4a57b6c517255e2ddcd8ea0d5bfd7316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1293784603,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1293784603,
+    "wof:lastmodified":1536854616,
+    "wof:name":"Tansogou",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.3897,
+    13.8826,
+    -3.3897,
+    13.8826
+],
+  "geometry": {"coordinates":[-3.3897,13.8826],"type":"Point"}
+}

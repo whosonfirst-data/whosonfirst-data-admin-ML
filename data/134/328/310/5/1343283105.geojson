@@ -1,0 +1,67 @@
+{
+  "id": 1343283105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.6724,12.5177,-7.6724,12.5177",
+    "geom:latitude":12.5177,
+    "geom:longitude":-7.6724,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ouolodiedo",
+    "gn:country_code":"ML",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594056,
+    "gn:latitude":12.5177,
+    "gn:longitude":-7.6724,
+    "gn:modification_date":"2008-11-07",
+    "gn:name":"Ouolodi\u00e8do",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        421177883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594056
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"83f77c8b55b8b6f2a62cc174cc461c68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177883,
+            "locality_id":1343283105,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1343283105,
+    "wof:lastmodified":1537001534,
+    "wof:name":"Ouolodiedo",
+    "wof:parent_id":421177883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.6724,
+    12.5177,
+    -7.6724,
+    12.5177
+],
+  "geometry": {"coordinates":[-7.6724,12.5177],"type":"Point"}
+}

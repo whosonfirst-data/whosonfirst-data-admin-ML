@@ -1,0 +1,76 @@
+{
+  "id": 1360308287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.3198,12.7512,-6.3198,12.7512",
+    "geom:latitude":12.7512,
+    "geom:longitude":-6.3198,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Binadyana",
+    "gn:country_code":"ML",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460055,
+    "gn:latitude":12.7512,
+    "gn:longitude":-6.3198,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Binadyana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Binadyana"
+    ],
+    "name:fra_x_variant":[
+        "Benandiana"
+    ],
+    "name:und_x_variant":[
+        "Benandiana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460055
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"613eda008cb6cd058c4dc711096af414",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562835,
+            "locality_id":1360308287,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1360308287,
+    "wof:lastmodified":1537665260,
+    "wof:name":"Binadyana",
+    "wof:parent_id":1108562835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.3198,
+    12.7512,
+    -6.3198,
+    12.7512
+],
+  "geometry": {"coordinates":[-6.3198,12.7512],"type":"Point"}
+}

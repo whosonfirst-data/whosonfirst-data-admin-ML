@@ -1,0 +1,67 @@
+{
+  "id": 1209907847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.00349,12.13765,-7.00349,12.13765",
+    "geom:latitude":12.13765,
+    "geom:longitude":-7.00349,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bodie",
+    "gn:country_code":"ML",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593921,
+    "gn:latitude":12.13765,
+    "gn:longitude":-7.00349,
+    "gn:modification_date":"2008-11-07",
+    "gn:name":"Bodi\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593921
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b373fdc1902746467807ba8c217e3af0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1209907847,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1209907847,
+    "wof:lastmodified":1536382013,
+    "wof:name":"Bodie",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.00349,
+    12.13765,
+    -7.00349,
+    12.13765
+],
+  "geometry": {"coordinates":[-7.00349,12.13765],"type":"Point"}
+}

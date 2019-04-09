@@ -1,0 +1,67 @@
+{
+  "id": 1243439853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.73328,16.11326,-3.73328,16.11326",
+    "geom:latitude":16.11326,
+    "geom:longitude":-3.73328,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kati",
+    "gn:country_code":"ML",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455557,
+    "gn:latitude":16.11326,
+    "gn:longitude":-3.73328,
+    "gn:modification_date":"2009-06-26",
+    "gn:name":"Kati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455557
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4021094e93883b4dbb07aec004287803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562873,
+            "locality_id":1243439853,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1243439853,
+    "wof:lastmodified":1536814337,
+    "wof:name":"Kati",
+    "wof:parent_id":1108562873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.73328,
+    16.11326,
+    -3.73328,
+    16.11326
+],
+  "geometry": {"coordinates":[-3.73328,16.11326],"type":"Point"}
+}

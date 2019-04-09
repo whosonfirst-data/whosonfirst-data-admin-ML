@@ -1,0 +1,73 @@
+{
+  "id": 1243445915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.14097,12.21529,-6.14097,12.21529",
+    "geom:latitude":12.21529,
+    "geom:longitude":-6.14097,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Didyana",
+    "gn:country_code":"ML",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458917,
+    "gn:latitude":12.21529,
+    "gn:longitude":-6.14097,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Didyana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "N\u2019Dydiana"
+    ],
+    "name:fra_x_variant":[
+        "Didyana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458917
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"623e9cecc0c5ae930480b1acc26f1923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1243445915,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1243445915,
+    "wof:lastmodified":1537665233,
+    "wof:name":"Didyana",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.14097,
+    12.21529,
+    -6.14097,
+    12.21529
+],
+  "geometry": {"coordinates":[-6.14097,12.21529],"type":"Point"}
+}

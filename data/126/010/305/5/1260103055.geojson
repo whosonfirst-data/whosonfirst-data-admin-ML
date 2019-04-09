@@ -1,0 +1,71 @@
+{
+  "id": 1260103055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0807,13.1359,-6.0807,13.1359",
+    "geom:latitude":13.1359,
+    "geom:longitude":-6.0807,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Samene",
+    "gn:country_code":"ML",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451792,
+    "gn:latitude":13.1359,
+    "gn:longitude":-6.0807,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Sam\u00e8n\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sam\u00e8n\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451792,
+        "wk:page":"Samin%C3%A9"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5105a95747c30cf307155c67e2e19e6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562837,
+            "locality_id":1260103055,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1260103055,
+    "wof:lastmodified":1537665070,
+    "wof:name":"Samene",
+    "wof:parent_id":1108562837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0807,
+    13.1359,
+    -6.0807,
+    13.1359
+],
+  "geometry": {"coordinates":[-6.0807,13.1359],"type":"Point"}
+}

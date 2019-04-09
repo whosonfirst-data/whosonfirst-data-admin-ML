@@ -1,0 +1,61 @@
+{
+  "id": 1209226325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.17098,12.16508,-11.17098,12.16508",
+    "geom:latitude":12.16508,
+    "geom:longitude":-11.17098,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Leissere",
+    "gn:country_code":"ML",
+    "gn:dem":590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454127,
+    "gn:latitude":12.16508,
+    "gn:longitude":-11.17098,
+    "gn:modification_date":"2007-10-12",
+    "gn:name":"L\u00e9iss\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454127
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"832ce3dff0d6ba504325b9800bc0f216",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209226325
+        }
+    ],
+    "wof:id":1209226325,
+    "wof:lastmodified":1536293788,
+    "wof:name":"Leissere",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.17098,
+    12.16508,
+    -11.17098,
+    12.16508
+],
+  "geometry": {"coordinates":[-11.17098,12.16508],"type":"Point"}
+}

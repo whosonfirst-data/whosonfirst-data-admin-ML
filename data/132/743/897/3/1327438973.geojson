@@ -1,0 +1,67 @@
+{
+  "id": 1327438973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.8563,13.1556,-10.8563,13.1556",
+    "geom:latitude":13.1556,
+    "geom:longitude":-10.8563,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Fatako",
+    "gn:country_code":"ML",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457533,
+    "gn:latitude":13.1556,
+    "gn:longitude":-10.8563,
+    "gn:modification_date":"2008-11-19",
+    "gn:name":"Fatako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457533
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"732105b9a3d7db2ace10fa423c699b84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562855,
+            "locality_id":1327438973,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1327438973,
+    "wof:lastmodified":1536671212,
+    "wof:name":"Fatako",
+    "wof:parent_id":1108562855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.8563,
+    13.1556,
+    -10.8563,
+    13.1556
+],
+  "geometry": {"coordinates":[-10.8563,13.1556],"type":"Point"}
+}

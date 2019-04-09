@@ -1,0 +1,71 @@
+{
+  "id": 1226048771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.11979,14.3335,-3.11979,14.3335",
+    "geom:latitude":14.3335,
+    "geom:longitude":-3.11979,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nangadourou",
+    "gn:country_code":"ML",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453118,
+    "gn:latitude":14.3335,
+    "gn:longitude":-3.11979,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nangadourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nangdourou",
+        "Nangadourou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453118
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7f273fa8e01d60652250afaa83912d52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1226048771,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1226048771,
+    "wof:lastmodified":1537665105,
+    "wof:name":"Nangadourou",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.11979,
+    14.3335,
+    -3.11979,
+    14.3335
+],
+  "geometry": {"coordinates":[-3.11979,14.3335],"type":"Point"}
+}

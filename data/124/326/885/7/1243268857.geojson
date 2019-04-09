@@ -1,0 +1,67 @@
+{
+  "id": 1243268857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.0527,12.8316,-5.0527,12.8316",
+    "geom:latitude":12.8316,
+    "geom:longitude":-5.0527,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kologo",
+    "gn:country_code":"ML",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6861895,
+    "gn:latitude":12.8316,
+    "gn:longitude":-5.0527,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Kologo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421192717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6861895
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5df5c439e244106ffe4a282dbcb74e7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421192717,
+            "locality_id":1243268857,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1243268857,
+    "wof:lastmodified":1537058920,
+    "wof:name":"Kologo",
+    "wof:parent_id":421192717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.0527,
+    12.8316,
+    -5.0527,
+    12.8316
+],
+  "geometry": {"coordinates":[-5.0527,12.8316],"type":"Point"}
+}

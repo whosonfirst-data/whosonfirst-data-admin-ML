@@ -1,0 +1,71 @@
+{
+  "id": 1360009639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.4445,13.4984,-3.4445,13.4984",
+    "geom:latitude":13.4984,
+    "geom:longitude":-3.4445,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Goere",
+    "gn:country_code":"ML",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457082,
+    "gn:latitude":13.4984,
+    "gn:longitude":-3.4445,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Go\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gouri",
+        "Go\u00e9r\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457082
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e853a3cc259dfc5e24ffee0b8503d3d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1360009639,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1360009639,
+    "wof:lastmodified":1537665185,
+    "wof:name":"Goere",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.4445,
+    13.4984,
+    -3.4445,
+    13.4984
+],
+  "geometry": {"coordinates":[-3.4445,13.4984],"type":"Point"}
+}

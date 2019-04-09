@@ -1,0 +1,61 @@
+{
+  "id": 1209420897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.91667,13.46667,-3.91667,13.46667",
+    "geom:latitude":13.46667,
+    "geom:longitude":-3.91667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bidi",
+    "gn:country_code":"ML",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460080,
+    "gn:latitude":13.46667,
+    "gn:longitude":-3.91667,
+    "gn:modification_date":"2008-10-31",
+    "gn:name":"Bidi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460080
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d1d2bbf5075f5abab309d0b803a920a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209420897
+        }
+    ],
+    "wof:id":1209420897,
+    "wof:lastmodified":1536287534,
+    "wof:name":"Bidi",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.91667,
+    13.46667,
+    -3.91667,
+    13.46667
+],
+  "geometry": {"coordinates":[-3.91667,13.46667],"type":"Point"}
+}

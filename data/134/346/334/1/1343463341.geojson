@@ -1,0 +1,70 @@
+{
+  "id": 1343463341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.8774,12.8637,-6.8774,12.8637",
+    "geom:latitude":12.8637,
+    "geom:longitude":-6.8774,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Balabougou",
+    "gn:country_code":"ML",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460675,
+    "gn:latitude":12.8637,
+    "gn:longitude":-6.8774,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Balabougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Balabougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460675
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5b7dc0fe82e63d2301720720f4b6f30c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562837,
+            "locality_id":1343463341,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1343463341,
+    "wof:lastmodified":1537665274,
+    "wof:name":"Balabougou",
+    "wof:parent_id":1108562837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.8774,
+    12.8637,
+    -6.8774,
+    12.8637
+],
+  "geometry": {"coordinates":[-6.8774,12.8637],"type":"Point"}
+}

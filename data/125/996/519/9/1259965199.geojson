@@ -1,0 +1,72 @@
+{
+  "id": 1259965199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.9062,15.7679,-3.9062,15.7679",
+    "geom:latitude":15.7679,
+    "geom:longitude":-3.9062,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Gagalatl",
+    "gn:country_code":"ML",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457257,
+    "gn:latitude":15.7679,
+    "gn:longitude":-3.9062,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gagalatl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ga",
+        "Gagalati",
+        "Gagalatl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457257
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"897305a71194eef29c7a99ab9b113b74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562873,
+            "locality_id":1259965199,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1259965199,
+    "wof:lastmodified":1537665189,
+    "wof:name":"Gagalatl",
+    "wof:parent_id":1108562873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.9062,
+    15.7679,
+    -3.9062,
+    15.7679
+],
+  "geometry": {"coordinates":[-3.9062,15.7679],"type":"Point"}
+}

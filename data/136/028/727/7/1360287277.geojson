@@ -1,0 +1,67 @@
+{
+  "id": 1360287277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.11707,14.29531,-11.11707,14.29531",
+    "geom:latitude":14.29531,
+    "geom:longitude":-11.11707,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bougaria",
+    "gn:country_code":"ML",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459819,
+    "gn:latitude":14.29531,
+    "gn:longitude":-11.11707,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Bougaria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459819
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"49288884ee4202f5344879e81938fa31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1360287277,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1360287277,
+    "wof:lastmodified":1536653898,
+    "wof:name":"Bougaria",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.11707,
+    14.29531,
+    -11.11707,
+    14.29531
+],
+  "geometry": {"coordinates":[-11.11707,14.29531],"type":"Point"}
+}

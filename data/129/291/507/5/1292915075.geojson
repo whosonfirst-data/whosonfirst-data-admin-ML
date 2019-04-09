@@ -1,0 +1,67 @@
+{
+  "id": 1292915075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.5539,15.36073,-11.5539,15.36073",
+    "geom:latitude":15.36073,
+    "geom:longitude":-11.5539,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ahel Barke",
+    "gn:country_code":"ML",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2461233,
+    "gn:latitude":15.36073,
+    "gn:longitude":-11.5539,
+    "gn:modification_date":"2007-09-20",
+    "gn:name":"Ahel Bark\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2461233
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0dd206488720acc9b7d39c05e37d1402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1292915075,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1292915075,
+    "wof:lastmodified":1536615817,
+    "wof:name":"Ahel Barke",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.5539,
+    15.36073,
+    -11.5539,
+    15.36073
+],
+  "geometry": {"coordinates":[-11.5539,15.36073],"type":"Point"}
+}

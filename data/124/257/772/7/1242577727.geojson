@@ -1,0 +1,67 @@
+{
+  "id": 1242577727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.425,13.9194,-3.425,13.9194",
+    "geom:latitude":13.9194,
+    "geom:longitude":-3.425,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Toundou",
+    "gn:country_code":"ML",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6874981,
+    "gn:latitude":13.9194,
+    "gn:longitude":-3.425,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Toundou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6874981
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3b3b8a50612e438497fea39f4c27ca9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1242577727,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1242577727,
+    "wof:lastmodified":1537060766,
+    "wof:name":"Toundou",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.425,
+    13.9194,
+    -3.425,
+    13.9194
+],
+  "geometry": {"coordinates":[-3.425,13.9194],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259374703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.95753,13.40635,-7.95753,13.40635",
+    "geom:latitude":13.40635,
+    "geom:longitude":-7.95753,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dianiobougou",
+    "gn:country_code":"ML",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6906716,
+    "gn:latitude":13.40635,
+    "gn:longitude":-7.95753,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Dianiobougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6906716
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2c449325417b468d91b6e59725e3ff50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":1259374703,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1259374703,
+    "wof:lastmodified":1537014218,
+    "wof:name":"Dianiobougou",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.95753,
+    13.40635,
+    -7.95753,
+    13.40635
+],
+  "geometry": {"coordinates":[-7.95753,13.40635],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309923931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.35,10.91667,-6.35,10.91667",
+    "geom:latitude":10.91667,
+    "geom:longitude":-6.35,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kabasso",
+    "gn:country_code":"ML",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456008,
+    "gn:latitude":10.91667,
+    "gn:longitude":-6.35,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kabasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456008
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0fe76a34983ca3b73cf4bcc4b975fd25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562819,
+            "locality_id":1309923931,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1309923931,
+    "wof:lastmodified":1536761047,
+    "wof:name":"Kabasso",
+    "wof:parent_id":1108562819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.35,
+    10.91667,
+    -6.35,
+    10.91667
+],
+  "geometry": {"coordinates":[-6.35,10.91667],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209128213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.01854,11.73514,-6.01854,11.73514",
+    "geom:latitude":11.73514,
+    "geom:longitude":-6.01854,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Guetela",
+    "gn:country_code":"ML",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910379,
+    "gn:latitude":11.73514,
+    "gn:longitude":-6.01854,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Gu\u00e9t\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910379
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"13cebef4f7d79c2ea0cbdc0020e7cb9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209128213
+        }
+    ],
+    "wof:id":1209128213,
+    "wof:lastmodified":1536296889,
+    "wof:name":"Guetela",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.01854,
+    11.73514,
+    -6.01854,
+    11.73514
+],
+  "geometry": {"coordinates":[-6.01854,11.73514],"type":"Point"}
+}

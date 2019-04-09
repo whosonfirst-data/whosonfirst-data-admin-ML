@@ -1,0 +1,64 @@
+{
+  "id": 1209097781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.3327,13.6423,-8.3327,13.6423",
+    "geom:latitude":13.6423,
+    "geom:longitude":-8.3327,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Farawinie",
+    "gn:country_code":"ML",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457587,
+    "gn:latitude":13.6423,
+    "gn:longitude":-8.3327,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Farawini\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Farawini\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457587
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b14c929fa505589e9061a172c4158e43",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209097781
+        }
+    ],
+    "wof:id":1209097781,
+    "wof:lastmodified":1537665197,
+    "wof:name":"Farawinie",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.3327,
+    13.6423,
+    -8.3327,
+    13.6423
+],
+  "geometry": {"coordinates":[-8.3327,13.6423],"type":"Point"}
+}

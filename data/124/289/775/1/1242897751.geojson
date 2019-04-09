@@ -1,0 +1,71 @@
+{
+  "id": 1242897751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.74591,14.21135,-4.74591,14.21135",
+    "geom:latitude":14.21135,
+    "geom:longitude":-4.74591,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Koa",
+    "gn:country_code":"ML",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455206,
+    "gn:latitude":14.21135,
+    "gn:longitude":-4.74591,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Round\u00e9-Bana",
+        "Koa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421187097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455206
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"78add8198e001b6b4837ce45fbc0ef86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421187097,
+            "locality_id":1242897751,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1242897751,
+    "wof:lastmodified":1537665154,
+    "wof:name":"Koa",
+    "wof:parent_id":421187097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.74591,
+    14.21135,
+    -4.74591,
+    14.21135
+],
+  "geometry": {"coordinates":[-4.74591,14.21135],"type":"Point"}
+}

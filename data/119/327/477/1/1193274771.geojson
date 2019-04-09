@@ -1,0 +1,73 @@
+{
+  "id": 1193274771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.282,13.49792,-5.282,13.49792",
+    "geom:latitude":13.49792,
+    "geom:longitude":-5.282,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Weta",
+    "gn:country_code":"ML",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452296,
+    "gn:latitude":13.49792,
+    "gn:longitude":-5.282,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"W\u00e9ta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ketani",
+        "Ou\u00e9tani",
+        "Ou\u00e9ta",
+        "W\u00e9ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452296
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"23fa59eef501e170fb1eedc91aa0991e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1193274771,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1193274771,
+    "wof:lastmodified":1537665080,
+    "wof:name":"Weta",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.282,
+    13.49792,
+    -5.282,
+    13.49792
+],
+  "geometry": {"coordinates":[-5.282,13.49792],"type":"Point"}
+}

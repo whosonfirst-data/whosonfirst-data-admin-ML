@@ -1,0 +1,66 @@
+{
+  "id": 1276558449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.04249,21.18865,1.04249,21.18865",
+    "geom:latitude":21.18865,
+    "geom:longitude":1.04249,
+    "gn:asciiname":"In-Khalil",
+    "gn:country_code":"ML",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8435748,
+    "gn:latitude":21.18865,
+    "gn:longitude":1.04249,
+    "gn:modification_date":"2012-12-11",
+    "gn:name":"In-Khalil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674515,
+        1108562887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8435748
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c13d09577e3356f2e9116acb1302551d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562887,
+            "locality_id":1276558449,
+            "region_id":85674515
+        }
+    ],
+    "wof:id":1276558449,
+    "wof:lastmodified":1536973896,
+    "wof:name":"In-Khalil",
+    "wof:parent_id":1108562887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.04249,
+    21.18865,
+    1.04249,
+    21.18865
+],
+  "geometry": {"coordinates":[1.04249,21.18865],"type":"Point"}
+}

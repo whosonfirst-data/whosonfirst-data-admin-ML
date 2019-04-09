@@ -1,0 +1,71 @@
+{
+  "id": 1276749259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.0611,15.6958,-5.0611,15.6958",
+    "geom:latitude":15.6958,
+    "geom:longitude":-5.0611,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Maghel Ligdor",
+    "gn:country_code":"ML",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453683,
+    "gn:latitude":15.6958,
+    "gn:longitude":-5.0611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Maghel Ligdor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marhel Ligdor",
+        "Maghel Ligdor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453683
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b7cad385d94ca2f1a26bc7b5f4475ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562873,
+            "locality_id":1276749259,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1276749259,
+    "wof:lastmodified":1537665120,
+    "wof:name":"Maghel Ligdor",
+    "wof:parent_id":1108562873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.0611,
+    15.6958,
+    -5.0611,
+    15.6958
+],
+  "geometry": {"coordinates":[-5.0611,15.6958],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260102889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.9111,13.16,-4.9111,13.16",
+    "geom:latitude":13.16,
+    "geom:longitude":-4.9111,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dakoura",
+    "gn:country_code":"ML",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6876009,
+    "gn:latitude":13.16,
+    "gn:longitude":-4.9111,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Dakoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421192717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6876009
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e38ca440aa266ad9d865765eb41deda8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421192717,
+            "locality_id":1260102889,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1260102889,
+    "wof:lastmodified":1536960115,
+    "wof:name":"Dakoura",
+    "wof:parent_id":421192717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.9111,
+    13.16,
+    -4.9111,
+    13.16
+],
+  "geometry": {"coordinates":[-4.9111,13.16],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226043547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.34869,14.5484,-3.34869,14.5484",
+    "geom:latitude":14.5484,
+    "geom:longitude":-3.34869,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Waye",
+    "gn:country_code":"ML",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6866636,
+    "gn:latitude":14.5484,
+    "gn:longitude":-3.34869,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Waye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421171975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6866636
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c9bd7a201c1efe7cbebf0352de0f883c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171975,
+            "locality_id":1226043547,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1226043547,
+    "wof:lastmodified":1536728721,
+    "wof:name":"Waye",
+    "wof:parent_id":421171975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.34869,
+    14.5484,
+    -3.34869,
+    14.5484
+],
+  "geometry": {"coordinates":[-3.34869,14.5484],"type":"Point"}
+}

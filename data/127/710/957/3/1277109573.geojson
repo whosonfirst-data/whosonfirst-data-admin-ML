@@ -1,0 +1,67 @@
+{
+  "id": 1277109573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.3815,15.6688,-3.3815,15.6688",
+    "geom:latitude":15.6688,
+    "geom:longitude":-3.3815,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Beloua",
+    "gn:country_code":"ML",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880955,
+    "gn:latitude":15.6688,
+    "gn:longitude":-3.3815,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"B\u00e9loua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880955
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f647b8e4bdfb8a7ba7f7ac67209c3a2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1277109573,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1277109573,
+    "wof:lastmodified":1536729389,
+    "wof:name":"Beloua",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.3815,
+    15.6688,
+    -3.3815,
+    15.6688
+],
+  "geometry": {"coordinates":[-3.3815,15.6688],"type":"Point"}
+}

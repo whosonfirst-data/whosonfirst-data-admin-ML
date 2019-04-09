@@ -1,0 +1,70 @@
+{
+  "id": 1210008399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.346,13.0079,-8.346,13.0079",
+    "geom:latitude":13.0079,
+    "geom:longitude":-8.346,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sananko",
+    "gn:country_code":"ML",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451753,
+    "gn:latitude":13.0079,
+    "gn:longitude":-8.346,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sananko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sananko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        421177883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451753
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c005dcc77c4f0dc92c2c5369d0d37cd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177883,
+            "locality_id":1210008399,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1210008399,
+    "wof:lastmodified":1537665069,
+    "wof:name":"Sananko",
+    "wof:parent_id":421177883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.346,
+    13.0079,
+    -8.346,
+    13.0079
+],
+  "geometry": {"coordinates":[-8.346,13.0079],"type":"Point"}
+}

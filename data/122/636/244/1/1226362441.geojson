@@ -1,0 +1,67 @@
+{
+  "id": 1226362441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.4722,16.99673,-1.4722,16.99673",
+    "geom:latitude":16.99673,
+    "geom:longitude":-1.4722,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Taa",
+    "gn:country_code":"ML",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450543,
+    "gn:latitude":16.99673,
+    "gn:longitude":-1.4722,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Taa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        1108562879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450543
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"98520993c08e851754e35a7aebbf8a83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562879,
+            "locality_id":1226362441,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1226362441,
+    "wof:lastmodified":1536765924,
+    "wof:name":"Taa",
+    "wof:parent_id":1108562879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.4722,
+    16.99673,
+    -1.4722,
+    16.99673
+],
+  "geometry": {"coordinates":[-1.4722,16.99673],"type":"Point"}
+}

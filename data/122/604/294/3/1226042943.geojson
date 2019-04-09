@@ -1,0 +1,67 @@
+{
+  "id": 1226042943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.14455,14.56111,-2.14455,14.56111",
+    "geom:latitude":14.56111,
+    "geom:longitude":-2.14455,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guedderou",
+    "gn:country_code":"ML",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6893604,
+    "gn:latitude":14.56111,
+    "gn:longitude":-2.14455,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Gu\u00e8dd\u00e8rou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6893604
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7159c0dc9b9e11498920211281ec3831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1226042943,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1226042943,
+    "wof:lastmodified":1536729587,
+    "wof:name":"Guedderou",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.14455,
+    14.56111,
+    -2.14455,
+    14.56111
+],
+  "geometry": {"coordinates":[-2.14455,14.56111],"type":"Point"}
+}

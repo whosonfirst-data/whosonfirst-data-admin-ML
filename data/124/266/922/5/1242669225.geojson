@@ -1,0 +1,67 @@
+{
+  "id": 1242669225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.9434,14.855,-7.9434,14.855",
+    "geom:latitude":14.855,
+    "geom:longitude":-7.9434,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Barke Amadou",
+    "gn:country_code":"ML",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460287,
+    "gn:latitude":14.855,
+    "gn:longitude":-7.9434,
+    "gn:modification_date":"2008-11-07",
+    "gn:name":"Bark\u00e9 Amadou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460287
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d55a69ea9a9e03f3ef7e73f37460194c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562865,
+            "locality_id":1242669225,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1242669225,
+    "wof:lastmodified":1536932598,
+    "wof:name":"Barke Amadou",
+    "wof:parent_id":1108562865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.9434,
+    14.855,
+    -7.9434,
+    14.855
+],
+  "geometry": {"coordinates":[-7.9434,14.855],"type":"Point"}
+}

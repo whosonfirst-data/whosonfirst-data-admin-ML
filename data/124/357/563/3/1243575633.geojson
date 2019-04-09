@@ -1,0 +1,71 @@
+{
+  "id": 1243575633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.048,15.4747,-8.048,15.4747",
+    "geom:latitude":15.4747,
+    "geom:longitude":-8.048,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Hasi el Barke",
+    "gn:country_code":"ML",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456645,
+    "gn:latitude":15.4747,
+    "gn:longitude":-8.048,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"H\u00e2s\u00ee el Bark\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hassi el Bark\u00e9",
+        "H\u00e2s\u00ee el Bark\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456645
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6b35b63d656c98ec824a4fc6a77120da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562865,
+            "locality_id":1243575633,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1243575633,
+    "wof:lastmodified":1537665174,
+    "wof:name":"Hasi el Barke",
+    "wof:parent_id":1108562865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.048,
+    15.4747,
+    -8.048,
+    15.4747
+],
+  "geometry": {"coordinates":[-8.048,15.4747],"type":"Point"}
+}

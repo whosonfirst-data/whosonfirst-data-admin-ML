@@ -1,0 +1,65 @@
+{
+  "id": 1209219341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.43123,13.66161,-5.43123,13.66161",
+    "geom:latitude":13.66161,
+    "geom:longitude":-5.43123,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Niongolola",
+    "gn:country_code":"ML",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452658,
+    "gn:latitude":13.66161,
+    "gn:longitude":-5.43123,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Niongolola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niangolola",
+        "Niongolola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452658
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"553611b6cb7de7010c64cb082d7f842b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209219341
+        }
+    ],
+    "wof:id":1209219341,
+    "wof:lastmodified":1537665093,
+    "wof:name":"Niongolola",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.43123,
+    13.66161,
+    -5.43123,
+    13.66161
+],
+  "geometry": {"coordinates":[-5.43123,13.66161],"type":"Point"}
+}

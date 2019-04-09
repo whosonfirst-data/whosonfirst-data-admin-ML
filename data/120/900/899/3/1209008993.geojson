@@ -1,0 +1,62 @@
+{
+  "id": 1209008993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0688,13.6856,-6.0688,13.6856",
+    "geom:latitude":13.6856,
+    "geom:longitude":-6.0688,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Diamarabougou",
+    "gn:country_code":"ML",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910528,
+    "gn:latitude":13.6856,
+    "gn:longitude":-6.0688,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Diamarabougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910528,
+        "wk:page":"Diamarabougou"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"38cc56b81f076bf4246dee54918e46b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209008993
+        }
+    ],
+    "wof:id":1209008993,
+    "wof:lastmodified":1537568441,
+    "wof:name":"Diamarabougou",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0688,
+    13.6856,
+    -6.0688,
+    13.6856
+],
+  "geometry": {"coordinates":[-6.0688,13.6856],"type":"Point"}
+}

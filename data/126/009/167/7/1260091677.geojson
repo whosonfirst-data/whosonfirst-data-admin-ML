@@ -1,0 +1,71 @@
+{
+  "id": 1260091677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.04338,12.87488,-11.04338,12.87488",
+    "geom:latitude":12.87488,
+    "geom:longitude":-11.04338,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kolombou",
+    "gn:country_code":"ML",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454938,
+    "gn:latitude":12.87488,
+    "gn:longitude":-11.04338,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kolombou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolonbou",
+        "Kolombou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454938
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9ba75db2784b506c75fdca04df227857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171903,
+            "locality_id":1260091677,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1260091677,
+    "wof:lastmodified":1537665149,
+    "wof:name":"Kolombou",
+    "wof:parent_id":421171903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.04338,
+    12.87488,
+    -11.04338,
+    12.87488
+],
+  "geometry": {"coordinates":[-11.04338,12.87488],"type":"Point"}
+}

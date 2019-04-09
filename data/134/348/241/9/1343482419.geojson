@@ -1,0 +1,72 @@
+{
+  "id": 1343482419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.90456,12.86222,-7.90456,12.86222",
+    "geom:latitude":12.86222,
+    "geom:longitude":-7.90456,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Donioumana",
+    "gn:country_code":"ML",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458395,
+    "gn:latitude":12.86222,
+    "gn:longitude":-7.90456,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Donioumana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donimania",
+        "Donyoumana",
+        "Donioumana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        421177883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458395
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ee4f4f9f0fbe25f153d0217aa4663113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177883,
+            "locality_id":1343482419,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1343482419,
+    "wof:lastmodified":1537665218,
+    "wof:name":"Donioumana",
+    "wof:parent_id":421177883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.90456,
+    12.86222,
+    -7.90456,
+    12.86222
+],
+  "geometry": {"coordinates":[-7.90456,12.86222],"type":"Point"}
+}

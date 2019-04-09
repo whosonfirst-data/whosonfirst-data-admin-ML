@@ -1,0 +1,71 @@
+{
+  "id": 1310209921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.50222,13.08409,-6.50222,13.08409",
+    "geom:latitude":13.08409,
+    "geom:longitude":-6.50222,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kelekou",
+    "gn:country_code":"ML",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455482,
+    "gn:latitude":13.08409,
+    "gn:longitude":-6.50222,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u00e9l\u00e9kou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00e9l\u00e9gou",
+        "K\u00e9l\u00e9kou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455482
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"65a40c8d2b75f1fd621fb37adb4a6a64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562837,
+            "locality_id":1310209921,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1310209921,
+    "wof:lastmodified":1537665160,
+    "wof:name":"Kelekou",
+    "wof:parent_id":1108562837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.50222,
+    13.08409,
+    -6.50222,
+    13.08409
+],
+  "geometry": {"coordinates":[-6.50222,13.08409],"type":"Point"}
+}

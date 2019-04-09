@@ -1,0 +1,72 @@
+{
+  "id": 1226140347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.85586,11.73285,-7.85586,11.73285",
+    "geom:latitude":11.73285,
+    "geom:longitude":-7.85586,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Irifounala",
+    "gn:country_code":"ML",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456077,
+    "gn:latitude":11.73285,
+    "gn:longitude":-7.85586,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Irifounala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u00e9r\u00e9fonala",
+        "Irifoundala",
+        "Irifounala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456077
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"702f5eae1f0a3534e620e53c6878c585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562821,
+            "locality_id":1226140347,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1226140347,
+    "wof:lastmodified":1537665173,
+    "wof:name":"Irifounala",
+    "wof:parent_id":1108562821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.85586,
+    11.73285,
+    -7.85586,
+    11.73285
+],
+  "geometry": {"coordinates":[-7.85586,11.73285],"type":"Point"}
+}

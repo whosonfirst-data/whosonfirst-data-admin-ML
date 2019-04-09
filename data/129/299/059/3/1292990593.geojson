@@ -1,0 +1,71 @@
+{
+  "id": 1292990593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.00472,16.15833,0.00472,16.15833",
+    "geom:latitude":16.15833,
+    "geom:longitude":0.00472,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Arabou",
+    "gn:country_code":"ML",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460963,
+    "gn:latitude":16.15833,
+    "gn:longitude":0.00472,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Arabou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adouf",
+        "Arabou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        890418899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460963
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"04041b5e8d9d533da1709b0e1e91d96f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":890418899,
+            "locality_id":1292990593,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1292990593,
+    "wof:lastmodified":1537665278,
+    "wof:name":"Arabou",
+    "wof:parent_id":890418899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.00472,
+    16.15833,
+    0.00472,
+    16.15833
+],
+  "geometry": {"coordinates":[0.00472,16.15833],"type":"Point"}
+}

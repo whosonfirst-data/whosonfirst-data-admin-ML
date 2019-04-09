@@ -1,0 +1,67 @@
+{
+  "id": 1326722947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.49095,12.33632,-5.49095,12.33632",
+    "geom:latitude":12.33632,
+    "geom:longitude":-5.49095,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Besso",
+    "gn:country_code":"ML",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6861822,
+    "gn:latitude":12.33632,
+    "gn:longitude":-5.49095,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Besso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6861822
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a64145bfcf4718383c78f51b13f2679a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1326722947,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1326722947,
+    "wof:lastmodified":1536709508,
+    "wof:name":"Besso",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.49095,
+    12.33632,
+    -5.49095,
+    12.33632
+],
+  "geometry": {"coordinates":[-5.49095,12.33632],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310429661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.05959,14.675,-3.05959,14.675",
+    "geom:latitude":14.675,
+    "geom:longitude":-3.05959,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Komboko",
+    "gn:country_code":"ML",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454881,
+    "gn:latitude":14.675,
+    "gn:longitude":-3.05959,
+    "gn:modification_date":"2008-10-24",
+    "gn:name":"Komboko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454881
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"14dc6a9a0abed97e635152a89f6fc92e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1310429661,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1310429661,
+    "wof:lastmodified":1537025254,
+    "wof:name":"Komboko",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.05959,
+    14.675,
+    -3.05959,
+    14.675
+],
+  "geometry": {"coordinates":[-3.05959,14.675],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277069411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.88533,12.5741,-5.88533,12.5741",
+    "geom:latitude":12.5741,
+    "geom:longitude":-5.88533,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Waraniamana",
+    "gn:country_code":"ML",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448660,
+    "gn:latitude":12.5741,
+    "gn:longitude":-5.88533,
+    "gn:modification_date":"2008-10-24",
+    "gn:name":"Waraniamana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448660
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"015724a1e8a978d2b8650df0bdede421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1277069411,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1277069411,
+    "wof:lastmodified":1536787319,
+    "wof:name":"Waraniamana",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.88533,
+    12.5741,
+    -5.88533,
+    12.5741
+],
+  "geometry": {"coordinates":[-5.88533,12.5741],"type":"Point"}
+}

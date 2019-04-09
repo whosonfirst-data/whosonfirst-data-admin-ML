@@ -1,0 +1,67 @@
+{
+  "id": 1226149271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.14809,14.60642,-4.14809,14.60642",
+    "geom:latitude":14.60642,
+    "geom:longitude":-4.14809,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sina",
+    "gn:country_code":"ML",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6768576,
+    "gn:latitude":14.60642,
+    "gn:longitude":-4.14809,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Sina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6768576
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f5999930e74612afc769ec91471e2fe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1226149271,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1226149271,
+    "wof:lastmodified":1537069546,
+    "wof:name":"Sina",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.14809,
+    14.60642,
+    -4.14809,
+    14.60642
+],
+  "geometry": {"coordinates":[-4.14809,14.60642],"type":"Point"}
+}

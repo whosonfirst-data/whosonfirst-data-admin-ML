@@ -1,0 +1,68 @@
+{
+  "id": 1292911021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.66108,15.39888,-10.66108,15.39888",
+    "geom:latitude":15.39888,
+    "geom:longitude":-10.66108,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bassirou",
+    "gn:country_code":"ML",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460253,
+    "gn:latitude":15.39888,
+    "gn:longitude":-10.66108,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bassirou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460253,
+        "wk:page":"Bassirou"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"978c0a41da5f6187d0f860e4340a5047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562863,
+            "locality_id":1292911021,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1292911021,
+    "wof:lastmodified":1537568436,
+    "wof:name":"Bassirou",
+    "wof:parent_id":1108562863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.66108,
+    15.39888,
+    -10.66108,
+    15.39888
+],
+  "geometry": {"coordinates":[-10.66108,15.39888],"type":"Point"}
+}

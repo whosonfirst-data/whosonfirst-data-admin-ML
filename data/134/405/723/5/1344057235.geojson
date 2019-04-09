@@ -1,0 +1,72 @@
+{
+  "id": 1344057235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.53079,14.1825,-3.53079,14.1825",
+    "geom:latitude":14.1825,
+    "geom:longitude":-3.53079,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ennde",
+    "gn:country_code":"ML",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457936,
+    "gn:latitude":14.1825,
+    "gn:longitude":-3.53079,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ennd\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "End\u00e9",
+        "Ennd\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457936,
+        "wk:page":"Ennd%C3%A9"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"72ae9931823820cf62f6b22e2a899c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1344057235,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1344057235,
+    "wof:lastmodified":1537665204,
+    "wof:name":"Ennde",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.53079,
+    14.1825,
+    -3.53079,
+    14.1825
+],
+  "geometry": {"coordinates":[-3.53079,14.1825],"type":"Point"}
+}

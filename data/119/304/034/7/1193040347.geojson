@@ -1,0 +1,67 @@
+{
+  "id": 1193040347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.29704,11.49109,-7.29704,11.49109",
+    "geom:latitude":11.49109,
+    "geom:longitude":-7.29704,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sirabatou",
+    "gn:country_code":"ML",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6798704,
+    "gn:latitude":11.49109,
+    "gn:longitude":-7.29704,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Sirabatou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6798704
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b34df0018743c5c5236f5f865ee36e6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1193040347,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1193040347,
+    "wof:lastmodified":1536376591,
+    "wof:name":"Sirabatou",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.29704,
+    11.49109,
+    -7.29704,
+    11.49109
+],
+  "geometry": {"coordinates":[-7.29704,11.49109],"type":"Point"}
+}

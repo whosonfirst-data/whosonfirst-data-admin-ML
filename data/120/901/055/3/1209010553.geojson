@@ -1,0 +1,61 @@
+{
+  "id": 1209010553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.54071,14.20308,-4.54071,14.20308",
+    "geom:latitude":14.20308,
+    "geom:longitude":-4.54071,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pora-Somono",
+    "gn:country_code":"ML",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6764545,
+    "gn:latitude":14.20308,
+    "gn:longitude":-4.54071,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Pora-Somono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6764545
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d40f0837217cc0183618e9d3e598c506",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209010553
+        }
+    ],
+    "wof:id":1209010553,
+    "wof:lastmodified":1536300461,
+    "wof:name":"Pora-Somono",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.54071,
+    14.203079999999998,
+    -4.54071,
+    14.203079999999998
+],
+  "geometry": {"coordinates":[-4.54071,14.20308],"type":"Point"}
+}

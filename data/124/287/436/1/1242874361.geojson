@@ -1,0 +1,67 @@
+{
+  "id": 1242874361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.80315,14.47994,-4.80315,14.47994",
+    "geom:latitude":14.47994,
+    "geom:longitude":-4.80315,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Madehodi",
+    "gn:country_code":"ML",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6764170,
+    "gn:latitude":14.47994,
+    "gn:longitude":-4.80315,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Mad\u00e9hodi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6764170
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8ab4748c7f388498bda01afa4ae13edc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562861,
+            "locality_id":1242874361,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1242874361,
+    "wof:lastmodified":1536634968,
+    "wof:name":"Madehodi",
+    "wof:parent_id":1108562861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.80315,
+    14.47994,
+    -4.80315,
+    14.47994
+],
+  "geometry": {"coordinates":[-4.80315,14.47994],"type":"Point"}
+}

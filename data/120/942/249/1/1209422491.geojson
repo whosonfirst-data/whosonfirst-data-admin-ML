@@ -1,0 +1,65 @@
+{
+  "id": 1209422491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.73577,14.052,-11.73577,14.052",
+    "geom:latitude":14.052,
+    "geom:longitude":-11.73577,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kourketo",
+    "gn:country_code":"ML",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454373,
+    "gn:latitude":14.052,
+    "gn:longitude":-11.73577,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Kourk\u00e9to",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kourouk\u00e9to",
+        "Kourk\u00e9to"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454373
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"25fa0893cfd8062d28704f77f8f4410f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209422491
+        }
+    ],
+    "wof:id":1209422491,
+    "wof:lastmodified":1537665134,
+    "wof:name":"Kourketo",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.73577,
+    14.052,
+    -11.73577,
+    14.052
+],
+  "geometry": {"coordinates":[-11.73577,14.052],"type":"Point"}
+}

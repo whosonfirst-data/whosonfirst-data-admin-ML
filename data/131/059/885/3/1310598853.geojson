@@ -1,0 +1,67 @@
+{
+  "id": 1310598853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.89421,11.20594,-5.89421,11.20594",
+    "geom:latitude":11.20594,
+    "geom:longitude":-5.89421,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gondaga",
+    "gn:country_code":"ML",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6875130,
+    "gn:latitude":11.20594,
+    "gn:longitude":-5.89421,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Gondaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6875130
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"afbc5a1f3d4b10f172609acdcb81d8d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1310598853,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1310598853,
+    "wof:lastmodified":1536782803,
+    "wof:name":"Gondaga",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.89421,
+    11.20594,
+    -5.89421,
+    11.20594
+],
+  "geometry": {"coordinates":[-5.89421,11.20594],"type":"Point"}
+}

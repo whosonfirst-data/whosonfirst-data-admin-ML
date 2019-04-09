@@ -1,0 +1,72 @@
+{
+  "id": 1293790011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.61519,14.0257,-3.61519,14.0257",
+    "geom:latitude":14.0257,
+    "geom:longitude":-3.61519,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dimmbal",
+    "gn:country_code":"ML",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458798,
+    "gn:latitude":14.0257,
+    "gn:longitude":-3.61519,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dimmbal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dimal",
+        "Dimbal",
+        "Dimmbal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458798
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0247a0490ac451fc3f432a6fbed16733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1293790011,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1293790011,
+    "wof:lastmodified":1537665229,
+    "wof:name":"Dimmbal",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.61519,
+    14.0257,
+    -3.61519,
+    14.0257
+],
+  "geometry": {"coordinates":[-3.61519,14.0257],"type":"Point"}
+}

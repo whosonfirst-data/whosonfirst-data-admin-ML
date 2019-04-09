@@ -1,0 +1,71 @@
+{
+  "id": 1310102327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.302,14.0741,-8.302,14.0741",
+    "geom:latitude":14.0741,
+    "geom:longitude":-8.302,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Namandiguila",
+    "gn:country_code":"ML",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453148,
+    "gn:latitude":14.0741,
+    "gn:longitude":-8.302,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Namandiguila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Namandigila",
+        "Namandiguila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453148
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f75ed4645ba8b365719b23f92e3c0c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":1310102327,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1310102327,
+    "wof:lastmodified":1537665106,
+    "wof:name":"Namandiguila",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.302,
+    14.0741,
+    -8.302,
+    14.0741
+],
+  "geometry": {"coordinates":[-8.302,14.0741],"type":"Point"}
+}

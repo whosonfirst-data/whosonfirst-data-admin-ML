@@ -1,0 +1,67 @@
+{
+  "id": 1259785309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.9247,13.2577,-10.9247,13.2577",
+    "geom:latitude":13.2577,
+    "geom:longitude":-10.9247,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Gafou",
+    "gn:country_code":"ML",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457258,
+    "gn:latitude":13.2577,
+    "gn:longitude":-10.9247,
+    "gn:modification_date":"2008-11-19",
+    "gn:name":"Gafou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457258
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"bad7c0c9f5876edfd60f9a5ac9fa43a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562855,
+            "locality_id":1259785309,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1259785309,
+    "wof:lastmodified":1536921182,
+    "wof:name":"Gafou",
+    "wof:parent_id":1108562855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.9247,
+    13.2577,
+    -10.9247,
+    13.2577
+],
+  "geometry": {"coordinates":[-10.9247,13.2577],"type":"Point"}
+}

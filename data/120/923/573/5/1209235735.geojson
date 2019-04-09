@@ -1,0 +1,61 @@
+{
+  "id": 1209235735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.67475,13.83209,-7.67475,13.83209",
+    "geom:latitude":13.83209,
+    "geom:longitude":-7.67475,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sania",
+    "gn:country_code":"ML",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6906595,
+    "gn:latitude":13.83209,
+    "gn:longitude":-7.67475,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Sania",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6906595
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"96bc56d34740c6c2b622cf7018e30cf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209235735
+        }
+    ],
+    "wof:id":1209235735,
+    "wof:lastmodified":1536293488,
+    "wof:name":"Sania",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.67475,
+    13.83209,
+    -7.67475,
+    13.83209
+],
+  "geometry": {"coordinates":[-7.67475,13.83209],"type":"Point"}
+}

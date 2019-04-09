@@ -1,0 +1,72 @@
+{
+  "id": 1310600351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.3652,13.12,-4.3652,13.12",
+    "geom:latitude":13.12,
+    "geom:longitude":-4.3652,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Benena",
+    "gn:country_code":"ML",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460144,
+    "gn:latitude":13.12,
+    "gn:longitude":-4.3652,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9n\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9n\u00e9ma",
+        "B\u00e9n\u00e9na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460144,
+        "wk:page":"Benena"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a8380703b10d99a191506d311f8e7235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562843,
+            "locality_id":1310600351,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1310600351,
+    "wof:lastmodified":1537665262,
+    "wof:name":"Benena",
+    "wof:parent_id":1108562843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.3652,
+    13.12,
+    -4.3652,
+    13.12
+],
+  "geometry": {"coordinates":[-4.3652,13.12],"type":"Point"}
+}

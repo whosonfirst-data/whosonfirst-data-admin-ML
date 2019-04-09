@@ -1,0 +1,67 @@
+{
+  "id": 1293374359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.07528,16.56,-0.07528,16.56",
+    "geom:latitude":16.56,
+    "geom:longitude":-0.07528,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Fagouna",
+    "gn:country_code":"ML",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457839,
+    "gn:latitude":16.56,
+    "gn:longitude":-0.07528,
+    "gn:modification_date":"2006-05-24",
+    "gn:name":"Fagouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        890418899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457839
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"53640cacb8a35582d8130132b5567431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":890418899,
+            "locality_id":1293374359,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1293374359,
+    "wof:lastmodified":1536950416,
+    "wof:name":"Fagouna",
+    "wof:parent_id":890418899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.07528,
+    16.56,
+    -0.07528,
+    16.56
+],
+  "geometry": {"coordinates":[-0.07528,16.56],"type":"Point"}
+}

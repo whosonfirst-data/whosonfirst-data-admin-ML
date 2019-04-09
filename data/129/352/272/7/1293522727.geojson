@@ -1,0 +1,67 @@
+{
+  "id": 1293522727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.1887,14.74922,-4.1887,14.74922",
+    "geom:latitude":14.74922,
+    "geom:longitude":-4.1887,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Daka-Baba",
+    "gn:country_code":"ML",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6766085,
+    "gn:latitude":14.74922,
+    "gn:longitude":-4.1887,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Daka-Baba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6766085
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"283b52531fbdc1a2fa0ea9cdb1f79177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1293522727,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1293522727,
+    "wof:lastmodified":1536736335,
+    "wof:name":"Daka-Baba",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.1887,
+    14.74922,
+    -4.1887,
+    14.74922
+],
+  "geometry": {"coordinates":[-4.1887,14.74922],"type":"Point"}
+}

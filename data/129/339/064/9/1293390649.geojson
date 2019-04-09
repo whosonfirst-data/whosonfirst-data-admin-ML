@@ -1,0 +1,71 @@
+{
+  "id": 1293390649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.2643,15.2243,-3.2643,15.2243",
+    "geom:latitude":15.2243,
+    "geom:longitude":-3.2643,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tirere",
+    "gn:country_code":"ML",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449171,
+    "gn:latitude":15.2243,
+    "gn:longitude":-3.2643,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tirer\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Till\u00e9r\u00e9",
+        "Tirer\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449171
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2f337b1b48150be3fea9d632f61cb3a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1293390649,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1293390649,
+    "wof:lastmodified":1537665022,
+    "wof:name":"Tirere",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.2643,
+    15.2243,
+    -3.2643,
+    15.2243
+],
+  "geometry": {"coordinates":[-3.2643,15.2243],"type":"Point"}
+}

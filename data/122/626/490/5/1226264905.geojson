@@ -1,0 +1,71 @@
+{
+  "id": 1226264905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.08809,11.56535,-7.08809,11.56535",
+    "geom:latitude":11.56535,
+    "geom:longitude":-7.08809,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tankene",
+    "gn:country_code":"ML",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450189,
+    "gn:latitude":11.56535,
+    "gn:longitude":-7.08809,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tank\u00e9n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tenk\u00e9n\u00e9",
+        "Tank\u00e9n\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450189
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c3573edc70a938a376e5584cf96e34d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1226264905,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1226264905,
+    "wof:lastmodified":1537665034,
+    "wof:name":"Tankene",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.08809,
+    11.56535,
+    -7.08809,
+    11.56535
+],
+  "geometry": {"coordinates":[-7.08809,11.56535],"type":"Point"}
+}

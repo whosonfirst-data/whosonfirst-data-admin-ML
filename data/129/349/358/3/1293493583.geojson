@@ -1,0 +1,71 @@
+{
+  "id": 1293493583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.7634,13.8104,-3.7634,13.8104",
+    "geom:latitude":13.8104,
+    "geom:longitude":-3.7634,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Diam",
+    "gn:country_code":"ML",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459031,
+    "gn:latitude":13.8104,
+    "gn:longitude":-3.7634,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Diam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diamana",
+        "Diam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459031
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"20bd6bcc722427edefad6195256e0187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1293493583,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1293493583,
+    "wof:lastmodified":1537665236,
+    "wof:name":"Diam",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7634,
+    13.8104,
+    -3.7634,
+    13.8104
+],
+  "geometry": {"coordinates":[-3.7634,13.8104],"type":"Point"}
+}

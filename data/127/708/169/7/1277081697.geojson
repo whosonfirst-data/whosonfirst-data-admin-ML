@@ -1,0 +1,71 @@
+{
+  "id": 1277081697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.0832,14.9209,-9.0832,14.9209",
+    "geom:latitude":14.9209,
+    "geom:longitude":-9.0832,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ouloroibe",
+    "gn:country_code":"ML",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6911512,
+    "gn:latitude":14.9209,
+    "gn:longitude":-9.0832,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ouloro\u00efb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Douga\u00ef Daba\u00ef",
+        "Ouloro\u00efb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6911512
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"99556ba6cf12d3b11b563cb58e9d27f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562857,
+            "locality_id":1277081697,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1277081697,
+    "wof:lastmodified":1537665290,
+    "wof:name":"Ouloroibe",
+    "wof:parent_id":1108562857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.0832,
+    14.9209,
+    -9.0832,
+    14.9209
+],
+  "geometry": {"coordinates":[-9.0832,14.9209],"type":"Point"}
+}

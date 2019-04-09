@@ -1,0 +1,67 @@
+{
+  "id": 1326736155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.17213,14.67147,-3.17213,14.67147",
+    "geom:latitude":14.67147,
+    "geom:longitude":-3.17213,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kouedoumbo",
+    "gn:country_code":"ML",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6866762,
+    "gn:latitude":14.67147,
+    "gn:longitude":-3.17213,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Kou\u00e9doumbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421171975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6866762
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d5d495630d67e0de52d9ab18cab356d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171975,
+            "locality_id":1326736155,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1326736155,
+    "wof:lastmodified":1536690142,
+    "wof:name":"Kouedoumbo",
+    "wof:parent_id":421171975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.17213,
+    14.67147,
+    -3.17213,
+    14.67147
+],
+  "geometry": {"coordinates":[-3.17213,14.67147],"type":"Point"}
+}

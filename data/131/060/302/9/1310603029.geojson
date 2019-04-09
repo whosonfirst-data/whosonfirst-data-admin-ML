@@ -1,0 +1,67 @@
+{
+  "id": 1310603029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.6385,14.1899,-10.6385,14.1899",
+    "geom:latitude":14.1899,
+    "geom:longitude":-10.6385,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sitakoto",
+    "gn:country_code":"ML",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450926,
+    "gn:latitude":14.1899,
+    "gn:longitude":-10.6385,
+    "gn:modification_date":"2008-11-19",
+    "gn:name":"Sitakoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450926
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b287118876994cb22b09a257f568c044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562855,
+            "locality_id":1310603029,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1310603029,
+    "wof:lastmodified":1536776821,
+    "wof:name":"Sitakoto",
+    "wof:parent_id":1108562855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.6385,
+    14.1899,
+    -10.6385,
+    14.1899
+],
+  "geometry": {"coordinates":[-10.6385,14.1899],"type":"Point"}
+}

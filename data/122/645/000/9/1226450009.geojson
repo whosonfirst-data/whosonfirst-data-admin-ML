@@ -1,0 +1,67 @@
+{
+  "id": 1226450009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.14291,15.06522,-11.14291,15.06522",
+    "geom:latitude":15.06522,
+    "geom:longitude":-11.14291,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El Hamere",
+    "gn:country_code":"ML",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457984,
+    "gn:latitude":15.06522,
+    "gn:longitude":-11.14291,
+    "gn:modification_date":"2007-09-25",
+    "gn:name":"El Ham\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457984
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c41cab638b1ee1041a4127cf56682d03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1226450009,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1226450009,
+    "wof:lastmodified":1536638198,
+    "wof:name":"El Hamere",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.14291,
+    15.06522,
+    -11.14291,
+    15.06522
+],
+  "geometry": {"coordinates":[-11.14291,15.06522],"type":"Point"}
+}

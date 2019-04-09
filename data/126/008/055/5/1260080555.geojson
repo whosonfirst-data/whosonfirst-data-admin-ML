@@ -1,0 +1,71 @@
+{
+  "id": 1260080555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.0938,14.6079,-5.0938,14.6079",
+    "geom:latitude":14.6079,
+    "geom:longitude":-5.0938,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Yassalamou",
+    "gn:country_code":"ML",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448509,
+    "gn:latitude":14.6079,
+    "gn:longitude":-5.0938,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yassalamou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ya-Salam",
+        "Yassalamou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448509
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"fa3494acd7f56e678c7c7f0436c29b17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562861,
+            "locality_id":1260080555,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1260080555,
+    "wof:lastmodified":1537665004,
+    "wof:name":"Yassalamou",
+    "wof:parent_id":1108562861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.0938,
+    14.6079,
+    -5.0938,
+    14.6079
+],
+  "geometry": {"coordinates":[-5.0938,14.6079],"type":"Point"}
+}

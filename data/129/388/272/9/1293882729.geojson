@@ -1,0 +1,68 @@
+{
+  "id": 1293882729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.1898,13.22574,-6.1898,13.22574",
+    "geom:latitude":13.22574,
+    "geom:longitude":-6.1898,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dougabougou",
+    "gn:country_code":"ML",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910828,
+    "gn:latitude":13.22574,
+    "gn:longitude":-6.1898,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Dougabougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910828,
+        "wk:page":"Dougabougou"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"92a26c45abea465f3ea343e355982ca3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562837,
+            "locality_id":1293882729,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1293882729,
+    "wof:lastmodified":1537568441,
+    "wof:name":"Dougabougou",
+    "wof:parent_id":1108562837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.1898,
+    13.22574,
+    -6.1898,
+    13.22574
+],
+  "geometry": {"coordinates":[-6.1898,13.22574],"type":"Point"}
+}

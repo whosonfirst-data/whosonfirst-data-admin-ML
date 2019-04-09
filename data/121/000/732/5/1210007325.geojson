@@ -1,0 +1,71 @@
+{
+  "id": 1210007325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.42318,16.33226,-3.42318,16.33226",
+    "geom:latitude":16.33226,
+    "geom:longitude":-3.42318,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dyaouatou",
+    "gn:country_code":"ML",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458142,
+    "gn:latitude":16.33226,
+    "gn:longitude":-3.42318,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dyaouatou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diahouatou",
+        "Dyaouatou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        421172359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458142
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e796dfc6a8d90b0847929928d6027654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421172359,
+            "locality_id":1210007325,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1210007325,
+    "wof:lastmodified":1537665211,
+    "wof:name":"Dyaouatou",
+    "wof:parent_id":421172359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.42318,
+    16.33226,
+    -3.42318,
+    16.33226
+],
+  "geometry": {"coordinates":[-3.42318,16.33226],"type":"Point"}
+}

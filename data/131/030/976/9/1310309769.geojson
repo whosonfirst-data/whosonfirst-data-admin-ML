@@ -1,0 +1,67 @@
+{
+  "id": 1310309769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.4466,13.105,-4.4466,13.105",
+    "geom:latitude":13.105,
+    "geom:longitude":-4.4466,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Manina",
+    "gn:country_code":"ML",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453775,
+    "gn:latitude":13.105,
+    "gn:longitude":-4.4466,
+    "gn:modification_date":"2008-11-03",
+    "gn:name":"Manina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453775
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"89198f7cfa89d31e0d687be2f77a650d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562843,
+            "locality_id":1310309769,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1310309769,
+    "wof:lastmodified":1536701984,
+    "wof:name":"Manina",
+    "wof:parent_id":1108562843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4466,
+    13.105,
+    -4.4466,
+    13.105
+],
+  "geometry": {"coordinates":[-4.4466,13.105],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310692055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.5403,15.9553,-3.5403,15.9553",
+    "geom:latitude":15.9553,
+    "geom:longitude":-3.5403,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Namadel",
+    "gn:country_code":"ML",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453153,
+    "gn:latitude":15.9553,
+    "gn:longitude":-3.5403,
+    "gn:modification_date":"2008-11-04",
+    "gn:name":"Namadel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453153
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"03ee5c70b387119f7d238c3902a42c7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562873,
+            "locality_id":1310692055,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1310692055,
+    "wof:lastmodified":1536647424,
+    "wof:name":"Namadel",
+    "wof:parent_id":1108562873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5403,
+    15.9553,
+    -3.5403,
+    15.9553
+],
+  "geometry": {"coordinates":[-3.5403,15.9553],"type":"Point"}
+}

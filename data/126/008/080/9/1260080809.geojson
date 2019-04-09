@@ -1,0 +1,67 @@
+{
+  "id": 1260080809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.44689,14.6458,-3.44689,14.6458",
+    "geom:latitude":14.6458,
+    "geom:longitude":-3.44689,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Touol",
+    "gn:country_code":"ML",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6866610,
+    "gn:latitude":14.6458,
+    "gn:longitude":-3.44689,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Touol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421171975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6866610
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5ee95956a7771e08d9d772f16252d4be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171975,
+            "locality_id":1260080809,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1260080809,
+    "wof:lastmodified":1536991063,
+    "wof:name":"Touol",
+    "wof:parent_id":421171975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.44689,
+    14.6458,
+    -3.44689,
+    14.6458
+],
+  "geometry": {"coordinates":[-3.44689,14.6458],"type":"Point"}
+}

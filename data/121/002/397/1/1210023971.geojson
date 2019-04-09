@@ -1,0 +1,67 @@
+{
+  "id": 1210023971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.65555,15.21357,-10.65555,15.21357",
+    "geom:latitude":15.21357,
+    "geom:longitude":-10.65555,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Blajmil",
+    "gn:country_code":"ML",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460009,
+    "gn:latitude":15.21357,
+    "gn:longitude":-10.65555,
+    "gn:modification_date":"2007-09-27",
+    "gn:name":"Blajmil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460009
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"995eeffb57388e332c24e5a35ff9d747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562863,
+            "locality_id":1210023971,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1210023971,
+    "wof:lastmodified":1536391580,
+    "wof:name":"Blajmil",
+    "wof:parent_id":1108562863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.65555,
+    15.21357,
+    -10.65555,
+    15.21357
+],
+  "geometry": {"coordinates":[-10.65555,15.21357],"type":"Point"}
+}

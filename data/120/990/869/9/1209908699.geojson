@@ -1,0 +1,67 @@
+{
+  "id": 1209908699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.24849,11.19166,-7.24849,11.19166",
+    "geom:latitude":11.19166,
+    "geom:longitude":-7.24849,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dionkele Soukoura",
+    "gn:country_code":"ML",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6798663,
+    "gn:latitude":11.19166,
+    "gn:longitude":-7.24849,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Dionk\u00e9l\u00e9 Soukoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6798663
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f30f00171069e657f4cbe35e33a00403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1209908699,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1209908699,
+    "wof:lastmodified":1536381134,
+    "wof:name":"Dionkele Soukoura",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.24849,
+    11.19166,
+    -7.24849,
+    11.19166
+],
+  "geometry": {"coordinates":[-7.24849,11.19166],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343746347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.0175,15.4275,3.0175,15.4275",
+    "geom:latitude":15.4275,
+    "geom:longitude":3.0175,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Anderanboukan",
+    "gn:country_code":"ML",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2461034,
+    "gn:latitude":15.4275,
+    "gn:longitude":3.0175,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"And\u00e9ranboukan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amderamboukan",
+        "Anderamboukan",
+        "Amd\u00e9ramboukane",
+        "And\u00e9ranboukane",
+        "And\u00e9ramboukane",
+        "And\u00e9ranboukan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        1108562875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2461034,
+        "wk:page":"And%C3%A9ramboukane"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"574401e1dcad05b1911d4e30cc80aa66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562875,
+            "locality_id":1343746347,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1343746347,
+    "wof:lastmodified":1537665279,
+    "wof:name":"Anderanboukan",
+    "wof:parent_id":1108562875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.0175,
+    15.4275,
+    3.0175,
+    15.4275
+],
+  "geometry": {"coordinates":[3.0175,15.4275],"type":"Point"}
+}

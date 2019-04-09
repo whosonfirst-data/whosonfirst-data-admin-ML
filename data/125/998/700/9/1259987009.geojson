@@ -1,0 +1,72 @@
+{
+  "id": 1259987009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.9204,14.5262,-8.9204,14.5262",
+    "geom:latitude":14.5262,
+    "geom:longitude":-8.9204,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Boudenzigui",
+    "gn:country_code":"ML",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6911756,
+    "gn:latitude":14.5262,
+    "gn:longitude":-8.9204,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Boudenzigui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dabaro",
+        "Boudenzigi",
+        "Boudenzigui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6911756
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f6eb85782d0573e9d8f7b08e9b628d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562857,
+            "locality_id":1259987009,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1259987009,
+    "wof:lastmodified":1537665290,
+    "wof:name":"Boudenzigui",
+    "wof:parent_id":1108562857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.9204,
+    14.5262,
+    -8.9204,
+    14.5262
+],
+  "geometry": {"coordinates":[-8.9204,14.5262],"type":"Point"}
+}

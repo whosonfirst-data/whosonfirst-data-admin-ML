@@ -1,0 +1,66 @@
+{
+  "id": 1209300007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.02624,16.66123,-3.02624,16.66123",
+    "geom:latitude":16.66123,
+    "geom:longitude":-3.02624,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Koryoume",
+    "gn:country_code":"ML",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454683,
+    "gn:latitude":16.66123,
+    "gn:longitude":-3.02624,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koryoum\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karioum\u00e9",
+        "Korioum\u00e9",
+        "Koryoum\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454683
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b51c30085ec5dc4e8d24df8e2efde994",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209300007
+        }
+    ],
+    "wof:id":1209300007,
+    "wof:lastmodified":1537665141,
+    "wof:name":"Koryoume",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.02624,
+    16.66123,
+    -3.02624,
+    16.66123
+],
+  "geometry": {"coordinates":[-3.02624,16.66123],"type":"Point"}
+}

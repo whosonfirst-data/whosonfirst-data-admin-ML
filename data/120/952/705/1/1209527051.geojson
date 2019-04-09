@@ -1,0 +1,61 @@
+{
+  "id": 1209527051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.5813,14.811,-9.5813,14.811",
+    "geom:latitude":14.811,
+    "geom:longitude":-9.5813,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Talassa",
+    "gn:country_code":"ML",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450342,
+    "gn:latitude":14.811,
+    "gn:longitude":-9.5813,
+    "gn:modification_date":"2008-11-18",
+    "gn:name":"Talassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450342
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d7d746a28257651e4eb2fdd087c8aaa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209527051
+        }
+    ],
+    "wof:id":1209527051,
+    "wof:lastmodified":1536284402,
+    "wof:name":"Talassa",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.5813,
+    14.811,
+    -9.5813,
+    14.811
+],
+  "geometry": {"coordinates":[-9.5813,14.811],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260383851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.42097,12.37429,-5.42097,12.37429",
+    "geom:latitude":12.37429,
+    "geom:longitude":-5.42097,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Siesso",
+    "gn:country_code":"ML",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451202,
+    "gn:latitude":12.37429,
+    "gn:longitude":-5.42097,
+    "gn:modification_date":"2008-10-24",
+    "gn:name":"Si\u00e8sso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451202
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6ef410a185cc6ad30cca0d654e0b9735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1260383851,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1260383851,
+    "wof:lastmodified":1537071457,
+    "wof:name":"Siesso",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.42097,
+    12.37429,
+    -5.42097,
+    12.37429
+],
+  "geometry": {"coordinates":[-5.42097,12.37429],"type":"Point"}
+}

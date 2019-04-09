@@ -1,0 +1,67 @@
+{
+  "id": 1309911819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.1165,14.2218,-3.1165,14.2218",
+    "geom:latitude":14.2218,
+    "geom:longitude":-3.1165,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ogodourou",
+    "gn:country_code":"ML",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6866961,
+    "gn:latitude":14.2218,
+    "gn:longitude":-3.1165,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Ogodourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6866961
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9067817c72d7b254e530b96fc036619c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1309911819,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1309911819,
+    "wof:lastmodified":1536778725,
+    "wof:name":"Ogodourou",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.1165,
+    14.2218,
+    -3.1165,
+    14.2218
+],
+  "geometry": {"coordinates":[-3.1165,14.2218],"type":"Point"}
+}

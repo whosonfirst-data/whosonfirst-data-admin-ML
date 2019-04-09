@@ -1,0 +1,72 @@
+{
+  "id": 1276543555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.94668,12.28308,-8.94668,12.28308",
+    "geom:latitude":12.28308,
+    "geom:longitude":-8.94668,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Komana Kouta",
+    "gn:country_code":"ML",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454892,
+    "gn:latitude":12.28308,
+    "gn:longitude":-8.94668,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Komana Kouta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kommakana",
+        "Koumakana",
+        "Komana Kouta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454892
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"782435bd7d24e78d7f61468ba86d4e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562827,
+            "locality_id":1276543555,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1276543555,
+    "wof:lastmodified":1537665147,
+    "wof:name":"Komana Kouta",
+    "wof:parent_id":1108562827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.94668,
+    12.28308,
+    -8.94668,
+    12.28308
+],
+  "geometry": {"coordinates":[-8.94668,12.28308],"type":"Point"}
+}

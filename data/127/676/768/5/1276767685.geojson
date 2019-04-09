@@ -1,0 +1,67 @@
+{
+  "id": 1276767685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.2999,12.8605,-6.2999,12.8605",
+    "geom:latitude":12.8605,
+    "geom:longitude":-6.2999,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Konbalabougou",
+    "gn:country_code":"ML",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6907292,
+    "gn:latitude":12.8605,
+    "gn:longitude":-6.2999,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Konbalabougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6907292
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"52a05b2d54b137290259e8a03ef7eb9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562835,
+            "locality_id":1276767685,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1276767685,
+    "wof:lastmodified":1536694022,
+    "wof:name":"Konbalabougou",
+    "wof:parent_id":1108562835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.2999,
+    12.8605,
+    -6.2999,
+    12.8605
+],
+  "geometry": {"coordinates":[-6.2999,12.8605],"type":"Point"}
+}

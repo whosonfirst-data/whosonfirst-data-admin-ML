@@ -1,0 +1,67 @@
+{
+  "id": 1327142065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.34713,13.25979,-9.34713,13.25979",
+    "geom:latitude":13.25979,
+    "geom:longitude":-9.34713,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Trokonina",
+    "gn:country_code":"ML",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448777,
+    "gn:latitude":13.25979,
+    "gn:longitude":-9.34713,
+    "gn:modification_date":"2008-11-19",
+    "gn:name":"Trokonina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448777
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"524c53c6e23063f3a227295e0aa6b65f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1327142065,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1327142065,
+    "wof:lastmodified":1537096703,
+    "wof:name":"Trokonina",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.34713,
+    13.25979,
+    -9.34713,
+    13.25979
+],
+  "geometry": {"coordinates":[-9.34713,13.25979],"type":"Point"}
+}

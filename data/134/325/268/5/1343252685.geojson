@@ -1,0 +1,74 @@
+{
+  "id": 1343252685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.12896,16.50194,-3.12896,16.50194",
+    "geom:latitude":16.50194,
+    "geom:longitude":-3.12896,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Samdyara",
+    "gn:country_code":"ML",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451795,
+    "gn:latitude":16.50194,
+    "gn:longitude":-3.12896,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Samdyara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samsar",
+        "Samdia",
+        "Samdiar",
+        "Sandiar",
+        "Samdyara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        421172359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451795
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"71b18a8987a9a25ce23051f4ef9f1dac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421172359,
+            "locality_id":1343252685,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1343252685,
+    "wof:lastmodified":1537665070,
+    "wof:name":"Samdyara",
+    "wof:parent_id":421172359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.12896,
+    16.50194,
+    -3.12896,
+    16.50194
+],
+  "geometry": {"coordinates":[-3.12896,16.50194],"type":"Point"}
+}

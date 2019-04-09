@@ -1,0 +1,71 @@
+{
+  "id": 1293488191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.3521,15.08553,-2.3521,15.08553",
+    "geom:latitude":15.08553,
+    "geom:longitude":-2.3521,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Guittiram",
+    "gn:country_code":"ML",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456714,
+    "gn:latitude":15.08553,
+    "gn:longitude":-2.3521,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Guittiram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gittiram",
+        "Guittiram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456714
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3686cf6ce78b08e22086429fda6ae36e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1293488191,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1293488191,
+    "wof:lastmodified":1537665176,
+    "wof:name":"Guittiram",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.3521,
+    15.08553,
+    -2.3521,
+    15.08553
+],
+  "geometry": {"coordinates":[-2.3521,15.08553],"type":"Point"}
+}

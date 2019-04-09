@@ -1,0 +1,72 @@
+{
+  "id": 1327052899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.441,13.4479,-4.441,13.4479",
+    "geom:latitude":13.4479,
+    "geom:longitude":-4.441,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tesso",
+    "gn:country_code":"ML",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449880,
+    "gn:latitude":13.4479,
+    "gn:longitude":-4.441,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tesso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00e8kui",
+        "T\u00e9asso",
+        "Tesso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449880
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4e39e2b8946d6366e4bc2aa9de3c36fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562843,
+            "locality_id":1327052899,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1327052899,
+    "wof:lastmodified":1537665029,
+    "wof:name":"Tesso",
+    "wof:parent_id":1108562843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.441,
+    13.4479,
+    -4.441,
+    13.4479
+],
+  "geometry": {"coordinates":[-4.441,13.4479],"type":"Point"}
+}

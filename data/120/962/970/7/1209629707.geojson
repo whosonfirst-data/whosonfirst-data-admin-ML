@@ -1,0 +1,66 @@
+{
+  "id": 1209629707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.93333,12.33333,-10.93333,12.33333",
+    "geom:latitude":12.33333,
+    "geom:longitude":-10.93333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Babara",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460812,
+    "gn:latitude":12.33333,
+    "gn:longitude":-10.93333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Babara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barbara",
+        "Babara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460812
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0cd59510223166f4bc9647c1ad34d44e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209629707
+        }
+    ],
+    "wof:id":1209629707,
+    "wof:lastmodified":1537665276,
+    "wof:name":"Babara",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.93333,
+    12.33333,
+    -10.93333,
+    12.33333
+],
+  "geometry": {"coordinates":[-10.93333,12.33333],"type":"Point"}
+}

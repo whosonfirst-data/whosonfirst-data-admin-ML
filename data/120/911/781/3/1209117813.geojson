@@ -1,0 +1,65 @@
+{
+  "id": 1209117813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.50674,15.24687,-10.50674,15.24687",
+    "geom:latitude":15.24687,
+    "geom:longitude":-10.50674,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bandiougoula",
+    "gn:country_code":"ML",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460477,
+    "gn:latitude":15.24687,
+    "gn:longitude":-10.50674,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bandiougoula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Badiougoula",
+        "Bandiougoula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460477
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ee2e59c7bfa15cb4c8788acaa202c595",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209117813
+        }
+    ],
+    "wof:id":1209117813,
+    "wof:lastmodified":1537665269,
+    "wof:name":"Bandiougoula",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.50674,
+    15.24687,
+    -10.50674,
+    15.24687
+],
+  "geometry": {"coordinates":[-10.50674,15.24687],"type":"Point"}
+}

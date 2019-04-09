@@ -1,0 +1,67 @@
+{
+  "id": 1343452537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.67069,13.50278,-7.67069,13.50278",
+    "geom:latitude":13.50278,
+    "geom:longitude":-7.67069,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tiediobougou",
+    "gn:country_code":"ML",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6906682,
+    "gn:latitude":13.50278,
+    "gn:longitude":-7.67069,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Ti\u00e9diobougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6906682
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a0899f0b813c7873e8553755d098523e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":1343452537,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1343452537,
+    "wof:lastmodified":1536757806,
+    "wof:name":"Tiediobougou",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.67069,
+    13.50278,
+    -7.67069,
+    13.50278
+],
+  "geometry": {"coordinates":[-7.67069,13.50278],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276370071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.02559,14.87277,-2.02559,14.87277",
+    "geom:latitude":14.87277,
+    "geom:longitude":-2.02559,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Isey",
+    "gn:country_code":"ML",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456057,
+    "gn:latitude":14.87277,
+    "gn:longitude":-2.02559,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Is\u00e8y",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yseye",
+        "Ysseye",
+        "Iss\u00e9y\u00e9",
+        "Issey",
+        "Is\u00e8y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456057
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7b464962232c85aa9d9246da9095a133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1276370071,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1276370071,
+    "wof:lastmodified":1537665173,
+    "wof:name":"Isey",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.02559,
+    14.87277,
+    -2.02559,
+    14.87277
+],
+  "geometry": {"coordinates":[-2.02559,14.87277],"type":"Point"}
+}

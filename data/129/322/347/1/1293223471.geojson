@@ -1,0 +1,67 @@
+{
+  "id": 1293223471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.5506,13.19761,-6.5506,13.19761",
+    "geom:latitude":13.19761,
+    "geom:longitude":-6.5506,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sadio Ouere",
+    "gn:country_code":"ML",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910731,
+    "gn:latitude":13.19761,
+    "gn:longitude":-6.5506,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Sadio Ou\u00e8r\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910731
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3aecaf2b605f49d56da4f51e791f29d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1293223471,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1293223471,
+    "wof:lastmodified":1536670638,
+    "wof:name":"Sadio Ouere",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.5506,
+    13.19761,
+    -6.5506,
+    13.19761
+],
+  "geometry": {"coordinates":[-6.5506,13.19761],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293093525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.02613,12.4594,-5.02613,12.4594",
+    "geom:latitude":12.4594,
+    "geom:longitude":-5.02613,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Karangasso",
+    "gn:country_code":"ML",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455646,
+    "gn:latitude":12.4594,
+    "gn:longitude":-5.02613,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Karangasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karangassod\u00e8ni",
+        "Karangasso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455646
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8cd3354e9a98bdf251c0cdf27d31d1d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1293093525,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1293093525,
+    "wof:lastmodified":1537665165,
+    "wof:name":"Karangasso",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.02613,
+    12.4594,
+    -5.02613,
+    12.4594
+],
+  "geometry": {"coordinates":[-5.02613,12.4594],"type":"Point"}
+}

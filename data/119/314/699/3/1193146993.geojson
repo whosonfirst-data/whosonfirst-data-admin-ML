@@ -1,0 +1,67 @@
+{
+  "id": 1193146993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.78333,10.55,-6.78333,10.55",
+    "geom:latitude":10.55,
+    "geom:longitude":-6.78333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Womon",
+    "gn:country_code":"ML",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448565,
+    "gn:latitude":10.55,
+    "gn:longitude":-6.78333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Womon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448565
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9e043e4f2c7fc590b8f5bd245ac91cf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562819,
+            "locality_id":1193146993,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1193146993,
+    "wof:lastmodified":1536382318,
+    "wof:name":"Womon",
+    "wof:parent_id":1108562819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.78333,
+    10.55,
+    -6.78333,
+    10.55
+],
+  "geometry": {"coordinates":[-6.78333,10.55],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209437683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.4243,12.9486,-4.4243,12.9486",
+    "geom:latitude":12.9486,
+    "geom:longitude":-4.4243,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tionkui",
+    "gn:country_code":"ML",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449205,
+    "gn:latitude":12.9486,
+    "gn:longitude":-4.4243,
+    "gn:modification_date":"2008-11-06",
+    "gn:name":"Tionkui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449205
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"63cee472d653118b31f0f12cd826f4a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209437683
+        }
+    ],
+    "wof:id":1209437683,
+    "wof:lastmodified":1536287053,
+    "wof:name":"Tionkui",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4243,
+    12.9486,
+    -4.4243,
+    12.9486
+],
+  "geometry": {"coordinates":[-4.4243,12.9486],"type":"Point"}
+}

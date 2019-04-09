@@ -1,0 +1,72 @@
+{
+  "id": 1309804169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.19859,14.6006,-3.19859,14.6006",
+    "geom:latitude":14.6006,
+    "geom:longitude":-3.19859,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Were",
+    "gn:country_code":"ML",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448614,
+    "gn:latitude":14.6006,
+    "gn:longitude":-3.19859,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"W\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ou\u00e9r\u00e9",
+        "V\u00e9r\u00e9",
+        "W\u00e9r\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448614
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ea026d50f1860f00e75ec6c45f46db71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1309804169,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1309804169,
+    "wof:lastmodified":1537665007,
+    "wof:name":"Were",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.19859,
+    14.6006,
+    -3.19859,
+    14.6006
+],
+  "geometry": {"coordinates":[-3.19859,14.6006],"type":"Point"}
+}

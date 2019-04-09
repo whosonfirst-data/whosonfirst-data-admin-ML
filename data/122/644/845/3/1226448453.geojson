@@ -1,0 +1,67 @@
+{
+  "id": 1226448453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.01433,14.74427,-3.01433,14.74427",
+    "geom:latitude":14.74427,
+    "geom:longitude":-3.01433,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kilimmba",
+    "gn:country_code":"ML",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6866878,
+    "gn:latitude":14.74427,
+    "gn:longitude":-3.01433,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Kilimmba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421171975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6866878
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"29f73a7c23f1a079c98e0433c7be9c51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171975,
+            "locality_id":1226448453,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1226448453,
+    "wof:lastmodified":1536640640,
+    "wof:name":"Kilimmba",
+    "wof:parent_id":421171975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.01433,
+    14.74427,
+    -3.01433,
+    14.74427
+],
+  "geometry": {"coordinates":[-3.01433,14.74427],"type":"Point"}
+}

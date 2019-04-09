@@ -1,0 +1,74 @@
+{
+  "id": 1243295477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.1304,14.0639,-6.1304,14.0639",
+    "geom:latitude":14.0639,
+    "geom:longitude":-6.1304,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Meserebougou",
+    "gn:country_code":"ML",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453488,
+    "gn:latitude":14.0639,
+    "gn:longitude":-6.1304,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"M\u00e9s\u00e9r\u00e9bougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "M\u00e9ss\u00e9r\u00e9bougou"
+    ],
+    "name:und_x_variant":[
+        "M\u00e9s\u00e9r\u00e9bougou",
+        "M\u00e9ss\u00e9r\u00e9bougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453488
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"96a4d15d6868c3ebbae2f7f9c2ddd300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562867,
+            "locality_id":1243295477,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1243295477,
+    "wof:lastmodified":1537665115,
+    "wof:name":"Meserebougou",
+    "wof:parent_id":1108562867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.1304,
+    14.0639,
+    -6.1304,
+    14.0639
+],
+  "geometry": {"coordinates":[-6.1304,14.0639],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209938703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.40186,12.13075,-7.40186,12.13075",
+    "geom:latitude":12.13075,
+    "geom:longitude":-7.40186,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kemedougou",
+    "gn:country_code":"ML",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593887,
+    "gn:latitude":12.13075,
+    "gn:longitude":-7.40186,
+    "gn:modification_date":"2008-11-07",
+    "gn:name":"K\u00e8m\u00e8dougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593887
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9a357e62cfcdcfbb76cb5e2578426a24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1209938703,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1209938703,
+    "wof:lastmodified":1536389456,
+    "wof:name":"Kemedougou",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.40186,
+    12.13075,
+    -7.40186,
+    12.13075
+],
+  "geometry": {"coordinates":[-7.40186,12.13075],"type":"Point"}
+}

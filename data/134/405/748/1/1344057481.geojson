@@ -1,0 +1,67 @@
+{
+  "id": 1344057481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.38766,14.95892,-4.38766,14.95892",
+    "geom:latitude":14.95892,
+    "geom:longitude":-4.38766,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bile Dembere",
+    "gn:country_code":"ML",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460065,
+    "gn:latitude":14.95892,
+    "gn:longitude":-4.38766,
+    "gn:modification_date":"2008-05-13",
+    "gn:name":"Bil\u00e9 Demb\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460065
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8301fadcbd07c210f41a0ef987638b98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1344057481,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1344057481,
+    "wof:lastmodified":1536879079,
+    "wof:name":"Bile Dembere",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.38766,
+    14.95892,
+    -4.38766,
+    14.95892
+],
+  "geometry": {"coordinates":[-4.38766,14.95892],"type":"Point"}
+}

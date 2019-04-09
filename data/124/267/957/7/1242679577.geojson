@@ -1,0 +1,72 @@
+{
+  "id": 1242679577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.61174,14.5371,-11.61174,14.5371",
+    "geom:latitude":14.5371,
+    "geom:longitude":-11.61174,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dakandape",
+    "gn:country_code":"ML",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459456,
+    "gn:latitude":14.5371,
+    "gn:longitude":-11.61174,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Dakandape",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diakandap\u00e9",
+        "Diacandape",
+        "Dakandape"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459456
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e1d1cf7f5ec938bcada4aee6833bf01b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1242679577,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1242679577,
+    "wof:lastmodified":1537665246,
+    "wof:name":"Dakandape",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.61174,
+    14.5371,
+    -11.61174,
+    14.5371
+],
+  "geometry": {"coordinates":[-11.61174,14.5371],"type":"Point"}
+}

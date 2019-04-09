@@ -1,0 +1,72 @@
+{
+  "id": 1226239603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.023,14.924,-8.023,14.924",
+    "geom:latitude":14.924,
+    "geom:longitude":-8.023,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Alaso",
+    "gn:country_code":"ML",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2461162,
+    "gn:latitude":14.924,
+    "gn:longitude":-8.023,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Alaso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alasio",
+        "Alasso",
+        "Alaso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2461162
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"52d28ad36e506458da854ac00b9dd4a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562865,
+            "locality_id":1226239603,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1226239603,
+    "wof:lastmodified":1537665280,
+    "wof:name":"Alaso",
+    "wof:parent_id":1108562865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.023,
+    14.924,
+    -8.023,
+    14.924
+],
+  "geometry": {"coordinates":[-8.023,14.924],"type":"Point"}
+}

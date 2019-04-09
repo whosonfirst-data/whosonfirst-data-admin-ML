@@ -1,0 +1,70 @@
+{
+  "id": 1327027583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.13014,11.45295,-6.13014,11.45295",
+    "geom:latitude":11.45295,
+    "geom:longitude":-6.13014,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kankerena",
+    "gn:country_code":"ML",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455702,
+    "gn:latitude":11.45295,
+    "gn:longitude":-6.13014,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Kank\u00e9r\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kank\u00e9r\u00e9na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455702
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"38f245aff071c08bd135de7b152b9b5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1327027583,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1327027583,
+    "wof:lastmodified":1537665166,
+    "wof:name":"Kankerena",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.13014,
+    11.45295,
+    -6.13014,
+    11.45295
+],
+  "geometry": {"coordinates":[-6.13014,11.45295],"type":"Point"}
+}

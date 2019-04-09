@@ -1,0 +1,67 @@
+{
+  "id": 1226333877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.77671,13.09918,-7.77671,13.09918",
+    "geom:latitude":13.09918,
+    "geom:longitude":-7.77671,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bouatoula",
+    "gn:country_code":"ML",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6906545,
+    "gn:latitude":13.09918,
+    "gn:longitude":-7.77671,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Bouatoula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6906545
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6fb034ac8270762feb96705c4872d9aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562839,
+            "locality_id":1226333877,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1226333877,
+    "wof:lastmodified":1536806400,
+    "wof:name":"Bouatoula",
+    "wof:parent_id":1108562839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.77671,
+    13.09918,
+    -7.77671,
+    13.09918
+],
+  "geometry": {"coordinates":[-7.77671,13.09918],"type":"Point"}
+}

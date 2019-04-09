@@ -1,0 +1,72 @@
+{
+  "id": 1226360643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.38333,11.36667,-8.38333,11.36667",
+    "geom:latitude":11.36667,
+    "geom:longitude":-8.38333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sanyimale",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451616,
+    "gn:latitude":11.36667,
+    "gn:longitude":-8.38333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sanyimal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sagnimal\u00e9",
+        "Sanyimal\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632691,
+        85671479,
+        421183313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451616
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b6c7fa7b4e9d24bfe4f5cb91edf74577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632691,
+            "county_id":421183313,
+            "locality_id":1226360643,
+            "region_id":85671479
+        }
+    ],
+    "wof:id":1226360643,
+    "wof:lastmodified":1537665065,
+    "wof:name":"Sanyimale",
+    "wof:parent_id":421183313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.38333,
+    11.36667,
+    -8.38333,
+    11.36667
+],
+  "geometry": {"coordinates":[-8.38333,11.36667],"type":"Point"}
+}

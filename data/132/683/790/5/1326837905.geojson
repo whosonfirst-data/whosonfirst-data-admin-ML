@@ -1,0 +1,67 @@
+{
+  "id": 1326837905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.3588,14.5087,-8.3588,14.5087",
+    "geom:latitude":14.5087,
+    "geom:longitude":-8.3588,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mafina",
+    "gn:country_code":"ML",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453945,
+    "gn:latitude":14.5087,
+    "gn:longitude":-8.3588,
+    "gn:modification_date":"2008-11-18",
+    "gn:name":"Mafina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453945
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3780ac6e9e799c78852893b5525cc86a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562857,
+            "locality_id":1326837905,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1326837905,
+    "wof:lastmodified":1537038845,
+    "wof:name":"Mafina",
+    "wof:parent_id":1108562857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.3588,
+    14.5087,
+    -8.3588,
+    14.5087
+],
+  "geometry": {"coordinates":[-8.3588,14.5087],"type":"Point"}
+}

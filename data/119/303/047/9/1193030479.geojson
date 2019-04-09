@@ -1,0 +1,67 @@
+{
+  "id": 1193030479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.78333,10.31667,-7.78333,10.31667",
+    "geom:latitude":10.31667,
+    "geom:longitude":-7.78333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kouroulamini",
+    "gn:country_code":"ML",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454310,
+    "gn:latitude":10.31667,
+    "gn:longitude":-7.78333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kouroulamini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454310
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b9717994ac096b5cc1a1012d6b7bafac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562821,
+            "locality_id":1193030479,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1193030479,
+    "wof:lastmodified":1536364601,
+    "wof:name":"Kouroulamini",
+    "wof:parent_id":1108562821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.78333,
+    10.31667,
+    -7.78333,
+    10.31667
+],
+  "geometry": {"coordinates":[-7.78333,10.31667],"type":"Point"}
+}

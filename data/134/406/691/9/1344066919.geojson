@@ -1,0 +1,72 @@
+{
+  "id": 1344066919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.98333,10.53333,-5.98333,10.53333",
+    "geom:latitude":10.53333,
+    "geom:longitude":-5.98333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Fatadougou",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457541,
+    "gn:latitude":10.53333,
+    "gn:longitude":-5.98333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fatadougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vata",
+        "Fatadougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457541
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3fe5da9422b70d2dea6a3a55210378fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562817,
+            "locality_id":1344066919,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1344066919,
+    "wof:lastmodified":1537665196,
+    "wof:name":"Fatadougou",
+    "wof:parent_id":1108562817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.98333,
+    10.53333,
+    -5.98333,
+    10.53333
+],
+  "geometry": {"coordinates":[-5.98333,10.53333],"type":"Point"}
+}

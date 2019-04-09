@@ -1,0 +1,72 @@
+{
+  "id": 1242895129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.3647,12.795,-7.3647,12.795",
+    "geom:latitude":12.795,
+    "geom:longitude":-7.3647,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kodiani",
+    "gn:country_code":"ML",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455109,
+    "gn:latitude":12.795,
+    "gn:longitude":-7.3647,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kodiani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kodyani",
+        "Kodialani",
+        "Kodiani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455109
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2c53ef51e6f1d3821a086f556ce9ed60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1242895129,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1242895129,
+    "wof:lastmodified":1537665152,
+    "wof:name":"Kodiani",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.3647,
+    12.795,
+    -7.3647,
+    12.795
+],
+  "geometry": {"coordinates":[-7.3647,12.795],"type":"Point"}
+}

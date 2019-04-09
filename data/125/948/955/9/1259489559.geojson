@@ -1,0 +1,67 @@
+{
+  "id": 1259489559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.07979,14.9505,-3.07979,14.9505",
+    "geom:latitude":14.9505,
+    "geom:longitude":-3.07979,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Pele-Koumbole",
+    "gn:country_code":"ML",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452104,
+    "gn:latitude":14.9505,
+    "gn:longitude":-3.07979,
+    "gn:modification_date":"2008-10-24",
+    "gn:name":"Pel\u00e9-Koumbol\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452104
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"23b9754a991cfce1d3fe53a6b9f3ff01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1259489559,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1259489559,
+    "wof:lastmodified":1536848919,
+    "wof:name":"Pele-Koumbole",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.07979,
+    14.9505,
+    -3.07979,
+    14.9505
+],
+  "geometry": {"coordinates":[-3.07979,14.9505],"type":"Point"}
+}

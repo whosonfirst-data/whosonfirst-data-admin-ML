@@ -1,0 +1,66 @@
+{
+  "id": 1209636589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.29521,13.30614,-7.29521,13.30614",
+    "geom:latitude":13.30614,
+    "geom:longitude":-7.29521,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Gouenindo",
+    "gn:country_code":"ML",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456974,
+    "gn:latitude":13.30614,
+    "gn:longitude":-7.29521,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Gou\u00e9nindo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gu\u00e9nindo",
+        "Gou\u00e9ninndo",
+        "Gou\u00e9nindo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456974
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3e7c30d9ee0b25f34782f9cf302f81c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209636589
+        }
+    ],
+    "wof:id":1209636589,
+    "wof:lastmodified":1537665182,
+    "wof:name":"Gouenindo",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.29521,
+    13.30614,
+    -7.29521,
+    13.30614
+],
+  "geometry": {"coordinates":[-7.29521,13.30614],"type":"Point"}
+}

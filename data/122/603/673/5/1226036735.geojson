@@ -1,0 +1,70 @@
+{
+  "id": 1226036735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.1538,13.8195,-8.1538,13.8195",
+    "geom:latitude":13.8195,
+    "geom:longitude":-8.1538,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kondiobougou",
+    "gn:country_code":"ML",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454844,
+    "gn:latitude":13.8195,
+    "gn:longitude":-8.1538,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kondiobougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kondiobougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454844
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"88210a976a4376dd8c9908d38cf159cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":1226036735,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1226036735,
+    "wof:lastmodified":1537665145,
+    "wof:name":"Kondiobougou",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.1538,
+    13.8195,
+    -8.1538,
+    13.8195
+],
+  "geometry": {"coordinates":[-8.1538,13.8195],"type":"Point"}
+}

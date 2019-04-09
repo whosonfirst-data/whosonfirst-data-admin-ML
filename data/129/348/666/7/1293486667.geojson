@@ -1,0 +1,72 @@
+{
+  "id": 1293486667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.4897,12.917,-4.4897,12.917",
+    "geom:latitude":12.917,
+    "geom:longitude":-4.4897,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Perahui",
+    "gn:country_code":"ML",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452097,
+    "gn:latitude":12.917,
+    "gn:longitude":-4.4897,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"P\u00e9rahui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00e9rakuy",
+        "P\u00e9rakoui",
+        "P\u00e9rahui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452097
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c2ec611994d5f95fcc7abd563dda5d63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562843,
+            "locality_id":1293486667,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1293486667,
+    "wof:lastmodified":1537665076,
+    "wof:name":"Perahui",
+    "wof:parent_id":1108562843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4897,
+    12.917,
+    -4.4897,
+    12.917
+],
+  "geometry": {"coordinates":[-4.4897,12.917],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293683637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.2894,14.623,-8.2894,14.623",
+    "geom:latitude":14.623,
+    "geom:longitude":-8.2894,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dabakabougou",
+    "gn:country_code":"ML",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459525,
+    "gn:latitude":14.623,
+    "gn:longitude":-8.2894,
+    "gn:modification_date":"2008-11-18",
+    "gn:name":"Dabakabougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459525
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a74b501c765f9a350460da4a50393fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562865,
+            "locality_id":1293683637,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1293683637,
+    "wof:lastmodified":1537000867,
+    "wof:name":"Dabakabougou",
+    "wof:parent_id":1108562865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.2894,
+    14.623,
+    -8.2894,
+    14.623
+],
+  "geometry": {"coordinates":[-8.2894,14.623],"type":"Point"}
+}

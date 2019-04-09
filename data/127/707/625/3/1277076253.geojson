@@ -1,0 +1,71 @@
+{
+  "id": 1277076253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.86936,13.46463,-11.86936,13.46463",
+    "geom:latitude":13.46463,
+    "geom:longitude":-11.86936,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ourali Banbara",
+    "gn:country_code":"ML",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452216,
+    "gn:latitude":13.46463,
+    "gn:longitude":-11.86936,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ourali Banbara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ourali Bambara",
+        "Ourali Banbara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452216
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"29a1340edab73fdfbacc38ff2b862029",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171903,
+            "locality_id":1277076253,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1277076253,
+    "wof:lastmodified":1537665078,
+    "wof:name":"Ourali Banbara",
+    "wof:parent_id":421171903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.86936,
+    13.46463,
+    -11.86936,
+    13.46463
+],
+  "geometry": {"coordinates":[-11.86936,13.46463],"type":"Point"}
+}

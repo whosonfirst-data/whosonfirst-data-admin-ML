@@ -1,0 +1,73 @@
+{
+  "id": 1292898633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.75483,11.43129,-5.75483,11.43129",
+    "geom:latitude":11.43129,
+    "geom:longitude":-5.75483,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Pemmperena",
+    "gn:country_code":"ML",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452102,
+    "gn:latitude":11.43129,
+    "gn:longitude":-5.75483,
+    "gn:modification_date":"2016-08-01",
+    "gn:name":"Pemmp\u00e9r\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pamp\u00e9r\u00e9na",
+        "Pemp\u00e9r\u00e9na",
+        "Pemmp\u00e9r\u00e9na",
+        "Pimperna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452102
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2c51d7b2c7175ea4c3c37cde9590baa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1292898633,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1292898633,
+    "wof:lastmodified":1537665076,
+    "wof:name":"Pemmperena",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.75483,
+    11.43129,
+    -5.75483,
+    11.43129
+],
+  "geometry": {"coordinates":[-5.75483,11.43129],"type":"Point"}
+}

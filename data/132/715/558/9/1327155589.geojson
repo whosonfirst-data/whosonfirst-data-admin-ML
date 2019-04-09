@@ -1,0 +1,67 @@
+{
+  "id": 1327155589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.2049,12.7353,-7.2049,12.7353",
+    "geom:latitude":12.7353,
+    "geom:longitude":-7.2049,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Siraninkeledie",
+    "gn:country_code":"ML",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594162,
+    "gn:latitude":12.7353,
+    "gn:longitude":-7.2049,
+    "gn:modification_date":"2008-11-07",
+    "gn:name":"Siranink\u00e9l\u00e9di\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594162
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2c79674e7279f9b765ff876f6c099181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1327155589,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1327155589,
+    "wof:lastmodified":1537077422,
+    "wof:name":"Siraninkeledie",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.2049,
+    12.7353,
+    -7.2049,
+    12.7353
+],
+  "geometry": {"coordinates":[-7.2049,12.7353],"type":"Point"}
+}

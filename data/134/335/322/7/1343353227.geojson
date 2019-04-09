@@ -1,0 +1,70 @@
+{
+  "id": 1343353227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.9148,12.2409,-6.9148,12.2409",
+    "geom:latitude":12.2409,
+    "geom:longitude":-6.9148,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Farakan",
+    "gn:country_code":"ML",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457635,
+    "gn:latitude":12.2409,
+    "gn:longitude":-6.9148,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Farakan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Farakan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457635
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4418bdb2a8bd55cdaa1c166f9abfd8ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1343353227,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1343353227,
+    "wof:lastmodified":1537665198,
+    "wof:name":"Farakan",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.9148,
+    12.2409,
+    -6.9148,
+    12.2409
+],
+  "geometry": {"coordinates":[-6.9148,12.2409],"type":"Point"}
+}

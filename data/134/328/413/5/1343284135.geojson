@@ -1,0 +1,71 @@
+{
+  "id": 1343284135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.57155,11.36135,-5.57155,11.36135",
+    "geom:latitude":11.36135,
+    "geom:longitude":-5.57155,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ngorodougou",
+    "gn:country_code":"ML",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452852,
+    "gn:latitude":11.36135,
+    "gn:longitude":-5.57155,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ngorodougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngoroudougou",
+        "Ngorodougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452852
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"58409cbf332375b43b4be06e4e216842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1343284135,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1343284135,
+    "wof:lastmodified":1537665097,
+    "wof:name":"Ngorodougou",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.57155,
+    11.36135,
+    -5.57155,
+    11.36135
+],
+  "geometry": {"coordinates":[-5.57155,11.36135],"type":"Point"}
+}

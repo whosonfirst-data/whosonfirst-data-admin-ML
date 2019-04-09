@@ -1,0 +1,71 @@
+{
+  "id": 1259388633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.24336,14.85517,-4.24336,14.85517",
+    "geom:latitude":14.85517,
+    "geom:longitude":-4.24336,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ouampire",
+    "gn:country_code":"ML",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452352,
+    "gn:latitude":14.85517,
+    "gn:longitude":-4.24336,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ouampire",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wampir\u00e9",
+        "Ouampire"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452352
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"17ba0086d6aaa79c175fb1ceda1d542a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1259388633,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1259388633,
+    "wof:lastmodified":1537665081,
+    "wof:name":"Ouampire",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.24336,
+    14.85517,
+    -4.24336,
+    14.85517
+],
+  "geometry": {"coordinates":[-4.24336,14.85517],"type":"Point"}
+}

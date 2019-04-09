@@ -1,0 +1,67 @@
+{
+  "id": 1209324651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.76667,12.08333,-10.76667,12.08333",
+    "geom:latitude":12.08333,
+    "geom:longitude":-10.76667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Malou Tambaya",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453857,
+    "gn:latitude":12.08333,
+    "gn:longitude":-10.76667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Malou Tambaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malou-Tanbaya",
+        "Malotombaya",
+        "Malou Tambaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453857
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"bb10f9d9e3b3492e66fd01c89c9ee522",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209324651
+        }
+    ],
+    "wof:id":1209324651,
+    "wof:lastmodified":1537665125,
+    "wof:name":"Malou Tambaya",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.76667,
+    12.08333,
+    -10.76667,
+    12.08333
+],
+  "geometry": {"coordinates":[-10.76667,12.08333],"type":"Point"}
+}

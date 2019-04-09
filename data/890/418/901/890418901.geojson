@@ -1,0 +1,68 @@
+{
+  "id": 890418901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-16",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.5839,12.35311,-5.5839,12.35311",
+    "geom:latitude":12.35311,
+    "geom:longitude":-5.5839,
+    "gn:country":"ML",
+    "gn:fcode":"ADM2",
+    "gn:pop":575253,
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Koutiala Cercle",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"11",
+    "src:geom":"unknown",
+    "src:population":"geonames",
+    "wd:wordcount":271,
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7670554,
+        "qs:id":696753,
+        "wd:id":"Q1538131",
+        "wk:page":"Koutiala Cercle"
+    },
+    "wof:country":"ML",
+    "wof:created":1469051266,
+    "wof:geomhash":"ef6782f092f5767f377802b90be77a93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":890418901,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":890418901,
+    "wof:lastmodified":1527792814,
+    "wof:name":"Koutiala Cercle",
+    "wof:parent_id":85674531,
+    "wof:placetype":"county",
+    "wof:population":575253,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.5839,
+    12.35311,
+    -5.5839,
+    12.35311
+],
+  "geometry": {"coordinates":[-5.5839,12.35311],"type":"Point"}
+}

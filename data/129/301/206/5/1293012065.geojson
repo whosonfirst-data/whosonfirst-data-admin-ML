@@ -1,0 +1,67 @@
+{
+  "id": 1293012065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.33107,13.09353,-10.33107,13.09353",
+    "geom:latitude":13.09353,
+    "geom:longitude":-10.33107,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tondidji",
+    "gn:country_code":"ML",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449041,
+    "gn:latitude":13.09353,
+    "gn:longitude":-10.33107,
+    "gn:modification_date":"2008-11-19",
+    "gn:name":"Tondidji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449041
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a5af2f497525391b41326d0e6b3fdfb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562855,
+            "locality_id":1293012065,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1293012065,
+    "wof:lastmodified":1536974867,
+    "wof:name":"Tondidji",
+    "wof:parent_id":1108562855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.33107,
+    13.09353,
+    -10.33107,
+    13.09353
+],
+  "geometry": {"coordinates":[-10.33107,13.09353],"type":"Point"}
+}

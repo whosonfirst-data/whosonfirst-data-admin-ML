@@ -1,0 +1,80 @@
+{
+  "id": 1259475851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.8726,11.21265,-6.8726,11.21265",
+    "geom:latitude":11.21265,
+    "geom:longitude":-6.8726,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Togoya",
+    "gn:country_code":"ML",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449091,
+    "gn:latitude":11.21265,
+    "gn:longitude":-6.8726,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Togoya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Togoya"
+    ],
+    "name:fra_x_variant":[
+        "Tokoya",
+        "Togouya",
+        "Taoya"
+    ],
+    "name:und_x_variant":[
+        "Taoya",
+        "Togouya",
+        "Tokoya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449091
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3ba1c45080ecc65e7a328e7681ca0555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562819,
+            "locality_id":1259475851,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1259475851,
+    "wof:lastmodified":1537665021,
+    "wof:name":"Togoya",
+    "wof:parent_id":1108562819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.8726,
+    11.21265,
+    -6.8726,
+    11.21265
+],
+  "geometry": {"coordinates":[-6.8726,11.21265],"type":"Point"}
+}

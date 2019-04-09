@@ -1,0 +1,80 @@
+{
+  "id": 1293123023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.08806,11.70585,-6.08806,11.70585",
+    "geom:latitude":11.70585,
+    "geom:longitude":-6.08806,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Iringasso",
+    "gn:country_code":"ML",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456072,
+    "gn:latitude":11.70585,
+    "gn:longitude":-6.08806,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Iringasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Irinnkasso"
+    ],
+    "name:fra_x_variant":[
+        "Irignasso",
+        "Irignaso"
+    ],
+    "name:und_x_variant":[
+        "Irignasso",
+        "Irignaso",
+        "Iringasso",
+        "Irinnkasso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456072
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"edc31a94c7fdb72c44ed2324f466084f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1293123023,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1293123023,
+    "wof:lastmodified":1537665173,
+    "wof:name":"Iringasso",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.08806,
+    11.70585,
+    -6.08806,
+    11.70585
+],
+  "geometry": {"coordinates":[-6.08806,11.70585],"type":"Point"}
+}

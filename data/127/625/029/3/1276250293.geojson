@@ -1,0 +1,71 @@
+{
+  "id": 1276250293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.11485,15.2306,-8.11485,15.2306",
+    "geom:latitude":15.2306,
+    "geom:longitude":-8.11485,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sileimana",
+    "gn:country_code":"ML",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451153,
+    "gn:latitude":15.2306,
+    "gn:longitude":-8.11485,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sil\u00e9imana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sileymana",
+        "Sil\u00e9imana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451153
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4fa8f5f6f2bf87da2ca46310f4aeb940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562865,
+            "locality_id":1276250293,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1276250293,
+    "wof:lastmodified":1537665054,
+    "wof:name":"Sileimana",
+    "wof:parent_id":1108562865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.11485,
+    15.2306,
+    -8.11485,
+    15.2306
+],
+  "geometry": {"coordinates":[-8.11485,15.2306],"type":"Point"}
+}

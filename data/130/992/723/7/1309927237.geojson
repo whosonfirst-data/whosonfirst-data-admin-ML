@@ -1,0 +1,71 @@
+{
+  "id": 1309927237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.29858,15.06299,-7.29858,15.06299",
+    "geom:latitude":15.06299,
+    "geom:longitude":-7.29858,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Nima Belebougou",
+    "gn:country_code":"ML",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452695,
+    "gn:latitude":15.06299,
+    "gn:longitude":-7.29858,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nima B\u00e9l\u00e9bougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nima B\u00e9l\u00e9dougou",
+        "Nima B\u00e9l\u00e9bougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452695
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6ddc4d9d18253dc0cfb5e0ccf0b48229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562865,
+            "locality_id":1309927237,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1309927237,
+    "wof:lastmodified":1537665094,
+    "wof:name":"Nima Belebougou",
+    "wof:parent_id":1108562865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.29858,
+    15.06299,
+    -7.29858,
+    15.06299
+],
+  "geometry": {"coordinates":[-7.29858,15.06299],"type":"Point"}
+}

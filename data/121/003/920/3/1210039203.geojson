@@ -1,0 +1,72 @@
+{
+  "id": 1210039203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.64138,13.297,-5.64138,13.297",
+    "geom:latitude":13.297,
+    "geom:longitude":-5.64138,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bla",
+    "gn:country_code":"ML",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460012,
+    "gn:latitude":13.297,
+    "gn:longitude":-5.64138,
+    "gn:modification_date":"2018-04-14",
+    "gn:name":"Bla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Blan",
+        "Bla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460012,
+        "wk:page":"Bla,_Mali"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a774b4335526247dd01ebb6986d31fb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1210039203,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1210039203,
+    "wof:lastmodified":1537665259,
+    "wof:name":"Bla",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.64138,
+    13.297,
+    -5.64138,
+    13.297
+],
+  "geometry": {"coordinates":[-5.64138,13.297],"type":"Point"}
+}

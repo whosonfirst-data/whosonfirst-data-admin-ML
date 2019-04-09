@@ -1,0 +1,67 @@
+{
+  "id": 1243067133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.89255,13.3853,-5.89255,13.3853",
+    "geom:latitude":13.3853,
+    "geom:longitude":-5.89255,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kotemmbela",
+    "gn:country_code":"ML",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880711,
+    "gn:latitude":13.3853,
+    "gn:longitude":-5.89255,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Kotemmbela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880711
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0238bcf2eb3c75dddb8276bdf2fb3433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1243067133,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1243067133,
+    "wof:lastmodified":1536854201,
+    "wof:name":"Kotemmbela",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.89255,
+    13.3853,
+    -5.89255,
+    13.3853
+],
+  "geometry": {"coordinates":[-5.89255,13.3853],"type":"Point"}
+}

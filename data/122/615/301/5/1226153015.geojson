@@ -1,0 +1,67 @@
+{
+  "id": 1226153015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.98333,10.5,-5.98333,10.5",
+    "geom:latitude":10.5,
+    "geom:longitude":-5.98333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nafegue",
+    "gn:country_code":"ML",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453177,
+    "gn:latitude":10.5,
+    "gn:longitude":-5.98333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Naf\u00e9gu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453177
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"700877b515c8fef439a386c97bb94d9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562817,
+            "locality_id":1226153015,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1226153015,
+    "wof:lastmodified":1537064284,
+    "wof:name":"Nafegue",
+    "wof:parent_id":1108562817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.98333,
+    10.5,
+    -5.98333,
+    10.5
+],
+  "geometry": {"coordinates":[-5.98333,10.5],"type":"Point"}
+}

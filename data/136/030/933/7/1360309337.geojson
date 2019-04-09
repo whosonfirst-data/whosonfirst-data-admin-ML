@@ -1,0 +1,67 @@
+{
+  "id": 1360309337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.03043,14.73097,-3.03043,14.73097",
+    "geom:latitude":14.73097,
+    "geom:longitude":-3.03043,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kikenaga",
+    "gn:country_code":"ML",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6866898,
+    "gn:latitude":14.73097,
+    "gn:longitude":-3.03043,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Kik\u00e9naga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421171975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6866898
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c78afa0b686e1409cf14ed8119987a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171975,
+            "locality_id":1360309337,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1360309337,
+    "wof:lastmodified":1536620028,
+    "wof:name":"Kikenaga",
+    "wof:parent_id":421171975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.03043,
+    14.73097,
+    -3.03043,
+    14.73097
+],
+  "geometry": {"coordinates":[-3.03043,14.73097],"type":"Point"}
+}

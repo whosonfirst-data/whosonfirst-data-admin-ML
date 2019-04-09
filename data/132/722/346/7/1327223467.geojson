@@ -1,0 +1,74 @@
+{
+  "id": 1327223467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.69604,14.95634,0.69604,14.95634",
+    "geom:latitude":14.95634,
+    "geom:longitude":0.69604,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Labezanga",
+    "gn:country_code":"ML",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454210,
+    "gn:latitude":14.95634,
+    "gn:longitude":0.69604,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lab\u00e9zanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Labbezanga",
+        "Labbezenga",
+        "Lab\u00e9zenga",
+        "Lab\u00e9zanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        890418903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454210,
+        "wk:page":"Labbezenga"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"db3090f322fb1d8633e2fceda5ead2b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":890418903,
+            "locality_id":1327223467,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1327223467,
+    "wof:lastmodified":1537665131,
+    "wof:name":"Labezanga",
+    "wof:parent_id":890418903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.69604,
+    14.95634,
+    0.69604,
+    14.95634
+],
+  "geometry": {"coordinates":[0.69604,14.95634],"type":"Point"}
+}

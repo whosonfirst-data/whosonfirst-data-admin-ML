@@ -1,0 +1,67 @@
+{
+  "id": 1259472831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.54399,17.04726,-1.54399,17.04726",
+    "geom:latitude":17.04726,
+    "geom:longitude":-1.54399,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kermachoy",
+    "gn:country_code":"ML",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6270717,
+    "gn:latitude":17.04726,
+    "gn:longitude":-1.54399,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"K\u00e8rmachoy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        1108562879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6270717
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5613f273e4d65532cf047fd23d9aa1cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562879,
+            "locality_id":1259472831,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1259472831,
+    "wof:lastmodified":1536873168,
+    "wof:name":"Kermachoy",
+    "wof:parent_id":1108562879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.54399,
+    17.04726,
+    -1.54399,
+    17.04726
+],
+  "geometry": {"coordinates":[-1.54399,17.04726],"type":"Point"}
+}

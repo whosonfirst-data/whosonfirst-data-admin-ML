@@ -1,0 +1,67 @@
+{
+  "id": 1242897733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.2679,15.1426,-4.2679,15.1426",
+    "geom:latitude":15.1426,
+    "geom:longitude":-4.2679,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Garoeye Bougouji",
+    "gn:country_code":"ML",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6687417,
+    "gn:latitude":15.1426,
+    "gn:longitude":-4.2679,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Garo\u00e8ye Bougouji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6687417
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"055ec2327aa1cd5992117fae5b1107a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562871,
+            "locality_id":1242897733,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1242897733,
+    "wof:lastmodified":1537096296,
+    "wof:name":"Garoeye Bougouji",
+    "wof:parent_id":1108562871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.2679,
+    15.1426,
+    -4.2679,
+    15.1426
+],
+  "geometry": {"coordinates":[-4.2679,15.1426],"type":"Point"}
+}

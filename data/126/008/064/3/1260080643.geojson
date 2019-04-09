@@ -1,0 +1,71 @@
+{
+  "id": 1260080643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.43041,14.99838,-4.43041,14.99838",
+    "geom:latitude":14.99838,
+    "geom:longitude":-4.43041,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Gande Tama",
+    "gn:country_code":"ML",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457196,
+    "gn:latitude":14.99838,
+    "gn:longitude":-4.43041,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gand\u00e9 Tama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gand\u00e9toma",
+        "Gand\u00e9 Tama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457196
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1f6591d4c6f5b157d26fbab7f6ab5764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562871,
+            "locality_id":1260080643,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1260080643,
+    "wof:lastmodified":1537665188,
+    "wof:name":"Gande Tama",
+    "wof:parent_id":1108562871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.43041,
+    14.99838,
+    -4.43041,
+    14.99838
+],
+  "geometry": {"coordinates":[-4.43041,14.99838],"type":"Point"}
+}

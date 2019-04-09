@@ -1,0 +1,71 @@
+{
+  "id": 1226349921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.46739,13.36282,-9.46739,13.36282",
+    "geom:latitude":13.36282,
+    "geom:longitude":-9.46739,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mambiri",
+    "gn:country_code":"ML",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453840,
+    "gn:latitude":13.36282,
+    "gn:longitude":-9.46739,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mambiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manbiri",
+        "Mambiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453840
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e45db44d782718e96c4e734deba20cdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1226349921,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1226349921,
+    "wof:lastmodified":1537665124,
+    "wof:name":"Mambiri",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.46739,
+    13.36282,
+    -9.46739,
+    13.36282
+],
+  "geometry": {"coordinates":[-9.46739,13.36282],"type":"Point"}
+}

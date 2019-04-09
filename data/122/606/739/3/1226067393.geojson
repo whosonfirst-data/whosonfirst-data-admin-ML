@@ -1,0 +1,74 @@
+{
+  "id": 1226067393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.31213,12.4611,-5.31213,12.4611",
+    "geom:latitude":12.4611,
+    "geom:longitude":-5.31213,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Famessasso",
+    "gn:country_code":"ML",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457768,
+    "gn:latitude":12.4611,
+    "gn:longitude":-5.31213,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Famessasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Faniekasso",
+        "Fam\u00e9kasso",
+        "Famessassou",
+        "Famessasso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457768,
+        "wk:page":"Famessasso"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6694cafdec51e12c31d082853d50a955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1226067393,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1226067393,
+    "wof:lastmodified":1537665200,
+    "wof:name":"Famessasso",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.31213,
+    12.4611,
+    -5.31213,
+    12.4611
+],
+  "geometry": {"coordinates":[-5.31213,12.4611],"type":"Point"}
+}

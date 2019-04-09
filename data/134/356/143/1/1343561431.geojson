@@ -1,0 +1,67 @@
+{
+  "id": 1343561431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.87719,14.42979,-4.87719,14.42979",
+    "geom:latitude":14.42979,
+    "geom:longitude":-4.87719,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Pinga",
+    "gn:country_code":"ML",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452083,
+    "gn:latitude":14.42979,
+    "gn:longitude":-4.87719,
+    "gn:modification_date":"2008-05-12",
+    "gn:name":"Pinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452083
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"88bb05f7b3ef7e0e485032502dec0297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562861,
+            "locality_id":1343561431,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1343561431,
+    "wof:lastmodified":1537094863,
+    "wof:name":"Pinga",
+    "wof:parent_id":1108562861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.87719,
+    14.42979,
+    -4.87719,
+    14.42979
+],
+  "geometry": {"coordinates":[-4.87719,14.42979],"type":"Point"}
+}

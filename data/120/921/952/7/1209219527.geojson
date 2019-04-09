@@ -1,0 +1,61 @@
+{
+  "id": 1209219527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.91035,13.03746,-4.91035,13.03746",
+    "geom:latitude":13.03746,
+    "geom:longitude":-4.91035,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Nenesso",
+    "gn:country_code":"ML",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452951,
+    "gn:latitude":13.03746,
+    "gn:longitude":-4.91035,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"N\u00e9nesso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452951
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"14e1be1f1a2f5403d5dfe0a64050ea07",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209219527
+        }
+    ],
+    "wof:id":1209219527,
+    "wof:lastmodified":1536294012,
+    "wof:name":"Nenesso",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.91035,
+    13.03746,
+    -4.91035,
+    13.03746
+],
+  "geometry": {"coordinates":[-4.91035,13.03746],"type":"Point"}
+}

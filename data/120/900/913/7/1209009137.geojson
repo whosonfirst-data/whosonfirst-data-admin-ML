@@ -1,0 +1,64 @@
+{
+  "id": 1209009137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.1414,14.8921,-6.1414,14.8921",
+    "geom:latitude":14.8921,
+    "geom:longitude":-6.1414,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Farabougou",
+    "gn:country_code":"ML",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457671,
+    "gn:latitude":14.8921,
+    "gn:longitude":-6.1414,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Farabougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Farabougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457671
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"328d1c30dcd5471e4720100bf32fe280",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209009137
+        }
+    ],
+    "wof:id":1209009137,
+    "wof:lastmodified":1537665199,
+    "wof:name":"Farabougou",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.1414,
+    14.8921,
+    -6.1414,
+    14.8921
+],
+  "geometry": {"coordinates":[-6.1414,14.8921],"type":"Point"}
+}

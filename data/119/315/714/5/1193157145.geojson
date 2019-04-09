@@ -1,0 +1,71 @@
+{
+  "id": 1193157145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.005,15.7022,-5.005,15.7022",
+    "geom:latitude":15.7022,
+    "geom:longitude":-5.005,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Maghel Teidouma",
+    "gn:country_code":"ML",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6687504,
+    "gn:latitude":15.7022,
+    "gn:longitude":-5.005,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Maghel T\u00e9\u00efdouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marhel T\u00e9\u00efdouma",
+        "Maghel T\u00e9\u00efdouma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6687504
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"237541b1d6714090d9638609db6146ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562873,
+            "locality_id":1193157145,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1193157145,
+    "wof:lastmodified":1537665284,
+    "wof:name":"Maghel Teidouma",
+    "wof:parent_id":1108562873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.005,
+    15.7022,
+    -5.005,
+    15.7022
+],
+  "geometry": {"coordinates":[-5.005,15.7022],"type":"Point"}
+}

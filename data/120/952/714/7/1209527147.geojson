@@ -1,0 +1,61 @@
+{
+  "id": 1209527147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.17667,14.18175,-11.17667,14.18175",
+    "geom:latitude":14.18175,
+    "geom:longitude":-11.17667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Yaela",
+    "gn:country_code":"ML",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448538,
+    "gn:latitude":14.18175,
+    "gn:longitude":-11.17667,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Ya\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448538
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2de589ef1b3e3b4babb7c0ec4982d11c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209527147
+        }
+    ],
+    "wof:id":1209527147,
+    "wof:lastmodified":1536284399,
+    "wof:name":"Yaela",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.17667,
+    14.18175,
+    -11.17667,
+    14.18175
+],
+  "geometry": {"coordinates":[-11.17667,14.18175],"type":"Point"}
+}

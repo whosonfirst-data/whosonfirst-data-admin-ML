@@ -1,0 +1,67 @@
+{
+  "id": 1360287205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.63971,13.70482,-11.63971,13.70482",
+    "geom:latitude":13.70482,
+    "geom:longitude":-11.63971,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kobokotossou",
+    "gn:country_code":"ML",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455152,
+    "gn:latitude":13.70482,
+    "gn:longitude":-11.63971,
+    "gn:modification_date":"2007-10-18",
+    "gn:name":"Kobokotossou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455152
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"fbd91fd59779f6a53c30833342edd645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1360287205,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1360287205,
+    "wof:lastmodified":1536654008,
+    "wof:name":"Kobokotossou",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.63971,
+    13.70482,
+    -11.63971,
+    13.70482
+],
+  "geometry": {"coordinates":[-11.63971,13.70482],"type":"Point"}
+}

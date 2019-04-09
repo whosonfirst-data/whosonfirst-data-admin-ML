@@ -1,0 +1,72 @@
+{
+  "id": 1243268759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.33166,14.21498,-5.33166,14.21498",
+    "geom:latitude":14.21498,
+    "geom:longitude":-5.33166,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Zanvalena",
+    "gn:country_code":"ML",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448333,
+    "gn:latitude":14.21498,
+    "gn:longitude":-5.33166,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zanval\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanfal\u00e9na",
+        "Zanfal\u00e9na",
+        "Zanval\u00e9na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448333
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"96748aee0995df7da3e2b2f326716a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":1243268759,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1243268759,
+    "wof:lastmodified":1537664998,
+    "wof:name":"Zanvalena",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.33166,
+    14.21498,
+    -5.33166,
+    14.21498
+],
+  "geometry": {"coordinates":[-5.33166,14.21498],"type":"Point"}
+}

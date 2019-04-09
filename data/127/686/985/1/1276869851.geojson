@@ -1,0 +1,67 @@
+{
+  "id": 1276869851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.5471,12.503,-4.5471,12.503",
+    "geom:latitude":12.503,
+    "geom:longitude":-4.5471,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kume",
+    "gn:country_code":"ML",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454223,
+    "gn:latitude":12.503,
+    "gn:longitude":-4.5471,
+    "gn:modification_date":"2008-11-06",
+    "gn:name":"Kum\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454223
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"cd99017f09fbae7a4449d4144ba450ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562831,
+            "locality_id":1276869851,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1276869851,
+    "wof:lastmodified":1537052393,
+    "wof:name":"Kume",
+    "wof:parent_id":1108562831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.5471,
+    12.503,
+    -4.5471,
+    12.503
+],
+  "geometry": {"coordinates":[-4.5471,12.503],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 421192381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.61839,14.1403,-3.61839,14.1403",
+    "geom:latitude":14.1403,
+    "geom:longitude":-3.61839,
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Kani Bozon"
+    ],
+    "name:eng_x_preferred":[
+        "Kanibonzon"
+    ],
+    "name:fin_x_preferred":[
+        "Kani Bozoni"
+    ],
+    "name:fre_x_preferred":[
+        "Kani Bozon"
+    ],
+    "name:ita_x_preferred":[
+        "Kani Bozon"
+    ],
+    "qs:gn_country":"ML",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2455716,
+    "qs:gn_pop":0,
+    "qs:name":"Kani Bonzon",
+    "qs:name_adm0":"Mali",
+    "qs:name_adm1":"Mopti",
+    "qs:photos":79,
+    "qs:photos_1k":16,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":79,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1168042,
+    "qs:woe_adm0":23424891,
+    "qs:woe_id":1372632,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455716,
+        "gp:id":1372632,
+        "qs:id":1168042,
+        "wd:id":"Q1763391"
+    },
+    "wof:country":"ML",
+    "wof:created":1459009734,
+    "wof:geomhash":"d862a41dc20e411279f9cadbb732d098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":421192381,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":421192381,
+    "wof:lastmodified":1514484778,
+    "wof:name":"Kani Bonzon",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.61839,
+    14.1403,
+    -3.61839,
+    14.1403
+],
+  "geometry": {"coordinates":[-3.61839,14.1403],"type":"Point"}
+}

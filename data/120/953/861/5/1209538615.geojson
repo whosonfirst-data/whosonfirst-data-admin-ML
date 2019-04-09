@@ -1,0 +1,65 @@
+{
+  "id": 1209538615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.7506,13.8079,-5.7506,13.8079",
+    "geom:latitude":13.8079,
+    "geom:longitude":-5.7506,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Nawerena",
+    "gn:country_code":"ML",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453081,
+    "gn:latitude":13.8079,
+    "gn:longitude":-5.7506,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Naw\u00e9r\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naou\u00e9r\u00e9na",
+        "Naw\u00e9r\u00e9na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453081
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6af230a36a338cc91fc5e7864196b196",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209538615
+        }
+    ],
+    "wof:id":1209538615,
+    "wof:lastmodified":1537665104,
+    "wof:name":"Nawerena",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.7506,
+    13.8079,
+    -5.7506,
+    13.8079
+],
+  "geometry": {"coordinates":[-5.7506,13.8079],"type":"Point"}
+}

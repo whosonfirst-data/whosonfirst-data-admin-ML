@@ -1,0 +1,67 @@
+{
+  "id": 1310227787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.9497,13.0417,-4.9497,13.0417",
+    "geom:latitude":13.0417,
+    "geom:longitude":-4.9497,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Woniongosso",
+    "gn:country_code":"ML",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448558,
+    "gn:latitude":13.0417,
+    "gn:longitude":-4.9497,
+    "gn:modification_date":"2008-11-03",
+    "gn:name":"Woniongosso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421192717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448558
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"552b1c633f6c305fd811aa699351d742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421192717,
+            "locality_id":1310227787,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1310227787,
+    "wof:lastmodified":1536819281,
+    "wof:name":"Woniongosso",
+    "wof:parent_id":421192717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.9497,
+    13.0417,
+    -4.9497,
+    13.0417
+],
+  "geometry": {"coordinates":[-4.9497,13.0417],"type":"Point"}
+}

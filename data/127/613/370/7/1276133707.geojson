@@ -1,0 +1,67 @@
+{
+  "id": 1276133707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.61667,11.8,-8.61667,11.8",
+    "geom:latitude":11.8,
+    "geom:longitude":-8.61667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tegue",
+    "gn:country_code":"ML",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450020,
+    "gn:latitude":11.8,
+    "gn:longitude":-8.61667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"T\u00e9gu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450020
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b857b266aa52f637bd6cf974282c4714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562827,
+            "locality_id":1276133707,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1276133707,
+    "wof:lastmodified":1537044233,
+    "wof:name":"Tegue",
+    "wof:parent_id":1108562827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.61667,
+    11.8,
+    -8.61667,
+    11.8
+],
+  "geometry": {"coordinates":[-8.61667,11.8],"type":"Point"}
+}

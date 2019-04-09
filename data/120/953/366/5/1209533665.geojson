@@ -1,0 +1,66 @@
+{
+  "id": 1209533665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.3,16.61667,-4.3,16.61667",
+    "geom:latitude":16.61667,
+    "geom:longitude":-4.3,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Deylouba Debe",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459181,
+    "gn:latitude":16.61667,
+    "gn:longitude":-4.3,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Deylouba D\u00e9b\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dalouba D\u00e9b\u00e9",
+        "Deylouba D\u00e9b\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459181
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"543f857fa2952f23ae554c8f117eab9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209533665
+        }
+    ],
+    "wof:id":1209533665,
+    "wof:lastmodified":1537665239,
+    "wof:name":"Deylouba Debe",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.3,
+    16.61667000000001,
+    -4.3,
+    16.61667000000001
+],
+  "geometry": {"coordinates":[-4.3,16.61667000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293791287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.943,14.4405,-9.943,14.4405",
+    "geom:latitude":14.4405,
+    "geom:longitude":-9.943,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kamissankide",
+    "gn:country_code":"ML",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455794,
+    "gn:latitude":14.4405,
+    "gn:longitude":-9.943,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kamissankid\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamissakid\u00e9",
+        "Kamissankid\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455794
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"48d278658cce0c7fe09a62d4dfe48d96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562857,
+            "locality_id":1293791287,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1293791287,
+    "wof:lastmodified":1537665168,
+    "wof:name":"Kamissankide",
+    "wof:parent_id":1108562857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.943,
+    14.4405,
+    -9.943,
+    14.4405
+],
+  "geometry": {"coordinates":[-9.943,14.4405],"type":"Point"}
+}

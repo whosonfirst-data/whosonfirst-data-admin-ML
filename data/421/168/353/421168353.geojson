@@ -1,0 +1,75 @@
+{
+  "id": 421168353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.409049,13.957891,-5.409049,13.957891",
+    "geom:latitude":13.957891,
+    "geom:longitude":-5.409049,
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"K\u00e9 Massina",
+    "qs:name_adm0":"Mali",
+    "qs:name_adm1":"Segou",
+    "qs:photos":36,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":36,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":460329,
+    "qs:woe_adm0":23424891,
+    "qs:woe_id":1372783,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1372783,
+        "qs:id":460329
+    },
+    "wof:country":"ML",
+    "wof:created":1459008762,
+    "wof:geomhash":"67548514b81aacd12d87106f0a922f70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":421168353,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":421168353,
+    "wof:lastmodified":1500013721,
+    "wof:name":"K\u00e9 Massina",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.409049,
+    13.957891,
+    -5.409049,
+    13.957891
+],
+  "geometry": {"coordinates":[-5.409049,13.957891],"type":"Point"}
+}

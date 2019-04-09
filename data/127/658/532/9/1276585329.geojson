@@ -1,0 +1,68 @@
+{
+  "id": 1276585329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.2547,14.8252,-5.2547,14.8252",
+    "geom:latitude":14.8252,
+    "geom:longitude":-5.2547,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dioura",
+    "gn:country_code":"ML",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458636,
+    "gn:latitude":14.8252,
+    "gn:longitude":-5.2547,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Dioura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458636,
+        "wk:page":"Dioura"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8928ab105ee8a6f2a753e6f2980dd1d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562861,
+            "locality_id":1276585329,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1276585329,
+    "wof:lastmodified":1537568430,
+    "wof:name":"Dioura",
+    "wof:parent_id":1108562861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.2547,
+    14.8252,
+    -5.2547,
+    14.8252
+],
+  "geometry": {"coordinates":[-5.2547,14.8252],"type":"Point"}
+}

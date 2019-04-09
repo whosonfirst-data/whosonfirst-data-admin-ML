@@ -1,0 +1,72 @@
+{
+  "id": 1327157013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.383,13.225,-6.383,13.225",
+    "geom:latitude":13.225,
+    "geom:longitude":-6.383,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bounoumbougoula",
+    "gn:country_code":"ML",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459682,
+    "gn:latitude":13.225,
+    "gn:longitude":-6.383,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bounoumbougoula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bonoubougoula",
+        "Bounounbougoula",
+        "Bounoumbougoula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459682
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0732ed33047ddfc02804f6ee6fdbe5cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1327157013,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1327157013,
+    "wof:lastmodified":1537665250,
+    "wof:name":"Bounoumbougoula",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.383,
+    13.225,
+    -6.383,
+    13.225
+],
+  "geometry": {"coordinates":[-6.383,13.225],"type":"Point"}
+}

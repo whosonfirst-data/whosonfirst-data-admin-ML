@@ -1,0 +1,65 @@
+{
+  "id": 1209216629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.3406,13.3599,-9.3406,13.3599",
+    "geom:latitude":13.3599,
+    "geom:longitude":-9.3406,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bambala Guimbala",
+    "gn:country_code":"ML",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460503,
+    "gn:latitude":13.3599,
+    "gn:longitude":-9.3406,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bambala Guimbala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Banbala",
+        "Bambala Guimbala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460503
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4c651ab2705b6c0b91abe0283cbc75ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209216629
+        }
+    ],
+    "wof:id":1209216629,
+    "wof:lastmodified":1537665270,
+    "wof:name":"Bambala Guimbala",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.3406,
+    13.3599,
+    -9.3406,
+    13.3599
+],
+  "geometry": {"coordinates":[-9.3406,13.3599],"type":"Point"}
+}

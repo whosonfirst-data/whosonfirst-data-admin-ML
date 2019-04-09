@@ -1,0 +1,71 @@
+{
+  "id": 1327156547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.86346,15.4495,-1.86346,15.4495",
+    "geom:latitude":15.4495,
+    "geom:longitude":-1.86346,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Leguilegui",
+    "gn:country_code":"ML",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454131,
+    "gn:latitude":15.4495,
+    "gn:longitude":-1.86346,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"L\u00e9guil\u00e9gui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e9gil\u00e9gi",
+        "L\u00e9guil\u00e9gui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        890418895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454131
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d702b32b18ae074c47cee2cad65990ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":890418895,
+            "locality_id":1327156547,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1327156547,
+    "wof:lastmodified":1537665129,
+    "wof:name":"Leguilegui",
+    "wof:parent_id":890418895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.86346,
+    15.4495,
+    -1.86346,
+    15.4495
+],
+  "geometry": {"coordinates":[-1.86346,15.4495],"type":"Point"}
+}

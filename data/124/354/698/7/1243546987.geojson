@@ -1,0 +1,71 @@
+{
+  "id": 1243546987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.61693,12.4375,-5.61693,12.4375",
+    "geom:latitude":12.4375,
+    "geom:longitude":-5.61693,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Belekosso",
+    "gn:country_code":"ML",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460175,
+    "gn:latitude":12.4375,
+    "gn:longitude":-5.61693,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9l\u00e9kosso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mp\u00e9lokosso",
+        "B\u00e9l\u00e9kosso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460175
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"36cb9712db3472fe4e1f6973b437257c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1243546987,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1243546987,
+    "wof:lastmodified":1537665263,
+    "wof:name":"Belekosso",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.61693,
+    12.4375,
+    -5.61693,
+    12.4375
+],
+  "geometry": {"coordinates":[-5.61693,12.4375],"type":"Point"}
+}

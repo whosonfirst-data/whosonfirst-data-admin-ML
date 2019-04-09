@@ -1,0 +1,71 @@
+{
+  "id": 1326732123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.48105,14.39788,-11.48105,14.39788",
+    "geom:latitude":14.39788,
+    "geom:longitude":-11.48105,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kinlenina",
+    "gn:country_code":"ML",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455252,
+    "gn:latitude":14.39788,
+    "gn:longitude":-11.48105,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Kinl\u00e9nina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kini\u00e9nina",
+        "Kinl\u00e9nina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455252
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"11401a58354188e7302742d3407537c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1326732123,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1326732123,
+    "wof:lastmodified":1537665156,
+    "wof:name":"Kinlenina",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.48105,
+    14.39788,
+    -11.48105,
+    14.39788
+],
+  "geometry": {"coordinates":[-11.48105,14.39788],"type":"Point"}
+}

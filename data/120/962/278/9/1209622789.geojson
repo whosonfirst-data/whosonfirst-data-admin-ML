@@ -1,0 +1,61 @@
+{
+  "id": 1209622789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.4969,13.2511,-10.4969,13.2511",
+    "geom:latitude":13.2511,
+    "geom:longitude":-10.4969,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bingassi",
+    "gn:country_code":"ML",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460041,
+    "gn:latitude":13.2511,
+    "gn:longitude":-10.4969,
+    "gn:modification_date":"2008-11-19",
+    "gn:name":"Bingassi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460041
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c540a1ea5989ff387ba7a1f78e536373",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209622789
+        }
+    ],
+    "wof:id":1209622789,
+    "wof:lastmodified":1536281459,
+    "wof:name":"Bingassi",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.4969,
+    13.2511,
+    -10.4969,
+    13.2511
+],
+  "geometry": {"coordinates":[-10.4969,13.2511],"type":"Point"}
+}

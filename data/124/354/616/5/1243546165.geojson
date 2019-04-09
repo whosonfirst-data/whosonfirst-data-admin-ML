@@ -1,0 +1,67 @@
+{
+  "id": 1243546165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.78894,15.1282,-7.78894,15.1282",
+    "geom:latitude":15.1282,
+    "geom:longitude":-7.78894,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mougou",
+    "gn:country_code":"ML",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6642096,
+    "gn:latitude":15.1282,
+    "gn:longitude":-7.78894,
+    "gn:modification_date":"2008-06-25",
+    "gn:name":"Mougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6642096
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d658ccf0ea0500514c544a7ac0ff906a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562865,
+            "locality_id":1243546165,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1243546165,
+    "wof:lastmodified":1536661888,
+    "wof:name":"Mougou",
+    "wof:parent_id":1108562865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.78894,
+    15.1282,
+    -7.78894,
+    15.1282
+],
+  "geometry": {"coordinates":[-7.78894,15.1282],"type":"Point"}
+}

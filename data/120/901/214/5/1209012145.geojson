@@ -1,0 +1,65 @@
+{
+  "id": 1209012145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.9597,13.2734,-9.9597,13.2734",
+    "geom:latitude":13.2734,
+    "geom:longitude":-9.9597,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Souroukoun",
+    "gn:country_code":"ML",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6912206,
+    "gn:latitude":13.2734,
+    "gn:longitude":-9.9597,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Souroukoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u00e9liman\u00e9",
+        "Souroukoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6912206
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"13500f20e16c8003b143e063260e41b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209012145
+        }
+    ],
+    "wof:id":1209012145,
+    "wof:lastmodified":1537665290,
+    "wof:name":"Souroukoun",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.9597,
+    13.2734,
+    -9.9597,
+    13.2734
+],
+  "geometry": {"coordinates":[-9.9597,13.2734],"type":"Point"}
+}

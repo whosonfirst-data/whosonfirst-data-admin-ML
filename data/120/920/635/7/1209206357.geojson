@@ -1,0 +1,64 @@
+{
+  "id": 1209206357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.1574,13.45986,-8.1574,13.45986",
+    "geom:latitude":13.45986,
+    "geom:longitude":-8.1574,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sirakoro",
+    "gn:country_code":"ML",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451026,
+    "gn:latitude":13.45986,
+    "gn:longitude":-8.1574,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sirakoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sirakoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451026
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4d8030a0fe1510d67b18b483d6bea24e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209206357
+        }
+    ],
+    "wof:id":1209206357,
+    "wof:lastmodified":1537665050,
+    "wof:name":"Sirakoro",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.1574,
+    13.45986,
+    -8.1574,
+    13.45986
+],
+  "geometry": {"coordinates":[-8.1574,13.45986],"type":"Point"}
+}

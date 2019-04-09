@@ -1,0 +1,67 @@
+{
+  "id": 1243073803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.42,14.73353,-4.42,14.73353",
+    "geom:latitude":14.73353,
+    "geom:longitude":-4.42,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sare-Faba-Mosso",
+    "gn:country_code":"ML",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451573,
+    "gn:latitude":14.73353,
+    "gn:longitude":-4.42,
+    "gn:modification_date":"2008-05-13",
+    "gn:name":"Sar\u00e9-Faba-Mosso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451573
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"578fabb28cfb5c1754c7c576d213fe14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562861,
+            "locality_id":1243073803,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1243073803,
+    "wof:lastmodified":1536844599,
+    "wof:name":"Sare-Faba-Mosso",
+    "wof:parent_id":1108562861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.42,
+    14.73353,
+    -4.42,
+    14.73353
+],
+  "geometry": {"coordinates":[-4.42,14.73353],"type":"Point"}
+}

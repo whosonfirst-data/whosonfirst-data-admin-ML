@@ -1,0 +1,61 @@
+{
+  "id": 1209213941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.62843,13.63866,-5.62843,13.63866",
+    "geom:latitude":13.63866,
+    "geom:longitude":-5.62843,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Yolo",
+    "gn:country_code":"ML",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448460,
+    "gn:latitude":13.63866,
+    "gn:longitude":-5.62843,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Yolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448460
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2a9c1d7641811a418c3954a33630f9af",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209213941
+        }
+    ],
+    "wof:id":1209213941,
+    "wof:lastmodified":1536294197,
+    "wof:name":"Yolo",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.628430000000002,
+    13.63866,
+    -5.628430000000002,
+    13.63866
+],
+  "geometry": {"coordinates":[-5.62843,13.63866],"type":"Point"}
+}

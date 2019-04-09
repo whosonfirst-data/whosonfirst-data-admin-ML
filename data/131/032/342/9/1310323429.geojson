@@ -1,0 +1,67 @@
+{
+  "id": 1310323429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.7,12.33333,-10.7,12.33333",
+    "geom:latitude":12.33333,
+    "geom:longitude":-10.7,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Batilaye",
+    "gn:country_code":"ML",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460237,
+    "gn:latitude":12.33333,
+    "gn:longitude":-10.7,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Batilaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460237
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7c21fa97e0c474a58c9dfcf683aa8acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171903,
+            "locality_id":1310323429,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1310323429,
+    "wof:lastmodified":1536682053,
+    "wof:name":"Batilaye",
+    "wof:parent_id":421171903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.7,
+    12.33333,
+    -10.7,
+    12.33333
+],
+  "geometry": {"coordinates":[-10.7,12.33333],"type":"Point"}
+}

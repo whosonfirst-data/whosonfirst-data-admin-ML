@@ -1,0 +1,61 @@
+{
+  "id": 1209416833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.5447,13.1928,-9.5447,13.1928",
+    "geom:latitude":13.1928,
+    "geom:longitude":-9.5447,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tiemabougou",
+    "gn:country_code":"ML",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6912236,
+    "gn:latitude":13.1928,
+    "gn:longitude":-9.5447,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Ti\u00e9mabougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6912236
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0d2ce038ea90aa23a87eb4f2edf6e6f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209416833
+        }
+    ],
+    "wof:id":1209416833,
+    "wof:lastmodified":1536287659,
+    "wof:name":"Tiemabougou",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.5447,
+    13.1928,
+    -9.5447,
+    13.1928
+],
+  "geometry": {"coordinates":[-9.5447,13.1928],"type":"Point"}
+}

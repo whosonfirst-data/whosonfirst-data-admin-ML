@@ -1,0 +1,67 @@
+{
+  "id": 1276872799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.45546,14.98776,-4.45546,14.98776",
+    "geom:latitude":14.98776,
+    "geom:longitude":-4.45546,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sare Samboubou",
+    "gn:country_code":"ML",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451564,
+    "gn:latitude":14.98776,
+    "gn:longitude":-4.45546,
+    "gn:modification_date":"2008-05-13",
+    "gn:name":"Sar\u00e9 Samboubou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451564
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c0c46c76ea3968a945d8d6f18d4a4d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562861,
+            "locality_id":1276872799,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1276872799,
+    "wof:lastmodified":1537048572,
+    "wof:name":"Sare Samboubou",
+    "wof:parent_id":1108562861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.45546,
+    14.98776,
+    -4.45546,
+    14.98776
+],
+  "geometry": {"coordinates":[-4.45546,14.98776],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209639499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.82,13.884,-4.82,13.884",
+    "geom:latitude":13.884,
+    "geom:longitude":-4.82,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mounia",
+    "gn:country_code":"ML",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453276,
+    "gn:latitude":13.884,
+    "gn:longitude":-4.82,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mounia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mougna",
+        "Munia",
+        "Mounia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453276,
+        "wk:page":"Mougna"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3a0f99ee05a978c90d6a9dd5c825d34f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209639499
+        }
+    ],
+    "wof:id":1209639499,
+    "wof:lastmodified":1537665109,
+    "wof:name":"Mounia",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.82,
+    13.884,
+    -4.82,
+    13.884
+],
+  "geometry": {"coordinates":[-4.82,13.884],"type":"Point"}
+}

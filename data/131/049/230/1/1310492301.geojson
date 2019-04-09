@@ -1,0 +1,67 @@
+{
+  "id": 1310492301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.3519,16.6386,-4.3519,16.6386",
+    "geom:latitude":16.6386,
+    "geom:longitude":-4.3519,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ti-n-Ouartene",
+    "gn:country_code":"ML",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6847239,
+    "gn:latitude":16.6386,
+    "gn:longitude":-4.3519,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Ti-n-Ouartene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6847239
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"af622a7dc3d70542fc4f0793a1047e64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562889,
+            "locality_id":1310492301,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1310492301,
+    "wof:lastmodified":1536936725,
+    "wof:name":"Ti-n-Ouartene",
+    "wof:parent_id":1108562889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.3519,
+    16.6386,
+    -4.3519,
+    16.6386
+],
+  "geometry": {"coordinates":[-4.3519,16.6386],"type":"Point"}
+}

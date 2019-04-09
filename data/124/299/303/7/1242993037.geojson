@@ -1,0 +1,71 @@
+{
+  "id": 1242993037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.03552,16.98021,-1.03552,16.98021",
+    "geom:latitude":16.98021,
+    "geom:longitude":-1.03552,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Gamina Koyra",
+    "gn:country_code":"ML",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457209,
+    "gn:latitude":16.98021,
+    "gn:longitude":-1.03552,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Gamina Koyra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gamina Koira",
+        "Gamina Koyra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        1108562879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457209
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"11042a799cef8955bb74741b5e6e2151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562879,
+            "locality_id":1242993037,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1242993037,
+    "wof:lastmodified":1537665188,
+    "wof:name":"Gamina Koyra",
+    "wof:parent_id":1108562879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.03552,
+    16.98021,
+    -1.03552,
+    16.98021
+],
+  "geometry": {"coordinates":[-1.03552,16.98021],"type":"Point"}
+}

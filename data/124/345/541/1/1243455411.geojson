@@ -1,0 +1,67 @@
+{
+  "id": 1243455411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.77515,14.58828,-4.77515,14.58828",
+    "geom:latitude":14.58828,
+    "geom:longitude":-4.77515,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Konsse",
+    "gn:country_code":"ML",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6764156,
+    "gn:latitude":14.58828,
+    "gn:longitude":-4.77515,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Konss\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6764156
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"daedbcb9659019e8b33c8c1579754542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562861,
+            "locality_id":1243455411,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1243455411,
+    "wof:lastmodified":1536792878,
+    "wof:name":"Konsse",
+    "wof:parent_id":1108562861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.77515,
+    14.58828,
+    -4.77515,
+    14.58828
+],
+  "geometry": {"coordinates":[-4.77515,14.58828],"type":"Point"}
+}

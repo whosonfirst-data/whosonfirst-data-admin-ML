@@ -1,0 +1,67 @@
+{
+  "id": 1343784711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.9874,13.8111,-4.9874,13.8111",
+    "geom:latitude":13.8111,
+    "geom:longitude":-4.9874,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Seiwele",
+    "gn:country_code":"ML",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451437,
+    "gn:latitude":13.8111,
+    "gn:longitude":-4.9874,
+    "gn:modification_date":"2008-11-03",
+    "gn:name":"Se\u00efw\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451437
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7bd8e3ece8138d89dfa98d69a2c17943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":1343784711,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1343784711,
+    "wof:lastmodified":1536776607,
+    "wof:name":"Seiwele",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.9874,
+    13.8111,
+    -4.9874,
+    13.8111
+],
+  "geometry": {"coordinates":[-4.9874,13.8111],"type":"Point"}
+}

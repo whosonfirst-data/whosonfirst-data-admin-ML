@@ -1,0 +1,73 @@
+{
+  "id": 1292921831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.86667,12.96667,-9.86667,12.96667",
+    "geom:latitude":12.96667,
+    "geom:longitude":-9.86667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tambaga",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450285,
+    "gn:latitude":12.96667,
+    "gn:longitude":-9.86667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tambaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tanbaga",
+        "Tambaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450285,
+        "wk:page":"Tambaga%2C_Mali"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"08154002e15cd3fd765e1c3c0a85abad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1292921831,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1292921831,
+    "wof:lastmodified":1537665035,
+    "wof:name":"Tambaga",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.86667,
+    12.96667,
+    -9.86667,
+    12.96667
+],
+  "geometry": {"coordinates":[-9.86667,12.96667],"type":"Point"}
+}

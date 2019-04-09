@@ -1,0 +1,67 @@
+{
+  "id": 1343481015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.23032,16.33479,-3.23032,16.33479",
+    "geom:latitude":16.33479,
+    "geom:longitude":-3.23032,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Koudyana",
+    "gn:country_code":"ML",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454570,
+    "gn:latitude":16.33479,
+    "gn:longitude":-3.23032,
+    "gn:modification_date":"2009-06-26",
+    "gn:name":"Koudyana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        421172359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454570
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"148fd70b152073b63786478d0b3051c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421172359,
+            "locality_id":1343481015,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1343481015,
+    "wof:lastmodified":1536716840,
+    "wof:name":"Koudyana",
+    "wof:parent_id":421172359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.23032,
+    16.33479,
+    -3.23032,
+    16.33479
+],
+  "geometry": {"coordinates":[-3.23032,16.33479],"type":"Point"}
+}

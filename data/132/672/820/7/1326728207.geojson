@@ -1,0 +1,67 @@
+{
+  "id": 1326728207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.57028,11.4245,-5.57028,11.4245",
+    "geom:latitude":11.4245,
+    "geom:longitude":-5.57028,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tenebougou",
+    "gn:country_code":"ML",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6875098,
+    "gn:latitude":11.4245,
+    "gn:longitude":-5.57028,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"T\u00e9n\u00e9bougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6875098
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b97babb49f7966b1a01f990019553dad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1326728207,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1326728207,
+    "wof:lastmodified":1536701857,
+    "wof:name":"Tenebougou",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.57028,
+    11.4245,
+    -5.57028,
+    11.4245
+],
+  "geometry": {"coordinates":[-5.57028,11.4245],"type":"Point"}
+}

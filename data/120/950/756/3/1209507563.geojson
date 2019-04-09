@@ -1,0 +1,61 @@
+{
+  "id": 1209507563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.07815,11.48693,-7.07815,11.48693",
+    "geom:latitude":11.48693,
+    "geom:longitude":-7.07815,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Boundio",
+    "gn:country_code":"ML",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6798628,
+    "gn:latitude":11.48693,
+    "gn:longitude":-7.07815,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Boundio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6798628
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f04a23dc1c088642fa8805bffc33a278",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209507563
+        }
+    ],
+    "wof:id":1209507563,
+    "wof:lastmodified":1536284986,
+    "wof:name":"Boundio",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.07815,
+    11.48693,
+    -7.07815,
+    11.48693
+],
+  "geometry": {"coordinates":[-7.07815,11.48693],"type":"Point"}
+}

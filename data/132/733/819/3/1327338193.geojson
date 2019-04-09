@@ -1,0 +1,67 @@
+{
+  "id": 1327338193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.36447,13.21674,-5.36447,13.21674",
+    "geom:latitude":13.21674,
+    "geom:longitude":-5.36447,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ndosso",
+    "gn:country_code":"ML",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453002,
+    "gn:latitude":13.21674,
+    "gn:longitude":-5.36447,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ndosso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453002
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9cb43addafd9ac1c66a647e83992dd18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562835,
+            "locality_id":1327338193,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1327338193,
+    "wof:lastmodified":1536816029,
+    "wof:name":"Ndosso",
+    "wof:parent_id":1108562835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.36447,
+    13.21674,
+    -5.36447,
+    13.21674
+],
+  "geometry": {"coordinates":[-5.36447,13.21674],"type":"Point"}
+}

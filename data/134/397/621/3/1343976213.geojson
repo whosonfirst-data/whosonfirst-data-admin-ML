@@ -1,0 +1,67 @@
+{
+  "id": 1343976213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.5,12.6,-10.5,12.6",
+    "geom:latitude":12.6,
+    "geom:longitude":-10.5,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bandia",
+    "gn:country_code":"ML",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460490,
+    "gn:latitude":12.6,
+    "gn:longitude":-10.5,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Bandia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460490
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5511f73307b3638895ad0d129b0c9239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171903,
+            "locality_id":1343976213,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1343976213,
+    "wof:lastmodified":1536996512,
+    "wof:name":"Bandia",
+    "wof:parent_id":421171903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.5,
+    12.6,
+    -10.5,
+    12.6
+],
+  "geometry": {"coordinates":[-10.5,12.6],"type":"Point"}
+}

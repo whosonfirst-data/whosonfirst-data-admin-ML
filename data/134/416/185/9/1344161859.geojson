@@ -1,0 +1,67 @@
+{
+  "id": 1344161859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.62237,14.15349,-5.62237,14.15349",
+    "geom:latitude":14.15349,
+    "geom:longitude":-5.62237,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Nberouela",
+    "gn:country_code":"ML",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453055,
+    "gn:latitude":14.15349,
+    "gn:longitude":-5.62237,
+    "gn:modification_date":"2008-11-03",
+    "gn:name":"Nb\u00e9rou\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453055
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"fd2a4d364a244c7995f36e2270c87135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":1344161859,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1344161859,
+    "wof:lastmodified":1536729623,
+    "wof:name":"Nberouela",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.62237,
+    14.15349,
+    -5.62237,
+    14.15349
+],
+  "geometry": {"coordinates":[-5.62237,14.15349],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327154305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.38119,16.2775,-3.38119,16.2775",
+    "geom:latitude":16.2775,
+    "geom:longitude":-3.38119,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Teougoungou",
+    "gn:country_code":"ML",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449925,
+    "gn:latitude":16.2775,
+    "gn:longitude":-3.38119,
+    "gn:modification_date":"2009-06-26",
+    "gn:name":"T\u00e9ougoungou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        421172359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449925
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6fbb5a9e2e3e07b15ad872e87d9d36fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421172359,
+            "locality_id":1327154305,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1327154305,
+    "wof:lastmodified":1537079228,
+    "wof:name":"Teougoungou",
+    "wof:parent_id":421172359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.38119,
+    16.2775,
+    -3.38119,
+    16.2775
+],
+  "geometry": {"coordinates":[-3.38119,16.2775],"type":"Point"}
+}

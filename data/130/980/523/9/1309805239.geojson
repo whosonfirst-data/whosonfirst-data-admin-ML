@@ -1,0 +1,67 @@
+{
+  "id": 1309805239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.63826,15.4013,-9.63826,15.4013",
+    "geom:latitude":15.4013,
+    "geom:longitude":-9.63826,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mouthrar",
+    "gn:country_code":"ML",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453230,
+    "gn:latitude":15.4013,
+    "gn:longitude":-9.63826,
+    "gn:modification_date":"2008-05-07",
+    "gn:name":"Mouthrar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453230
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0414db684b5da5c170a8b12a88671928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562869,
+            "locality_id":1309805239,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1309805239,
+    "wof:lastmodified":1536932592,
+    "wof:name":"Mouthrar",
+    "wof:parent_id":1108562869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.63826,
+    15.4013,
+    -9.63826,
+    15.4013
+],
+  "geometry": {"coordinates":[-9.63826,15.4013],"type":"Point"}
+}

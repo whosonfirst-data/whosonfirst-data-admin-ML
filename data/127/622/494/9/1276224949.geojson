@@ -1,0 +1,77 @@
+{
+  "id": 1276224949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.5515,12.1392,-4.5515,12.1392",
+    "geom:latitude":12.1392,
+    "geom:longitude":-4.5515,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bougouma",
+    "gn:country_code":"ML",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459778,
+    "gn:latitude":12.1392,
+    "gn:longitude":-4.5515,
+    "gn:modification_date":"2008-11-06",
+    "gn:name":"Bougouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890416507,
+        85632553,
+        85674531,
+        1108562831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459778
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d22e61d8f19848a69f9b42e221b6455e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890416507,
+            "locality_id":1276224949,
+            "region_id":1108805707
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562831,
+            "locality_id":1276224949,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1276224949,
+    "wof:lastmodified":1536924810,
+    "wof:name":"Bougouma",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.5515,
+    12.1392,
+    -4.5515,
+    12.1392
+],
+  "geometry": {"coordinates":[-4.5515,12.1392],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1310297735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.1177,12.0801,-6.1177,12.0801",
+    "geom:latitude":12.0801,
+    "geom:longitude":-6.1177,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dyalakoro",
+    "gn:country_code":"ML",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458165,
+    "gn:latitude":12.0801,
+    "gn:longitude":-6.1177,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dyalakoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dyalakoro"
+    ],
+    "name:fra_x_variant":[
+        "Dialako-Mal\u00e9"
+    ],
+    "name:und_x_variant":[
+        "Dialako-Mal\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458165
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"94f8ac05fde5882cba663d6fab658292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1310297735,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1310297735,
+    "wof:lastmodified":1537665212,
+    "wof:name":"Dyalakoro",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.1177,
+    12.0801,
+    -6.1177,
+    12.0801
+],
+  "geometry": {"coordinates":[-6.1177,12.0801],"type":"Point"}
+}

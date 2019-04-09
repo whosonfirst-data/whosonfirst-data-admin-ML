@@ -1,0 +1,71 @@
+{
+  "id": 1243068767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.80716,15.24403,-1.80716,15.24403",
+    "geom:latitude":15.24403,
+    "geom:longitude":-1.80716,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ngaghoy",
+    "gn:country_code":"ML",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452897,
+    "gn:latitude":15.24403,
+    "gn:longitude":-1.80716,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ngaghoy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngarhoy",
+        "Ngaghoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452897
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f1139b8685e0779898ac739972f3b284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1243068767,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1243068767,
+    "wof:lastmodified":1537665099,
+    "wof:name":"Ngaghoy",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.80716,
+    15.24403,
+    -1.80716,
+    15.24403
+],
+  "geometry": {"coordinates":[-1.80716,15.24403],"type":"Point"}
+}

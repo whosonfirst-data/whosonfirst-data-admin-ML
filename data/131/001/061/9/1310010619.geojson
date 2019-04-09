@@ -1,0 +1,72 @@
+{
+  "id": 1310010619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.1389,13.6402,-6.1389,13.6402",
+    "geom:latitude":13.6402,
+    "geom:longitude":-6.1389,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Gombougou",
+    "gn:country_code":"ML",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457061,
+    "gn:latitude":13.6402,
+    "gn:longitude":-6.1389,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gombougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gonbougou",
+        "Goumabougou",
+        "Gombougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457061
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3aec172fcf9766f7b1d8aa6868fc33df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1310010619,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1310010619,
+    "wof:lastmodified":1537665184,
+    "wof:name":"Gombougou",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.1389,
+    13.6402,
+    -6.1389,
+    13.6402
+],
+  "geometry": {"coordinates":[-6.1389,13.6402],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292993349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.73329,11.45698,-5.73329,11.45698",
+    "geom:latitude":11.45698,
+    "geom:longitude":-5.73329,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sidarebougou",
+    "gn:country_code":"ML",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6875073,
+    "gn:latitude":11.45698,
+    "gn:longitude":-5.73329,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Sidar\u00e9bougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6875073
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"50839e6bfcf0614d7f346851e1725930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1292993349,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1292993349,
+    "wof:lastmodified":1537001675,
+    "wof:name":"Sidarebougou",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.73329,
+    11.45698,
+    -5.73329,
+    11.45698
+],
+  "geometry": {"coordinates":[-5.73329,11.45698],"type":"Point"}
+}

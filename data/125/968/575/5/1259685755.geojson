@@ -1,0 +1,67 @@
+{
+  "id": 1259685755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.35113,14.34802,-11.35113,14.34802",
+    "geom:latitude":14.34802,
+    "geom:longitude":-11.35113,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bangassi",
+    "gn:country_code":"ML",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460442,
+    "gn:latitude":14.34802,
+    "gn:longitude":-11.35113,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Bangassi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460442
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b954839d49878157335d233aee4a9f5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1259685755,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1259685755,
+    "wof:lastmodified":1537061022,
+    "wof:name":"Bangassi",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.35113,
+    14.34802,
+    -11.35113,
+    14.34802
+],
+  "geometry": {"coordinates":[-11.35113,14.34802],"type":"Point"}
+}

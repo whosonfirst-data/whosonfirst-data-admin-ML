@@ -1,0 +1,71 @@
+{
+  "id": 1327339473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.13767,14.72621,-4.13767,14.72621",
+    "geom:latitude":14.72621,
+    "geom:longitude":-4.13767,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kende",
+    "gn:country_code":"ML",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455448,
+    "gn:latitude":14.72621,
+    "gn:longitude":-4.13767,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kend\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kend\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455448,
+        "wk:page":"Kend%C3%A9%2C_Mali"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c9eddd9d53c3097bd55f12f1bd3aee2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1327339473,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1327339473,
+    "wof:lastmodified":1537665160,
+    "wof:name":"Kende",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.13767,
+    14.72621,
+    -4.13767,
+    14.72621
+],
+  "geometry": {"coordinates":[-4.13767,14.72621],"type":"Point"}
+}

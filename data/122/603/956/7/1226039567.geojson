@@ -1,0 +1,76 @@
+{
+  "id": 1226039567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.3352,12.3153,-6.3352,12.3153",
+    "geom:latitude":12.3153,
+    "geom:longitude":-6.3352,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Wondya",
+    "gn:country_code":"ML",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448562,
+    "gn:latitude":12.3153,
+    "gn:longitude":-6.3352,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wondya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Wondya"
+    ],
+    "name:fra_x_variant":[
+        "Oundyla"
+    ],
+    "name:und_x_variant":[
+        "Oundyla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448562
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"15efc823e9fe977e01a0fd9e98999681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1226039567,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1226039567,
+    "wof:lastmodified":1537665005,
+    "wof:name":"Wondya",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.3352,
+    12.3153,
+    -6.3352,
+    12.3153
+],
+  "geometry": {"coordinates":[-6.3352,12.3153],"type":"Point"}
+}

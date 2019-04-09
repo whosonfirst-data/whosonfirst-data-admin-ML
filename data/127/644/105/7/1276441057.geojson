@@ -1,0 +1,67 @@
+{
+  "id": 1276441057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.71415,13.97731,-5.71415,13.97731",
+    "geom:latitude":13.97731,
+    "geom:longitude":-5.71415,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mamaribougou",
+    "gn:country_code":"ML",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880203,
+    "gn:latitude":13.97731,
+    "gn:longitude":-5.71415,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Mamaribougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880203
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"54ec2bb9708da0d76a00dd0cb88ec449",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":1276441057,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1276441057,
+    "wof:lastmodified":1536632871,
+    "wof:name":"Mamaribougou",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.71415,
+    13.97731,
+    -5.71415,
+    13.97731
+],
+  "geometry": {"coordinates":[-5.71415,13.97731],"type":"Point"}
+}

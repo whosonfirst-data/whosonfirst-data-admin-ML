@@ -1,0 +1,71 @@
+{
+  "id": 1242585195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.68296,15.00233,-9.68296,15.00233",
+    "geom:latitude":15.00233,
+    "geom:longitude":-9.68296,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tourida",
+    "gn:country_code":"ML",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448818,
+    "gn:latitude":15.00233,
+    "gn:longitude":-9.68296,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tourida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tourido",
+        "Tourida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448818
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e17002fd0217becfdc541e3de4972237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562869,
+            "locality_id":1242585195,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1242585195,
+    "wof:lastmodified":1537665014,
+    "wof:name":"Tourida",
+    "wof:parent_id":1108562869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.68296,
+    15.00233,
+    -9.68296,
+    15.00233
+],
+  "geometry": {"coordinates":[-9.68296,15.00233],"type":"Point"}
+}

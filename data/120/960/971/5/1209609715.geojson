@@ -1,0 +1,61 @@
+{
+  "id": 1209609715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.60513,13.74884,-7.60513,13.74884",
+    "geom:latitude":13.74884,
+    "geom:longitude":-7.60513,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Siradobougou",
+    "gn:country_code":"ML",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6906623,
+    "gn:latitude":13.74884,
+    "gn:longitude":-7.60513,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Siradobougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6906623
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"591230ae6509a38304f06d4af183d23f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209609715
+        }
+    ],
+    "wof:id":1209609715,
+    "wof:lastmodified":1536281888,
+    "wof:name":"Siradobougou",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.60513,
+    13.74884,
+    -7.60513,
+    13.74884
+],
+  "geometry": {"coordinates":[-7.60513,13.74884],"type":"Point"}
+}

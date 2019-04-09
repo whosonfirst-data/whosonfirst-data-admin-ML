@@ -1,0 +1,71 @@
+{
+  "id": 1327228905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.50009,11.68007,-7.50009,11.68007",
+    "geom:latitude":11.68007,
+    "geom:longitude":-7.50009,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Satiguila",
+    "gn:country_code":"ML",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451541,
+    "gn:latitude":11.68007,
+    "gn:longitude":-7.50009,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Satiguila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Satiquila",
+        "Satiguila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451541
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1a0a5e28e098b52df881794d0a8c98b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1327228905,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1327228905,
+    "wof:lastmodified":1537665064,
+    "wof:name":"Satiguila",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.50009,
+    11.68007,
+    -7.50009,
+    11.68007
+],
+  "geometry": {"coordinates":[-7.50009,11.68007],"type":"Point"}
+}

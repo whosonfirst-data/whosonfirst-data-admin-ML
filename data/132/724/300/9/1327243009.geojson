@@ -1,0 +1,71 @@
+{
+  "id": 1327243009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.40524,14.50375,-11.40524,14.50375",
+    "geom:latitude":14.50375,
+    "geom:longitude":-11.40524,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Segue",
+    "gn:country_code":"ML",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451464,
+    "gn:latitude":14.50375,
+    "gn:longitude":-11.40524,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"S\u00e9gu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seygu\u00e9",
+        "S\u00e9gu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451464
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0517800c4431d9dea5fa73a0e7a9ded4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1327243009,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1327243009,
+    "wof:lastmodified":1537665062,
+    "wof:name":"Segue",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.40524,
+    14.50375,
+    -11.40524,
+    14.50375
+],
+  "geometry": {"coordinates":[-11.40524,14.50375],"type":"Point"}
+}

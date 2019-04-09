@@ -1,0 +1,67 @@
+{
+  "id": 1226048915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.08507,15.00456,-2.08507,15.00456",
+    "geom:latitude":15.00456,
+    "geom:longitude":-2.08507,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Toupere",
+    "gn:country_code":"ML",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448838,
+    "gn:latitude":15.00456,
+    "gn:longitude":-2.08507,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Toup\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448838
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"14e9fa80530bc813af40ff9e5b78b81a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1226048915,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1226048915,
+    "wof:lastmodified":1536720903,
+    "wof:name":"Toupere",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.08507,
+    15.00456,
+    -2.08507,
+    15.00456
+],
+  "geometry": {"coordinates":[-2.08507,15.00456],"type":"Point"}
+}

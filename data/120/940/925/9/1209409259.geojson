@@ -1,0 +1,61 @@
+{
+  "id": 1209409259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.73127,13.54239,-7.73127,13.54239",
+    "geom:latitude":13.54239,
+    "geom:longitude":-7.73127,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Biribambougou",
+    "gn:country_code":"ML",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6906679,
+    "gn:latitude":13.54239,
+    "gn:longitude":-7.73127,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Biribambougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6906679
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7f8b060bdfbd5b096e8bb83bb96585fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209409259
+        }
+    ],
+    "wof:id":1209409259,
+    "wof:lastmodified":1536287893,
+    "wof:name":"Biribambougou",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.7312699999999985,
+    13.54239,
+    -7.7312699999999985,
+    13.54239
+],
+  "geometry": {"coordinates":[-7.73127,13.54239],"type":"Point"}
+}

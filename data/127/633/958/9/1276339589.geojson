@@ -1,0 +1,71 @@
+{
+  "id": 1276339589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.65628,13.9321,-5.65628,13.9321",
+    "geom:latitude":13.9321,
+    "geom:longitude":-5.65628,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Lafiera",
+    "gn:country_code":"ML",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454204,
+    "gn:latitude":13.9321,
+    "gn:longitude":-5.65628,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Lafi\u00e9ra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laf\u00e9ria",
+        "Lafi\u00e9ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454204
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3a5fffbe76cbf140c29996514658be85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":1276339589,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1276339589,
+    "wof:lastmodified":1537665131,
+    "wof:name":"Lafiera",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.65628,
+    13.9321,
+    -5.65628,
+    13.9321
+],
+  "geometry": {"coordinates":[-5.65628,13.9321],"type":"Point"}
+}

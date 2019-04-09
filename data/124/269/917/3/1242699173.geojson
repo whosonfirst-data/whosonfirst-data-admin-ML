@@ -1,0 +1,67 @@
+{
+  "id": 1242699173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.75281,13.33027,-7.75281,13.33027",
+    "geom:latitude":13.33027,
+    "geom:longitude":-7.75281,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Marakabougou",
+    "gn:country_code":"ML",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6906793,
+    "gn:latitude":13.33027,
+    "gn:longitude":-7.75281,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Marakabougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6906793
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9249374d2f4ae54ff3edc4c3d92b1a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":1242699173,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1242699173,
+    "wof:lastmodified":1536888284,
+    "wof:name":"Marakabougou",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.75281,
+    13.33027,
+    -7.75281,
+    13.33027
+],
+  "geometry": {"coordinates":[-7.75281,13.33027],"type":"Point"}
+}

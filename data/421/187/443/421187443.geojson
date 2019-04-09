@@ -1,0 +1,79 @@
+{
+  "id": 421187443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.34629,14.3803,-3.34629,14.3803",
+    "geom:latitude":14.3803,
+    "geom:longitude":-3.34629,
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "Palazzo Cassoli - Tirelli"
+    ],
+    "qs:gn_country":"ML",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2449172,
+    "qs:gn_pop":0,
+    "qs:name":"Tirelli",
+    "qs:name_adm0":"Mali",
+    "qs:name_adm1":"Mopti",
+    "qs:photos":260,
+    "qs:photos_1k":53,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":260,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083572,
+    "qs:woe_adm0":23424891,
+    "qs:woe_id":1376579,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421171975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449172,
+        "gp:id":1376579,
+        "qs:id":1083572
+    },
+    "wof:country":"ML",
+    "wof:created":1459009513,
+    "wof:geomhash":"87392e1be7a4496a0fe04b959b62dc2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171975,
+            "locality_id":421187443,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":421187443,
+    "wof:lastmodified":1500013718,
+    "wof:name":"Tirelli",
+    "wof:parent_id":421171975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.34629,
+    14.3803,
+    -3.34629,
+    14.3803
+],
+  "geometry": {"coordinates":[-3.34629,14.3803],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243362989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.9821,13.5271,-4.9821,13.5271",
+    "geom:latitude":13.5271,
+    "geom:longitude":-4.9821,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ndorongolola",
+    "gn:country_code":"ML",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453003,
+    "gn:latitude":13.5271,
+    "gn:longitude":-4.9821,
+    "gn:modification_date":"2008-11-03",
+    "gn:name":"Ndorongolola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421192717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453003
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"730ddd44e7061820c62ca920f0d7b33d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421192717,
+            "locality_id":1243362989,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1243362989,
+    "wof:lastmodified":1536926620,
+    "wof:name":"Ndorongolola",
+    "wof:parent_id":421192717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.9821,
+    13.5271,
+    -4.9821,
+    13.5271
+],
+  "geometry": {"coordinates":[-4.9821,13.5271],"type":"Point"}
+}

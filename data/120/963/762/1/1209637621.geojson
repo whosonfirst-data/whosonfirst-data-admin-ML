@@ -1,0 +1,65 @@
+{
+  "id": 1209637621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.7318,11.25367,-7.7318,11.25367",
+    "geom:latitude":11.25367,
+    "geom:longitude":-7.7318,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Niarako",
+    "gn:country_code":"ML",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452733,
+    "gn:latitude":11.25367,
+    "gn:longitude":-7.7318,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Niarako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niaroko",
+        "Niarako"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452733
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"370cb5d502bf5b5c621416381cd52659",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209637621
+        }
+    ],
+    "wof:id":1209637621,
+    "wof:lastmodified":1537665095,
+    "wof:name":"Niarako",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.7318,
+    11.25367,
+    -7.7318,
+    11.25367
+],
+  "geometry": {"coordinates":[-7.7318,11.25367],"type":"Point"}
+}

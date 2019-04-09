@@ -1,0 +1,67 @@
+{
+  "id": 1360192219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.2978,14.5651,-10.2978,14.5651",
+    "geom:latitude":14.5651,
+    "geom:longitude":-10.2978,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dieboukara",
+    "gn:country_code":"ML",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458907,
+    "gn:latitude":14.5651,
+    "gn:longitude":-10.2978,
+    "gn:modification_date":"2008-11-19",
+    "gn:name":"Di\u00e9boukara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458907
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"776946eb0853e4a5dfc0d0b12b9f7cc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562855,
+            "locality_id":1360192219,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1360192219,
+    "wof:lastmodified":1536791413,
+    "wof:name":"Dieboukara",
+    "wof:parent_id":1108562855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.2978,
+    14.5651,
+    -10.2978,
+    14.5651
+],
+  "geometry": {"coordinates":[-10.2978,14.5651],"type":"Point"}
+}

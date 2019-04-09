@@ -1,0 +1,71 @@
+{
+  "id": 1343669389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.0672,14.0597,-10.0672,14.0597",
+    "geom:latitude":14.0597,
+    "geom:longitude":-10.0672,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Seramisse",
+    "gn:country_code":"ML",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451334,
+    "gn:latitude":14.0597,
+    "gn:longitude":-10.0672,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u00e9ramiss\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siramess\u00e9",
+        "S\u00e9ramiss\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451334
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"480abbcecc93e2220f4b8f8df04890f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1343669389,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1343669389,
+    "wof:lastmodified":1537665059,
+    "wof:name":"Seramisse",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.0672,
+    14.0597,
+    -10.0672,
+    14.0597
+],
+  "geometry": {"coordinates":[-10.0672,14.0597],"type":"Point"}
+}

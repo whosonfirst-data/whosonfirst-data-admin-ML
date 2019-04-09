@@ -1,0 +1,71 @@
+{
+  "id": 1327052141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.54903,12.3883,-5.54903,12.3883",
+    "geom:latitude":12.3883,
+    "geom:longitude":-5.54903,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Wolenguena II",
+    "gn:country_code":"ML",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448586,
+    "gn:latitude":12.3883,
+    "gn:longitude":-5.54903,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wolengu\u00e9na II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wolengu\u00e9na",
+        "Wolengu\u00e9na II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448586
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6c5165ab37fb305ab259f793646a4944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1327052141,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1327052141,
+    "wof:lastmodified":1537665006,
+    "wof:name":"Wolenguena II",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.54903,
+    12.3883,
+    -5.54903,
+    12.3883
+],
+  "geometry": {"coordinates":[-5.54903,12.3883],"type":"Point"}
+}

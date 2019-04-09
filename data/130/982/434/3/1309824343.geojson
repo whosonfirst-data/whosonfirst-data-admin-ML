@@ -1,0 +1,77 @@
+{
+  "id": 1309824343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.96732,19.95427,2.96732,19.95427",
+    "geom:latitude":19.95427,
+    "geom:longitude":2.96732,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ti-n-Zaouatene",
+    "gn:country_code":"ML",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2476086,
+    "gn:latitude":19.95427,
+    "gn:longitude":2.96732,
+    "gn:modification_date":"2018-04-19",
+    "gn:name":"Ti-n-Zaou\u00e2tene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Algiers",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bordj Pierre Bordes",
+        "Tin Zaouaten",
+        "Fort Pierre Bordes",
+        "Ti-n-Zaou\u00e2tene",
+        "Tinzaouaten",
+        "Tinzawatene",
+        "Tin-Zaouatene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674515,
+        1108562885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2476086,
+        "wk:page":"Tinzaouaten"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a9fb7315be95364866b1ddf9a627935e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562885,
+            "locality_id":1309824343,
+            "region_id":85674515
+        }
+    ],
+    "wof:id":1309824343,
+    "wof:lastmodified":1537665281,
+    "wof:name":"Ti-n-Zaouatene",
+    "wof:parent_id":1108562885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.96732,
+    19.95427,
+    2.96732,
+    19.95427
+],
+  "geometry": {"coordinates":[2.96732,19.95427],"type":"Point"}
+}

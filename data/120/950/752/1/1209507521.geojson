@@ -1,0 +1,62 @@
+{
+  "id": 1209507521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.11357,11.64213,-6.11357,11.64213",
+    "geom:latitude":11.64213,
+    "geom:longitude":-6.11357,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Zibangolola",
+    "gn:country_code":"ML",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910366,
+    "gn:latitude":11.64213,
+    "gn:longitude":-6.11357,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Zibangolola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910366,
+        "wk:page":"Zibangolola"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3dd08576d080245dabbf2f1002150b21",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209507521
+        }
+    ],
+    "wof:id":1209507521,
+    "wof:lastmodified":1537568441,
+    "wof:name":"Zibangolola",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.11357,
+    11.64213,
+    -6.11357,
+    11.64213
+],
+  "geometry": {"coordinates":[-6.11357,11.64213],"type":"Point"}
+}

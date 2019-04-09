@@ -1,0 +1,61 @@
+{
+  "id": 1209636579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.01156,15.27966,-8.01156,15.27966",
+    "geom:latitude":15.27966,
+    "geom:longitude":-8.01156,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mounare",
+    "gn:country_code":"ML",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453282,
+    "gn:latitude":15.27966,
+    "gn:longitude":-8.01156,
+    "gn:modification_date":"2008-01-08",
+    "gn:name":"Mounar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453282
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"79017e9df9109a301eae4c296b98d69c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209636579
+        }
+    ],
+    "wof:id":1209636579,
+    "wof:lastmodified":1536281025,
+    "wof:name":"Mounare",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.011560000000001,
+    15.27966,
+    -8.011560000000001,
+    15.27966
+],
+  "geometry": {"coordinates":[-8.01156,15.27966],"type":"Point"}
+}

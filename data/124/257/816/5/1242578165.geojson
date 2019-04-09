@@ -1,0 +1,71 @@
+{
+  "id": 1242578165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.19454,14.36676,-4.19454,14.36676",
+    "geom:latitude":14.36676,
+    "geom:longitude":-4.19454,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sare Guita",
+    "gn:country_code":"ML",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451572,
+    "gn:latitude":14.36676,
+    "gn:longitude":-4.19454,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sar\u00e9 Guita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sar\u00e9-Guida",
+        "Sar\u00e9 Guita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451572
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"140b972facd0f1e4f0dfb27928eee4c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1242578165,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1242578165,
+    "wof:lastmodified":1537665064,
+    "wof:name":"Sare Guita",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.19454,
+    14.36676,
+    -4.19454,
+    14.36676
+],
+  "geometry": {"coordinates":[-4.19454,14.36676],"type":"Point"}
+}

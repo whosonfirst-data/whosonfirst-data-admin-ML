@@ -1,0 +1,72 @@
+{
+  "id": 1242700439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.50832,13.77646,-5.50832,13.77646",
+    "geom:latitude":13.77646,
+    "geom:longitude":-5.50832,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Diena",
+    "gn:country_code":"ML",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458873,
+    "gn:latitude":13.77646,
+    "gn:longitude":-5.50832,
+    "gn:modification_date":"2016-12-01",
+    "gn:name":"Di\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Di\u00e9na",
+        "Di\u00e9ma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458873,
+        "wk:page":"Diena%2C_Mali"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"26d780ddc39d998e70963c38faab1913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":1242700439,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1242700439,
+    "wof:lastmodified":1537665231,
+    "wof:name":"Diena",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.50832,
+    13.77646,
+    -5.50832,
+    13.77646
+],
+  "geometry": {"coordinates":[-5.50832,13.77646],"type":"Point"}
+}

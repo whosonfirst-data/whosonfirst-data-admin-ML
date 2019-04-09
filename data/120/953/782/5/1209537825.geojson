@@ -1,0 +1,61 @@
+{
+  "id": 1209537825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.38543,12.6438,-5.38543,12.6438",
+    "geom:latitude":12.6438,
+    "geom:longitude":-5.38543,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Zogueresso",
+    "gn:country_code":"ML",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448271,
+    "gn:latitude":12.6438,
+    "gn:longitude":-5.38543,
+    "gn:modification_date":"2008-10-24",
+    "gn:name":"Zogu\u00e9r\u00e9sso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448271
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2970b0959a80dd883fc0867822a8d6fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209537825
+        }
+    ],
+    "wof:id":1209537825,
+    "wof:lastmodified":1536284082,
+    "wof:name":"Zogueresso",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.38543,
+    12.6438,
+    -5.38543,
+    12.6438
+],
+  "geometry": {"coordinates":[-5.38543,12.6438],"type":"Point"}
+}

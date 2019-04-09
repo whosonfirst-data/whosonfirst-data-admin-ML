@@ -1,0 +1,67 @@
+{
+  "id": 1243169669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.79282,11.21788,-5.79282,11.21788",
+    "geom:latitude":11.21788,
+    "geom:longitude":-5.79282,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kantaribougou",
+    "gn:country_code":"ML",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6875150,
+    "gn:latitude":11.21788,
+    "gn:longitude":-5.79282,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Kantaribougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6875150
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b9f9a2b4d5e4349872b60d0c46229d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1243169669,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1243169669,
+    "wof:lastmodified":1536707936,
+    "wof:name":"Kantaribougou",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.79282,
+    11.21788,
+    -5.79282,
+    11.21788
+],
+  "geometry": {"coordinates":[-5.79282,11.21788],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293784355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.19469,14.6288,-3.19469,14.6288",
+    "geom:latitude":14.6288,
+    "geom:longitude":-3.19469,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kaoli",
+    "gn:country_code":"ML",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455677,
+    "gn:latitude":14.6288,
+    "gn:longitude":-3.19469,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kaoli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kadi",
+        "Kaoli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455677
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f2476e7909086fcbbcc5149911d31d2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1293784355,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1293784355,
+    "wof:lastmodified":1537665166,
+    "wof:name":"Kaoli",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.19469,
+    14.6288,
+    -3.19469,
+    14.6288
+],
+  "geometry": {"coordinates":[-3.19469,14.6288],"type":"Point"}
+}

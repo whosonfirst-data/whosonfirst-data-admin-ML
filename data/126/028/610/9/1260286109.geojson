@@ -1,0 +1,76 @@
+{
+  "id": 1260286109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.9279,13.4568,-8.9279,13.4568",
+    "geom:latitude":13.4568,
+    "geom:longitude":-8.9279,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dioke",
+    "gn:country_code":"ML",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458744,
+    "gn:latitude":13.4568,
+    "gn:longitude":-8.9279,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Diok\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Diok\u00e9"
+    ],
+    "name:fra_x_variant":[
+        "Diokh\u00e9"
+    ],
+    "name:und_x_variant":[
+        "Diokh\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458744
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9fac633e53569d79d4aa78611e5e064f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1260286109,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1260286109,
+    "wof:lastmodified":1537665228,
+    "wof:name":"Dioke",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.9279,
+    13.4568,
+    -8.9279,
+    13.4568
+],
+  "geometry": {"coordinates":[-8.9279,13.4568],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293314585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.1683,12.10596,-5.1683,12.10596",
+    "geom:latitude":12.10596,
+    "geom:longitude":-5.1683,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Banazo",
+    "gn:country_code":"ML",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460511,
+    "gn:latitude":12.10596,
+    "gn:longitude":-5.1683,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Banazo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Banenso",
+        "Banazo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460511
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2ead75a747beefe2b68109aa5b740f02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1293314585,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1293314585,
+    "wof:lastmodified":1537665270,
+    "wof:name":"Banazo",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.1683,
+    12.10596,
+    -5.1683,
+    12.10596
+],
+  "geometry": {"coordinates":[-5.1683,12.10596],"type":"Point"}
+}

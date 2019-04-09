@@ -1,0 +1,70 @@
+{
+  "id": 1309733269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.14724,13.58326,-8.14724,13.58326",
+    "geom:latitude":13.58326,
+    "geom:longitude":-8.14724,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Beleneko",
+    "gn:country_code":"ML",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460171,
+    "gn:latitude":13.58326,
+    "gn:longitude":-8.14724,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9l\u00e9n\u00e9ko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "B\u00e9l\u00e9n\u00e9ko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460171
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"20f864eeaa8056979a5dacaf8d13bd90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":1309733269,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1309733269,
+    "wof:lastmodified":1537665263,
+    "wof:name":"Beleneko",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.14724,
+    13.58326,
+    -8.14724,
+    13.58326
+],
+  "geometry": {"coordinates":[-8.14724,13.58326],"type":"Point"}
+}

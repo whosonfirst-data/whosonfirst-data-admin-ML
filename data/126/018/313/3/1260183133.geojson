@@ -1,0 +1,67 @@
+{
+  "id": 1260183133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.4751,13.3414,-3.4751,13.3414",
+    "geom:latitude":13.3414,
+    "geom:longitude":-3.4751,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kare",
+    "gn:country_code":"ML",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455628,
+    "gn:latitude":13.3414,
+    "gn:longitude":-3.4751,
+    "gn:modification_date":"2008-10-31",
+    "gn:name":"Kar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455628
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"dc20d2c2778eb58a2dc7a471072bb2c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1260183133,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1260183133,
+    "wof:lastmodified":1536847330,
+    "wof:name":"Kare",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.4751,
+    13.3414,
+    -3.4751,
+    13.3414
+],
+  "geometry": {"coordinates":[-3.4751,13.3414],"type":"Point"}
+}

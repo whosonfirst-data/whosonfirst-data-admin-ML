@@ -1,0 +1,70 @@
+{
+  "id": 1209211737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.09333,12.26778,-8.09333,12.26778",
+    "geom:latitude":12.26778,
+    "geom:longitude":-8.09333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Niangue Koura",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452464,
+    "gn:latitude":12.26778,
+    "gn:longitude":-8.09333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Niangu\u00e9 Koura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niengu\u00e9-Koura",
+        "Niank\u00e9kora",
+        "Ny\u00e8ng\u00e9koura",
+        "Ny\u00e8ngu\u00e9koura",
+        "Niankekoura",
+        "Niangu\u00e9 Koura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452464
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6c50234af31c0d3a7bd5ae4c5b011085",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209211737
+        }
+    ],
+    "wof:id":1209211737,
+    "wof:lastmodified":1537665085,
+    "wof:name":"Niangue Koura",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.09333,
+    12.26778,
+    -8.09333,
+    12.26778
+],
+  "geometry": {"coordinates":[-8.09333,12.26778],"type":"Point"}
+}

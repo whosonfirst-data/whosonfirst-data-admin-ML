@@ -1,0 +1,72 @@
+{
+  "id": 1327037487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.14103,15.34954,-10.14103,15.34954",
+    "geom:latitude":15.34954,
+    "geom:longitude":-10.14103,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Wainnkanou",
+    "gn:country_code":"ML",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452371,
+    "gn:latitude":15.34954,
+    "gn:longitude":-10.14103,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wa\u00efnnkanou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oua\u00efnkanou",
+        "Oua\u00efnnkanou",
+        "Wa\u00efnnkanou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452371
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2869dc251bca738a80f584b328478eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562863,
+            "locality_id":1327037487,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1327037487,
+    "wof:lastmodified":1537665082,
+    "wof:name":"Wainnkanou",
+    "wof:parent_id":1108562863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.14103,
+    15.34954,
+    -10.14103,
+    15.34954
+],
+  "geometry": {"coordinates":[-10.14103,15.34954],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259785225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.3834,13.0474,-9.3834,13.0474",
+    "geom:latitude":13.0474,
+    "geom:longitude":-9.3834,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kenieba",
+    "gn:country_code":"ML",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6912230,
+    "gn:latitude":13.0474,
+    "gn:longitude":-9.3834,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"K\u00e9ni\u00e9ba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00e9ni\u00e9ba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6912230,
+        "wk:page":"K%C3%A9ni%C3%A9ba"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a5d03acaf55bebf5b0b685ca8b3ce91f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1259785225,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1259785225,
+    "wof:lastmodified":1537665290,
+    "wof:name":"Kenieba",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.3834,
+    13.0474,
+    -9.3834,
+    13.0474
+],
+  "geometry": {"coordinates":[-9.3834,13.0474],"type":"Point"}
+}

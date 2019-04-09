@@ -1,0 +1,72 @@
+{
+  "id": 1310011935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.06127,14.61095,-4.06127,14.61095",
+    "geom:latitude":14.61095,
+    "geom:longitude":-4.06127,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Fatoma",
+    "gn:country_code":"ML",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457515,
+    "gn:latitude":14.61095,
+    "gn:longitude":-4.06127,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fatoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fotoma",
+        "Fatoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457515,
+        "wk:page":"Fatoma"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"212e9c555b02260608a2ba02e1345dea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1310011935,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1310011935,
+    "wof:lastmodified":1537665196,
+    "wof:name":"Fatoma",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.06127,
+    14.61095,
+    -4.06127,
+    14.61095
+],
+  "geometry": {"coordinates":[-4.06127,14.61095],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293121015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.22818,16.41871,-3.22818,16.41871",
+    "geom:latitude":16.41871,
+    "geom:longitude":-3.22818,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dabarassire",
+    "gn:country_code":"ML",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459519,
+    "gn:latitude":16.41871,
+    "gn:longitude":-3.22818,
+    "gn:modification_date":"2009-06-26",
+    "gn:name":"Dabarassir\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        421172359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459519
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1f6feb3f0ad017aff5a01c4564e4b2c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421172359,
+            "locality_id":1293121015,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1293121015,
+    "wof:lastmodified":1536817630,
+    "wof:name":"Dabarassire",
+    "wof:parent_id":421172359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.22818,
+    16.41871,
+    -3.22818,
+    16.41871
+],
+  "geometry": {"coordinates":[-3.22818,16.41871],"type":"Point"}
+}

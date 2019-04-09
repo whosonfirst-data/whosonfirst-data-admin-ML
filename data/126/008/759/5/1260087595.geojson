@@ -1,0 +1,67 @@
+{
+  "id": 1260087595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.799,14.7548,-10.799,14.7548",
+    "geom:latitude":14.7548,
+    "geom:longitude":-10.799,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Binela",
+    "gn:country_code":"ML",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460043,
+    "gn:latitude":14.7548,
+    "gn:longitude":-10.799,
+    "gn:modification_date":"2008-11-19",
+    "gn:name":"Bin\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460043
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3a5ca7a96eac2735638c5e204cc95cc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562863,
+            "locality_id":1260087595,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1260087595,
+    "wof:lastmodified":1536981335,
+    "wof:name":"Binela",
+    "wof:parent_id":1108562863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.799,
+    14.7548,
+    -10.799,
+    14.7548
+],
+  "geometry": {"coordinates":[-10.799,14.7548],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276552281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.091,14.2392,-6.091,14.2392",
+    "geom:latitude":14.2392,
+    "geom:longitude":-6.091,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Amadou-Doso Ware",
+    "gn:country_code":"ML",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2461115,
+    "gn:latitude":14.2392,
+    "gn:longitude":-6.091,
+    "gn:modification_date":"2008-11-17",
+    "gn:name":"Amadou-Doso War\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2461115
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ecddad4ad43fbf719269fbb8e3702d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562867,
+            "locality_id":1276552281,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1276552281,
+    "wof:lastmodified":1536981908,
+    "wof:name":"Amadou-Doso Ware",
+    "wof:parent_id":1108562867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.091,
+    14.2392,
+    -6.091,
+    14.2392
+],
+  "geometry": {"coordinates":[-6.091,14.2392],"type":"Point"}
+}

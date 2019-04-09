@@ -1,0 +1,77 @@
+{
+  "id": 1242975563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.9642,13.4793,-3.9642,13.4793",
+    "geom:latitude":13.4793,
+    "geom:longitude":-3.9642,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Daga",
+    "gn:country_code":"ML",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6874864,
+    "gn:latitude":13.4793,
+    "gn:longitude":-3.9642,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Daga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562843,
+        85632213,
+        1108805707,
+        890413165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6874864
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5b26c9fce0186ee5fa18fe69b0e9b852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562843,
+            "locality_id":1242975563,
+            "region_id":85674543
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413165,
+            "locality_id":1242975563,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1242975563,
+    "wof:lastmodified":1536986576,
+    "wof:name":"Daga",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.9642,
+    13.4793,
+    -3.9642,
+    13.4793
+],
+  "geometry": {"coordinates":[-3.9642,13.4793],"type":"Point"}
+}

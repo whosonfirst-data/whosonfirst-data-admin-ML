@@ -1,0 +1,67 @@
+{
+  "id": 1309718171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.6796,13.5459,-3.6796,13.5459",
+    "geom:latitude":13.5459,
+    "geom:longitude":-3.6796,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Diensay",
+    "gn:country_code":"ML",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6874941,
+    "gn:latitude":13.5459,
+    "gn:longitude":-3.6796,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Diensay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6874941
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e0c21032a3190018424853d25be82ff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1309718171,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1309718171,
+    "wof:lastmodified":1537054995,
+    "wof:name":"Diensay",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6796,
+    13.5459,
+    -3.6796,
+    13.5459
+],
+  "geometry": {"coordinates":[-3.6796,13.5459],"type":"Point"}
+}

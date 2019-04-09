@@ -1,0 +1,67 @@
+{
+  "id": 1209721795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.30763,14.47657,-3.30763,14.47657",
+    "geom:latitude":14.47657,
+    "geom:longitude":-3.30763,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sangui",
+    "gn:country_code":"ML",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6866692,
+    "gn:latitude":14.47657,
+    "gn:longitude":-3.30763,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Sangui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421171975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6866692
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ad363d66c88316076e697e2d4116c962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171975,
+            "locality_id":1209721795,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1209721795,
+    "wof:lastmodified":1536386041,
+    "wof:name":"Sangui",
+    "wof:parent_id":421171975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.30763,
+    14.47657,
+    -3.30763,
+    14.47657
+],
+  "geometry": {"coordinates":[-3.30763,14.47657],"type":"Point"}
+}

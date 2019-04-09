@@ -1,0 +1,61 @@
+{
+  "id": 1209434879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.149,15.8075,-5.149,15.8075",
+    "geom:latitude":15.8075,
+    "geom:longitude":-5.149,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Lekser",
+    "gn:country_code":"ML",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454120,
+    "gn:latitude":15.8075,
+    "gn:longitude":-5.149,
+    "gn:modification_date":"2008-01-04",
+    "gn:name":"Lekser",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454120
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"140ff2c9012aec90396246e035c6a2b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209434879
+        }
+    ],
+    "wof:id":1209434879,
+    "wof:lastmodified":1536287134,
+    "wof:name":"Lekser",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.149,
+    15.8075,
+    -5.149,
+    15.8075
+],
+  "geometry": {"coordinates":[-5.149,15.8075],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209027965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.26513,13.64473,-7.26513,13.64473",
+    "geom:latitude":13.64473,
+    "geom:longitude":-7.26513,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bako",
+    "gn:country_code":"ML",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460695,
+    "gn:latitude":13.64473,
+    "gn:longitude":-7.26513,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Bako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460695
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"278906619523ef657f6cf9752d8700ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209027965
+        }
+    ],
+    "wof:id":1209027965,
+    "wof:lastmodified":1536299936,
+    "wof:name":"Bako",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.26513,
+    13.64473,
+    -7.26513,
+    13.64473
+],
+  "geometry": {"coordinates":[-7.26513,13.64473],"type":"Point"}
+}

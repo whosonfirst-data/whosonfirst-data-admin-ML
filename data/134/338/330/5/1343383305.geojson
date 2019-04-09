@@ -1,0 +1,67 @@
+{
+  "id": 1343383305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.66233,11.57911,-6.66233,11.57911",
+    "geom:latitude":11.57911,
+    "geom:longitude":-6.66233,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Syola",
+    "gn:country_code":"ML",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910209,
+    "gn:latitude":11.57911,
+    "gn:longitude":-6.66233,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Syola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910209
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"97970688a09d9513c7604c06d7edd815",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1343383305,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1343383305,
+    "wof:lastmodified":1536856356,
+    "wof:name":"Syola",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.66233,
+    11.57911,
+    -6.66233,
+    11.57911
+],
+  "geometry": {"coordinates":[-6.66233,11.57911],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259577717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.50547,12.33671,-7.50547,12.33671",
+    "geom:latitude":12.33671,
+    "geom:longitude":-7.50547,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Diono",
+    "gn:country_code":"ML",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6895918,
+    "gn:latitude":12.33671,
+    "gn:longitude":-7.50547,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Diono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        421177883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6895918
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3e93043f96f59bab5d9413bde9640c62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177883,
+            "locality_id":1259577717,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1259577717,
+    "wof:lastmodified":1536723536,
+    "wof:name":"Diono",
+    "wof:parent_id":421177883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.50547,
+    12.33671,
+    -7.50547,
+    12.33671
+],
+  "geometry": {"coordinates":[-7.50547,12.33671],"type":"Point"}
+}

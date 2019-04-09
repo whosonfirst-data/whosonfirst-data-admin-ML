@@ -1,0 +1,67 @@
+{
+  "id": 1327249763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.06667,12.5,-9.06667,12.5",
+    "geom:latitude":12.5,
+    "geom:longitude":-9.06667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nourounba",
+    "gn:country_code":"ML",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452574,
+    "gn:latitude":12.5,
+    "gn:longitude":-9.06667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Nourounba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452574
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7024654c59fd9733fd536be1ddc8f3ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1327249763,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1327249763,
+    "wof:lastmodified":1536944923,
+    "wof:name":"Nourounba",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.06667,
+    12.5,
+    -9.06667,
+    12.5
+],
+  "geometry": {"coordinates":[-9.06667,12.5],"type":"Point"}
+}

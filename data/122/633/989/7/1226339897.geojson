@@ -1,0 +1,67 @@
+{
+  "id": 1226339897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.91276,11.44994,-7.91276,11.44994",
+    "geom:latitude":11.44994,
+    "geom:longitude":-7.91276,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Seribadianbougou",
+    "gn:country_code":"ML",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826698,
+    "gn:latitude":11.44994,
+    "gn:longitude":-7.91276,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"S\u00e9ribadianbougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826698
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c8d509a1c9ff51ee901eae79a46c3528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1226339897,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1226339897,
+    "wof:lastmodified":1536798045,
+    "wof:name":"Seribadianbougou",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.91276,
+    11.44994,
+    -7.91276,
+    11.44994
+],
+  "geometry": {"coordinates":[-7.91276,11.44994],"type":"Point"}
+}

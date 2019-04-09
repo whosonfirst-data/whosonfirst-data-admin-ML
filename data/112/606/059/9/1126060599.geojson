@@ -1,0 +1,102 @@
+{
+  "id": 1126060599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.0,12.63333,-8.0,12.63333",
+    "geom:latitude":12.63333,
+    "geom:longitude":-8.0,
+    "gn:gn_country":"ML",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"ML",
+    "lbl:latitude":12.63333,
+    "lbl:longitude":-8.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fra_x_preferred":[
+        "Bozola"
+    ],
+    "name:fra_x_variant":[
+        "Bosola"
+    ],
+    "name:unk_x_variant":[
+        "Bosola",
+        "Bozola"
+    ],
+    "qs_pg:aaroncc":"ML",
+    "qs_pg:gn_country":"ML",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":2459611,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bozola",
+    "qs_pg:name_adm0":"Mali",
+    "qs_pg:name_adm1":"Koulikoro",
+    "qs_pg:photos":265,
+    "qs_pg:photos_1k":54,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":265,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":892311,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424891,
+    "qs_pg:woe_id":1370415,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424891,
+    "woe:name_adm0":"Mali",
+    "woe:name_adm1":"Koulikoro",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85674525,
+        102191573,
+        85632553,
+        421187095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459611,
+        "gp:id":1370415,
+        "qs:id":892311,
+        "qs_pg:id":892311
+    },
+    "wof:country":"ML",
+    "wof:created":1497308030,
+    "wof:geomhash":"f91ff6322a24f66a818d11ef04ffebb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421187095,
+            "locality_id":-1,
+            "neighbourhood_id":1126060599,
+            "region_id":85674525
+        }
+    ],
+    "wof:id":1126060599,
+    "wof:lastmodified":1534379379,
+    "wof:name":"Bozola",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85802187
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.0,
+    12.63333,
+    -8.0,
+    12.63333
+],
+  "geometry": {"coordinates":[-8.0,12.63333],"type":"Point"}
+}

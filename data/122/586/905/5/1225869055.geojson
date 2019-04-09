@@ -1,0 +1,67 @@
+{
+  "id": 1225869055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.09666,14.52015,-4.09666,14.52015",
+    "geom:latitude":14.52015,
+    "geom:longitude":-4.09666,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tiaboli Sevare",
+    "gn:country_code":"ML",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6768609,
+    "gn:latitude":14.52015,
+    "gn:longitude":-4.09666,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Tiaboli S\u00e9var\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6768609
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b9c7c851ebb59c383e3979cf8b35f4d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1225869055,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1225869055,
+    "wof:lastmodified":1536979449,
+    "wof:name":"Tiaboli Sevare",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.09666,
+    14.52015,
+    -4.09666,
+    14.52015
+],
+  "geometry": {"coordinates":[-4.09666,14.52015],"type":"Point"}
+}

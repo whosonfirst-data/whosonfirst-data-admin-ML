@@ -1,0 +1,67 @@
+{
+  "id": 1276232699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.60438,13.36515,-6.60438,13.36515",
+    "geom:latitude":13.36515,
+    "geom:longitude":-6.60438,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Fassongo Ouere",
+    "gn:country_code":"ML",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910685,
+    "gn:latitude":13.36515,
+    "gn:longitude":-6.60438,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Fassongo Ou\u00e8r\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910685
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"cc66c28c8375d2e6de4b7fbe9625f011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562837,
+            "locality_id":1276232699,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1276232699,
+    "wof:lastmodified":1536914049,
+    "wof:name":"Fassongo Ouere",
+    "wof:parent_id":1108562837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.60438,
+    13.36515,
+    -6.60438,
+    13.36515
+],
+  "geometry": {"coordinates":[-6.60438,13.36515],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360179019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.08693,12.05309,-7.08693,12.05309",
+    "geom:latitude":12.05309,
+    "geom:longitude":-7.08693,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tomba",
+    "gn:country_code":"ML",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449076,
+    "gn:latitude":12.05309,
+    "gn:longitude":-7.08693,
+    "gn:modification_date":"2008-11-06",
+    "gn:name":"Tomba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449076
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d0ee7a7c528966f5f430300f56b5a656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1360179019,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1360179019,
+    "wof:lastmodified":1536809758,
+    "wof:name":"Tomba",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.08693,
+    12.05309,
+    -7.08693,
+    12.05309
+],
+  "geometry": {"coordinates":[-7.08693,12.05309],"type":"Point"}
+}

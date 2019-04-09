@@ -1,0 +1,61 @@
+{
+  "id": 1209522901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.07556,12.97886,-11.07556,12.97886",
+    "geom:latitude":12.97886,
+    "geom:longitude":-11.07556,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Galassi",
+    "gn:country_code":"ML",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457230,
+    "gn:latitude":12.97886,
+    "gn:longitude":-11.07556,
+    "gn:modification_date":"2007-10-09",
+    "gn:name":"Galassi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457230
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e0ee2b05afec4b953cb7fd2a2de6b2fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209522901
+        }
+    ],
+    "wof:id":1209522901,
+    "wof:lastmodified":1536284523,
+    "wof:name":"Galassi",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.07556,
+    12.97886,
+    -11.07556,
+    12.97886
+],
+  "geometry": {"coordinates":[-11.07556,12.97886],"type":"Point"}
+}

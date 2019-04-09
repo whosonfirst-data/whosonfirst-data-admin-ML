@@ -1,0 +1,72 @@
+{
+  "id": 1259864957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.23907,16.29514,-3.23907,16.29514",
+    "geom:latitude":16.29514,
+    "geom:longitude":-3.23907,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Fongo-Baber",
+    "gn:country_code":"ML",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457368,
+    "gn:latitude":16.29514,
+    "gn:longitude":-3.23907,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fongo-Baber",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fongo Mahama",
+        "Fongo Mahama Baber",
+        "Fongo-Baber"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        421172359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457368
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d4167d4a50e7ceaadd2a0327619b1235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421172359,
+            "locality_id":1259864957,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1259864957,
+    "wof:lastmodified":1537665191,
+    "wof:name":"Fongo-Baber",
+    "wof:parent_id":421172359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.23907,
+    16.29514,
+    -3.23907,
+    16.29514
+],
+  "geometry": {"coordinates":[-3.23907,16.29514],"type":"Point"}
+}

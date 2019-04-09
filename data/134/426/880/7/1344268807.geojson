@@ -1,0 +1,71 @@
+{
+  "id": 1344268807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.20237,14.49375,-11.20237,14.49375",
+    "geom:latitude":14.49375,
+    "geom:longitude":-11.20237,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kabate",
+    "gn:country_code":"ML",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6920679,
+    "gn:latitude":14.49375,
+    "gn:longitude":-11.20237,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kabat\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabat\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6920679,
+        "wk:page":"Kabat%C3%A9"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a400c756ef38a61ab0fa3d99c60c377c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1344268807,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1344268807,
+    "wof:lastmodified":1537665290,
+    "wof:name":"Kabate",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.20237,
+    14.49375,
+    -11.20237,
+    14.49375
+],
+  "geometry": {"coordinates":[-11.20237,14.49375],"type":"Point"}
+}

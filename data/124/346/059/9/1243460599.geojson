@@ -1,0 +1,67 @@
+{
+  "id": 1243460599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.8316,13.656,-3.8316,13.656",
+    "geom:latitude":13.656,
+    "geom:longitude":-3.8316,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Djinaban",
+    "gn:country_code":"ML",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458536,
+    "gn:latitude":13.656,
+    "gn:longitude":-3.8316,
+    "gn:modification_date":"2008-10-31",
+    "gn:name":"Djinaban",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458536
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"269231edb1c4221dd8e305c3d35d81ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1243460599,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1243460599,
+    "wof:lastmodified":1536785562,
+    "wof:name":"Djinaban",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8316,
+    13.656,
+    -3.8316,
+    13.656
+],
+  "geometry": {"coordinates":[-3.8316,13.656],"type":"Point"}
+}

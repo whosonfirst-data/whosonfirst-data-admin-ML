@@ -1,0 +1,67 @@
+{
+  "id": 1344068467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.87643,15.36425,-9.87643,15.36425",
+    "geom:latitude":15.36425,
+    "geom:longitude":-9.87643,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Diamoukata",
+    "gn:country_code":"ML",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6759486,
+    "gn:latitude":15.36425,
+    "gn:longitude":-9.87643,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Diamoukata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6759486
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9ae33006056eea404914f6ec1ea2866a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562869,
+            "locality_id":1344068467,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1344068467,
+    "wof:lastmodified":1536862583,
+    "wof:name":"Diamoukata",
+    "wof:parent_id":1108562869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.87643,
+    15.36425,
+    -9.87643,
+    15.36425
+],
+  "geometry": {"coordinates":[-9.87643,15.36425],"type":"Point"}
+}

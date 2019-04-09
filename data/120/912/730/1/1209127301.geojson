@@ -1,0 +1,65 @@
+{
+  "id": 1209127301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.05632,12.68964,-8.05632,12.68964",
+    "geom:latitude":12.68964,
+    "geom:longitude":-8.05632,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dounting",
+    "gn:country_code":"ML",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594644,
+    "gn:latitude":12.68964,
+    "gn:longitude":-8.05632,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Dounting",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dounfing",
+        "Dounting"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594644
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4bafd40c751b8a61a5b7f9eedeae187d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209127301
+        }
+    ],
+    "wof:id":1209127301,
+    "wof:lastmodified":1537665283,
+    "wof:name":"Dounting",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.05632,
+    12.68964,
+    -8.05632,
+    12.68964
+],
+  "geometry": {"coordinates":[-8.05632,12.68964],"type":"Point"}
+}

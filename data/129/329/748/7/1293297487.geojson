@@ -1,0 +1,74 @@
+{
+  "id": 1293297487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.23888,12.91127,-6.23888,12.91127",
+    "geom:latitude":12.91127,
+    "geom:longitude":-6.23888,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Falou",
+    "gn:country_code":"ML",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457778,
+    "gn:latitude":12.91127,
+    "gn:longitude":-6.23888,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Falou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Falo"
+    ],
+    "name:und_x_variant":[
+        "Falo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457778,
+        "wk:page":"Falo%2C_Mali"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"380426505c8c3800754d90ae2d70eb99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562835,
+            "locality_id":1293297487,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1293297487,
+    "wof:lastmodified":1537665201,
+    "wof:name":"Falou",
+    "wof:parent_id":1108562835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.23888,
+    12.91127,
+    -6.23888,
+    12.91127
+],
+  "geometry": {"coordinates":[-6.23888,12.91127],"type":"Point"}
+}

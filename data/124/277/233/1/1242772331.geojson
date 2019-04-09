@@ -1,0 +1,72 @@
+{
+  "id": 1242772331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.07863,13.4851,-7.07863,13.4851",
+    "geom:latitude":13.4851,
+    "geom:longitude":-7.07863,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tamba",
+    "gn:country_code":"ML",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450239,
+    "gn:latitude":13.4851,
+    "gn:longitude":-7.07863,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Tamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toumba",
+        "Tanba",
+        "Tamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450239
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a885418ef8e67da3b4fe84e86a40792f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562839,
+            "locality_id":1242772331,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1242772331,
+    "wof:lastmodified":1537665035,
+    "wof:name":"Tamba",
+    "wof:parent_id":1108562839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.07863,
+    13.4851,
+    -7.07863,
+    13.4851
+],
+  "geometry": {"coordinates":[-7.07863,13.4851],"type":"Point"}
+}

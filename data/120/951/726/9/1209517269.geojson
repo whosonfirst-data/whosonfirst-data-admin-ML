@@ -1,0 +1,61 @@
+{
+  "id": 1209517269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.6919,14.2306,-10.6919,14.2306",
+    "geom:latitude":14.2306,
+    "geom:longitude":-10.6919,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Banguirila",
+    "gn:country_code":"ML",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460425,
+    "gn:latitude":14.2306,
+    "gn:longitude":-10.6919,
+    "gn:modification_date":"2008-11-19",
+    "gn:name":"Banguirila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460425
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5c745c3d34626ca1c372b2650b29135c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209517269
+        }
+    ],
+    "wof:id":1209517269,
+    "wof:lastmodified":1536284692,
+    "wof:name":"Banguirila",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.6919,
+    14.2306,
+    -10.6919,
+    14.2306
+],
+  "geometry": {"coordinates":[-10.6919,14.2306],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293688699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.50202,13.1976,-11.50202,13.1976",
+    "geom:latitude":13.1976,
+    "geom:longitude":-11.50202,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kenieko",
+    "gn:country_code":"ML",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455405,
+    "gn:latitude":13.1976,
+    "gn:longitude":-11.50202,
+    "gn:modification_date":"2007-10-17",
+    "gn:name":"K\u00e9ni\u00e9ko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455405
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9a703b4a0f8fb02d209da6d9af08a31d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171903,
+            "locality_id":1293688699,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1293688699,
+    "wof:lastmodified":1536993423,
+    "wof:name":"Kenieko",
+    "wof:parent_id":421171903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.50202,
+    13.1976,
+    -11.50202,
+    13.1976
+],
+  "geometry": {"coordinates":[-11.50202,13.1976],"type":"Point"}
+}

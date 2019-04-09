@@ -1,0 +1,67 @@
+{
+  "id": 1209925725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.4059,15.02191,-9.4059,15.02191",
+    "geom:latitude":15.02191,
+    "geom:longitude":-9.4059,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kamoune Kasse",
+    "gn:country_code":"ML",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455786,
+    "gn:latitude":15.02191,
+    "gn:longitude":-9.4059,
+    "gn:modification_date":"2008-05-07",
+    "gn:name":"Kamoune Kass\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455786
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c90aa15827347da48a503458bf3a2f67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562857,
+            "locality_id":1209925725,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1209925725,
+    "wof:lastmodified":1536395003,
+    "wof:name":"Kamoune Kasse",
+    "wof:parent_id":1108562857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.4059,
+    15.02191,
+    -9.4059,
+    15.02191
+],
+  "geometry": {"coordinates":[-9.4059,15.02191],"type":"Point"}
+}

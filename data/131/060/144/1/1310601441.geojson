@@ -1,0 +1,67 @@
+{
+  "id": 1310601441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.59459,14.26809,-4.59459,14.26809",
+    "geom:latitude":14.26809,
+    "geom:longitude":-4.59459,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Daguere Modi",
+    "gn:country_code":"ML",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6764551,
+    "gn:latitude":14.26809,
+    "gn:longitude":-4.59459,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Dagu\u00e9r\u00e9 Modi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421187097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6764551
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2cdba917154c7ac5e293ee653d9d854d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421187097,
+            "locality_id":1310601441,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1310601441,
+    "wof:lastmodified":1536779044,
+    "wof:name":"Daguere Modi",
+    "wof:parent_id":421187097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.59459,
+    14.26809,
+    -4.59459,
+    14.26809
+],
+  "geometry": {"coordinates":[-4.59459,14.26809],"type":"Point"}
+}

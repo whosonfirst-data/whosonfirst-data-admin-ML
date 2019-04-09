@@ -1,0 +1,67 @@
+{
+  "id": 1310338497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.292,14.1204,-3.292,14.1204",
+    "geom:latitude":14.1204,
+    "geom:longitude":-3.292,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Modori",
+    "gn:country_code":"ML",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6866989,
+    "gn:latitude":14.1204,
+    "gn:longitude":-3.292,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Modori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6866989
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0d2d0978cee0044e2293730595f977e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1310338497,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1310338497,
+    "wof:lastmodified":1536660460,
+    "wof:name":"Modori",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.292,
+    14.1204,
+    -3.292,
+    14.1204
+],
+  "geometry": {"coordinates":[-3.292,14.1204],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209306175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.0655,12.97304,-8.0655,12.97304",
+    "geom:latitude":12.97304,
+    "geom:longitude":-8.0655,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Banaouolo",
+    "gn:country_code":"ML",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594695,
+    "gn:latitude":12.97304,
+    "gn:longitude":-8.0655,
+    "gn:modification_date":"2008-11-14",
+    "gn:name":"Banaouolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594695
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"bf08d208453bfa0a69f10dd8ac42d08a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209306175
+        }
+    ],
+    "wof:id":1209306175,
+    "wof:lastmodified":1536291189,
+    "wof:name":"Banaouolo",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.0655,
+    12.97304,
+    -8.0655,
+    12.97304
+],
+  "geometry": {"coordinates":[-8.0655,12.97304],"type":"Point"}
+}

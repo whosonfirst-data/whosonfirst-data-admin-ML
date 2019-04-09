@@ -1,0 +1,67 @@
+{
+  "id": 1193051015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.95415,14.40093,-4.95415,14.40093",
+    "geom:latitude":14.40093,
+    "geom:longitude":-4.95415,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sare-Barke",
+    "gn:country_code":"ML",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6763824,
+    "gn:latitude":14.40093,
+    "gn:longitude":-4.95415,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Sar\u00e9-Bark\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6763824
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"12a8ce23d4fa1a9f91b5eb55907e19ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562861,
+            "locality_id":1193051015,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1193051015,
+    "wof:lastmodified":1536366107,
+    "wof:name":"Sare-Barke",
+    "wof:parent_id":1108562861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.95415,
+    14.40093,
+    -4.95415,
+    14.40093
+],
+  "geometry": {"coordinates":[-4.95415,14.40093],"type":"Point"}
+}

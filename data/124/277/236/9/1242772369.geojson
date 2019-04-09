@@ -1,0 +1,71 @@
+{
+  "id": 1242772369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.96124,13.76565,-6.96124,13.76565",
+    "geom:latitude":13.76565,
+    "geom:longitude":-6.96124,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Konani",
+    "gn:country_code":"ML",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454855,
+    "gn:latitude":13.76565,
+    "gn:longitude":-6.96124,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Konani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koundouam",
+        "Konani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454855
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"972c36a3cb09fe2e55ba3a4c6a1586b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562851,
+            "locality_id":1242772369,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1242772369,
+    "wof:lastmodified":1537665146,
+    "wof:name":"Konani",
+    "wof:parent_id":1108562851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.96124,
+    13.76565,
+    -6.96124,
+    13.76565
+],
+  "geometry": {"coordinates":[-6.96124,13.76565],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225847013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.16951,15.08419,-11.16951,15.08419",
+    "geom:latitude":15.08419,
+    "geom:longitude":-11.16951,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Melgue",
+    "gn:country_code":"ML",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6652450,
+    "gn:latitude":15.08419,
+    "gn:longitude":-11.16951,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Melgu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6652450
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a3d3606c53e71eb3d47fd0dcf5e4359a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1225847013,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1225847013,
+    "wof:lastmodified":1537011126,
+    "wof:name":"Melgue",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.16951,
+    15.08419,
+    -11.16951,
+    15.08419
+],
+  "geometry": {"coordinates":[-11.16951,15.08419],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243255463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.96128,13.67384,-7.96128,13.67384",
+    "geom:latitude":13.67384,
+    "geom:longitude":-7.96128,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Torokoroni",
+    "gn:country_code":"ML",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6906652,
+    "gn:latitude":13.67384,
+    "gn:longitude":-7.96128,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Torokoroni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6906652
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a76f80f61b575c7898325a47a7decf24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":1243255463,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1243255463,
+    "wof:lastmodified":1537077737,
+    "wof:name":"Torokoroni",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.96128,
+    13.67384,
+    -7.96128,
+    13.67384
+],
+  "geometry": {"coordinates":[-7.96128,13.67384],"type":"Point"}
+}

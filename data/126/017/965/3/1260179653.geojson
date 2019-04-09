@@ -1,0 +1,78 @@
+{
+  "id": 1260179653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.72137,11.19941,-6.72137,11.19941",
+    "geom:latitude":11.19941,
+    "geom:longitude":-6.72137,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Makana",
+    "gn:country_code":"ML",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453932,
+    "gn:latitude":11.19941,
+    "gn:longitude":-6.72137,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Makana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mahana"
+    ],
+    "name:fra_x_variant":[
+        "Mabana"
+    ],
+    "name:und_x_variant":[
+        "Mabana",
+        "Makana",
+        "Mahana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453932
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1a850566664abe113f98d1751e88f514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562819,
+            "locality_id":1260179653,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1260179653,
+    "wof:lastmodified":1537665126,
+    "wof:name":"Makana",
+    "wof:parent_id":1108562819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.72137,
+    11.19941,
+    -6.72137,
+    11.19941
+],
+  "geometry": {"coordinates":[-6.72137,11.19941],"type":"Point"}
+}

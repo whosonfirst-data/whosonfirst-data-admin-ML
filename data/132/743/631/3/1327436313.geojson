@@ -1,0 +1,71 @@
+{
+  "id": 1327436313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.2212,13.1536,-6.2212,13.1536",
+    "geom:latitude":13.1536,
+    "geom:longitude":-6.2212,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Fombougou",
+    "gn:country_code":"ML",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457375,
+    "gn:latitude":13.1536,
+    "gn:longitude":-6.2212,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fombougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fonbougou",
+        "Fombougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457375
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"bc4c75dedd48caaf18bdaf3c11dd29cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562837,
+            "locality_id":1327436313,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1327436313,
+    "wof:lastmodified":1537665192,
+    "wof:name":"Fombougou",
+    "wof:parent_id":1108562837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.2212,
+    13.1536,
+    -6.2212,
+    13.1536
+],
+  "geometry": {"coordinates":[-6.2212,13.1536],"type":"Point"}
+}

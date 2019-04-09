@@ -1,0 +1,67 @@
+{
+  "id": 1360287317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.14451,14.33739,-11.14451,14.33739",
+    "geom:latitude":14.33739,
+    "geom:longitude":-11.14451,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Birim",
+    "gn:country_code":"ML",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460025,
+    "gn:latitude":14.33739,
+    "gn:longitude":-11.14451,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Birim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460025
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3b7a482d79f1e6b856ca9f40ab628ac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1360287317,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1360287317,
+    "wof:lastmodified":1536653840,
+    "wof:name":"Birim",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.14451,
+    14.33739,
+    -11.14451,
+    14.33739
+],
+  "geometry": {"coordinates":[-11.14451,14.33739],"type":"Point"}
+}

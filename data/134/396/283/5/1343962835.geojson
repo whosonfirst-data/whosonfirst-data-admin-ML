@@ -1,0 +1,67 @@
+{
+  "id": 1343962835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.6201,14.1881,-5.6201,14.1881",
+    "geom:latitude":14.1881,
+    "geom:longitude":-5.6201,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bouanakoro",
+    "gn:country_code":"ML",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6879444,
+    "gn:latitude":14.1881,
+    "gn:longitude":-5.6201,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Bouanakoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6879444
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a1032564bf279febf19fa03a252a3c47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":1343962835,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1343962835,
+    "wof:lastmodified":1537015776,
+    "wof:name":"Bouanakoro",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.6201,
+    14.1881,
+    -5.6201,
+    14.1881
+],
+  "geometry": {"coordinates":[-5.6201,14.1881],"type":"Point"}
+}

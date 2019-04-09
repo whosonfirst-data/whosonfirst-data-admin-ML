@@ -1,0 +1,68 @@
+{
+  "id": 1326541461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.96389,14.76333,-9.96389,14.76333",
+    "geom:latitude":14.76333,
+    "geom:longitude":-9.96389,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Troungoumbe",
+    "gn:country_code":"ML",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11468102,
+    "gn:latitude":14.76333,
+    "gn:longitude":-9.96389,
+    "gn:modification_date":"2018-04-13",
+    "gn:name":"Troungoumb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11468102,
+        "wk:page":"Trougoumb%C3%A9"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"485456fc9bfaf7b48b9a710933d9544f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562857,
+            "locality_id":1326541461,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1326541461,
+    "wof:lastmodified":1537568443,
+    "wof:name":"Troungoumbe",
+    "wof:parent_id":1108562857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.96389,
+    14.76333,
+    -9.96389,
+    14.76333
+],
+  "geometry": {"coordinates":[-9.96389,14.76333],"type":"Point"}
+}

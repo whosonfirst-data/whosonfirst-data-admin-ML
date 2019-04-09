@@ -1,0 +1,70 @@
+{
+  "id": 1210014007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.39692,11.04497,-6.39692,11.04497",
+    "geom:latitude":11.04497,
+    "geom:longitude":-6.39692,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Fala",
+    "gn:country_code":"ML",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457824,
+    "gn:latitude":11.04497,
+    "gn:longitude":-6.39692,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Fala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Fala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457824
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"028104498d594683acc2039229a9fc54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562819,
+            "locality_id":1210014007,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1210014007,
+    "wof:lastmodified":1537665203,
+    "wof:name":"Fala",
+    "wof:parent_id":1108562819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.39692,
+    11.04497,
+    -6.39692,
+    11.04497
+],
+  "geometry": {"coordinates":[-6.39692,11.04497],"type":"Point"}
+}

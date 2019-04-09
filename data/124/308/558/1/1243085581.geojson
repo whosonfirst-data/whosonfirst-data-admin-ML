@@ -1,0 +1,72 @@
+{
+  "id": 1243085581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.61667,10.63333,-5.61667,10.63333",
+    "geom:latitude":10.63333,
+    "geom:longitude":-5.61667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Katele",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455559,
+    "gn:latitude":10.63333,
+    "gn:longitude":-5.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kat\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kati\u00e9l\u00e9",
+        "Kat\u00e9l\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455559
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"26758f2a480e21d33a228691be07ce95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562817,
+            "locality_id":1243085581,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1243085581,
+    "wof:lastmodified":1537665163,
+    "wof:name":"Katele",
+    "wof:parent_id":1108562817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.61667,
+    10.63333,
+    -5.61667,
+    10.63333
+],
+  "geometry": {"coordinates":[-5.61667,10.63333],"type":"Point"}
+}

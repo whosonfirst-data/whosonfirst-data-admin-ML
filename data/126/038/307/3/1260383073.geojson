@@ -1,0 +1,70 @@
+{
+  "id": 1260383073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.0408,13.2092,-8.0408,13.2092",
+    "geom:latitude":13.2092,
+    "geom:longitude":-8.0408,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Belekanbougou",
+    "gn:country_code":"ML",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460184,
+    "gn:latitude":13.2092,
+    "gn:longitude":-8.0408,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9l\u00e9kanbougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "B\u00e9l\u00e9kanbougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460184
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6e30a1870c68179034742ec926517902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":1260383073,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1260383073,
+    "wof:lastmodified":1537665264,
+    "wof:name":"Belekanbougou",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.0408,
+    13.2092,
+    -8.0408,
+    13.2092
+],
+  "geometry": {"coordinates":[-8.0408,13.2092],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293401603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.7308,14.9563,-9.7308,14.9563",
+    "geom:latitude":14.9563,
+    "geom:longitude":-9.7308,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dinndinae Nibeya",
+    "gn:country_code":"ML",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6911499,
+    "gn:latitude":14.9563,
+    "gn:longitude":-9.7308,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Dinndina\u00e9 Nibeya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6911499
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a6e44e418edd0bc5a2d48e68f7d1cb37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562869,
+            "locality_id":1293401603,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1293401603,
+    "wof:lastmodified":1536911123,
+    "wof:name":"Dinndinae Nibeya",
+    "wof:parent_id":1108562869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.7308,
+    14.9563,
+    -9.7308,
+    14.9563
+],
+  "geometry": {"coordinates":[-9.7308,14.9563],"type":"Point"}
+}

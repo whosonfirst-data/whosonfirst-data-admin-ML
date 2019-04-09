@@ -1,0 +1,72 @@
+{
+  "id": 1360082611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.18314,16.50534,-3.18314,16.50534",
+    "geom:latitude":16.50534,
+    "geom:longitude":-3.18314,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Garbeykoyra",
+    "gn:country_code":"ML",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457138,
+    "gn:latitude":16.50534,
+    "gn:longitude":-3.18314,
+    "gn:modification_date":"2018-04-14",
+    "gn:name":"Garb\u00e8ykoyra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garbaikoira",
+        "Garb\u00e8ykoyra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        421172359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457138,
+        "wk:page":"Garbako%C3%AFra"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9d644951ae9e5f1680732135294a7e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421172359,
+            "locality_id":1360082611,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1360082611,
+    "wof:lastmodified":1537665186,
+    "wof:name":"Garbeykoyra",
+    "wof:parent_id":421172359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.18314,
+    16.50534,
+    -3.18314,
+    16.50534
+],
+  "geometry": {"coordinates":[-3.18314,16.50534],"type":"Point"}
+}

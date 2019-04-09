@@ -1,0 +1,67 @@
+{
+  "id": 1242583511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.1357,15.6299,-4.1357,15.6299",
+    "geom:latitude":15.6299,
+    "geom:longitude":-4.1357,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gadia",
+    "gn:country_code":"ML",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6687441,
+    "gn:latitude":15.6299,
+    "gn:longitude":-4.1357,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Gadia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6687441
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"26034891d92ed20f057c98aa225befa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562871,
+            "locality_id":1242583511,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1242583511,
+    "wof:lastmodified":1537052815,
+    "wof:name":"Gadia",
+    "wof:parent_id":1108562871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.1357,
+    15.6299,
+    -4.1357,
+    15.6299
+],
+  "geometry": {"coordinates":[-4.1357,15.6299],"type":"Point"}
+}

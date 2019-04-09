@@ -1,0 +1,67 @@
+{
+  "id": 1327325459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.89567,13.48656,-6.89567,13.48656",
+    "geom:latitude":13.48656,
+    "geom:longitude":-6.89567,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Siradiankoro",
+    "gn:country_code":"ML",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910445,
+    "gn:latitude":13.48656,
+    "gn:longitude":-6.89567,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Siradiankoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910445
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"776bb9367c09870389841d65c30ef421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562839,
+            "locality_id":1327325459,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1327325459,
+    "wof:lastmodified":1536834260,
+    "wof:name":"Siradiankoro",
+    "wof:parent_id":1108562839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.89567,
+    13.48656,
+    -6.89567,
+    13.48656
+],
+  "geometry": {"coordinates":[-6.89567,13.48656],"type":"Point"}
+}

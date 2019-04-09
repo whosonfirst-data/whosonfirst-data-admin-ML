@@ -1,0 +1,71 @@
+{
+  "id": 1276877683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.06093,12.8557,-5.06093,12.8557",
+    "geom:latitude":12.8557,
+    "geom:longitude":-5.06093,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Dioundiou",
+    "gn:country_code":"ML",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458644,
+    "gn:latitude":12.8557,
+    "gn:longitude":-5.06093,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dioundiou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dioudiou",
+        "Dioundiou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421192717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458644
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"cab5e6c34dfc1931a46484c2b917fda8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421192717,
+            "locality_id":1276877683,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1276877683,
+    "wof:lastmodified":1537665225,
+    "wof:name":"Dioundiou",
+    "wof:parent_id":421192717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.06093,
+    12.8557,
+    -5.06093,
+    12.8557
+],
+  "geometry": {"coordinates":[-5.06093,12.8557],"type":"Point"}
+}

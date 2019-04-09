@@ -1,0 +1,80 @@
+{
+  "id": 1259675333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.8015,12.1342,-6.8015,12.1342",
+    "geom:latitude":12.1342,
+    "geom:longitude":-6.8015,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Masakoni",
+    "gn:country_code":"ML",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453636,
+    "gn:latitude":12.1342,
+    "gn:longitude":-6.8015,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Masakoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Massakoni"
+    ],
+    "name:fra_x_variant":[
+        "Masakani",
+        "Bouya Bougou"
+    ],
+    "name:und_x_variant":[
+        "Bouya Bougou",
+        "Masakani",
+        "Masakoni",
+        "Massakoni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453636
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b7bf4994cd621aaef4d6fb337a021bc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1259675333,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1259675333,
+    "wof:lastmodified":1537665119,
+    "wof:name":"Masakoni",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.8015,
+    12.1342,
+    -6.8015,
+    12.1342
+],
+  "geometry": {"coordinates":[-6.8015,12.1342],"type":"Point"}
+}

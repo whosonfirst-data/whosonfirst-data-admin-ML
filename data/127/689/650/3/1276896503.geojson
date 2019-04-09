@@ -1,0 +1,67 @@
+{
+  "id": 1276896503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.64751,11.69128,-6.64751,11.69128",
+    "geom:latitude":11.69128,
+    "geom:longitude":-6.64751,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Menie",
+    "gn:country_code":"ML",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910207,
+    "gn:latitude":11.69128,
+    "gn:longitude":-6.64751,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"M\u00e9ni\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910207
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7416619c3d17c623b134c6f2e63d98de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1276896503,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1276896503,
+    "wof:lastmodified":1537018154,
+    "wof:name":"Menie",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.64751,
+    11.69128,
+    -6.64751,
+    11.69128
+],
+  "geometry": {"coordinates":[-6.64751,11.69128],"type":"Point"}
+}

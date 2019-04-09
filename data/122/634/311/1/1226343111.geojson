@@ -1,0 +1,67 @@
+{
+  "id": 1226343111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.7087,13.7197,-3.7087,13.7197",
+    "geom:latitude":13.7197,
+    "geom:longitude":-3.7087,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Yalema",
+    "gn:country_code":"ML",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448522,
+    "gn:latitude":13.7197,
+    "gn:longitude":-3.7087,
+    "gn:modification_date":"2008-10-31",
+    "gn:name":"Yal\u00e9ma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448522
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5d7bc7b7c5b0e36a61569fb355593cfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1226343111,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1226343111,
+    "wof:lastmodified":1536793560,
+    "wof:name":"Yalema",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7087,
+    13.7197,
+    -3.7087,
+    13.7197
+],
+  "geometry": {"coordinates":[-3.7087,13.7197],"type":"Point"}
+}

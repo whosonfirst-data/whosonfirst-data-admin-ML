@@ -1,0 +1,78 @@
+{
+  "id": 1327131255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0584,12.2826,-6.0584,12.2826",
+    "geom:latitude":12.2826,
+    "geom:longitude":-6.0584,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Konosourou",
+    "gn:country_code":"ML",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454742,
+    "gn:latitude":12.2826,
+    "gn:longitude":-6.0584,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Konosourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Konossourou"
+    ],
+    "name:fra_x_variant":[
+        "Kanossourou"
+    ],
+    "name:und_x_variant":[
+        "Kanossourou",
+        "Konosourou",
+        "Konossourou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454742
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9617f36bce39b8bd0b06d6d924610e2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1327131255,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1327131255,
+    "wof:lastmodified":1537665142,
+    "wof:name":"Konosourou",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0584,
+    12.2826,
+    -6.0584,
+    12.2826
+],
+  "geometry": {"coordinates":[-6.0584,12.2826],"type":"Point"}
+}

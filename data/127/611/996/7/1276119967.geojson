@@ -1,0 +1,67 @@
+{
+  "id": 1276119967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.69435,14.43895,-11.69435,14.43895",
+    "geom:latitude":14.43895,
+    "geom:longitude":-11.69435,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Belidinkare",
+    "gn:country_code":"ML",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460163,
+    "gn:latitude":14.43895,
+    "gn:longitude":-11.69435,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"B\u00e9lidinkar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460163
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0e33286418e4a5e38fd0839c310f6fef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1276119967,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1276119967,
+    "wof:lastmodified":1537061746,
+    "wof:name":"Belidinkare",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.69435,
+    14.43895,
+    -11.69435,
+    14.43895
+],
+  "geometry": {"coordinates":[-11.69435,14.43895],"type":"Point"}
+}

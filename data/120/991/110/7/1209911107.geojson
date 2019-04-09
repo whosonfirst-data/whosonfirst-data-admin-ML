@@ -1,0 +1,76 @@
+{
+  "id": 1209911107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.01131,13.93472,-8.01131,13.93472",
+    "geom:latitude":13.93472,
+    "geom:longitude":-8.01131,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tiekouroula",
+    "gn:country_code":"ML",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449757,
+    "gn:latitude":13.93472,
+    "gn:longitude":-8.01131,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ti\u00e9kouroula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ti\u00e9kouroula"
+    ],
+    "name:fra_x_variant":[
+        "Ti\u00e9courala"
+    ],
+    "name:und_x_variant":[
+        "Ti\u00e9courala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449757
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"108b70c6a3b03e444368292c282760bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":1209911107,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1209911107,
+    "wof:lastmodified":1537665027,
+    "wof:name":"Tiekouroula",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.01131,
+    13.93472,
+    -8.01131,
+    13.93472
+],
+  "geometry": {"coordinates":[-8.01131,13.93472],"type":"Point"}
+}

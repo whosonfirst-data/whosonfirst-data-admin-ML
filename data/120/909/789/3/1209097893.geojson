@@ -1,0 +1,61 @@
+{
+  "id": 1209097893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.60017,14.97977,-8.60017,14.97977",
+    "geom:latitude":14.97977,
+    "geom:longitude":-8.60017,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Lawene",
+    "gn:country_code":"ML",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454146,
+    "gn:latitude":14.97977,
+    "gn:longitude":-8.60017,
+    "gn:modification_date":"2008-11-18",
+    "gn:name":"Law\u00e9n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454146
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"941de1d5d55e77bbb6df62a1c6d97da2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209097893
+        }
+    ],
+    "wof:id":1209097893,
+    "wof:lastmodified":1536297828,
+    "wof:name":"Lawene",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.60017,
+    14.979770000000002,
+    -8.60017,
+    14.979770000000002
+],
+  "geometry": {"coordinates":[-8.60017,14.97977],"type":"Point"}
+}

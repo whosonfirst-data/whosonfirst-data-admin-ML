@@ -1,0 +1,67 @@
+{
+  "id": 1193134837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.35117,11.9255,-5.35117,11.9255",
+    "geom:latitude":11.9255,
+    "geom:longitude":-5.35117,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kesso",
+    "gn:country_code":"ML",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6875035,
+    "gn:latitude":11.9255,
+    "gn:longitude":-5.35117,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Kesso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6875035
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"15acfe1e6906f67fa5af4c410b43966a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1193134837,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1193134837,
+    "wof:lastmodified":1536371885,
+    "wof:name":"Kesso",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.35117,
+    11.9255,
+    -5.35117,
+    11.9255
+],
+  "geometry": {"coordinates":[-5.35117,11.9255],"type":"Point"}
+}

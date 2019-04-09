@@ -1,0 +1,74 @@
+{
+  "id": 1343857423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.21317,13.04561,-5.21317,13.04561",
+    "geom:latitude":13.04561,
+    "geom:longitude":-5.21317,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bankouma",
+    "gn:country_code":"ML",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452797,
+    "gn:latitude":13.04561,
+    "gn:longitude":-5.21317,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Bankouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niamana-Bankouma",
+        "Niamana Bankoumana",
+        "Niamina",
+        "Niamana",
+        "Bankouma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421192717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452797
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a6f60bbd7b3ecf584942c9c0537b3309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421192717,
+            "locality_id":1343857423,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1343857423,
+    "wof:lastmodified":1537665096,
+    "wof:name":"Bankouma",
+    "wof:parent_id":421192717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.21317,
+    13.04561,
+    -5.21317,
+    13.04561
+],
+  "geometry": {"coordinates":[-5.21317,13.04561],"type":"Point"}
+}

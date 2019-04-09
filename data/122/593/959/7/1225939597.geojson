@@ -1,0 +1,67 @@
+{
+  "id": 1225939597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.85471,11.50229,-5.85471,11.50229",
+    "geom:latitude":11.50229,
+    "geom:longitude":-5.85471,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Fangorona",
+    "gn:country_code":"ML",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6875056,
+    "gn:latitude":11.50229,
+    "gn:longitude":-5.85471,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Fangorona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6875056
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"19da785a03735f5ff7f4d2732eb26c82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1225939597,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1225939597,
+    "wof:lastmodified":1536877445,
+    "wof:name":"Fangorona",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.85471,
+    11.50229,
+    -5.85471,
+    11.50229
+],
+  "geometry": {"coordinates":[-5.85471,11.50229],"type":"Point"}
+}

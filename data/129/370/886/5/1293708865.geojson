@@ -1,0 +1,73 @@
+{
+  "id": 1293708865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.5224,15.7797,-4.5224,15.7797",
+    "geom:latitude":15.7797,
+    "geom:longitude":-4.5224,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kawinza",
+    "gn:country_code":"ML",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455527,
+    "gn:latitude":15.7797,
+    "gn:longitude":-4.5224,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kawinza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ka\u00e9venza",
+        "Kaouanza",
+        "Kawinza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455527,
+        "wk:page":"Kawinza"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8d911dfe7c673632fa1a5dd59f01f9a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562873,
+            "locality_id":1293708865,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1293708865,
+    "wof:lastmodified":1537665162,
+    "wof:name":"Kawinza",
+    "wof:parent_id":1108562873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.5224,
+    15.7797,
+    -4.5224,
+    15.7797
+],
+  "geometry": {"coordinates":[-4.5224,15.7797],"type":"Point"}
+}

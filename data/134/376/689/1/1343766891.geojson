@@ -1,0 +1,67 @@
+{
+  "id": 1343766891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.11819,13.66376,-5.11819,13.66376",
+    "geom:latitude":13.66376,
+    "geom:longitude":-5.11819,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ba Traore Ka",
+    "gn:country_code":"ML",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880316,
+    "gn:latitude":13.66376,
+    "gn:longitude":-5.11819,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Ba Traor\u00e9 Ka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880316
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"af35ab7f82621ae3d8a217e5c0a1ad34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":1343766891,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1343766891,
+    "wof:lastmodified":1536801655,
+    "wof:name":"Ba Traore Ka",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.11819,
+    13.66376,
+    -5.11819,
+    13.66376
+],
+  "geometry": {"coordinates":[-5.11819,13.66376],"type":"Point"}
+}

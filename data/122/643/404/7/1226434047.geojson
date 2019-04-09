@@ -1,0 +1,71 @@
+{
+  "id": 1226434047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.89954,13.50623,-6.89954,13.50623",
+    "geom:latitude":13.50623,
+    "geom:longitude":-6.89954,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ntomona",
+    "gn:country_code":"ML",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449055,
+    "gn:latitude":13.50623,
+    "gn:longitude":-6.89954,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ntomona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tomona",
+        "Ntomona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449055
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"64b87855ef0e558a33502c651216ad28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562839,
+            "locality_id":1226434047,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1226434047,
+    "wof:lastmodified":1537665020,
+    "wof:name":"Ntomona",
+    "wof:parent_id":1108562839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.89954,
+    13.50623,
+    -6.89954,
+    13.50623
+],
+  "geometry": {"coordinates":[-6.89954,13.50623],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292913213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.75,14.0,-13.75,14.0",
+    "geom:latitude":14.0,
+    "geom:longitude":-13.75,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Alamoutala",
+    "gn:country_code":"ML",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2461165,
+    "gn:latitude":14.0,
+    "gn:longitude":-13.75,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Alamoutala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632365,
+        85677035,
+        421191947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2461165
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b7870fa02bbb416964a462cee95d6c24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632365,
+            "county_id":421191947,
+            "locality_id":1292913213,
+            "region_id":85677035
+        }
+    ],
+    "wof:id":1292913213,
+    "wof:lastmodified":1536618637,
+    "wof:name":"Alamoutala",
+    "wof:parent_id":421191947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.75,
+    14.0,
+    -13.75,
+    14.0
+],
+  "geometry": {"coordinates":[-13.75,14.0],"type":"Point"}
+}

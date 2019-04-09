@@ -1,0 +1,67 @@
+{
+  "id": 1343685877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.08032,14.53073,-4.08032,14.53073",
+    "geom:latitude":14.53073,
+    "geom:longitude":-4.08032,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Welide",
+    "gn:country_code":"ML",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6768605,
+    "gn:latitude":14.53073,
+    "gn:longitude":-4.08032,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"W\u00e9lid\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6768605
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3ace83af68d9e216a64a1c6d46911660",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1343685877,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1343685877,
+    "wof:lastmodified":1536919015,
+    "wof:name":"Welide",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.08032,
+    14.53073,
+    -4.08032,
+    14.53073
+],
+  "geometry": {"coordinates":[-4.08032,14.53073],"type":"Point"}
+}

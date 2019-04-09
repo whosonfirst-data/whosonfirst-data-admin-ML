@@ -1,0 +1,65 @@
+{
+  "id": 1209406693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.3257,13.7848,-7.3257,13.7848",
+    "geom:latitude":13.7848,
+    "geom:longitude":-7.3257,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Boyila",
+    "gn:country_code":"ML",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459825,
+    "gn:latitude":13.7848,
+    "gn:longitude":-7.3257,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Boyila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bou\u00e9la",
+        "Boyila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459825
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"baaabdf5ccc7641df7191642a28fe967",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209406693
+        }
+    ],
+    "wof:id":1209406693,
+    "wof:lastmodified":1537665253,
+    "wof:name":"Boyila",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.3257,
+    13.7848,
+    -7.3257,
+    13.7848
+],
+  "geometry": {"coordinates":[-7.3257,13.7848],"type":"Point"}
+}

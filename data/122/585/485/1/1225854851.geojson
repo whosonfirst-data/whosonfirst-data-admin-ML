@@ -1,0 +1,72 @@
+{
+  "id": 1225854851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.08333,10.46667,-8.08333,10.46667",
+    "geom:latitude":10.46667,
+    "geom:longitude":-8.08333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Denso",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459195,
+    "gn:latitude":10.46667,
+    "gn:longitude":-8.08333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Denso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dinso",
+        "Denso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459195
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4391450f1184165bd44e7f2150e0e823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562821,
+            "locality_id":1225854851,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1225854851,
+    "wof:lastmodified":1537665240,
+    "wof:name":"Denso",
+    "wof:parent_id":1108562821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.08333,
+    10.46667,
+    -8.08333,
+    10.46667
+],
+  "geometry": {"coordinates":[-8.08333,10.46667],"type":"Point"}
+}

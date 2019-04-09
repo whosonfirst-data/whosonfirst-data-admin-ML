@@ -1,0 +1,71 @@
+{
+  "id": 1193272703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.113,14.4736,-8.113,14.4736",
+    "geom:latitude":14.4736,
+    "geom:longitude":-8.113,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sebeninguele",
+    "gn:country_code":"ML",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451508,
+    "gn:latitude":14.4736,
+    "gn:longitude":-8.113,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u00e9b\u00e9ningu\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e9b\u00e9ning\u00e9l\u00e9",
+        "S\u00e9b\u00e9ningu\u00e9l\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451508
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d31949a155668fa1ce27d09cb6809bdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562865,
+            "locality_id":1193272703,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1193272703,
+    "wof:lastmodified":1537665064,
+    "wof:name":"Sebeninguele",
+    "wof:parent_id":1108562865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.113,
+    14.4736,
+    -8.113,
+    14.4736
+],
+  "geometry": {"coordinates":[-8.113,14.4736],"type":"Point"}
+}

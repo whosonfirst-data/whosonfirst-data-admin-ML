@@ -1,0 +1,64 @@
+{
+  "id": 1209307159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.98973,11.55418,-6.98973,11.55418",
+    "geom:latitude":11.55418,
+    "geom:longitude":-6.98973,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Debele",
+    "gn:country_code":"ML",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459255,
+    "gn:latitude":11.55418,
+    "gn:longitude":-6.98973,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"D\u00e9b\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "D\u00e9b\u00e9l\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459255
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3531a269d0c8b84e8740c38f5767af74",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209307159
+        }
+    ],
+    "wof:id":1209307159,
+    "wof:lastmodified":1537665241,
+    "wof:name":"Debele",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.98973,
+    11.55418,
+    -6.98973,
+    11.55418
+],
+  "geometry": {"coordinates":[-6.98973,11.55418],"type":"Point"}
+}

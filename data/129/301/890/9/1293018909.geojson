@@ -1,0 +1,74 @@
+{
+  "id": 1293018909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.85,12.86667,-4.85,12.86667",
+    "geom:latitude":12.86667,
+    "geom:longitude":-4.85,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Finngosso",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457433,
+    "gn:latitude":12.86667,
+    "gn:longitude":-4.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Finngosso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fingoasso",
+        "Fingonsso",
+        "Fingonso",
+        "Finngosso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421192717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457433
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b6373313d5d365559fd0bcf96aadeadb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421192717,
+            "locality_id":1293018909,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1293018909,
+    "wof:lastmodified":1537665194,
+    "wof:name":"Finngosso",
+    "wof:parent_id":421192717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.85,
+    12.86667,
+    -4.85,
+    12.86667
+],
+  "geometry": {"coordinates":[-4.85,12.86667],"type":"Point"}
+}

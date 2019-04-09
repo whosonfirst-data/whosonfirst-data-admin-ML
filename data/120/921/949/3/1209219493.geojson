@@ -1,0 +1,66 @@
+{
+  "id": 1209219493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.18693,12.9669,-5.18693,12.9669",
+    "geom:latitude":12.9669,
+    "geom:longitude":-5.18693,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Fangasso",
+    "gn:country_code":"ML",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457743,
+    "gn:latitude":12.9669,
+    "gn:longitude":-5.18693,
+    "gn:modification_date":"2018-04-14",
+    "gn:name":"Fangasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fangassa",
+        "Fangasso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457743,
+        "wk:page":"Fangasso"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4b79c1e40674ac9e17427d491ae3992a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209219493
+        }
+    ],
+    "wof:id":1209219493,
+    "wof:lastmodified":1537665200,
+    "wof:name":"Fangasso",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.18693,
+    12.9669,
+    -5.18693,
+    12.9669
+],
+  "geometry": {"coordinates":[-5.18693,12.9669],"type":"Point"}
+}

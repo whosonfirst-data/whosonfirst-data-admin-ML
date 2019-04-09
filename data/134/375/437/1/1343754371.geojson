@@ -1,0 +1,79 @@
+{
+  "id": 1343754371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.01398,11.85194,-6.01398,11.85194",
+    "geom:latitude":11.85194,
+    "geom:longitude":-6.01398,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kignan",
+    "gn:country_code":"ML",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455242,
+    "gn:latitude":11.85194,
+    "gn:longitude":-6.01398,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Kignan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kinyan"
+    ],
+    "name:fra_x_variant":[
+        "Kinian"
+    ],
+    "name:und_x_variant":[
+        "Kinian",
+        "Kignan",
+        "Kinyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455242,
+        "wk:page":"Kignan"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5eb1840bb165e84721d0fe519eb28587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1343754371,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1343754371,
+    "wof:lastmodified":1537665155,
+    "wof:name":"Kignan",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.01398,
+    11.85194,
+    -6.01398,
+    11.85194
+],
+  "geometry": {"coordinates":[-6.01398,11.85194],"type":"Point"}
+}

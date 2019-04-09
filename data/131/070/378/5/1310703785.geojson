@@ -1,0 +1,67 @@
+{
+  "id": 1310703785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.01376,13.61022,-12.01376,13.61022",
+    "geom:latitude":13.61022,
+    "geom:longitude":-12.01376,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dabaya",
+    "gn:country_code":"ML",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459516,
+    "gn:latitude":13.61022,
+    "gn:longitude":-12.01376,
+    "gn:modification_date":"2008-04-14",
+    "gn:name":"Dabaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459516
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"36e88d8b9d2d914942b73d8a38b70aa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1310703785,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1310703785,
+    "wof:lastmodified":1536629113,
+    "wof:name":"Dabaya",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.01376,
+    13.61022,
+    -12.01376,
+    13.61022
+],
+  "geometry": {"coordinates":[-12.01376,13.61022],"type":"Point"}
+}

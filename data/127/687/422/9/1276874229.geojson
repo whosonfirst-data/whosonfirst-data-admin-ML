@@ -1,0 +1,71 @@
+{
+  "id": 1276874229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.63092,15.26808,-11.63092,15.26808",
+    "geom:latitude":15.26808,
+    "geom:longitude":-11.63092,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Hamdallai",
+    "gn:country_code":"ML",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456687,
+    "gn:latitude":15.26808,
+    "gn:longitude":-11.63092,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hamdalla\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hamdalaye",
+        "Hamdalla\u00ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456687
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"768cf0f6c22d3e4b17741d2f79baef14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1276874229,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1276874229,
+    "wof:lastmodified":1537665175,
+    "wof:name":"Hamdallai",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.63092,
+    15.26808,
+    -11.63092,
+    15.26808
+],
+  "geometry": {"coordinates":[-11.63092,15.26808],"type":"Point"}
+}

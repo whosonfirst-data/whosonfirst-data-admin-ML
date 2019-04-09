@@ -1,0 +1,71 @@
+{
+  "id": 1243363029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.31667,13.51587,-4.31667,13.51587",
+    "geom:latitude":13.51587,
+    "geom:longitude":-4.31667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Koulekonga",
+    "gn:country_code":"ML",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454537,
+    "gn:latitude":13.51587,
+    "gn:longitude":-4.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koul\u00e9konga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulihoho",
+        "Koul\u00e9konga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454537
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3536b0fbe5a024375f5c3ba27c082beb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562843,
+            "locality_id":1243363029,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1243363029,
+    "wof:lastmodified":1537665137,
+    "wof:name":"Koulekonga",
+    "wof:parent_id":1108562843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.31667,
+    13.51587,
+    -4.31667,
+    13.51587
+],
+  "geometry": {"coordinates":[-4.31667,13.51587],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226064953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.45982,16.60559,-4.45982,16.60559",
+    "geom:latitude":16.60559,
+    "geom:longitude":-4.45982,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ras el Ma",
+    "gn:country_code":"ML",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452034,
+    "gn:latitude":16.60559,
+    "gn:longitude":-4.45982,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"R\u00e2s el M\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Raz el Ma",
+        "R\u00e2s el M\u00e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452034,
+        "wk:page":"Raz_El_Ma"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f111036070674bed7002b86a04e31182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562889,
+            "locality_id":1226064953,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1226064953,
+    "wof:lastmodified":1537665075,
+    "wof:name":"Ras el Ma",
+    "wof:parent_id":1108562889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.45982,
+    16.60559,
+    -4.45982,
+    16.60559
+],
+  "geometry": {"coordinates":[-4.45982,16.60559],"type":"Point"}
+}

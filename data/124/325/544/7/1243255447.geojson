@@ -1,0 +1,73 @@
+{
+  "id": 1243255447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.71179,11.98825,-6.71179,11.98825",
+    "geom:latitude":11.98825,
+    "geom:longitude":-6.71179,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sanankoro Kouloubadougou",
+    "gn:country_code":"ML",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451748,
+    "gn:latitude":11.98825,
+    "gn:longitude":-6.71179,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Sanankoro Kouloubadougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sanankoro"
+    ],
+    "name:und_x_variant":[
+        "Sanankoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451748
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"adb510b3a13ed8e1fb381318d1bdc3f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1243255447,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1243255447,
+    "wof:lastmodified":1537665069,
+    "wof:name":"Sanankoro Kouloubadougou",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.71179,
+    11.98825,
+    -6.71179,
+    11.98825
+],
+  "geometry": {"coordinates":[-6.71179,11.98825],"type":"Point"}
+}

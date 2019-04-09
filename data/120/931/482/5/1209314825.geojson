@@ -1,0 +1,61 @@
+{
+  "id": 1209314825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.3943,14.96601,-3.3943,14.96601",
+    "geom:latitude":14.96601,
+    "geom:longitude":-3.3943,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Melo",
+    "gn:country_code":"ML",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453523,
+    "gn:latitude":14.96601,
+    "gn:longitude":-3.3943,
+    "gn:modification_date":"2008-10-24",
+    "gn:name":"M\u00e9lo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453523
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ddee38e714d51db16139b8abbe512e1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209314825
+        }
+    ],
+    "wof:id":1209314825,
+    "wof:lastmodified":1536290902,
+    "wof:name":"Melo",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.3943,
+    14.96601,
+    -3.3943,
+    14.96601
+],
+  "geometry": {"coordinates":[-3.3943,14.96601],"type":"Point"}
+}

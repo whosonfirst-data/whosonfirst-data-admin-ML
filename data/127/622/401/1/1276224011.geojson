@@ -1,0 +1,71 @@
+{
+  "id": 1276224011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.44916,12.77028,-7.44916,12.77028",
+    "geom:latitude":12.77028,
+    "geom:longitude":-7.44916,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tyekourabougou",
+    "gn:country_code":"ML",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2459224,
+    "gn:latitude":12.77028,
+    "gn:longitude":-7.44916,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ty\u00e8kourabougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "D\u00e9kourabougou",
+        "Ty\u00e8kourabougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459224
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"afa14715bb057be6c57da2d68d739753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1276224011,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1276224011,
+    "wof:lastmodified":1537665241,
+    "wof:name":"Tyekourabougou",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.44916,
+    12.77028,
+    -7.44916,
+    12.77028
+],
+  "geometry": {"coordinates":[-7.44916,12.77028],"type":"Point"}
+}

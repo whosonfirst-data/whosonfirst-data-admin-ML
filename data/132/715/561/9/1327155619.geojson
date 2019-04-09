@@ -1,0 +1,67 @@
+{
+  "id": 1327155619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.21964,15.28957,-7.21964,15.28957",
+    "geom:latitude":15.28957,
+    "geom:longitude":-7.21964,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Beurdati",
+    "gn:country_code":"ML",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6783244,
+    "gn:latitude":15.28957,
+    "gn:longitude":-7.21964,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Beurd\u00e2ti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6783244
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"92595e5546cfaecc1e035751a8c835fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562865,
+            "locality_id":1327155619,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1327155619,
+    "wof:lastmodified":1537077379,
+    "wof:name":"Beurdati",
+    "wof:parent_id":1108562865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.21964,
+    15.28957,
+    -7.21964,
+    15.28957
+],
+  "geometry": {"coordinates":[-7.21964,15.28957],"type":"Point"}
+}

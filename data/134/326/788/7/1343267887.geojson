@@ -1,0 +1,67 @@
+{
+  "id": 1343267887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.282,13.8786,-3.282,13.8786",
+    "geom:latitude":13.8786,
+    "geom:longitude":-3.282,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Gandourou",
+    "gn:country_code":"ML",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457190,
+    "gn:latitude":13.8786,
+    "gn:longitude":-3.282,
+    "gn:modification_date":"2008-10-31",
+    "gn:name":"Gandourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457190
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"19bfb8f3d71feb296bed13392dd851bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1343267887,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1343267887,
+    "wof:lastmodified":1537023109,
+    "wof:name":"Gandourou",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.282,
+    13.8786,
+    -3.282,
+    13.8786
+],
+  "geometry": {"coordinates":[-3.282,13.8786],"type":"Point"}
+}

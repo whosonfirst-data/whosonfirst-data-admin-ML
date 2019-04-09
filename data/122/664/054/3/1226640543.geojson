@@ -1,0 +1,76 @@
+{
+  "id": 1226640543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.556,12.3414,-6.556,12.3414",
+    "geom:latitude":12.3414,
+    "geom:longitude":-6.556,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bozibougou",
+    "gn:country_code":"ML",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459613,
+    "gn:latitude":12.3414,
+    "gn:longitude":-6.556,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bozibougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bozibougou"
+    ],
+    "name:fra_x_variant":[
+        "Bonsibougou"
+    ],
+    "name:und_x_variant":[
+        "Bonsibougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459613
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0a11d0bfbf07aa494e6a2c7b7d989f71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1226640543,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1226640543,
+    "wof:lastmodified":1537665249,
+    "wof:name":"Bozibougou",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.556,
+    12.3414,
+    -6.556,
+    12.3414
+],
+  "geometry": {"coordinates":[-6.556,12.3414],"type":"Point"}
+}

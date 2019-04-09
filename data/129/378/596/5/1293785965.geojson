@@ -1,0 +1,67 @@
+{
+  "id": 1293785965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.8876,13.6202,-10.8876,13.6202",
+    "geom:latitude":13.6202,
+    "geom:longitude":-10.8876,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Fatia",
+    "gn:country_code":"ML",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457527,
+    "gn:latitude":13.6202,
+    "gn:longitude":-10.8876,
+    "gn:modification_date":"2008-11-19",
+    "gn:name":"Fatia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457527
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0c4cc8f17962561262d144d1ed5cd711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562855,
+            "locality_id":1293785965,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1293785965,
+    "wof:lastmodified":1536852715,
+    "wof:name":"Fatia",
+    "wof:parent_id":1108562855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.8876,
+    13.6202,
+    -10.8876,
+    13.6202
+],
+  "geometry": {"coordinates":[-10.8876,13.6202],"type":"Point"}
+}

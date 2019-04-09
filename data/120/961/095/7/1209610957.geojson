@@ -1,0 +1,61 @@
+{
+  "id": 1209610957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.1227,15.9626,0.1227,15.9626",
+    "geom:latitude":15.9626,
+    "geom:longitude":0.1227,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Dongomey",
+    "gn:country_code":"ML",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458419,
+    "gn:latitude":15.9626,
+    "gn:longitude":0.1227,
+    "gn:modification_date":"2008-01-28",
+    "gn:name":"Dongomey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458419
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"10dcf9ccca59f620d531a1eb565a5ca0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209610957
+        }
+    ],
+    "wof:id":1209610957,
+    "wof:lastmodified":1536281848,
+    "wof:name":"Dongomey",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.1227,
+    15.9626,
+    0.1227,
+    15.9626
+],
+  "geometry": {"coordinates":[0.1227,15.9626],"type":"Point"}
+}

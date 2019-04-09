@@ -1,0 +1,72 @@
+{
+  "id": 1225949153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.51542,13.96035,-5.51542,13.96035",
+    "geom:latitude":13.96035,
+    "geom:longitude":-5.51542,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kokri",
+    "gn:country_code":"ML",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455021,
+    "gn:latitude":13.96035,
+    "gn:longitude":-5.51542,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Kokri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kokry",
+        "Kokri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455021,
+        "wk:page":"Kokry"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9432318a5ec925ab882c1080ced04bfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":1225949153,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1225949153,
+    "wof:lastmodified":1537665151,
+    "wof:name":"Kokri",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.51542,
+    13.96035,
+    -5.51542,
+    13.96035
+],
+  "geometry": {"coordinates":[-5.51542,13.96035],"type":"Point"}
+}

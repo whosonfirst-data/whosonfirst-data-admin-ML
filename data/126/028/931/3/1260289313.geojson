@@ -1,0 +1,67 @@
+{
+  "id": 1260289313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.2761,13.5393,-6.2761,13.5393",
+    "geom:latitude":13.5393,
+    "geom:longitude":-6.2761,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kanabougou",
+    "gn:country_code":"ML",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455775,
+    "gn:latitude":13.5393,
+    "gn:longitude":-6.2761,
+    "gn:modification_date":"2008-11-18",
+    "gn:name":"Kanabougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455775
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0604515087f60f75b3c76fb76fd20b8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1260289313,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1260289313,
+    "wof:lastmodified":1536704384,
+    "wof:name":"Kanabougou",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.2761,
+    13.5393,
+    -6.2761,
+    13.5393
+],
+  "geometry": {"coordinates":[-6.2761,13.5393],"type":"Point"}
+}

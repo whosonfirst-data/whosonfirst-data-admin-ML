@@ -1,0 +1,67 @@
+{
+  "id": 1210023761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.57557,14.39157,-11.57557,14.39157",
+    "geom:latitude":14.39157,
+    "geom:longitude":-11.57557,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sebedouni",
+    "gn:country_code":"ML",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451526,
+    "gn:latitude":14.39157,
+    "gn:longitude":-11.57557,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"S\u00e9b\u00e9douni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451526
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8c75bd5f264f7fb2aebf964e5fb85027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1210023761,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1210023761,
+    "wof:lastmodified":1536391669,
+    "wof:name":"Sebedouni",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.57557,
+    14.39157,
+    -11.57557,
+    14.39157
+],
+  "geometry": {"coordinates":[-11.57557,14.39157],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343365237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.8669,14.7634,-3.8669,14.7634",
+    "geom:latitude":14.7634,
+    "geom:longitude":-3.8669,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bobovel",
+    "gn:country_code":"ML",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6867487,
+    "gn:latitude":14.7634,
+    "gn:longitude":-3.8669,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Bobovel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6867487
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7c72f9efd1b1e79cf95d755b80e5737a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1343365237,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1343365237,
+    "wof:lastmodified":1536882926,
+    "wof:name":"Bobovel",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8669,
+    14.7634,
+    -3.8669,
+    14.7634
+],
+  "geometry": {"coordinates":[-3.8669,14.7634],"type":"Point"}
+}

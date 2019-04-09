@@ -1,0 +1,67 @@
+{
+  "id": 1242692429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.11667,10.25,-6.11667,10.25",
+    "geom:latitude":10.25,
+    "geom:longitude":-6.11667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kebeni",
+    "gn:country_code":"ML",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455505,
+    "gn:latitude":10.25,
+    "gn:longitude":-6.11667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"K\u00e9b\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455505
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"16d891ca7e9ef6588ec600b117a6b8f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562817,
+            "locality_id":1242692429,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1242692429,
+    "wof:lastmodified":1536898244,
+    "wof:name":"Kebeni",
+    "wof:parent_id":1108562817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.11667,
+    10.25,
+    -6.11667,
+    10.25
+],
+  "geometry": {"coordinates":[-6.11667,10.25],"type":"Point"}
+}

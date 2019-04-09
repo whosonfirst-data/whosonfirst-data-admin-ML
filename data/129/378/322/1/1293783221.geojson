@@ -1,0 +1,76 @@
+{
+  "id": 1293783221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.046,12.9225,-6.046,12.9225",
+    "geom:latitude":12.9225,
+    "geom:longitude":-6.046,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tiguina",
+    "gn:country_code":"ML",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449694,
+    "gn:latitude":12.9225,
+    "gn:longitude":-6.046,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tiguina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tiguina"
+    ],
+    "name:fra_x_variant":[
+        "Tigina"
+    ],
+    "name:und_x_variant":[
+        "Tigina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449694
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0c548d71b1fc705c5b6d282176e1d730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562835,
+            "locality_id":1293783221,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1293783221,
+    "wof:lastmodified":1537665025,
+    "wof:name":"Tiguina",
+    "wof:parent_id":1108562835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.046,
+    12.9225,
+    -6.046,
+    12.9225
+],
+  "geometry": {"coordinates":[-6.046,12.9225],"type":"Point"}
+}

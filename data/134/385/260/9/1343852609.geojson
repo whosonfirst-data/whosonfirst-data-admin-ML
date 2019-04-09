@@ -1,0 +1,72 @@
+{
+  "id": 1343852609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.70593,12.39818,-7.70593,12.39818",
+    "geom:latitude":12.39818,
+    "geom:longitude":-7.70593,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tyema",
+    "gn:country_code":"ML",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448745,
+    "gn:latitude":12.39818,
+    "gn:longitude":-7.70593,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ty\u00e8ma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mamaribougou",
+        "Ty\u00e9pma",
+        "Ty\u00e8ma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        421177883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448745
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5b4ee078a0a4efa8c7b71fd1074dab8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177883,
+            "locality_id":1343852609,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1343852609,
+    "wof:lastmodified":1537665012,
+    "wof:name":"Tyema",
+    "wof:parent_id":421177883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.70593,
+    12.39818,
+    -7.70593,
+    12.39818
+],
+  "geometry": {"coordinates":[-7.70593,12.39818],"type":"Point"}
+}

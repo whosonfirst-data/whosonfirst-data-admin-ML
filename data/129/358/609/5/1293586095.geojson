@@ -1,0 +1,67 @@
+{
+  "id": 1293586095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.89462,13.71077,-7.89462,13.71077",
+    "geom:latitude":13.71077,
+    "geom:longitude":-7.89462,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yorobougou",
+    "gn:country_code":"ML",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6906648,
+    "gn:latitude":13.71077,
+    "gn:longitude":-7.89462,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Yorobougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6906648
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"edec12790bbda07197197b5232e0cceb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":1293586095,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1293586095,
+    "wof:lastmodified":1536644391,
+    "wof:name":"Yorobougou",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.89462,
+    13.71077,
+    -7.89462,
+    13.71077
+],
+  "geometry": {"coordinates":[-7.89462,13.71077],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276155053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.40407,13.67556,-5.40407,13.67556",
+    "geom:latitude":13.67556,
+    "geom:longitude":-5.40407,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tiebala",
+    "gn:country_code":"ML",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449779,
+    "gn:latitude":13.67556,
+    "gn:longitude":-5.40407,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ti\u00e9bala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449779
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"abf006521d897a8c6d84bc3bd45b2893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":1276155053,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1276155053,
+    "wof:lastmodified":1537016940,
+    "wof:name":"Tiebala",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.40407,
+    13.67556,
+    -5.40407,
+    13.67556
+],
+  "geometry": {"coordinates":[-5.40407,13.67556],"type":"Point"}
+}

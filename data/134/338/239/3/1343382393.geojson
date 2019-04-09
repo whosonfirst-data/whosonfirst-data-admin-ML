@@ -1,0 +1,78 @@
+{
+  "id": 1343382393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.2874,12.4285,-6.2874,12.4285",
+    "geom:latitude":12.4285,
+    "geom:longitude":-6.2874,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Korodougou-Markala",
+    "gn:country_code":"ML",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454669,
+    "gn:latitude":12.4285,
+    "gn:longitude":-6.2874,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Korodougou-Markala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Korodougou"
+    ],
+    "name:fra_x_variant":[
+        "Korodongou"
+    ],
+    "name:und_x_variant":[
+        "Korodougou",
+        "Korodongou",
+        "Korodougou-Markala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454669
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"998fc45b9c45c8cfab79174736bfd13c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1343382393,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1343382393,
+    "wof:lastmodified":1537665141,
+    "wof:name":"Korodougou-Markala",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.2874,
+    12.4285,
+    -6.2874,
+    12.4285
+],
+  "geometry": {"coordinates":[-6.2874,12.4285],"type":"Point"}
+}

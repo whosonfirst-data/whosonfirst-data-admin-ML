@@ -1,0 +1,65 @@
+{
+  "id": 1209212551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.72207,11.82995,-7.72207,11.82995",
+    "geom:latitude":11.82995,
+    "geom:longitude":-7.72207,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sienbougou",
+    "gn:country_code":"ML",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451210,
+    "gn:latitude":11.82995,
+    "gn:longitude":-7.72207,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Sienbougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siembougou",
+        "Sienbougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451210
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ca713f825b5e2d3553b8f6f9f6ab842c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209212551
+        }
+    ],
+    "wof:id":1209212551,
+    "wof:lastmodified":1537665055,
+    "wof:name":"Sienbougou",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.72207,
+    11.82995,
+    -7.72207,
+    11.82995
+],
+  "geometry": {"coordinates":[-7.72207,11.82995],"type":"Point"}
+}

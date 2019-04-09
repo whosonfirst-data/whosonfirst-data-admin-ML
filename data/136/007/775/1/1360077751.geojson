@@ -1,0 +1,67 @@
+{
+  "id": 1360077751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.34397,11.47947,-7.34397,11.47947",
+    "geom:latitude":11.47947,
+    "geom:longitude":-7.34397,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Korosso",
+    "gn:country_code":"ML",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454636,
+    "gn:latitude":11.47947,
+    "gn:longitude":-7.34397,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Korosso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454636
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6072e8e5f855db51bf91aa1c331af28d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1360077751,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1360077751,
+    "wof:lastmodified":1536956359,
+    "wof:name":"Korosso",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.34397,
+    11.47947,
+    -7.34397,
+    11.47947
+],
+  "geometry": {"coordinates":[-7.34397,11.47947],"type":"Point"}
+}

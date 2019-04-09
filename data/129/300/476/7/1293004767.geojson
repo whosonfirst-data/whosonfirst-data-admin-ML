@@ -1,0 +1,72 @@
+{
+  "id": 1293004767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.94706,12.59469,-7.94706,12.59469",
+    "geom:latitude":12.59469,
+    "geom:longitude":-7.94706,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Faladie",
+    "gn:country_code":"ML",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457816,
+    "gn:latitude":12.59469,
+    "gn:longitude":-7.94706,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Faladi\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Falady\u00e9",
+        "Falak\u00e9",
+        "Faladi\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674525,
+        421187095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457816
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"763f93da52e1f620db31c6e8dfe6a9bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421187095,
+            "locality_id":1293004767,
+            "region_id":85674525
+        }
+    ],
+    "wof:id":1293004767,
+    "wof:lastmodified":1537665203,
+    "wof:name":"Faladie",
+    "wof:parent_id":421187095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.94706,
+    12.59469,
+    -7.94706,
+    12.59469
+],
+  "geometry": {"coordinates":[-7.94706,12.59469],"type":"Point"}
+}

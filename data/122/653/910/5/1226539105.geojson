@@ -1,0 +1,71 @@
+{
+  "id": 1226539105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.13632,13.66657,-5.13632,13.66657",
+    "geom:latitude":13.66657,
+    "geom:longitude":-5.13632,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Nianbougouni",
+    "gn:country_code":"ML",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452776,
+    "gn:latitude":13.66657,
+    "gn:longitude":-5.13632,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Nianbougouni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nianbougoum",
+        "Nianbougouni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452776
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ae62078f49f2a40e2eaaf2c192e7fdad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":1226539105,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1226539105,
+    "wof:lastmodified":1537665095,
+    "wof:name":"Nianbougouni",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.13632,
+    13.66657,
+    -5.13632,
+    13.66657
+],
+  "geometry": {"coordinates":[-5.13632,13.66657],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 1126087409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.0,12.65,-8.0,12.65",
+    "geom:latitude":12.65,
+    "geom:longitude":-8.0,
+    "gn:gn_country":"ML",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"ML",
+    "lbl:latitude":12.65,
+    "lbl:longitude":-8.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ML",
+    "qs_pg:gn_country":"ML",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":2453541,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"M\u00e9dina Koura",
+    "qs_pg:name_adm0":"Mali",
+    "qs_pg:name_adm1":"Bamako",
+    "qs_pg:photos":269,
+    "qs_pg:photos_1k":55,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":269,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":316779,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424891,
+    "qs_pg:woe_id":1374080,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424891,
+    "woe:name_adm0":"Mali",
+    "woe:name_adm1":"Bamako",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85674525,
+        102191573,
+        85632553,
+        421187095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453541,
+        "gp:id":1374080,
+        "qs_pg:id":316779
+    },
+    "wof:country":"ML",
+    "wof:created":1497313028,
+    "wof:geomhash":"0671df84ed46a7df681e3b61ca667904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421187095,
+            "locality_id":-1,
+            "neighbourhood_id":1126087409,
+            "region_id":85674525
+        }
+    ],
+    "wof:id":1126087409,
+    "wof:lastmodified":1534379379,
+    "wof:name":"M\u00e9dina Koura",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[
+        85802195
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.0,
+    12.65,
+    -8.0,
+    12.65
+],
+  "geometry": {"coordinates":[-8.0,12.65],"type":"Point"}
+}

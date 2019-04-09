@@ -1,0 +1,71 @@
+{
+  "id": 1327426391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.66583,12.7379,-5.66583,12.7379",
+    "geom:latitude":12.7379,
+    "geom:longitude":-5.66583,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Debela",
+    "gn:country_code":"ML",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459256,
+    "gn:latitude":12.7379,
+    "gn:longitude":-5.66583,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"D\u00e9b\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00e9b\u00e9la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459256,
+        "wk:page":"D%C3%A9b%C3%A9la"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"22009af21dc8eb35ea386d240a98b361",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1327426391,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1327426391,
+    "wof:lastmodified":1537665241,
+    "wof:name":"Debela",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.66583,
+    12.7379,
+    -5.66583,
+    12.7379
+],
+  "geometry": {"coordinates":[-5.66583,12.7379],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276969151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.2326,15.8542,0.2326,15.8542",
+    "geom:latitude":15.8542,
+    "geom:longitude":0.2326,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Boya Goundya",
+    "gn:country_code":"ML",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459617,
+    "gn:latitude":15.8542,
+    "gn:longitude":0.2326,
+    "gn:modification_date":"2008-01-28",
+    "gn:name":"Boya Goundya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        890418899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459617
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"027ce7d2c80be879095dc1938f7ca648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":890418899,
+            "locality_id":1276969151,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1276969151,
+    "wof:lastmodified":1536922324,
+    "wof:name":"Boya Goundya",
+    "wof:parent_id":890418899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.2326,
+    15.8542,
+    0.2326,
+    15.8542
+],
+  "geometry": {"coordinates":[0.2326,15.8542],"type":"Point"}
+}

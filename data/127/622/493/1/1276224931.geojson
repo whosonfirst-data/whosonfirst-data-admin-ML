@@ -1,0 +1,72 @@
+{
+  "id": 1276224931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.04274,11.27572,-7.04274,11.27572",
+    "geom:latitude":11.27572,
+    "geom:longitude":-7.04274,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kebila",
+    "gn:country_code":"ML",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455503,
+    "gn:latitude":11.27572,
+    "gn:longitude":-7.04274,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"K\u00e9bila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00e9b\u00e9l\u00e9",
+        "K\u00e9bila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455503,
+        "wk:page":"Kebila"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c369545487af3631507356f378af9dbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562819,
+            "locality_id":1276224931,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1276224931,
+    "wof:lastmodified":1537665161,
+    "wof:name":"Kebila",
+    "wof:parent_id":1108562819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.04274,
+    11.27572,
+    -7.04274,
+    11.27572
+],
+  "geometry": {"coordinates":[-7.04274,11.27572],"type":"Point"}
+}

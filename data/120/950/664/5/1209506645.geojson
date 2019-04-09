@@ -1,0 +1,64 @@
+{
+  "id": 1209506645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.07431,13.41739,-8.07431,13.41739",
+    "geom:latitude":13.41739,
+    "geom:longitude":-8.07431,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dialla",
+    "gn:country_code":"ML",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459036,
+    "gn:latitude":13.41739,
+    "gn:longitude":-8.07431,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dialla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dialla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459036
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"730acb5dc51481e4824cb37977e9d11c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209506645
+        }
+    ],
+    "wof:id":1209506645,
+    "wof:lastmodified":1537665236,
+    "wof:name":"Dialla",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.07431,
+    13.41739,
+    -8.07431,
+    13.41739
+],
+  "geometry": {"coordinates":[-8.07431,13.41739],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259582345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.82415,13.99091,-5.82415,13.99091",
+    "geom:latitude":13.99091,
+    "geom:longitude":-5.82415,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tnezana",
+    "gn:country_code":"ML",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449114,
+    "gn:latitude":13.99091,
+    "gn:longitude":-5.82415,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Tn\u00e9zana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tin\u00e9sana",
+        "Tn\u00e9zana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449114
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"26c7636eb2c32eaf08bd6e981f8f51d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562867,
+            "locality_id":1259582345,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1259582345,
+    "wof:lastmodified":1537665021,
+    "wof:name":"Tnezana",
+    "wof:parent_id":1108562867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.82415,
+    13.99091,
+    -5.82415,
+    13.99091
+],
+  "geometry": {"coordinates":[-5.82415,13.99091],"type":"Point"}
+}

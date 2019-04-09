@@ -1,0 +1,67 @@
+{
+  "id": 1293880461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.91827,12.56609,-8.91827,12.56609",
+    "geom:latitude":12.56609,
+    "geom:longitude":-8.91827,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kenielendo",
+    "gn:country_code":"ML",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455374,
+    "gn:latitude":12.56609,
+    "gn:longitude":-8.91827,
+    "gn:modification_date":"2008-11-13",
+    "gn:name":"K\u00e9ni\u00e9l\u00e8ndo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455374
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2891586cb7fe3e30eb115f2e2bf46643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1293880461,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1293880461,
+    "wof:lastmodified":1536718106,
+    "wof:name":"Kenielendo",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.91827,
+    12.56609,
+    -8.91827,
+    12.56609
+],
+  "geometry": {"coordinates":[-8.91827,12.56609],"type":"Point"}
+}

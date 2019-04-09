@@ -1,0 +1,67 @@
+{
+  "id": 1327231913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.52882,14.58555,-4.52882,14.58555",
+    "geom:latitude":14.58555,
+    "geom:longitude":-4.52882,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sare-Mare",
+    "gn:country_code":"ML",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451567,
+    "gn:latitude":14.58555,
+    "gn:longitude":-4.52882,
+    "gn:modification_date":"2008-05-13",
+    "gn:name":"Sar\u00e9-Mar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451567
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"78f79bc0b70d5db43499743fdca5a728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562861,
+            "locality_id":1327231913,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1327231913,
+    "wof:lastmodified":1536969953,
+    "wof:name":"Sare-Mare",
+    "wof:parent_id":1108562861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.52882,
+    14.58555,
+    -4.52882,
+    14.58555
+],
+  "geometry": {"coordinates":[-4.52882,14.58555],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226574743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.18398,13.7945,-5.18398,13.7945",
+    "geom:latitude":13.7945,
+    "geom:longitude":-5.18398,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Damidie",
+    "gn:country_code":"ML",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459398,
+    "gn:latitude":13.7945,
+    "gn:longitude":-5.18398,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Damidi\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459398
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6e14b4a041e95ef5e558944279262e17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":1226574743,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1226574743,
+    "wof:lastmodified":1536957496,
+    "wof:name":"Damidie",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.18398,
+    13.7945,
+    -5.18398,
+    13.7945
+],
+  "geometry": {"coordinates":[-5.18398,13.7945],"type":"Point"}
+}

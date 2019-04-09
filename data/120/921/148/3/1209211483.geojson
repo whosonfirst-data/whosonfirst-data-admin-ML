@@ -1,0 +1,61 @@
+{
+  "id": 1209211483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.27911,13.07861,-7.27911,13.07861",
+    "geom:latitude":13.07861,
+    "geom:longitude":-7.27911,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kassadaga",
+    "gn:country_code":"ML",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6906921,
+    "gn:latitude":13.07861,
+    "gn:longitude":-7.27911,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Kassadaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6906921
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"26cd4138d432800e9ef05729a1f0bf8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209211483
+        }
+    ],
+    "wof:id":1209211483,
+    "wof:lastmodified":1536294276,
+    "wof:name":"Kassadaga",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.27911,
+    13.07861,
+    -7.27911,
+    13.07861
+],
+  "geometry": {"coordinates":[-7.27911,13.07861],"type":"Point"}
+}

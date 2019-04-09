@@ -1,0 +1,67 @@
+{
+  "id": 1344056057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.03222,13.68884,-5.03222,13.68884",
+    "geom:latitude":13.68884,
+    "geom:longitude":-5.03222,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kankira",
+    "gn:country_code":"ML",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455700,
+    "gn:latitude":13.68884,
+    "gn:longitude":-5.03222,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Kankira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455700
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ce5a762088dfb4d423960a31fcf0cf10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":1344056057,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1344056057,
+    "wof:lastmodified":1536881237,
+    "wof:name":"Kankira",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.03222,
+    13.68884,
+    -5.03222,
+    13.68884
+],
+  "geometry": {"coordinates":[-5.03222,13.68884],"type":"Point"}
+}

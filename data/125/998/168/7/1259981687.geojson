@@ -1,0 +1,71 @@
+{
+  "id": 1259981687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.3906,13.1067,-9.3906,13.1067",
+    "geom:latitude":13.1067,
+    "geom:longitude":-9.3906,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Karaya Kouroudioula",
+    "gn:country_code":"ML",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454346,
+    "gn:latitude":13.1067,
+    "gn:longitude":-9.3906,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Karaya Kouroudioula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kouroudiala",
+        "Karaya Kouroudioula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454346
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8dc654d16a80e8685eebec0a503e929f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1259981687,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1259981687,
+    "wof:lastmodified":1537665134,
+    "wof:name":"Karaya Kouroudioula",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.3906,
+    13.1067,
+    -9.3906,
+    13.1067
+],
+  "geometry": {"coordinates":[-9.3906,13.1067],"type":"Point"}
+}

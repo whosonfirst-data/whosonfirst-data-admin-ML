@@ -1,0 +1,71 @@
+{
+  "id": 1259985703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.3037,15.4396,-4.3037,15.4396",
+    "geom:latitude":15.4396,
+    "geom:longitude":-4.3037,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lelel",
+    "gn:country_code":"ML",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454116,
+    "gn:latitude":15.4396,
+    "gn:longitude":-4.3037,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"L\u00e9lel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lellel",
+        "L\u00e9lel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454116
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"02d9e9e9810956d65e6fe9a88e120707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562871,
+            "locality_id":1259985703,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1259985703,
+    "wof:lastmodified":1537665129,
+    "wof:name":"Lelel",
+    "wof:parent_id":1108562871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.3037,
+    15.4396,
+    -4.3037,
+    15.4396
+],
+  "geometry": {"coordinates":[-4.3037,15.4396],"type":"Point"}
+}

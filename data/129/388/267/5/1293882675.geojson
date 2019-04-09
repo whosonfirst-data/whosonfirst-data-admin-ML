@@ -1,0 +1,67 @@
+{
+  "id": 1293882675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.5051,15.3533,-5.5051,15.3533",
+    "geom:latitude":15.3533,
+    "geom:longitude":-5.5051,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Amankobe",
+    "gn:country_code":"ML",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2461095,
+    "gn:latitude":15.3533,
+    "gn:longitude":-5.5051,
+    "gn:modification_date":"2008-01-04",
+    "gn:name":"Amankob\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2461095
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a8d1178a212a0e42545df8c2bce8d39e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562867,
+            "locality_id":1293882675,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1293882675,
+    "wof:lastmodified":1536714879,
+    "wof:name":"Amankobe",
+    "wof:parent_id":1108562867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.5051,
+    15.3533,
+    -5.5051,
+    15.3533
+],
+  "geometry": {"coordinates":[-5.5051,15.3533],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276985401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.2045,13.5378,-4.2045,13.5378",
+    "geom:latitude":13.5378,
+    "geom:longitude":-4.2045,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Emmperani",
+    "gn:country_code":"ML",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6875924,
+    "gn:latitude":13.5378,
+    "gn:longitude":-4.2045,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Emmp\u00e9rani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6875924
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"00b3172bb709d1fabcdbd0d40a4d18a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562843,
+            "locality_id":1276985401,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1276985401,
+    "wof:lastmodified":1536899728,
+    "wof:name":"Emmperani",
+    "wof:parent_id":1108562843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.2045,
+    13.5378,
+    -4.2045,
+    13.5378
+],
+  "geometry": {"coordinates":[-4.2045,13.5378],"type":"Point"}
+}

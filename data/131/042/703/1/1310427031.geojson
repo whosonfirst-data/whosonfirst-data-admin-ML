@@ -1,0 +1,70 @@
+{
+  "id": 1310427031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.8918,14.6053,-6.8918,14.6053",
+    "geom:latitude":14.6053,
+    "geom:longitude":-6.8918,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bengo",
+    "gn:country_code":"ML",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460142,
+    "gn:latitude":14.6053,
+    "gn:longitude":-6.8918,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e8ngo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "B\u00e8ngo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460142
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"fa22a3aeaa467e07893b1e6d2c663df7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562865,
+            "locality_id":1310427031,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1310427031,
+    "wof:lastmodified":1537665261,
+    "wof:name":"Bengo",
+    "wof:parent_id":1108562865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.8918,
+    14.6053,
+    -6.8918,
+    14.6053
+],
+  "geometry": {"coordinates":[-6.8918,14.6053],"type":"Point"}
+}

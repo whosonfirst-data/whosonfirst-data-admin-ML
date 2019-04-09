@@ -1,0 +1,71 @@
+{
+  "id": 1226140015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.8302,15.8666,-3.8302,15.8666",
+    "geom:latitude":15.8666,
+    "geom:longitude":-3.8302,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sirifila",
+    "gn:country_code":"ML",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450965,
+    "gn:latitude":15.8666,
+    "gn:longitude":-3.8302,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sirifila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sirifilla",
+        "Sirifila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450965
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"70dd877d675cc95c4fdab59a801db130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562873,
+            "locality_id":1226140015,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1226140015,
+    "wof:lastmodified":1537665048,
+    "wof:name":"Sirifila",
+    "wof:parent_id":1108562873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8302,
+    15.8666,
+    -3.8302,
+    15.8666
+],
+  "geometry": {"coordinates":[-3.8302,15.8666],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344167149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.36667,11.13333,-8.36667,11.13333",
+    "geom:latitude":11.13333,
+    "geom:longitude":-8.36667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Fougatie",
+    "gn:country_code":"ML",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457334,
+    "gn:latitude":11.13333,
+    "gn:longitude":-8.36667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Fougati\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457334
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"abf555540107ee7fbd5101e1fe7abae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562821,
+            "locality_id":1344167149,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1344167149,
+    "wof:lastmodified":1536721888,
+    "wof:name":"Fougatie",
+    "wof:parent_id":1108562821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.36667,
+    11.13333,
+    -8.36667,
+    11.13333
+],
+  "geometry": {"coordinates":[-8.36667,11.13333],"type":"Point"}
+}

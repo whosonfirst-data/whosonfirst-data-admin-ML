@@ -1,0 +1,65 @@
+{
+  "id": 1209091795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.32075,16.45301,-3.32075,16.45301",
+    "geom:latitude":16.45301,
+    "geom:longitude":-3.32075,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Orogoungou",
+    "gn:country_code":"ML",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452388,
+    "gn:latitude":16.45301,
+    "gn:longitude":-3.32075,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Orogoungou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ourogoungou",
+        "Orogoungou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452388
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"423a627c434d94c9f530fa43981d35ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209091795
+        }
+    ],
+    "wof:id":1209091795,
+    "wof:lastmodified":1537665083,
+    "wof:name":"Orogoungou",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.32075,
+    16.45301,
+    -3.32075,
+    16.45301
+],
+  "geometry": {"coordinates":[-3.32075,16.45301],"type":"Point"}
+}

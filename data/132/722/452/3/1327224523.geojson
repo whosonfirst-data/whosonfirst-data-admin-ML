@@ -1,0 +1,71 @@
+{
+  "id": 1327224523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.73479,15.86869,-3.73479,15.86869",
+    "geom:latitude":15.86869,
+    "geom:longitude":-3.73479,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Gaye-Abere",
+    "gn:country_code":"ML",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457101,
+    "gn:latitude":15.86869,
+    "gn:longitude":-3.73479,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gaye-Ab\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gaye-Hab\u00e9r\u00e9",
+        "Gaye-Ab\u00e9r\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457101
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8eb1e78d5afa04dd06e3c856cedc8676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562873,
+            "locality_id":1327224523,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1327224523,
+    "wof:lastmodified":1537665186,
+    "wof:name":"Gaye-Abere",
+    "wof:parent_id":1108562873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.73479,
+    15.86869,
+    -3.73479,
+    15.86869
+],
+  "geometry": {"coordinates":[-3.73479,15.86869],"type":"Point"}
+}

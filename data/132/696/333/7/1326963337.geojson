@@ -1,0 +1,67 @@
+{
+  "id": 1326963337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.27296,14.34337,-4.27296,14.34337",
+    "geom:latitude":14.34337,
+    "geom:longitude":-4.27296,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Teke",
+    "gn:country_code":"ML",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450002,
+    "gn:latitude":14.34337,
+    "gn:longitude":-4.27296,
+    "gn:modification_date":"2008-05-14",
+    "gn:name":"T\u00e9k\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450002
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1f742a9ad5b4bfbd364f68ffd1740c60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1326963337,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1326963337,
+    "wof:lastmodified":1536858735,
+    "wof:name":"Teke",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.27296,
+    14.34337,
+    -4.27296,
+    14.34337
+],
+  "geometry": {"coordinates":[-4.27296,14.34337],"type":"Point"}
+}

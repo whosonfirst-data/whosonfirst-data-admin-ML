@@ -1,0 +1,67 @@
+{
+  "id": 1293600769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.41217,15.24714,-11.41217,15.24714",
+    "geom:latitude":15.24714,
+    "geom:longitude":-11.41217,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Moutala",
+    "gn:country_code":"ML",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453232,
+    "gn:latitude":15.24714,
+    "gn:longitude":-11.41217,
+    "gn:modification_date":"2007-09-24",
+    "gn:name":"Moutala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453232
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9b8de5f8b2f40ad0c281ca06ca95cd60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1293600769,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1293600769,
+    "wof:lastmodified":1536621717,
+    "wof:name":"Moutala",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.41217,
+    15.24714,
+    -11.41217,
+    15.24714
+],
+  "geometry": {"coordinates":[-11.41217,15.24714],"type":"Point"}
+}

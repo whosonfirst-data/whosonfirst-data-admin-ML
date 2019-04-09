@@ -1,0 +1,67 @@
+{
+  "id": 1343346963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.56579,16.23285,-3.56579,16.23285",
+    "geom:latitude":16.23285,
+    "geom:longitude":-3.56579,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Adyar",
+    "gn:country_code":"ML",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2461319,
+    "gn:latitude":16.23285,
+    "gn:longitude":-3.56579,
+    "gn:modification_date":"2009-06-26",
+    "gn:name":"Adyar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        421172359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2461319
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"cd5750377a782792a42d4e53083d82d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421172359,
+            "locality_id":1343346963,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1343346963,
+    "wof:lastmodified":1536910444,
+    "wof:name":"Adyar",
+    "wof:parent_id":421172359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.56579,
+    16.23285,
+    -3.56579,
+    16.23285
+],
+  "geometry": {"coordinates":[-3.56579,16.23285],"type":"Point"}
+}

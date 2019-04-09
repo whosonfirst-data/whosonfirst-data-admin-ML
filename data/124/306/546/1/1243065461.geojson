@@ -1,0 +1,68 @@
+{
+  "id": 1243065461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.8483,11.3342,-5.8483,11.3342",
+    "geom:latitude":11.3342,
+    "geom:longitude":-5.8483,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Natien",
+    "gn:country_code":"ML",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11257271,
+    "gn:latitude":11.3342,
+    "gn:longitude":-5.8483,
+    "gn:modification_date":"2016-09-20",
+    "gn:name":"Natien",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11257271,
+        "wk:page":"Natien"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"666412ced9f7d100e9dfa5fb7913175b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1243065461,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1243065461,
+    "wof:lastmodified":1537568442,
+    "wof:name":"Natien",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.8483,
+    11.3342,
+    -5.8483,
+    11.3342
+],
+  "geometry": {"coordinates":[-5.8483,11.3342],"type":"Point"}
+}

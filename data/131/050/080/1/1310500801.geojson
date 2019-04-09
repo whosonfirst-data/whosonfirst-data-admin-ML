@@ -1,0 +1,70 @@
+{
+  "id": 1310500801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.6316,12.8573,-6.6316,12.8573",
+    "geom:latitude":12.8573,
+    "geom:longitude":-6.6316,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Barakabougou",
+    "gn:country_code":"ML",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460329,
+    "gn:latitude":12.8573,
+    "gn:longitude":-6.6316,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Barakabougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Barakabougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460329
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"82be80ae1f35c26937622af857b4ad36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562837,
+            "locality_id":1310500801,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1310500801,
+    "wof:lastmodified":1537665267,
+    "wof:name":"Barakabougou",
+    "wof:parent_id":1108562837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.6316,
+    12.8573,
+    -6.6316,
+    12.8573
+],
+  "geometry": {"coordinates":[-6.6316,12.8573],"type":"Point"}
+}

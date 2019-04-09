@@ -1,0 +1,72 @@
+{
+  "id": 1343585373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.5227,13.6547,-3.5227,13.6547",
+    "geom:latitude":13.6547,
+    "geom:longitude":-3.5227,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Diallaye",
+    "gn:country_code":"ML",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459038,
+    "gn:latitude":13.6547,
+    "gn:longitude":-3.5227,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Diallaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diallai",
+        "Dialaye",
+        "Diallaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459038
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f2c625b58a1f64094ad1766bb9d48a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1343585373,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1343585373,
+    "wof:lastmodified":1537665236,
+    "wof:name":"Diallaye",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5227,
+    13.6547,
+    -3.5227,
+    13.6547
+],
+  "geometry": {"coordinates":[-3.5227,13.6547],"type":"Point"}
+}

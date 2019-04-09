@@ -1,0 +1,70 @@
+{
+  "id": 1343562927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.99935,13.08139,-8.99935,13.08139",
+    "geom:latitude":13.08139,
+    "geom:longitude":-8.99935,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Glada",
+    "gn:country_code":"ML",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457095,
+    "gn:latitude":13.08139,
+    "gn:longitude":-8.99935,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Glada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Glada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457095
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b1b34905433bb229bbfb08b09a8ee6d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1343562927,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1343562927,
+    "wof:lastmodified":1537665185,
+    "wof:name":"Glada",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.99935,
+    13.08139,
+    -8.99935,
+    13.08139
+],
+  "geometry": {"coordinates":[-8.99935,13.08139],"type":"Point"}
+}

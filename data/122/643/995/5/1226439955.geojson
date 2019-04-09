@@ -1,0 +1,67 @@
+{
+  "id": 1226439955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.74164,11.67385,-7.74164,11.67385",
+    "geom:latitude":11.67385,
+    "geom:longitude":-7.74164,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sagala",
+    "gn:country_code":"ML",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451939,
+    "gn:latitude":11.67385,
+    "gn:longitude":-7.74164,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Sagala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451939
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"648e07b557f3db3fcbb2b92d6ab6b0a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1226439955,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1226439955,
+    "wof:lastmodified":1536653804,
+    "wof:name":"Sagala",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.74164,
+    11.67385,
+    -7.74164,
+    11.67385
+],
+  "geometry": {"coordinates":[-7.74164,11.67385],"type":"Point"}
+}

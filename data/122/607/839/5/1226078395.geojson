@@ -1,0 +1,67 @@
+{
+  "id": 1226078395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.29953,14.61037,-3.29953,14.61037",
+    "geom:latitude":14.61037,
+    "geom:longitude":-3.29953,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dimi",
+    "gn:country_code":"ML",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6866704,
+    "gn:latitude":14.61037,
+    "gn:longitude":-3.29953,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Dimi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421171975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6866704
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a21cd3c25d96989878c62c6630f0af16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171975,
+            "locality_id":1226078395,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1226078395,
+    "wof:lastmodified":1536678204,
+    "wof:name":"Dimi",
+    "wof:parent_id":421171975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.29953,
+    14.61037,
+    -3.29953,
+    14.61037
+],
+  "geometry": {"coordinates":[-3.29953,14.61037],"type":"Point"}
+}

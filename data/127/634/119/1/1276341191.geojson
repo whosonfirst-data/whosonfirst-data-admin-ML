@@ -1,0 +1,71 @@
+{
+  "id": 1276341191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.8344,13.4006,-3.8344,13.4006",
+    "geom:latitude":13.4006,
+    "geom:longitude":-3.8344,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dourei",
+    "gn:country_code":"ML",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458210,
+    "gn:latitude":13.4006,
+    "gn:longitude":-3.8344,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dourei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doursi",
+        "Dourei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458210
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0170a871639bf9f9a8a2ba71ab297f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1276341191,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1276341191,
+    "wof:lastmodified":1537665213,
+    "wof:name":"Dourei",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8344,
+    13.4006,
+    -3.8344,
+    13.4006
+],
+  "geometry": {"coordinates":[-3.8344,13.4006],"type":"Point"}
+}

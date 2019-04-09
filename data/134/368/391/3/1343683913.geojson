@@ -1,0 +1,67 @@
+{
+  "id": 1343683913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.61411,11.94099,-5.61411,11.94099",
+    "geom:latitude":11.94099,
+    "geom:longitude":-5.61411,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Koumbala",
+    "gn:country_code":"ML",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454474,
+    "gn:latitude":11.94099,
+    "gn:longitude":-5.61411,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Koumbala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454474
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b4b86dfca98864e6f87aa592a5c78342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1343683913,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1343683913,
+    "wof:lastmodified":1536921923,
+    "wof:name":"Koumbala",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.61411,
+    11.94099,
+    -5.61411,
+    11.94099
+],
+  "geometry": {"coordinates":[-5.61411,11.94099],"type":"Point"}
+}

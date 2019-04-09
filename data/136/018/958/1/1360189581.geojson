@@ -1,0 +1,70 @@
+{
+  "id": 1360189581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.203,14.5553,-6.203,14.5553",
+    "geom:latitude":14.5553,
+    "geom:longitude":-6.203,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Herebougou",
+    "gn:country_code":"ML",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456637,
+    "gn:latitude":14.5553,
+    "gn:longitude":-6.203,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"H\u00e9r\u00e9bougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "H\u00e9r\u00e9bougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456637
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7913992c6de5608a8103d41c9af51fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562867,
+            "locality_id":1360189581,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1360189581,
+    "wof:lastmodified":1537665174,
+    "wof:name":"Herebougou",
+    "wof:parent_id":1108562867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.203,
+    14.5553,
+    -6.203,
+    14.5553
+],
+  "geometry": {"coordinates":[-6.203,14.5553],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209816019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.1229,15.232,-4.1229,15.232",
+    "geom:latitude":15.232,
+    "geom:longitude":-4.1229,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dintaka",
+    "gn:country_code":"ML",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6687480,
+    "gn:latitude":15.232,
+    "gn:longitude":-4.1229,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Dintaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6687480
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"af3b022531d8d0b8b10197c997ceb006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562871,
+            "locality_id":1209816019,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1209816019,
+    "wof:lastmodified":1536383825,
+    "wof:name":"Dintaka",
+    "wof:parent_id":1108562871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.1229,
+    15.232,
+    -4.1229,
+    15.232
+],
+  "geometry": {"coordinates":[-4.1229,15.232],"type":"Point"}
+}

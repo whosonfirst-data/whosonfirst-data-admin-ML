@@ -1,0 +1,72 @@
+{
+  "id": 1293023585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.5884,13.5548,-4.5884,13.5548",
+    "geom:latitude":13.5548,
+    "geom:longitude":-4.5884,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mayarasso",
+    "gn:country_code":"ML",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453595,
+    "gn:latitude":13.5548,
+    "gn:longitude":-4.5884,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mayarasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maherasso",
+        "Dan\u00e9kui",
+        "Mayarasso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421192717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453595
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"bf8734d8b39f1cd5aa55a48b14cdf270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421192717,
+            "locality_id":1293023585,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1293023585,
+    "wof:lastmodified":1537665118,
+    "wof:name":"Mayarasso",
+    "wof:parent_id":421192717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.5884,
+    13.5548,
+    -4.5884,
+    13.5548
+],
+  "geometry": {"coordinates":[-4.5884,13.5548],"type":"Point"}
+}

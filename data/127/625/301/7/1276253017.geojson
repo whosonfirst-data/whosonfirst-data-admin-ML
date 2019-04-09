@@ -1,0 +1,71 @@
+{
+  "id": 1276253017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.4625,15.428,-4.4625,15.428",
+    "geom:latitude":15.428,
+    "geom:longitude":-4.4625,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Erao",
+    "gn:country_code":"ML",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457929,
+    "gn:latitude":15.428,
+    "gn:longitude":-4.4625,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Erao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eraoura",
+        "Erao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457929
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d13ace69a93b4222799a8965f1054330",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562871,
+            "locality_id":1276253017,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1276253017,
+    "wof:lastmodified":1537665204,
+    "wof:name":"Erao",
+    "wof:parent_id":1108562871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4625,
+    15.428,
+    -4.4625,
+    15.428
+],
+  "geometry": {"coordinates":[-4.4625,15.428],"type":"Point"}
+}

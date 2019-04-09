@@ -1,0 +1,67 @@
+{
+  "id": 1343865817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.4314,14.8049,-9.4314,14.8049",
+    "geom:latitude":14.8049,
+    "geom:longitude":-9.4314,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mouberede",
+    "gn:country_code":"ML",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453301,
+    "gn:latitude":14.8049,
+    "gn:longitude":-9.4314,
+    "gn:modification_date":"2008-11-18",
+    "gn:name":"Moub\u00e9r\u00e9d\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453301
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ca3688171d14e8c395cf391e4b84c00d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562857,
+            "locality_id":1343865817,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1343865817,
+    "wof:lastmodified":1536658925,
+    "wof:name":"Mouberede",
+    "wof:parent_id":1108562857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.4314,
+    14.8049,
+    -9.4314,
+    14.8049
+],
+  "geometry": {"coordinates":[-9.4314,14.8049],"type":"Point"}
+}

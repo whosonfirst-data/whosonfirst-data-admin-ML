@@ -1,0 +1,72 @@
+{
+  "id": 1226257463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.95,12.88333,-9.95,12.88333",
+    "geom:latitude":12.88333,
+    "geom:longitude":-9.95,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"7701501.0",
+    "gn:asciiname":"Kokofata",
+    "gn:country_code":"ML",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455055,
+    "gn:latitude":12.88333,
+    "gn:longitude":-9.95,
+    "gn:modification_date":"2018-02-16",
+    "gn:name":"Kokofata",
+    "gn:population":12985,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455055,
+        "wk:page":"Kokofata"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"884b40593dc7cad582ce74e616276b0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1226257463,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1226257463,
+    "wof:lastmodified":1537568421,
+    "wof:name":"Kokofata",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:population":12985,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.95,
+    12.88333,
+    -9.95,
+    12.88333
+],
+  "geometry": {"coordinates":[-9.95,12.88333],"type":"Point"}
+}

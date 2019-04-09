@@ -1,0 +1,67 @@
+{
+  "id": 1293696831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.38333,12.73333,-9.38333,12.73333",
+    "geom:latitude":12.73333,
+    "geom:longitude":-9.38333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Baram",
+    "gn:country_code":"ML",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460321,
+    "gn:latitude":12.73333,
+    "gn:longitude":-9.38333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Baram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460321
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d90a45278ba39bc6c96329db07243b77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1293696831,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1293696831,
+    "wof:lastmodified":1536981778,
+    "wof:name":"Baram",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.38333,
+    12.73333,
+    -9.38333,
+    12.73333
+],
+  "geometry": {"coordinates":[-9.38333,12.73333],"type":"Point"}
+}

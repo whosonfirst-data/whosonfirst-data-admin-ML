@@ -1,0 +1,67 @@
+{
+  "id": 1226338253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.10611,16.60528,-0.10611,16.60528",
+    "geom:latitude":16.60528,
+    "geom:longitude":-0.10611,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Amakouladji",
+    "gn:country_code":"ML",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2461105,
+    "gn:latitude":16.60528,
+    "gn:longitude":-0.10611,
+    "gn:modification_date":"2006-05-24",
+    "gn:name":"Amakouladji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        890418899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2461105
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2f91fabf6e4bb9f2fb3032c0e58483a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":890418899,
+            "locality_id":1226338253,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1226338253,
+    "wof:lastmodified":1536800339,
+    "wof:name":"Amakouladji",
+    "wof:parent_id":890418899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.10611,
+    16.60528,
+    -0.10611,
+    16.60528
+],
+  "geometry": {"coordinates":[-0.10611,16.60528],"type":"Point"}
+}

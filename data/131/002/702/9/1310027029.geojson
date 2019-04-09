@@ -1,0 +1,74 @@
+{
+  "id": 1310027029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.0737,13.4779,-8.0737,13.4779",
+    "geom:latitude":13.4779,
+    "geom:longitude":-8.0737,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ntiobougou",
+    "gn:country_code":"ML",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452535,
+    "gn:latitude":13.4779,
+    "gn:longitude":-8.0737,
+    "gn:modification_date":"2018-04-13",
+    "gn:name":"Ntiobougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "N\u2019Tobougou"
+    ],
+    "name:fra_x_variant":[
+        "Ntiobougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452535,
+        "wk:page":"N%27Tobougou"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ac5995a26c4cf02c43e27662abcfda34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":1310027029,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1310027029,
+    "wof:lastmodified":1537665089,
+    "wof:name":"Ntiobougou",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.0737,
+    13.4779,
+    -8.0737,
+    13.4779
+],
+  "geometry": {"coordinates":[-8.0737,13.4779],"type":"Point"}
+}

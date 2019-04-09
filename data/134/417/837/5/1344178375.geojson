@@ -1,0 +1,71 @@
+{
+  "id": 1344178375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.99948,15.00963,-8.99948,15.00963",
+    "geom:latitude":15.00963,
+    "geom:longitude":-8.99948,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kouroute",
+    "gn:country_code":"ML",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454291,
+    "gn:latitude":15.00963,
+    "gn:longitude":-8.99948,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kourout\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kouroul\u00e9",
+        "Kourout\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454291
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d97b44e86e0f59e0f7396904d3b0a6a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562869,
+            "locality_id":1344178375,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1344178375,
+    "wof:lastmodified":1537665133,
+    "wof:name":"Kouroute",
+    "wof:parent_id":1108562869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.99948,
+    15.00963,
+    -8.99948,
+    15.00963
+],
+  "geometry": {"coordinates":[-8.99948,15.00963],"type":"Point"}
+}

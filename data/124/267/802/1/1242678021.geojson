@@ -1,0 +1,71 @@
+{
+  "id": 1242678021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.3396,15.6478,-3.3396,15.6478",
+    "geom:latitude":15.6478,
+    "geom:longitude":-3.3396,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Segue",
+    "gn:country_code":"ML",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6881017,
+    "gn:latitude":15.6478,
+    "gn:longitude":-3.3396,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"S\u00e9gu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e9gu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6881017,
+        "wk:page":"Segue,_Mali"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"372cdb796dc458f1315fbacc87b8020c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1242678021,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1242678021,
+    "wof:lastmodified":1537665288,
+    "wof:name":"Segue",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.3396,
+    15.6478,
+    -3.3396,
+    15.6478
+],
+  "geometry": {"coordinates":[-3.3396,15.6478],"type":"Point"}
+}

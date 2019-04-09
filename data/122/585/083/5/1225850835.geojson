@@ -1,0 +1,67 @@
+{
+  "id": 1225850835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.28,14.09457,-4.28,14.09457",
+    "geom:latitude":14.09457,
+    "geom:longitude":-4.28,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Moupa",
+    "gn:country_code":"ML",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6765843,
+    "gn:latitude":14.09457,
+    "gn:longitude":-4.28,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Moupa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6765843
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a5dddcd97fedc84a83c58be05e259d2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1225850835,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1225850835,
+    "wof:lastmodified":1537005558,
+    "wof:name":"Moupa",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.28,
+    14.09457,
+    -4.28,
+    14.09457
+],
+  "geometry": {"coordinates":[-4.28,14.09457],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225934623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.37,16.79466,-2.37,16.79466",
+    "geom:latitude":16.79466,
+    "geom:longitude":-2.37,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Adjiba",
+    "gn:country_code":"ML",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2461337,
+    "gn:latitude":16.79466,
+    "gn:longitude":-2.37,
+    "gn:modification_date":"2009-10-13",
+    "gn:name":"Adjiba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        890418895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2461337
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a50a8a006ef7ec9a7415de10f88a2b97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":890418895,
+            "locality_id":1225934623,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1225934623,
+    "wof:lastmodified":1536884976,
+    "wof:name":"Adjiba",
+    "wof:parent_id":890418895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.37,
+    16.79466,
+    -2.37,
+    16.79466
+],
+  "geometry": {"coordinates":[-2.37,16.79466],"type":"Point"}
+}

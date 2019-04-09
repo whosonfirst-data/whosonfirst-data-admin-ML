@@ -1,0 +1,67 @@
+{
+  "id": 1343662099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.27448,14.28174,-4.27448,14.28174",
+    "geom:latitude":14.28174,
+    "geom:longitude":-4.27448,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sare-Katie",
+    "gn:country_code":"ML",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6765878,
+    "gn:latitude":14.28174,
+    "gn:longitude":-4.27448,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Sar\u00e9-Kati\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6765878
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9e2d6054e39c01f2366c4b5106bce4cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1343662099,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1343662099,
+    "wof:lastmodified":1536952832,
+    "wof:name":"Sare-Katie",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.27448,
+    14.28174,
+    -4.27448,
+    14.28174
+],
+  "geometry": {"coordinates":[-4.27448,14.28174],"type":"Point"}
+}

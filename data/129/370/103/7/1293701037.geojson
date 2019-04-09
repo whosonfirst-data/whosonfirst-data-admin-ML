@@ -1,0 +1,67 @@
+{
+  "id": 1293701037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.01387,12.59969,-8.01387,12.59969",
+    "geom:latitude":12.59969,
+    "geom:longitude":-8.01387,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Djikoroni",
+    "gn:country_code":"ML",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458552,
+    "gn:latitude":12.59969,
+    "gn:longitude":-8.01387,
+    "gn:modification_date":"2008-11-13",
+    "gn:name":"Djikoroni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674525,
+        421187095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458552
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"70ee47d437f0e5289d32a08af9a52353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421187095,
+            "locality_id":1293701037,
+            "region_id":85674525
+        }
+    ],
+    "wof:id":1293701037,
+    "wof:lastmodified":1536975894,
+    "wof:name":"Djikoroni",
+    "wof:parent_id":421187095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.01387,
+    12.59969,
+    -8.01387,
+    12.59969
+],
+  "geometry": {"coordinates":[-8.01387,12.59969],"type":"Point"}
+}

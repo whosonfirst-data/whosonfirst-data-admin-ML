@@ -1,0 +1,73 @@
+{
+  "id": 1293600781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.70112,15.1214,-10.70112,15.1214",
+    "geom:latitude":15.1214,
+    "geom:longitude":-10.70112,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sanbakanou",
+    "gn:country_code":"ML",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451805,
+    "gn:latitude":15.1214,
+    "gn:longitude":-10.70112,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sanbakanou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sambakar\u00e9",
+        "Sambakan\u00e9",
+        "Sambakanou",
+        "Sanbakanou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451805
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5a2d1326c5ac7759a1a536c888b66bbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562863,
+            "locality_id":1293600781,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1293600781,
+    "wof:lastmodified":1537665071,
+    "wof:name":"Sanbakanou",
+    "wof:parent_id":1108562863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.70112,
+    15.1214,
+    -10.70112,
+    15.1214
+],
+  "geometry": {"coordinates":[-10.70112,15.1214],"type":"Point"}
+}

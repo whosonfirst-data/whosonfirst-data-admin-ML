@@ -1,0 +1,78 @@
+{
+  "id": 1343356721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.34891,11.69129,-6.34891,11.69129",
+    "geom:latitude":11.69129,
+    "geom:longitude":-6.34891,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tietinbougou",
+    "gn:country_code":"ML",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449718,
+    "gn:latitude":11.69129,
+    "gn:longitude":-6.34891,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ti\u00e9tinbougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ti\u00e9tembougou"
+    ],
+    "name:fra_x_variant":[
+        "Ti\u00e9timbougou"
+    ],
+    "name:und_x_variant":[
+        "Ti\u00e9timbougou",
+        "Ti\u00e9tinbougou",
+        "Ti\u00e9tembougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449718
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ed86fc114f7a44a1983b9c94ae69a399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1343356721,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1343356721,
+    "wof:lastmodified":1537665026,
+    "wof:name":"Tietinbougou",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.34891,
+    11.69129,
+    -6.34891,
+    11.69129
+],
+  "geometry": {"coordinates":[-6.34891,11.69129],"type":"Point"}
+}

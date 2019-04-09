@@ -1,0 +1,67 @@
+{
+  "id": 1209839757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.88843,13.72617,-4.88843,13.72617",
+    "geom:latitude":13.72617,
+    "geom:longitude":-4.88843,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sougouba",
+    "gn:country_code":"ML",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450680,
+    "gn:latitude":13.72617,
+    "gn:longitude":-4.88843,
+    "gn:modification_date":"2008-11-03",
+    "gn:name":"Sougouba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421187097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450680
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4bc52f3053a4a2bbb546a1b55ecce9cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421187097,
+            "locality_id":1209839757,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1209839757,
+    "wof:lastmodified":1536393252,
+    "wof:name":"Sougouba",
+    "wof:parent_id":421187097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.88843,
+    13.72617,
+    -4.88843,
+    13.72617
+],
+  "geometry": {"coordinates":[-4.88843,13.72617],"type":"Point"}
+}

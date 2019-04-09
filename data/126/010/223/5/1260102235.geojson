@@ -1,0 +1,67 @@
+{
+  "id": 1260102235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.09062,11.37352,-7.09062,11.37352",
+    "geom:latitude":11.37352,
+    "geom:longitude":-7.09062,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bafaga",
+    "gn:country_code":"ML",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460765,
+    "gn:latitude":11.37352,
+    "gn:longitude":-7.09062,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Bafaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460765
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"fd03b3541ece8f64407e846f2b9e397d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1260102235,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1260102235,
+    "wof:lastmodified":1536961023,
+    "wof:name":"Bafaga",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.09062,
+    11.37352,
+    -7.09062,
+    11.37352
+],
+  "geometry": {"coordinates":[-7.09062,11.37352],"type":"Point"}
+}

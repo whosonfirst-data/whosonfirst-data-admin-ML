@@ -1,0 +1,67 @@
+{
+  "id": 1344261909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.52076,13.14915,-6.52076,13.14915",
+    "geom:latitude":13.14915,
+    "geom:longitude":-6.52076,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Beme",
+    "gn:country_code":"ML",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910736,
+    "gn:latitude":13.14915,
+    "gn:longitude":-6.52076,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"B\u00e8m\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910736
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"14da4f30528e9458daa7d2798f2d2939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1344261909,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1344261909,
+    "wof:lastmodified":1537078864,
+    "wof:name":"Beme",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.52076,
+    13.14915,
+    -6.52076,
+    13.14915
+],
+  "geometry": {"coordinates":[-6.52076,13.14915],"type":"Point"}
+}

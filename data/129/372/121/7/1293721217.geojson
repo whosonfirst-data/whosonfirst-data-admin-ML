@@ -1,0 +1,67 @@
+{
+  "id": 1293721217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.72887,13.3185,-6.72887,13.3185",
+    "geom:latitude":13.3185,
+    "geom:longitude":-6.72887,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sona",
+    "gn:country_code":"ML",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450789,
+    "gn:latitude":13.3185,
+    "gn:longitude":-6.72887,
+    "gn:modification_date":"2008-11-18",
+    "gn:name":"Sona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450789
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"404e2bb066528a1b30210eb7cd232744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562837,
+            "locality_id":1293721217,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1293721217,
+    "wof:lastmodified":1536947887,
+    "wof:name":"Sona",
+    "wof:parent_id":1108562837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.72887,
+    13.3185,
+    -6.72887,
+    13.3185
+],
+  "geometry": {"coordinates":[-6.72887,13.3185],"type":"Point"}
+}

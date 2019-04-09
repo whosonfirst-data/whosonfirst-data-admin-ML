@@ -1,0 +1,71 @@
+{
+  "id": 1310129843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.40714,14.87038,-4.40714,14.87038",
+    "geom:latitude":14.87038,
+    "geom:longitude":-4.40714,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sorme",
+    "gn:country_code":"ML",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450741,
+    "gn:latitude":14.87038,
+    "gn:longitude":-4.40714,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sorm\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sourm\u00e9",
+        "Sorm\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450741
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"41898f1023158ce210e64b2f63aaab2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1310129843,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1310129843,
+    "wof:lastmodified":1537665043,
+    "wof:name":"Sorme",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.40714,
+    14.87038,
+    -4.40714,
+    14.87038
+],
+  "geometry": {"coordinates":[-4.40714,14.87038],"type":"Point"}
+}

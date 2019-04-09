@@ -1,0 +1,67 @@
+{
+  "id": 1343456411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.22504,12.14147,-7.22504,12.14147",
+    "geom:latitude":12.14147,
+    "geom:longitude":-7.22504,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sidioni",
+    "gn:country_code":"ML",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593902,
+    "gn:latitude":12.14147,
+    "gn:longitude":-7.22504,
+    "gn:modification_date":"2008-11-07",
+    "gn:name":"Sidioni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593902
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ca6f9c8305c71a6600f7c56e39c1242d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1343456411,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1343456411,
+    "wof:lastmodified":1536751991,
+    "wof:name":"Sidioni",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.22504,
+    12.14147,
+    -7.22504,
+    12.14147
+],
+  "geometry": {"coordinates":[-7.22504,12.14147],"type":"Point"}
+}

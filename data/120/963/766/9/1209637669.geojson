@@ -1,0 +1,67 @@
+{
+  "id": 1209637669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.96615,11.1653,-6.96615,11.1653",
+    "geom:latitude":11.1653,
+    "geom:longitude":-6.96615,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tianniana",
+    "gn:country_code":"ML",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449396,
+    "gn:latitude":11.1653,
+    "gn:longitude":-6.96615,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Tianniana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tiniana"
+    ],
+    "name:und_x_variant":[
+        "Tiniana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449396
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3fd793acd40583cc1b01323ed45db7e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209637669
+        }
+    ],
+    "wof:id":1209637669,
+    "wof:lastmodified":1537665024,
+    "wof:name":"Tianniana",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.96615,
+    11.1653,
+    -6.96615,
+    11.1653
+],
+  "geometry": {"coordinates":[-6.96615,11.1653],"type":"Point"}
+}

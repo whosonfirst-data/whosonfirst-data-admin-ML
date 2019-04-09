@@ -1,0 +1,72 @@
+{
+  "id": 1293588257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.24276,13.87807,-5.24276,13.87807",
+    "geom:latitude":13.87807,
+    "geom:longitude":-5.24276,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Soulei",
+    "gn:country_code":"ML",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450651,
+    "gn:latitude":13.87807,
+    "gn:longitude":-5.24276,
+    "gn:modification_date":"2018-04-13",
+    "gn:name":"Soule\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Souley",
+        "Soule\u00ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450651,
+        "wk:page":"Souleye"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"afb96d4017f061b3315ee5793bc9dbce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":1293588257,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1293588257,
+    "wof:lastmodified":1537665041,
+    "wof:name":"Soulei",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.24276,
+    13.87807,
+    -5.24276,
+    13.87807
+],
+  "geometry": {"coordinates":[-5.24276,13.87807],"type":"Point"}
+}

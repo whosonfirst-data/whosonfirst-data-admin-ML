@@ -1,0 +1,76 @@
+{
+  "id": 1310128589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.106,12.7235,-6.106,12.7235",
+    "geom:latitude":12.7235,
+    "geom:longitude":-6.106,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Boloma",
+    "gn:country_code":"ML",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459940,
+    "gn:latitude":12.7235,
+    "gn:longitude":-6.106,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boloma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Boloma"
+    ],
+    "name:fra_x_variant":[
+        "Boulounga"
+    ],
+    "name:und_x_variant":[
+        "Boulounga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459940
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2ea46e69032ce0bb1a6ef440e10b5455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562835,
+            "locality_id":1310128589,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1310128589,
+    "wof:lastmodified":1537665257,
+    "wof:name":"Boloma",
+    "wof:parent_id":1108562835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.106,
+    12.7235,
+    -6.106,
+    12.7235
+],
+  "geometry": {"coordinates":[-6.106,12.7235],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226646269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.6372,13.7632,-3.6372,13.7632",
+    "geom:latitude":13.7632,
+    "geom:longitude":-3.6372,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dia",
+    "gn:country_code":"ML",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459177,
+    "gn:latitude":13.7632,
+    "gn:longitude":-3.6372,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dianga",
+        "Dia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459177
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ae0f49ff150a46a974d1ff6275fdbdc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1226646269,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1226646269,
+    "wof:lastmodified":1537665239,
+    "wof:name":"Dia",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6372,
+    13.7632,
+    -3.6372,
+    13.7632
+],
+  "geometry": {"coordinates":[-3.6372,13.7632],"type":"Point"}
+}

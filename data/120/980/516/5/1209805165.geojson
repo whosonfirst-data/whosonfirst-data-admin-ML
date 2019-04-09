@@ -1,0 +1,71 @@
+{
+  "id": 1209805165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.02389,16.18944,-0.02389,16.18944",
+    "geom:latitude":16.18944,
+    "geom:longitude":-0.02389,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bilali Koyra",
+    "gn:country_code":"ML",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460068,
+    "gn:latitude":16.18944,
+    "gn:longitude":-0.02389,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bilali Koyra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bilal\u00edko\u00efra",
+        "Bilali Koyra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        890418899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460068
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b3aa1e7a24fd86cbfe201cfca83e23db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":890418899,
+            "locality_id":1209805165,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1209805165,
+    "wof:lastmodified":1537665260,
+    "wof:name":"Bilali Koyra",
+    "wof:parent_id":890418899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.02389,
+    16.18944,
+    -0.02389,
+    16.18944
+],
+  "geometry": {"coordinates":[-0.02389,16.18944],"type":"Point"}
+}

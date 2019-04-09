@@ -1,0 +1,67 @@
+{
+  "id": 1209830221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.80457,17.00789,-0.80457,17.00789",
+    "geom:latitude":17.00789,
+    "geom:longitude":-0.80457,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Boutanga",
+    "gn:country_code":"ML",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459628,
+    "gn:latitude":17.00789,
+    "gn:longitude":-0.80457,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Boutanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        1108562879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459628
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"97ce00a074e5a71413e1fa1dce0c2250",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562879,
+            "locality_id":1209830221,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1209830221,
+    "wof:lastmodified":1536369205,
+    "wof:name":"Boutanga",
+    "wof:parent_id":1108562879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.80457,
+    17.00789,
+    -0.80457,
+    17.00789
+],
+  "geometry": {"coordinates":[-0.80457,17.00789],"type":"Point"}
+}

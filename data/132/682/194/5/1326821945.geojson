@@ -1,0 +1,70 @@
+{
+  "id": 1326821945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.1878,13.5888,-8.1878,13.5888",
+    "geom:latitude":13.5888,
+    "geom:longitude":-8.1878,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tomekoro",
+    "gn:country_code":"ML",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449064,
+    "gn:latitude":13.5888,
+    "gn:longitude":-8.1878,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tom\u00e9koro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tom\u00e9koro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449064
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6b05943704e0bfff7cbdf64380c86854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":1326821945,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1326821945,
+    "wof:lastmodified":1537665020,
+    "wof:name":"Tomekoro",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.1878,
+    13.5888,
+    -8.1878,
+    13.5888
+],
+  "geometry": {"coordinates":[-8.1878,13.5888],"type":"Point"}
+}

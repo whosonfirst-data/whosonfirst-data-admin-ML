@@ -1,0 +1,67 @@
+{
+  "id": 1276442443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.00102,14.53505,-4.00102,14.53505",
+    "geom:latitude":14.53505,
+    "geom:longitude":-4.00102,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Boumbou Koro",
+    "gn:country_code":"ML",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6768600,
+    "gn:latitude":14.53505,
+    "gn:longitude":-4.00102,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Boumbou Koro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6768600
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"14e85bce652ea8c6eaa00a060ad09b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1276442443,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1276442443,
+    "wof:lastmodified":1536630835,
+    "wof:name":"Boumbou Koro",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.00102,
+    14.53505,
+    -4.00102,
+    14.53505
+],
+  "geometry": {"coordinates":[-4.00102,14.53505],"type":"Point"}
+}

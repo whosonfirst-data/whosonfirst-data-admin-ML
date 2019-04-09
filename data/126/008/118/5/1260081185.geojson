@@ -1,0 +1,67 @@
+{
+  "id": 1260081185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.73309,14.7061,-3.73309,14.7061",
+    "geom:latitude":14.7061,
+    "geom:longitude":-3.73309,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nefari",
+    "gn:country_code":"ML",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452991,
+    "gn:latitude":14.7061,
+    "gn:longitude":-3.73309,
+    "gn:modification_date":"2008-10-24",
+    "gn:name":"N\u00e9fari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421171975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452991
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e14d61c40e5c274ee6f6e6b6dbb22ec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171975,
+            "locality_id":1260081185,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1260081185,
+    "wof:lastmodified":1536990508,
+    "wof:name":"Nefari",
+    "wof:parent_id":421171975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.73309,
+    14.7061,
+    -3.73309,
+    14.7061
+],
+  "geometry": {"coordinates":[-3.73309,14.7061],"type":"Point"}
+}

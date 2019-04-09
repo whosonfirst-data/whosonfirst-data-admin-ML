@@ -1,0 +1,67 @@
+{
+  "id": 1276764339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.14506,15.33403,-9.14506,15.33403",
+    "geom:latitude":15.33403,
+    "geom:longitude":-9.14506,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Moujerigue Oulad Mounou",
+    "gn:country_code":"ML",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453287,
+    "gn:latitude":15.33403,
+    "gn:longitude":-9.14506,
+    "gn:modification_date":"2008-05-08",
+    "gn:name":"Moujerigu\u00e9 Oulad Mounou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453287
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"88b6c910595babdefb3749145e96443d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562869,
+            "locality_id":1276764339,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1276764339,
+    "wof:lastmodified":1536698565,
+    "wof:name":"Moujerigue Oulad Mounou",
+    "wof:parent_id":1108562869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.14506,
+    15.33403,
+    -9.14506,
+    15.33403
+],
+  "geometry": {"coordinates":[-9.14506,15.33403],"type":"Point"}
+}

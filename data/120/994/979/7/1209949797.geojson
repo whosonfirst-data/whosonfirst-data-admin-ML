@@ -1,0 +1,67 @@
+{
+  "id": 1209949797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.53859,14.6195,-3.53859,14.6195",
+    "geom:latitude":14.6195,
+    "geom:longitude":-3.53859,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sogodougou",
+    "gn:country_code":"ML",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6866568,
+    "gn:latitude":14.6195,
+    "gn:longitude":-3.53859,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Sogodougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421171975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6866568
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"68cf63e898d2977d4c797127699510f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171975,
+            "locality_id":1209949797,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1209949797,
+    "wof:lastmodified":1536384692,
+    "wof:name":"Sogodougou",
+    "wof:parent_id":421171975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.53859,
+    14.6195,
+    -3.53859,
+    14.6195
+],
+  "geometry": {"coordinates":[-3.53859,14.6195],"type":"Point"}
+}

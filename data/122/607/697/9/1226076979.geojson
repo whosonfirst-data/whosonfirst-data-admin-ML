@@ -1,0 +1,67 @@
+{
+  "id": 1226076979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.49635,13.24013,-4.49635,13.24013",
+    "geom:latitude":13.24013,
+    "geom:longitude":-4.49635,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Henekui",
+    "gn:country_code":"ML",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456640,
+    "gn:latitude":13.24013,
+    "gn:longitude":-4.49635,
+    "gn:modification_date":"2008-11-03",
+    "gn:name":"H\u00e9n\u00e9kui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456640
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2de0729ba52d84f6a1798e76300a313a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562843,
+            "locality_id":1226076979,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1226076979,
+    "wof:lastmodified":1536680234,
+    "wof:name":"Henekui",
+    "wof:parent_id":1108562843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.49635,
+    13.24013,
+    -4.49635,
+    13.24013
+],
+  "geometry": {"coordinates":[-4.49635,13.24013],"type":"Point"}
+}

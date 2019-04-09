@@ -1,0 +1,67 @@
+{
+  "id": 1343762383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.98379,14.45531,-2.98379,14.45531",
+    "geom:latitude":14.45531,
+    "geom:longitude":-2.98379,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Manteou",
+    "gn:country_code":"ML",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453747,
+    "gn:latitude":14.45531,
+    "gn:longitude":-2.98379,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Mant\u00e9ou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453747
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"593c8efc42eb3f395b20f51340d23b31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1343762383,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1343762383,
+    "wof:lastmodified":1536807867,
+    "wof:name":"Manteou",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.98379,
+    14.45531,
+    -2.98379,
+    14.45531
+],
+  "geometry": {"coordinates":[-2.98379,14.45531],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310623025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.33814,12.05513,-7.33814,12.05513",
+    "geom:latitude":12.05513,
+    "geom:longitude":-7.33814,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Minankorobougou",
+    "gn:country_code":"ML",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593875,
+    "gn:latitude":12.05513,
+    "gn:longitude":-7.33814,
+    "gn:modification_date":"2008-11-07",
+    "gn:name":"Minankorobougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593875
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c5a36787cd3eb573049d495f3312d6d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1310623025,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1310623025,
+    "wof:lastmodified":1536747221,
+    "wof:name":"Minankorobougou",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.33814,
+    12.05513,
+    -7.33814,
+    12.05513
+],
+  "geometry": {"coordinates":[-7.33814,12.05513],"type":"Point"}
+}

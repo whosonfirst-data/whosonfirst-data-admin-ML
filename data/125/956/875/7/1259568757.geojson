@@ -1,0 +1,71 @@
+{
+  "id": 1259568757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.48115,16.99742,-1.48115,16.99742",
+    "geom:latitude":16.99742,
+    "geom:longitude":-1.48115,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Adiata",
+    "gn:country_code":"ML",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2461346,
+    "gn:latitude":16.99742,
+    "gn:longitude":-1.48115,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Adiata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agata",
+        "Adiata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        1108562879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2461346
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c2582c25c8a7c6a1f8f80684b53401d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562879,
+            "locality_id":1259568757,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1259568757,
+    "wof:lastmodified":1537665281,
+    "wof:name":"Adiata",
+    "wof:parent_id":1108562879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.48115,
+    16.99742,
+    -1.48115,
+    16.99742
+],
+  "geometry": {"coordinates":[-1.48115,16.99742],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209407473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.60253,11.22814,-7.60253,11.22814",
+    "geom:latitude":11.22814,
+    "geom:longitude":-7.60253,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kenie",
+    "gn:country_code":"ML",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455430,
+    "gn:latitude":11.22814,
+    "gn:longitude":-7.60253,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"K\u00e9ni\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kenye",
+        "K\u00e9ni\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455430
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"41706de536bb5184ab6d11c393b42d97",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209407473
+        }
+    ],
+    "wof:id":1209407473,
+    "wof:lastmodified":1537665159,
+    "wof:name":"Kenie",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.60253,
+    11.22814,
+    -7.60253,
+    11.22814
+],
+  "geometry": {"coordinates":[-7.60253,11.22814],"type":"Point"}
+}

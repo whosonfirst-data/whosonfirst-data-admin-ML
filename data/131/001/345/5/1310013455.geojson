@@ -1,0 +1,72 @@
+{
+  "id": 1310013455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.8074,13.36,-10.8074,13.36",
+    "geom:latitude":13.36,
+    "geom:longitude":-10.8074,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tamarina",
+    "gn:country_code":"ML",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450302,
+    "gn:latitude":13.36,
+    "gn:longitude":-10.8074,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tamarina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tamar\u00e9na",
+        "Tam\u00e9r\u00e9na",
+        "Tamarina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450302
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"15c119ee58ed1168f615f74428b30026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562855,
+            "locality_id":1310013455,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1310013455,
+    "wof:lastmodified":1537665036,
+    "wof:name":"Tamarina",
+    "wof:parent_id":1108562855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.8074,
+    13.36,
+    -10.8074,
+    13.36
+],
+  "geometry": {"coordinates":[-10.8074,13.36],"type":"Point"}
+}

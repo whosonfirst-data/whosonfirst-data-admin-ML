@@ -1,0 +1,70 @@
+{
+  "id": 1209236439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.45662,11.33131,-6.45662,11.33131",
+    "geom:latitude":11.33131,
+    "geom:longitude":-6.45662,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Diomana",
+    "gn:country_code":"ML",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458734,
+    "gn:latitude":11.33131,
+    "gn:longitude":-6.45662,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Diomana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Diomana"
+    ],
+    "name:fra_x_variant":[
+        "Dioumana"
+    ],
+    "name:und_x_variant":[
+        "Dioumana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458734
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5191e86df348df8273eb482fd725f39d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209236439
+        }
+    ],
+    "wof:id":1209236439,
+    "wof:lastmodified":1537665227,
+    "wof:name":"Diomana",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.45662,
+    11.33131,
+    -6.45662,
+    11.33131
+],
+  "geometry": {"coordinates":[-6.45662,11.33131],"type":"Point"}
+}

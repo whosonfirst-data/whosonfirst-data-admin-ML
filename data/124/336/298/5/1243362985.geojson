@@ -1,0 +1,71 @@
+{
+  "id": 1243362985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.29973,13.34537,-5.29973,13.34537",
+    "geom:latitude":13.34537,
+    "geom:longitude":-5.29973,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Seremanzo",
+    "gn:country_code":"ML",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451325,
+    "gn:latitude":13.34537,
+    "gn:longitude":-5.29973,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"S\u00e9r\u00e9manzo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e9r\u00e9manso",
+        "S\u00e9r\u00e9manzo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451325
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d5633505a7618864f1b55090857127f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1243362985,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1243362985,
+    "wof:lastmodified":1537665059,
+    "wof:name":"Seremanzo",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.29973,
+    13.34537,
+    -5.29973,
+    13.34537
+],
+  "geometry": {"coordinates":[-5.29973,13.34537],"type":"Point"}
+}

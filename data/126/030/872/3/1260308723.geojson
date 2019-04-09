@@ -1,0 +1,67 @@
+{
+  "id": 1260308723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.25334,13.16236,-5.25334,13.16236",
+    "geom:latitude":13.16236,
+    "geom:longitude":-5.25334,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kouola",
+    "gn:country_code":"ML",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880765,
+    "gn:latitude":13.16236,
+    "gn:longitude":-5.25334,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Kouola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880765
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a7f18ac484b2cd7185170e14d682767e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562835,
+            "locality_id":1260308723,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1260308723,
+    "wof:lastmodified":1536678133,
+    "wof:name":"Kouola",
+    "wof:parent_id":1108562835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.25334,
+    13.16236,
+    -5.25334,
+    13.16236
+],
+  "geometry": {"coordinates":[-5.25334,13.16236],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242801881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.2952,13.8132,-3.2952,13.8132",
+    "geom:latitude":13.8132,
+    "geom:longitude":-3.2952,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Doule",
+    "gn:country_code":"ML",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6874992,
+    "gn:latitude":13.8132,
+    "gn:longitude":-3.2952,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Doul\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6874992
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"dc27d69d897916daec733688bc432081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1242801881,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1242801881,
+    "wof:lastmodified":1536740448,
+    "wof:name":"Doule",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.2952,
+    13.8132,
+    -3.2952,
+    13.8132
+],
+  "geometry": {"coordinates":[-3.2952,13.8132],"type":"Point"}
+}

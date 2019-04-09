@@ -1,0 +1,67 @@
+{
+  "id": 1242779705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.9329,14.5079,-8.9329,14.5079",
+    "geom:latitude":14.5079,
+    "geom:longitude":-8.9329,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Silame",
+    "gn:country_code":"ML",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451156,
+    "gn:latitude":14.5079,
+    "gn:longitude":-8.9329,
+    "gn:modification_date":"2008-11-18",
+    "gn:name":"Silam\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451156
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9f8909aa74eaf8f357c5219eb9c01d36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562857,
+            "locality_id":1242779705,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1242779705,
+    "wof:lastmodified":1536773192,
+    "wof:name":"Silame",
+    "wof:parent_id":1108562857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.9329,
+    14.5079,
+    -8.9329,
+    14.5079
+],
+  "geometry": {"coordinates":[-8.9329,14.5079],"type":"Point"}
+}

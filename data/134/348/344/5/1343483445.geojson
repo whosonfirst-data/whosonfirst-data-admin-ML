@@ -1,0 +1,67 @@
+{
+  "id": 1343483445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.7062,11.55629,-6.7062,11.55629",
+    "geom:latitude":11.55629,
+    "geom:longitude":-6.7062,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Timfouga",
+    "gn:country_code":"ML",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910191,
+    "gn:latitude":11.55629,
+    "gn:longitude":-6.7062,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Timfouga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910191
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d6c14da0c1bf7a17f8f9e905c3bf1562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1343483445,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1343483445,
+    "wof:lastmodified":1536713305,
+    "wof:name":"Timfouga",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.7062,
+    11.55629,
+    -6.7062,
+    11.55629
+],
+  "geometry": {"coordinates":[-6.7062,11.55629],"type":"Point"}
+}

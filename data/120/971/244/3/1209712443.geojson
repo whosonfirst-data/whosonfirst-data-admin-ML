@@ -1,0 +1,70 @@
+{
+  "id": 1209712443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.2204,13.6535,-8.2204,13.6535",
+    "geom:latitude":13.6535,
+    "geom:longitude":-8.2204,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Fabougou",
+    "gn:country_code":"ML",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457863,
+    "gn:latitude":13.6535,
+    "gn:longitude":-8.2204,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fabougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Fabougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457863
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8fb7053ebb26b4f3840426dba73f62e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":1209712443,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1209712443,
+    "wof:lastmodified":1537665204,
+    "wof:name":"Fabougou",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.2204,
+    13.6535,
+    -8.2204,
+    13.6535
+],
+  "geometry": {"coordinates":[-8.2204,13.6535],"type":"Point"}
+}

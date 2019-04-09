@@ -1,0 +1,71 @@
+{
+  "id": 1210022445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.0105,15.1019,-3.0105,15.1019",
+    "geom:latitude":15.1019,
+    "geom:longitude":-3.0105,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Debere",
+    "gn:country_code":"ML",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459250,
+    "gn:latitude":15.1019,
+    "gn:longitude":-3.0105,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"D\u00e9b\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00e9b\u00e9r\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459250,
+        "wk:page":"D%C3%A9b%C3%A9r%C3%A9"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ae6aec6cd91f45038bb16b41db7e373f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1210022445,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1210022445,
+    "wof:lastmodified":1537665241,
+    "wof:name":"Debere",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.0105,
+    15.1019,
+    -3.0105,
+    15.1019
+],
+  "geometry": {"coordinates":[-3.0105,15.1019],"type":"Point"}
+}

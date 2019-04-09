@@ -1,0 +1,67 @@
+{
+  "id": 1360079427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.1219,14.112,-8.1219,14.112",
+    "geom:latitude":14.112,
+    "geom:longitude":-8.1219,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sidibougou",
+    "gn:country_code":"ML",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451232,
+    "gn:latitude":14.112,
+    "gn:longitude":-8.1219,
+    "gn:modification_date":"2008-11-18",
+    "gn:name":"Sidibougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451232
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a26c06dd2fc7a90b486c9c5c78dedad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":1360079427,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1360079427,
+    "wof:lastmodified":1536953966,
+    "wof:name":"Sidibougou",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.1219,
+    14.112,
+    -8.1219,
+    14.112
+],
+  "geometry": {"coordinates":[-8.1219,14.112],"type":"Point"}
+}

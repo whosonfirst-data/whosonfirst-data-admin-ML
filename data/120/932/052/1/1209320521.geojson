@@ -1,0 +1,61 @@
+{
+  "id": 1209320521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.8048,14.61455,-4.8048,14.61455",
+    "geom:latitude":14.61455,
+    "geom:longitude":-4.8048,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sare-Matialou",
+    "gn:country_code":"ML",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6764152,
+    "gn:latitude":14.61455,
+    "gn:longitude":-4.8048,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Sar\u00e9-Matialou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6764152
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9461daeccaf643ab6fa7302390915adb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209320521
+        }
+    ],
+    "wof:id":1209320521,
+    "wof:lastmodified":1536290711,
+    "wof:name":"Sare-Matialou",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.8048,
+    14.61455,
+    -4.8048,
+    14.61455
+],
+  "geometry": {"coordinates":[-4.8048,14.61455],"type":"Point"}
+}

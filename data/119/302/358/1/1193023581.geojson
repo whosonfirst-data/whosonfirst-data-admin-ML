@@ -1,0 +1,71 @@
+{
+  "id": 1193023581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.7376,13.3833,-9.7376,13.3833",
+    "geom:latitude":13.3833,
+    "geom:longitude":-9.7376,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Badougou",
+    "gn:country_code":"ML",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460772,
+    "gn:latitude":13.3833,
+    "gn:longitude":-9.7376,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Badougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Badouga",
+        "Badougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460772
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d1b99aa8db0998ef4bc23cef6375eccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1193023581,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1193023581,
+    "wof:lastmodified":1537665276,
+    "wof:name":"Badougou",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.7376,
+    13.3833,
+    -9.7376,
+    13.3833
+],
+  "geometry": {"coordinates":[-9.7376,13.3833],"type":"Point"}
+}

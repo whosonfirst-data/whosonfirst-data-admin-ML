@@ -1,0 +1,67 @@
+{
+  "id": 1225844155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.95893,12.9248,-5.95893,12.9248",
+    "geom:latitude":12.9248,
+    "geom:longitude":-5.95893,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ngontia",
+    "gn:country_code":"ML",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452857,
+    "gn:latitude":12.9248,
+    "gn:longitude":-5.95893,
+    "gn:modification_date":"2008-10-24",
+    "gn:name":"Ngontia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452857
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"215f079f429f1fce2160c8fab4288648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562835,
+            "locality_id":1225844155,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1225844155,
+    "wof:lastmodified":1537015249,
+    "wof:name":"Ngontia",
+    "wof:parent_id":1108562835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.95893,
+    12.9248,
+    -5.95893,
+    12.9248
+],
+  "geometry": {"coordinates":[-5.95893,12.9248],"type":"Point"}
+}

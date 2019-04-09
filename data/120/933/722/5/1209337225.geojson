@@ -1,0 +1,61 @@
+{
+  "id": 1209337225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.96522,13.5024,-5.96522,13.5024",
+    "geom:latitude":13.5024,
+    "geom:longitude":-5.96522,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Timini",
+    "gn:country_code":"ML",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880648,
+    "gn:latitude":13.5024,
+    "gn:longitude":-5.96522,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Timini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880648
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ec70a6c9bf3a1a0c2eb399360b33d082",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209337225
+        }
+    ],
+    "wof:id":1209337225,
+    "wof:lastmodified":1536290179,
+    "wof:name":"Timini",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.96522,
+    13.5024,
+    -5.96522,
+    13.5024
+],
+  "geometry": {"coordinates":[-5.96522,13.5024],"type":"Point"}
+}

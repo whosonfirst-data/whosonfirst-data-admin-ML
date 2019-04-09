@@ -1,0 +1,67 @@
+{
+  "id": 1193050879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.85454,14.91597,-2.85454,14.91597",
+    "geom:latitude":14.91597,
+    "geom:longitude":-2.85454,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Douma",
+    "gn:country_code":"ML",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458279,
+    "gn:latitude":14.91597,
+    "gn:longitude":-2.85454,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Douma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458279
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c604f991a89847afb045ad37fc368295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1193050879,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1193050879,
+    "wof:lastmodified":1536366209,
+    "wof:name":"Douma",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.85454,
+    14.91597,
+    -2.85454,
+    14.91597
+],
+  "geometry": {"coordinates":[-2.85454,14.91597],"type":"Point"}
+}

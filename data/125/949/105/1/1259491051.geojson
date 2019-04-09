@@ -1,0 +1,71 @@
+{
+  "id": 1259491051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.28256,12.08256,-11.28256,12.08256",
+    "geom:latitude":12.08256,
+    "geom:longitude":-11.28256,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Lei Fello",
+    "gn:country_code":"ML",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454128,
+    "gn:latitude":12.08256,
+    "gn:longitude":-11.28256,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"L\u00e9\u00ef F\u00e9llo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Le\u00ef F\u00e9lo",
+        "L\u00e9\u00ef F\u00e9llo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454128
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"aca44ccbaf31669e09a9ec812560fd25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171903,
+            "locality_id":1259491051,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1259491051,
+    "wof:lastmodified":1537665129,
+    "wof:name":"Lei Fello",
+    "wof:parent_id":421171903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.28256,
+    12.08256,
+    -11.28256,
+    12.08256
+],
+  "geometry": {"coordinates":[-11.28256,12.08256],"type":"Point"}
+}

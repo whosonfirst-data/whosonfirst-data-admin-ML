@@ -1,0 +1,74 @@
+{
+  "id": 1292909413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.1384,14.2025,-5.1384,14.2025",
+    "geom:latitude":14.2025,
+    "geom:longitude":-5.1384,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sene-Markala",
+    "gn:country_code":"ML",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451363,
+    "gn:latitude":14.2025,
+    "gn:longitude":-5.1384,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u00e9n\u00e9-Markala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marka",
+        "Ti\u00e9na",
+        "Sien-Marka",
+        "Ti\u00e9n\u00e9-Makalla",
+        "S\u00e9n\u00e9-Markala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451363
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3960345f8a6c8123fb94ff3a82430a1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562861,
+            "locality_id":1292909413,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1292909413,
+    "wof:lastmodified":1537665059,
+    "wof:name":"Sene-Markala",
+    "wof:parent_id":1108562861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.1384,
+    14.2025,
+    -5.1384,
+    14.2025
+],
+  "geometry": {"coordinates":[-5.1384,14.2025],"type":"Point"}
+}

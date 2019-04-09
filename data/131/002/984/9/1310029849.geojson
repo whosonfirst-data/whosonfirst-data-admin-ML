@@ -1,0 +1,67 @@
+{
+  "id": 1310029849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.08783,14.86987,-3.08783,14.86987",
+    "geom:latitude":14.86987,
+    "geom:longitude":-3.08783,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ogodiamba",
+    "gn:country_code":"ML",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6866868,
+    "gn:latitude":14.86987,
+    "gn:longitude":-3.08783,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Ogodiamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6866868
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"dadb93a06f6405ad7ae329202d809b01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1310029849,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1310029849,
+    "wof:lastmodified":1536605223,
+    "wof:name":"Ogodiamba",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.08783,
+    14.86987,
+    -3.08783,
+    14.86987
+],
+  "geometry": {"coordinates":[-3.08783,14.86987],"type":"Point"}
+}

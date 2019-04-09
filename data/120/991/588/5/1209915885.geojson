@@ -1,0 +1,71 @@
+{
+  "id": 1209915885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.33552,14.75588,-11.33552,14.75588",
+    "geom:latitude":14.75588,
+    "geom:longitude":-11.33552,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sirimoulou",
+    "gn:country_code":"ML",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450955,
+    "gn:latitude":14.75588,
+    "gn:longitude":-11.33552,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Sirimoulou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Serimoulou",
+        "Sirimoulou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450955
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"22879d5f4be9d64f752a1f0fb8e91c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1209915885,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1209915885,
+    "wof:lastmodified":1537665048,
+    "wof:name":"Sirimoulou",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.33552,
+    14.75588,
+    -11.33552,
+    14.75588
+],
+  "geometry": {"coordinates":[-11.33552,14.75588],"type":"Point"}
+}

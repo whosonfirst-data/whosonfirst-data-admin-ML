@@ -1,0 +1,67 @@
+{
+  "id": 1310694029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.90213,11.78548,-6.90213,11.78548",
+    "geom:latitude":11.78548,
+    "geom:longitude":-6.90213,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sole",
+    "gn:country_code":"ML",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910134,
+    "gn:latitude":11.78548,
+    "gn:longitude":-6.90213,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Sol\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910134
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a90ee1798cea916de8ff72d8e31f3759",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1310694029,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1310694029,
+    "wof:lastmodified":1536644337,
+    "wof:name":"Sole",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.90213,
+    11.78548,
+    -6.90213,
+    11.78548
+],
+  "geometry": {"coordinates":[-6.90213,11.78548],"type":"Point"}
+}

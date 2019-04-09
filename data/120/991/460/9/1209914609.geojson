@@ -1,0 +1,67 @@
+{
+  "id": 1209914609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.9134,15.21,-4.9134,15.21",
+    "geom:latitude":15.21,
+    "geom:longitude":-4.9134,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sananga",
+    "gn:country_code":"ML",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451754,
+    "gn:latitude":15.21,
+    "gn:longitude":-4.9134,
+    "gn:modification_date":"2008-01-03",
+    "gn:name":"Sananga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451754
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c5e2538f9c33e5954e825612bff8b377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562871,
+            "locality_id":1209914609,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1209914609,
+    "wof:lastmodified":1536375094,
+    "wof:name":"Sananga",
+    "wof:parent_id":1108562871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.9134,
+    15.21,
+    -4.9134,
+    15.21
+],
+  "geometry": {"coordinates":[-4.9134,15.21],"type":"Point"}
+}

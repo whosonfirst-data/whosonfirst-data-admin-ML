@@ -1,0 +1,67 @@
+{
+  "id": 1292901099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.9188,11.02123,-6.9188,11.02123",
+    "geom:latitude":11.02123,
+    "geom:longitude":-6.9188,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yanfola",
+    "gn:country_code":"ML",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910152,
+    "gn:latitude":11.02123,
+    "gn:longitude":-6.9188,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Yanfola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910152
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f94ff065f880012a34491f4b80ba7230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562819,
+            "locality_id":1292901099,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1292901099,
+    "wof:lastmodified":1536637193,
+    "wof:name":"Yanfola",
+    "wof:parent_id":1108562819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.9188,
+    11.02123,
+    -6.9188,
+    11.02123
+],
+  "geometry": {"coordinates":[-6.9188,11.02123],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242994309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.3572,14.3117,-8.3572,14.3117",
+    "geom:latitude":14.3117,
+    "geom:longitude":-8.3572,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Disila",
+    "gn:country_code":"ML",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458613,
+    "gn:latitude":14.3117,
+    "gn:longitude":-8.3572,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Disila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dissila",
+        "Disila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458613
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"fb4b3c3f5b6f5d19f8bb0580d7337bbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562857,
+            "locality_id":1242994309,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1242994309,
+    "wof:lastmodified":1537665225,
+    "wof:name":"Disila",
+    "wof:parent_id":1108562857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.3572,
+    14.3117,
+    -8.3572,
+    14.3117
+],
+  "geometry": {"coordinates":[-8.3572,14.3117],"type":"Point"}
+}

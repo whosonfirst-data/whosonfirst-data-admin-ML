@@ -1,0 +1,61 @@
+{
+  "id": 1209409429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.38597,12.38779,-8.38597,12.38779",
+    "geom:latitude":12.38779,
+    "geom:longitude":-8.38597,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Berela",
+    "gn:country_code":"ML",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594491,
+    "gn:latitude":12.38779,
+    "gn:longitude":-8.38597,
+    "gn:modification_date":"2008-11-13",
+    "gn:name":"B\u00e8r\u00e8la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594491
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0d648abbf85fa0052408717bf4a14bd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209409429
+        }
+    ],
+    "wof:id":1209409429,
+    "wof:lastmodified":1536287888,
+    "wof:name":"Berela",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.38597,
+    12.38779,
+    -8.38597,
+    12.38779
+],
+  "geometry": {"coordinates":[-8.38597,12.38779],"type":"Point"}
+}

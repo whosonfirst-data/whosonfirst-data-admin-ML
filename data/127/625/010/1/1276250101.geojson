@@ -1,0 +1,67 @@
+{
+  "id": 1276250101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.29467,12.48937,-7.29467,12.48937",
+    "geom:latitude":12.48937,
+    "geom:longitude":-7.29467,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sonkankourani",
+    "gn:country_code":"ML",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593945,
+    "gn:latitude":12.48937,
+    "gn:longitude":-7.29467,
+    "gn:modification_date":"2008-11-07",
+    "gn:name":"Sonkankourani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593945
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"acc0d1c3a8087196aea258b5f58c283a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1276250101,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1276250101,
+    "wof:lastmodified":1536889862,
+    "wof:name":"Sonkankourani",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.29467,
+    12.48937,
+    -7.29467,
+    12.48937
+],
+  "geometry": {"coordinates":[-7.29467,12.48937],"type":"Point"}
+}

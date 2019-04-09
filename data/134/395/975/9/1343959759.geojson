@@ -1,0 +1,67 @@
+{
+  "id": 1343959759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.02537,14.59879,-11.02537,14.59879",
+    "geom:latitude":14.59879,
+    "geom:longitude":-11.02537,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Diabaya",
+    "gn:country_code":"ML",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459157,
+    "gn:latitude":14.59879,
+    "gn:longitude":-11.02537,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Diabaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459157
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4ef463fe7506280c1cd42eb693d099f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1343959759,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1343959759,
+    "wof:lastmodified":1537020119,
+    "wof:name":"Diabaya",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.02537,
+    14.59879,
+    -11.02537,
+    14.59879
+],
+  "geometry": {"coordinates":[-11.02537,14.59879],"type":"Point"}
+}

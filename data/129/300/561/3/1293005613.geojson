@@ -1,0 +1,71 @@
+{
+  "id": 1293005613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.70416,13.1665,-5.70416,13.1665",
+    "geom:latitude":13.1665,
+    "geom:longitude":-5.70416,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Niansira",
+    "gn:country_code":"ML",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452757,
+    "gn:latitude":13.1665,
+    "gn:longitude":-5.70416,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Niansira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niassara",
+        "Niansira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452757
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"df01d3d97672d2f05bd4dc53a124907d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562835,
+            "locality_id":1293005613,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1293005613,
+    "wof:lastmodified":1537665095,
+    "wof:name":"Niansira",
+    "wof:parent_id":1108562835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.70416,
+    13.1665,
+    -5.70416,
+    13.1665
+],
+  "geometry": {"coordinates":[-5.70416,13.1665],"type":"Point"}
+}

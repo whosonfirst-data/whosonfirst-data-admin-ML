@@ -1,0 +1,67 @@
+{
+  "id": 1309711223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.05294,13.17957,-5.05294,13.17957",
+    "geom:latitude":13.17957,
+    "geom:longitude":-5.05294,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kouoro",
+    "gn:country_code":"ML",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880772,
+    "gn:latitude":13.17957,
+    "gn:longitude":-5.05294,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Kouoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421192717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880772
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"67dd2d7cdaa04cd3ea4cf1401e14b0fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421192717,
+            "locality_id":1309711223,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1309711223,
+    "wof:lastmodified":1537064623,
+    "wof:name":"Kouoro",
+    "wof:parent_id":421192717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.05294,
+    13.17957,
+    -5.05294,
+    13.17957
+],
+  "geometry": {"coordinates":[-5.05294,13.17957],"type":"Point"}
+}

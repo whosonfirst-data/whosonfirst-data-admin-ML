@@ -1,0 +1,76 @@
+{
+  "id": 1193023657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.8246,13.036,-8.8246,13.036",
+    "geom:latitude":13.036,
+    "geom:longitude":-8.8246,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tibessa",
+    "gn:country_code":"ML",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449827,
+    "gn:latitude":13.036,
+    "gn:longitude":-8.8246,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tib\u00e8ssa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tib\u00e8ssa"
+    ],
+    "name:fra_x_variant":[
+        "Tibassa"
+    ],
+    "name:und_x_variant":[
+        "Tibassa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449827
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4e5538ead296d113a1943c4e1a534066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1193023657,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1193023657,
+    "wof:lastmodified":1537665028,
+    "wof:name":"Tibessa",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.8246,
+    13.036,
+    -8.8246,
+    13.036
+],
+  "geometry": {"coordinates":[-8.8246,13.036],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360076737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.33439,12.79813,-7.33439,12.79813",
+    "geom:latitude":12.79813,
+    "geom:longitude":-7.33439,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Madioubabougou",
+    "gn:country_code":"ML",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594287,
+    "gn:latitude":12.79813,
+    "gn:longitude":-7.33439,
+    "gn:modification_date":"2008-11-07",
+    "gn:name":"Madioubabougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594287
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8df9dc4a478cc02f612cdaccaf0cd98b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1360076737,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1360076737,
+    "wof:lastmodified":1536957788,
+    "wof:name":"Madioubabougou",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.33439,
+    12.79813,
+    -7.33439,
+    12.79813
+],
+  "geometry": {"coordinates":[-7.33439,12.79813],"type":"Point"}
+}

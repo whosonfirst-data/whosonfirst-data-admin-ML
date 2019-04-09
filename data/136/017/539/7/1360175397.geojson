@@ -1,0 +1,67 @@
+{
+  "id": 1360175397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.5004,15.9524,-3.5004,15.9524",
+    "geom:latitude":15.9524,
+    "geom:longitude":-3.5004,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kole Djadje Issa",
+    "gn:country_code":"ML",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880905,
+    "gn:latitude":15.9524,
+    "gn:longitude":-3.5004,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Kol\u00e9 Djadj\u00e9 Issa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880905
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0eb7b9f6a112262be71a627f18c0afa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562873,
+            "locality_id":1360175397,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1360175397,
+    "wof:lastmodified":1536814702,
+    "wof:name":"Kole Djadje Issa",
+    "wof:parent_id":1108562873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5004,
+    15.9524,
+    -3.5004,
+    15.9524
+],
+  "geometry": {"coordinates":[-3.5004,15.9524],"type":"Point"}
+}

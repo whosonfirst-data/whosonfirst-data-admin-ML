@@ -1,0 +1,73 @@
+{
+  "id": 1293382519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.49519,11.14825,-6.49519,11.14825",
+    "geom:latitude":11.14825,
+    "geom:longitude":-6.49519,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Zangoula",
+    "gn:country_code":"ML",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448356,
+    "gn:latitude":11.14825,
+    "gn:longitude":-6.49519,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Zangoula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Zangouala"
+    ],
+    "name:und_x_variant":[
+        "Zangouala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448356
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a0a2fab1e8b5be5ba7c463ac34988f0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562819,
+            "locality_id":1293382519,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1293382519,
+    "wof:lastmodified":1537664999,
+    "wof:name":"Zangoula",
+    "wof:parent_id":1108562819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.49519,
+    11.14825,
+    -6.49519,
+    11.14825
+],
+  "geometry": {"coordinates":[-6.49519,11.14825],"type":"Point"}
+}

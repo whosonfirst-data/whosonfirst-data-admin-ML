@@ -1,0 +1,67 @@
+{
+  "id": 1209839645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.5304,15.4511,-3.5304,15.4511",
+    "geom:latitude":15.4511,
+    "geom:longitude":-3.5304,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dari",
+    "gn:country_code":"ML",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6881043,
+    "gn:latitude":15.4511,
+    "gn:longitude":-3.5304,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Dari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6881043
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2b84a8a029d7962821610f195037308f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1209839645,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1209839645,
+    "wof:lastmodified":1536393300,
+    "wof:name":"Dari",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5304,
+    15.4511,
+    -3.5304,
+    15.4511
+],
+  "geometry": {"coordinates":[-3.5304,15.4511],"type":"Point"}
+}

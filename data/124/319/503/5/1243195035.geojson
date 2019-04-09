@@ -1,0 +1,72 @@
+{
+  "id": 1243195035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.54094,13.16536,-6.54094,13.16536",
+    "geom:latitude":13.16536,
+    "geom:longitude":-6.54094,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ouyan",
+    "gn:country_code":"ML",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452159,
+    "gn:latitude":13.16536,
+    "gn:longitude":-6.54094,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ouyan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vouya",
+        "Ouya",
+        "Ouyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452159
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8d94ae7bcc0139768ba4c7648ccdb429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1243195035,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1243195035,
+    "wof:lastmodified":1537665077,
+    "wof:name":"Ouyan",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.54094,
+    13.16536,
+    -6.54094,
+    13.16536
+],
+  "geometry": {"coordinates":[-6.54094,13.16536],"type":"Point"}
+}

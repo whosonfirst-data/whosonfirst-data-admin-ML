@@ -1,0 +1,72 @@
+{
+  "id": 1242858769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.21034,17.04691,-1.21034,17.04691",
+    "geom:latitude":17.04691,
+    "geom:longitude":-1.21034,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Eguedech",
+    "gn:country_code":"ML",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458022,
+    "gn:latitude":17.04691,
+    "gn:longitude":-1.21034,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Eguedech",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eguedesch",
+        "Eguedesh",
+        "Eguedech"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        1108562879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458022
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1c5f02031ccc3f5429a41782fe3e5114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562879,
+            "locality_id":1242858769,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1242858769,
+    "wof:lastmodified":1537665205,
+    "wof:name":"Eguedech",
+    "wof:parent_id":1108562879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.21034,
+    17.04691,
+    -1.21034,
+    17.04691
+],
+  "geometry": {"coordinates":[-1.21034,17.04691],"type":"Point"}
+}

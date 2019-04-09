@@ -1,0 +1,70 @@
+{
+  "id": 1310302511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0624,12.3374,-6.0624,12.3374",
+    "geom:latitude":12.3374,
+    "geom:longitude":-6.0624,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Touloumana",
+    "gn:country_code":"ML",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448905,
+    "gn:latitude":12.3374,
+    "gn:longitude":-6.0624,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Touloumana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Touloumana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448905
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9111a0b137a220c90518201d5dffb2d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1310302511,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1310302511,
+    "wof:lastmodified":1537665016,
+    "wof:name":"Touloumana",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0624,
+    12.3374,
+    -6.0624,
+    12.3374
+],
+  "geometry": {"coordinates":[-6.0624,12.3374],"type":"Point"}
+}

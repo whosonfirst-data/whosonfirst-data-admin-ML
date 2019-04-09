@@ -1,0 +1,67 @@
+{
+  "id": 1327022445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.9218,12.4031,-5.9218,12.4031",
+    "geom:latitude":12.4031,
+    "geom:longitude":-5.9218,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Siguenesso",
+    "gn:country_code":"ML",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6861831,
+    "gn:latitude":12.4031,
+    "gn:longitude":-5.9218,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Sigu\u00e9nesso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6861831
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"fecaa59931c0dc34472769bfeb3733b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1327022445,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1327022445,
+    "wof:lastmodified":1536775477,
+    "wof:name":"Siguenesso",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.9218,
+    12.4031,
+    -5.9218,
+    12.4031
+],
+  "geometry": {"coordinates":[-5.9218,12.4031],"type":"Point"}
+}

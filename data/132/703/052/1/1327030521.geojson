@@ -1,0 +1,67 @@
+{
+  "id": 1327030521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.5071,14.2039,-3.5071,14.2039",
+    "geom:latitude":14.2039,
+    "geom:longitude":-3.5071,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bagourou",
+    "gn:country_code":"ML",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6867039,
+    "gn:latitude":14.2039,
+    "gn:longitude":-3.5071,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Bagourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6867039
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a810d80e6a8f412643ce17cc7105705f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1327030521,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1327030521,
+    "wof:lastmodified":1536763466,
+    "wof:name":"Bagourou",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5071,
+    14.2039,
+    -3.5071,
+    14.2039
+],
+  "geometry": {"coordinates":[-3.5071,14.2039],"type":"Point"}
+}

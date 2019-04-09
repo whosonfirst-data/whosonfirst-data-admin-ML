@@ -1,0 +1,71 @@
+{
+  "id": 1225836787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.16448,13.55674,-7.16448,13.55674",
+    "geom:latitude":13.55674,
+    "geom:longitude":-7.16448,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Saranfouga",
+    "gn:country_code":"ML",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450980,
+    "gn:latitude":13.55674,
+    "gn:longitude":-7.16448,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Saranfouga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siranvoga",
+        "Saranfouga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450980
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"279df6c44d07c3b2175896edbaa9e600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562851,
+            "locality_id":1225836787,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1225836787,
+    "wof:lastmodified":1537665049,
+    "wof:name":"Saranfouga",
+    "wof:parent_id":1108562851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.16448,
+    13.55674,
+    -7.16448,
+    13.55674
+],
+  "geometry": {"coordinates":[-7.16448,13.55674],"type":"Point"}
+}

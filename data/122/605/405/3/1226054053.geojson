@@ -1,0 +1,67 @@
+{
+  "id": 1226054053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.34302,13.76908,-11.34302,13.76908",
+    "geom:latitude":13.76908,
+    "geom:longitude":-11.34302,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kofoulabe",
+    "gn:country_code":"ML",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455093,
+    "gn:latitude":13.76908,
+    "gn:longitude":-11.34302,
+    "gn:modification_date":"2007-10-22",
+    "gn:name":"Kofoulab\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455093
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"db50a0bfe9b0c650b50cf6d490404dd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562855,
+            "locality_id":1226054053,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1226054053,
+    "wof:lastmodified":1536713455,
+    "wof:name":"Kofoulabe",
+    "wof:parent_id":1108562855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.34302,
+    13.76908,
+    -11.34302,
+    13.76908
+],
+  "geometry": {"coordinates":[-11.34302,13.76908],"type":"Point"}
+}

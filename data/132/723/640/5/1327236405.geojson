@@ -1,0 +1,67 @@
+{
+  "id": 1327236405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.62385,13.26461,-6.62385,13.26461",
+    "geom:latitude":13.26461,
+    "geom:longitude":-6.62385,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Maniambougou",
+    "gn:country_code":"ML",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910721,
+    "gn:latitude":13.26461,
+    "gn:longitude":-6.62385,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Maniambougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910721
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"735dab06f9335c59c46e086c8b82a119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562837,
+            "locality_id":1327236405,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1327236405,
+    "wof:lastmodified":1536963583,
+    "wof:name":"Maniambougou",
+    "wof:parent_id":1108562837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.62385,
+    13.26461,
+    -6.62385,
+    13.26461
+],
+  "geometry": {"coordinates":[-6.62385,13.26461],"type":"Point"}
+}

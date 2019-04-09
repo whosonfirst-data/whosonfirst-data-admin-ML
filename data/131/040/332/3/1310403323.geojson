@@ -1,0 +1,72 @@
+{
+  "id": 1310403323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.47881,12.29703,-5.47881,12.29703",
+    "geom:latitude":12.29703,
+    "geom:longitude":-5.47881,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Nkontina",
+    "gn:country_code":"ML",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452635,
+    "gn:latitude":12.29703,
+    "gn:longitude":-5.47881,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nkontina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nioutina",
+        "Minti\u00e9ra",
+        "Nkontina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452635
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"502f1f9d62720d717a853999003f6617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1310403323,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1310403323,
+    "wof:lastmodified":1537665092,
+    "wof:name":"Nkontina",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.47881,
+    12.29703,
+    -5.47881,
+    12.29703
+],
+  "geometry": {"coordinates":[-5.47881,12.29703],"type":"Point"}
+}

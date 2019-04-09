@@ -1,0 +1,71 @@
+{
+  "id": 1259685923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.9965,13.56839,-11.9965,13.56839",
+    "geom:latitude":13.56839,
+    "geom:longitude":-11.9965,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ouaiaga",
+    "gn:country_code":"ML",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452323,
+    "gn:latitude":13.56839,
+    "gn:longitude":-11.9965,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Oua\u00efaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouayaga",
+        "Oua\u00efaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452323
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"cc6a362825aa80768301b421e2329d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1259685923,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1259685923,
+    "wof:lastmodified":1537665080,
+    "wof:name":"Ouaiaga",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.9965,
+    13.56839,
+    -11.9965,
+    13.56839
+],
+  "geometry": {"coordinates":[-11.9965,13.56839],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310404955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0486,13.9221,-6.0486,13.9221",
+    "geom:latitude":13.9221,
+    "geom:longitude":-6.0486,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mbewani",
+    "gn:country_code":"ML",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453556,
+    "gn:latitude":13.9221,
+    "gn:longitude":-6.0486,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mb\u00e8wani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mb\u00e8vani",
+        "Mb\u00e8wani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453556
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"dbac862c93f85756f15540edf631caea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562867,
+            "locality_id":1310404955,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1310404955,
+    "wof:lastmodified":1537665116,
+    "wof:name":"Mbewani",
+    "wof:parent_id":1108562867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0486,
+    13.9221,
+    -6.0486,
+    13.9221
+],
+  "geometry": {"coordinates":[-6.0486,13.9221],"type":"Point"}
+}

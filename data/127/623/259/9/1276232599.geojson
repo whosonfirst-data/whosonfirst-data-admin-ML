@@ -1,0 +1,67 @@
+{
+  "id": 1276232599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.48292,13.73776,-6.48292,13.73776",
+    "geom:latitude":13.73776,
+    "geom:longitude":-6.48292,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Niaro",
+    "gn:country_code":"ML",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452735,
+    "gn:latitude":13.73776,
+    "gn:longitude":-6.48292,
+    "gn:modification_date":"2008-11-18",
+    "gn:name":"Niaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452735
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9ca84ebea16788bd56fa8b36a036ea14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1276232599,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1276232599,
+    "wof:lastmodified":1536914180,
+    "wof:name":"Niaro",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.48292,
+    13.73776,
+    -6.48292,
+    13.73776
+],
+  "geometry": {"coordinates":[-6.48292,13.73776],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1226464583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.067,11.44849,-6.067,11.44849",
+    "geom:latitude":11.44849,
+    "geom:longitude":-6.067,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Monkonkoro",
+    "gn:country_code":"ML",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453362,
+    "gn:latitude":11.44849,
+    "gn:longitude":-6.067,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Monkonkoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Monkoukoro"
+    ],
+    "name:fra_x_variant":[
+        "Mounkonkoro",
+        "Monkokoro"
+    ],
+    "name:und_x_variant":[
+        "Monkokoro",
+        "Mounkonkoro",
+        "Monkonkoro",
+        "Monkoukoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453362
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8bdf86cec9bda3998a20c5ebbe67c1f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1226464583,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1226464583,
+    "wof:lastmodified":1537665111,
+    "wof:name":"Monkonkoro",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.067,
+    11.44849,
+    -6.067,
+    11.44849
+],
+  "geometry": {"coordinates":[-6.067,11.44849],"type":"Point"}
+}

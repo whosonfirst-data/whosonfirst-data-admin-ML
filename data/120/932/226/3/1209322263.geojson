@@ -1,0 +1,61 @@
+{
+  "id": 1209322263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.59631,14.19802,-11.59631,14.19802",
+    "geom:latitude":14.19802,
+    "geom:longitude":-11.59631,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Oulouma",
+    "gn:country_code":"ML",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452259,
+    "gn:latitude":14.19802,
+    "gn:longitude":-11.59631,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Oulouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452259
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"64751d8bd3fe88d3b802a314cb67dcea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209322263
+        }
+    ],
+    "wof:id":1209322263,
+    "wof:lastmodified":1536290651,
+    "wof:name":"Oulouma",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.59631,
+    14.19802,
+    -11.59631,
+    14.19802
+],
+  "geometry": {"coordinates":[-11.59631,14.19802],"type":"Point"}
+}

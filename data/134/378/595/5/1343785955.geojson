@@ -1,0 +1,72 @@
+{
+  "id": 1343785955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.24519,14.2392,-3.24519,14.2392",
+    "geom:latitude":14.2392,
+    "geom:longitude":-3.24519,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kombo-Ogourou",
+    "gn:country_code":"ML",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454879,
+    "gn:latitude":14.2392,
+    "gn:longitude":-3.24519,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kombo-Ogourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kombo-guru",
+        "Kombogourou",
+        "Kombo-Ogourou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454879
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"536d6a3266b0fc20d00b6673094f9058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1343785955,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1343785955,
+    "wof:lastmodified":1537665147,
+    "wof:name":"Kombo-Ogourou",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.24519,
+    14.2392,
+    -3.24519,
+    14.2392
+],
+  "geometry": {"coordinates":[-3.24519,14.2392],"type":"Point"}
+}

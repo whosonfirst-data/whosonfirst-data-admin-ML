@@ -1,0 +1,67 @@
+{
+  "id": 1293692997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.9499,13.85462,-2.9499,13.85462",
+    "geom:latitude":13.85462,
+    "geom:longitude":-2.9499,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Worodourou",
+    "gn:country_code":"ML",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448554,
+    "gn:latitude":13.85462,
+    "gn:longitude":-2.9499,
+    "gn:modification_date":"2008-07-03",
+    "gn:name":"Worodourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448554
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6725a70d2254ce0bc4f14582e2af35e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1293692997,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1293692997,
+    "wof:lastmodified":1536987201,
+    "wof:name":"Worodourou",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9499,
+    13.85462,
+    -2.9499,
+    13.85462
+],
+  "geometry": {"coordinates":[-2.9499,13.85462],"type":"Point"}
+}

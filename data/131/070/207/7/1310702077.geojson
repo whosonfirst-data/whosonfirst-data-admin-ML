@@ -1,0 +1,67 @@
+{
+  "id": 1310702077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.40737,14.32803,-4.40737,14.32803",
+    "geom:latitude":14.32803,
+    "geom:longitude":-4.40737,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Fangare- Daka",
+    "gn:country_code":"ML",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6765486,
+    "gn:latitude":14.32803,
+    "gn:longitude":-4.40737,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Fangar\u00e9- Daka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6765486
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"991ea11e59f373e012b28c54372a4849",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1310702077,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1310702077,
+    "wof:lastmodified":1536631788,
+    "wof:name":"Fangare- Daka",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.40737,
+    14.32803,
+    -4.40737,
+    14.32803
+],
+  "geometry": {"coordinates":[-4.40737,14.32803],"type":"Point"}
+}

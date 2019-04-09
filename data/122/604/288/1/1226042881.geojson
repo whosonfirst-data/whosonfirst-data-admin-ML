@@ -1,0 +1,67 @@
+{
+  "id": 1226042881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.71615,14.6482,-4.71615,14.6482",
+    "geom:latitude":14.6482,
+    "geom:longitude":-4.71615,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Longuel",
+    "gn:country_code":"ML",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6764147,
+    "gn:latitude":14.6482,
+    "gn:longitude":-4.71615,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Longuel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6764147
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7906e94f6b53f57dc14a924cd242768d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562861,
+            "locality_id":1226042881,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1226042881,
+    "wof:lastmodified":1536729671,
+    "wof:name":"Longuel",
+    "wof:parent_id":1108562861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.71615,
+    14.6482,
+    -4.71615,
+    14.6482
+],
+  "geometry": {"coordinates":[-4.71615,14.6482],"type":"Point"}
+}

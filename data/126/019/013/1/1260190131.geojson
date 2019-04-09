@@ -1,0 +1,67 @@
+{
+  "id": 1260190131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.63164,15.39904,-11.63164,15.39904",
+    "geom:latitude":15.39904,
+    "geom:longitude":-11.63164,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ahel Meheham",
+    "gn:country_code":"ML",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6650667,
+    "gn:latitude":15.39904,
+    "gn:longitude":-11.63164,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Ahel Meheham",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6650667
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3c2f823aca8a5d91842db095d8786a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1260190131,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1260190131,
+    "wof:lastmodified":1536837811,
+    "wof:name":"Ahel Meheham",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.63164,
+    15.39904,
+    -11.63164,
+    15.39904
+],
+  "geometry": {"coordinates":[-11.63164,15.39904],"type":"Point"}
+}

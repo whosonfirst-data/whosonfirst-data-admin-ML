@@ -1,0 +1,64 @@
+{
+  "id": 1209537895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.65527,11.7577,-6.65527,11.7577",
+    "geom:latitude":11.7577,
+    "geom:longitude":-6.65527,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Fandala",
+    "gn:country_code":"ML",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457758,
+    "gn:latitude":11.7577,
+    "gn:longitude":-6.65527,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Fandala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Fandala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457758
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0d6198c8d4aea272f11beceed353ecb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209537895
+        }
+    ],
+    "wof:id":1209537895,
+    "wof:lastmodified":1537665200,
+    "wof:name":"Fandala",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.65527,
+    11.7577,
+    -6.65527,
+    11.7577
+],
+  "geometry": {"coordinates":[-6.65527,11.7577],"type":"Point"}
+}

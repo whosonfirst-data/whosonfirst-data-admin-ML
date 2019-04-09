@@ -1,0 +1,67 @@
+{
+  "id": 1242599729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.99126,11.74289,-6.99126,11.74289",
+    "geom:latitude":11.74289,
+    "geom:longitude":-6.99126,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Niamala",
+    "gn:country_code":"ML",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910135,
+    "gn:latitude":11.74289,
+    "gn:longitude":-6.99126,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Niamala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910135
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"cfa00ebc9febff0b90741ae108651668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1242599729,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1242599729,
+    "wof:lastmodified":1537030505,
+    "wof:name":"Niamala",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.99126,
+    11.74289,
+    -6.99126,
+    11.74289
+],
+  "geometry": {"coordinates":[-6.99126,11.74289],"type":"Point"}
+}

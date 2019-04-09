@@ -1,0 +1,71 @@
+{
+  "id": 1327331287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.95502,11.5968,-6.95502,11.5968",
+    "geom:latitude":11.5968,
+    "geom:longitude":-6.95502,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dialakoro",
+    "gn:country_code":"ML",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459060,
+    "gn:latitude":11.5968,
+    "gn:longitude":-6.95502,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Dialakoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dialakoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459060,
+        "wk:page":"Dialakoro%2C_Mali"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0c04dbec251a813cdee4afdcebdf18b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1327331287,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1327331287,
+    "wof:lastmodified":1537665237,
+    "wof:name":"Dialakoro",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.95502,
+    11.5968,
+    -6.95502,
+    11.5968
+],
+  "geometry": {"coordinates":[-6.95502,11.5968],"type":"Point"}
+}

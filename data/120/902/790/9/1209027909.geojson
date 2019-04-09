@@ -1,0 +1,64 @@
+{
+  "id": 1209027909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.9937,12.066,-6.9937,12.066",
+    "geom:latitude":12.066,
+    "geom:longitude":-6.9937,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Fougala",
+    "gn:country_code":"ML",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457344,
+    "gn:latitude":12.066,
+    "gn:longitude":-6.9937,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fougala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Fougala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457344
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"610fb80ce6bc677487ea2d7ccf709903",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209027909
+        }
+    ],
+    "wof:id":1209027909,
+    "wof:lastmodified":1537665191,
+    "wof:name":"Fougala",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.9937,
+    12.066,
+    -6.9937,
+    12.066
+],
+  "geometry": {"coordinates":[-6.9937,12.066],"type":"Point"}
+}

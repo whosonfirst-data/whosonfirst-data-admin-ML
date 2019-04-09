@@ -1,0 +1,67 @@
+{
+  "id": 1242589159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.0781,13.2642,-9.0781,13.2642",
+    "geom:latitude":13.2642,
+    "geom:longitude":-9.0781,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kokolon",
+    "gn:country_code":"ML",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455052,
+    "gn:latitude":13.2642,
+    "gn:longitude":-9.0781,
+    "gn:modification_date":"2008-11-19",
+    "gn:name":"Kokolon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455052
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4cfb435f38476df2e92a3eaaccce92b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1242589159,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1242589159,
+    "wof:lastmodified":1537045068,
+    "wof:name":"Kokolon",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.0781,
+    13.2642,
+    -9.0781,
+    13.2642
+],
+  "geometry": {"coordinates":[-9.0781,13.2642],"type":"Point"}
+}

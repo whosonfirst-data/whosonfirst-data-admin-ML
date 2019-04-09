@@ -1,0 +1,71 @@
+{
+  "id": 1309827545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.88087,12.14889,-8.88087,12.14889",
+    "geom:latitude":12.14889,
+    "geom:longitude":-8.88087,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dangatene",
+    "gn:country_code":"ML",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594344,
+    "gn:latitude":12.14889,
+    "gn:longitude":-8.88087,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Dangat\u00e8n\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dangal\u00e8n\u00e8",
+        "Dangat\u00e8n\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594344
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c28ed03ef4ca8a788d87f14e603a6e77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562827,
+            "locality_id":1309827545,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1309827545,
+    "wof:lastmodified":1537665282,
+    "wof:name":"Dangatene",
+    "wof:parent_id":1108562827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.88087,
+    12.14889,
+    -8.88087,
+    12.14889
+],
+  "geometry": {"coordinates":[-8.88087,12.14889],"type":"Point"}
+}

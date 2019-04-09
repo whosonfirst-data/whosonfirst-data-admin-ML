@@ -1,0 +1,67 @@
+{
+  "id": 1360009553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.75769,13.43056,-3.75769,13.43056",
+    "geom:latitude":13.43056,
+    "geom:longitude":-3.75769,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bankassi",
+    "gn:country_code":"ML",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460400,
+    "gn:latitude":13.43056,
+    "gn:longitude":-3.75769,
+    "gn:modification_date":"2008-10-31",
+    "gn:name":"Bankassi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460400
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a82664ebb026f24a8d00b7de6e39af99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1360009553,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1360009553,
+    "wof:lastmodified":1537052404,
+    "wof:name":"Bankassi",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.75769,
+    13.43056,
+    -3.75769,
+    13.43056
+],
+  "geometry": {"coordinates":[-3.75769,13.43056],"type":"Point"}
+}

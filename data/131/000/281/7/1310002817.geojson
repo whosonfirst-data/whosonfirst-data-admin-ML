@@ -1,0 +1,67 @@
+{
+  "id": 1310002817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.07778,16.8775,-1.07778,16.8775",
+    "geom:latitude":16.8775,
+    "geom:longitude":-1.07778,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"I-n-Tadeine",
+    "gn:country_code":"ML",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456223,
+    "gn:latitude":16.8775,
+    "gn:longitude":-1.07778,
+    "gn:modification_date":"2006-05-23",
+    "gn:name":"I-n-Tade\u00efn\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        890418895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456223
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e965e35db814673a0f3f9674fe95bcbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":890418895,
+            "locality_id":1310002817,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1310002817,
+    "wof:lastmodified":1536646790,
+    "wof:name":"I-n-Tadeine",
+    "wof:parent_id":890418895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.07778,
+    16.8775,
+    -1.07778,
+    16.8775
+],
+  "geometry": {"coordinates":[-1.07778,16.8775],"type":"Point"}
+}

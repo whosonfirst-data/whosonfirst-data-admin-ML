@@ -1,0 +1,73 @@
+{
+  "id": 1343773785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.87797,12.95159,-8.87797,12.95159",
+    "geom:latitude":12.95159,
+    "geom:longitude":-8.87797,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kassaro",
+    "gn:country_code":"ML",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455582,
+    "gn:latitude":12.95159,
+    "gn:longitude":-8.87797,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kassaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kossaro",
+        "Kasaro",
+        "Kassaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455582,
+        "wk:page":"Kassaro"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e22f15479a04da8acd70a7dccfe0fc95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1343773785,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1343773785,
+    "wof:lastmodified":1537665163,
+    "wof:name":"Kassaro",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.87797,
+    12.95159,
+    -8.87797,
+    12.95159
+],
+  "geometry": {"coordinates":[-8.87797,12.95159],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292909515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.4842,13.23,-3.4842,13.23",
+    "geom:latitude":13.23,
+    "geom:longitude":-3.4842,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Souhe",
+    "gn:country_code":"ML",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450667,
+    "gn:latitude":13.23,
+    "gn:longitude":-3.4842,
+    "gn:modification_date":"2008-10-31",
+    "gn:name":"Souh\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450667
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"211ddf97fa1782cc0f1983f9ebf6fd5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1292909515,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1292909515,
+    "wof:lastmodified":1536624168,
+    "wof:name":"Souhe",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.4842,
+    13.23,
+    -3.4842,
+    13.23
+],
+  "geometry": {"coordinates":[-3.4842,13.23],"type":"Point"}
+}

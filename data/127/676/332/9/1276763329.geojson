@@ -1,0 +1,67 @@
+{
+  "id": 1276763329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.18103,14.85901,-4.18103,14.85901",
+    "geom:latitude":14.85901,
+    "geom:longitude":-4.18103,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Toguere-Modi",
+    "gn:country_code":"ML",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6767666,
+    "gn:latitude":14.85901,
+    "gn:longitude":-4.18103,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Togu\u00e9r\u00e9-Modi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6767666
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"709d43402e59090d92d96b7204eeacb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1276763329,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1276763329,
+    "wof:lastmodified":1536699931,
+    "wof:name":"Toguere-Modi",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.18103,
+    14.85901,
+    -4.18103,
+    14.85901
+],
+  "geometry": {"coordinates":[-4.18103,14.85901],"type":"Point"}
+}

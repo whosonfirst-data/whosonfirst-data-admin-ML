@@ -1,0 +1,61 @@
+{
+  "id": 1209320653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.92815,14.57224,-4.92815,14.57224",
+    "geom:latitude":14.57224,
+    "geom:longitude":-4.92815,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Toguel-Soule",
+    "gn:country_code":"ML",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6764090,
+    "gn:latitude":14.57224,
+    "gn:longitude":-4.92815,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Toguel-Soul\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6764090
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c0f5ae7660dfd7e0553a4af8f5881ea9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209320653
+        }
+    ],
+    "wof:id":1209320653,
+    "wof:lastmodified":1536290706,
+    "wof:name":"Toguel-Soule",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.92815,
+    14.57224,
+    -4.92815,
+    14.57224
+],
+  "geometry": {"coordinates":[-4.92815,14.57224],"type":"Point"}
+}

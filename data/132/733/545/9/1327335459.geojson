@@ -1,0 +1,74 @@
+{
+  "id": 1327335459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.9012,14.5797,-10.9012,14.5797",
+    "geom:latitude":14.5797,
+    "geom:longitude":-10.9012,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Koniakari",
+    "gn:country_code":"ML",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454786,
+    "gn:latitude":14.5797,
+    "gn:longitude":-10.9012,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koniakari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koniakori",
+        "Koniakory",
+        "Koniakary",
+        "Koniakari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454786,
+        "wk:page":"Kouniakary"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a459b739364d0057ce14099e65f64d74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1327335459,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1327335459,
+    "wof:lastmodified":1537665144,
+    "wof:name":"Koniakari",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.9012,
+    14.5797,
+    -10.9012,
+    14.5797
+],
+  "geometry": {"coordinates":[-10.9012,14.5797],"type":"Point"}
+}

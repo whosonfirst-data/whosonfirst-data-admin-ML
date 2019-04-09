@@ -1,0 +1,67 @@
+{
+  "id": 1226264791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.61215,11.92593,-7.61215,11.92593",
+    "geom:latitude":11.92593,
+    "geom:longitude":-7.61215,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Fourala",
+    "gn:country_code":"ML",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6796300,
+    "gn:latitude":11.92593,
+    "gn:longitude":-7.61215,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Fourala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6796300
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"48190ac4d6764f3acb95f8c4b0edb70c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1226264791,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1226264791,
+    "wof:lastmodified":1536906442,
+    "wof:name":"Fourala",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.61215,
+    11.92593,
+    -7.61215,
+    11.92593
+],
+  "geometry": {"coordinates":[-7.61215,11.92593],"type":"Point"}
+}

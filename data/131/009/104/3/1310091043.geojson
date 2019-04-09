@@ -1,0 +1,67 @@
+{
+  "id": 1310091043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.3383,15.8566,-3.3383,15.8566",
+    "geom:latitude":15.8566,
+    "geom:longitude":-3.3383,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Arsi Foulbe",
+    "gn:country_code":"ML",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460910,
+    "gn:latitude":15.8566,
+    "gn:longitude":-3.3383,
+    "gn:modification_date":"2008-11-04",
+    "gn:name":"Arsi Foulb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460910
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5fe714141994c41f390830e9f137ab96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562873,
+            "locality_id":1310091043,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1310091043,
+    "wof:lastmodified":1537016686,
+    "wof:name":"Arsi Foulbe",
+    "wof:parent_id":1108562873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.3383,
+    15.8566,
+    -3.3383,
+    15.8566
+],
+  "geometry": {"coordinates":[-3.3383,15.8566],"type":"Point"}
+}

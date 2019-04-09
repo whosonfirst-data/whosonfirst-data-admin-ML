@@ -1,0 +1,67 @@
+{
+  "id": 1225929559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.33839,16.36395,-3.33839,16.36395",
+    "geom:latitude":16.36395,
+    "geom:longitude":-3.33839,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bourem",
+    "gn:country_code":"ML",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459658,
+    "gn:latitude":16.36395,
+    "gn:longitude":-3.33839,
+    "gn:modification_date":"2009-06-26",
+    "gn:name":"Bour\u00e8m",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        421172359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459658
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0e9d95baa3497c0a1255b2e6d04f596f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421172359,
+            "locality_id":1225929559,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1225929559,
+    "wof:lastmodified":1536892523,
+    "wof:name":"Bourem",
+    "wof:parent_id":421172359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.33839,
+    16.36395,
+    -3.33839,
+    16.36395
+],
+  "geometry": {"coordinates":[-3.33839,16.36395],"type":"Point"}
+}

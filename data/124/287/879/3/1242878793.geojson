@@ -1,0 +1,71 @@
+{
+  "id": 1242878793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.4294,14.12205,-5.4294,14.12205",
+    "geom:latitude":14.12205,
+    "geom:longitude":-5.4294,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Massamana",
+    "gn:country_code":"ML",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453622,
+    "gn:latitude":14.12205,
+    "gn:longitude":-5.4294,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Massamana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mansamana",
+        "Massamana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453622
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"11b1cea2cd375e51823869412958b98c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":1242878793,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1242878793,
+    "wof:lastmodified":1537665118,
+    "wof:name":"Massamana",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.4294,
+    14.12205,
+    -5.4294,
+    14.12205
+],
+  "geometry": {"coordinates":[-5.4294,14.12205],"type":"Point"}
+}

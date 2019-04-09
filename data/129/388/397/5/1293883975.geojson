@@ -1,0 +1,67 @@
+{
+  "id": 1293883975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.2651,15.0449,-3.2651,15.0449",
+    "geom:latitude":15.0449,
+    "geom:longitude":-3.2651,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ibissa",
+    "gn:country_code":"ML",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2456610,
+    "gn:latitude":15.0449,
+    "gn:longitude":-3.2651,
+    "gn:modification_date":"2008-11-04",
+    "gn:name":"Ibissa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2456610
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"725ff93623ca06ee95d9a2d673528706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1293883975,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1293883975,
+    "wof:lastmodified":1536712982,
+    "wof:name":"Ibissa",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.2651,
+    15.0449,
+    -3.2651,
+    15.0449
+],
+  "geometry": {"coordinates":[-3.2651,15.0449],"type":"Point"}
+}

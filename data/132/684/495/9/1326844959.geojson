@@ -1,0 +1,72 @@
+{
+  "id": 1326844959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.05,11.4,-8.05,11.4",
+    "geom:latitude":11.4,
+    "geom:longitude":-8.05,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Toura Koura Dialaninnkoro",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448831,
+    "gn:latitude":11.4,
+    "gn:longitude":-8.05,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Toura Koura Dialaninnkoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toura-Koura Dialanin\u2019 Koro",
+        "Toura Koura Dialaninnkoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448831
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ef3e20596d3c0e35e832b9e5829ab1d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1326844959,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1326844959,
+    "wof:lastmodified":1537665014,
+    "wof:name":"Toura Koura Dialaninnkoro",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.05,
+    11.4,
+    -8.05,
+    11.4
+],
+  "geometry": {"coordinates":[-8.05,11.4],"type":"Point"}
+}

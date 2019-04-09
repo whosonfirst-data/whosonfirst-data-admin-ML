@@ -1,0 +1,67 @@
+{
+  "id": 1259379787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.25987,12.38959,-8.25987,12.38959",
+    "geom:latitude":12.38959,
+    "geom:longitude":-8.25987,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kamale",
+    "gn:country_code":"ML",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455842,
+    "gn:latitude":12.38959,
+    "gn:longitude":-8.25987,
+    "gn:modification_date":"2008-11-13",
+    "gn:name":"Kamal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        421177883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455842
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"890a7b9cacecbf248f120e8537f7ec7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177883,
+            "locality_id":1259379787,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1259379787,
+    "wof:lastmodified":1537006922,
+    "wof:name":"Kamale",
+    "wof:parent_id":421177883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.25987,
+    12.38959,
+    -8.25987,
+    12.38959
+],
+  "geometry": {"coordinates":[-8.25987,12.38959],"type":"Point"}
+}

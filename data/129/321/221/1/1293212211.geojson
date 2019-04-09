@@ -1,0 +1,72 @@
+{
+  "id": 1293212211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.0698,14.6372,-10.0698,14.6372",
+    "geom:latitude":14.6372,
+    "geom:longitude":-10.0698,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kaniera",
+    "gn:country_code":"ML",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455713,
+    "gn:latitude":14.6372,
+    "gn:longitude":-10.0698,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kani\u00e9ra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaniara",
+        "Kamara",
+        "Kani\u00e9ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455713
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"44f71b153963c93c1c963a9ee73013be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562857,
+            "locality_id":1293212211,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1293212211,
+    "wof:lastmodified":1537665166,
+    "wof:name":"Kaniera",
+    "wof:parent_id":1108562857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.0698,
+    14.6372,
+    -10.0698,
+    14.6372
+],
+  "geometry": {"coordinates":[-10.0698,14.6372],"type":"Point"}
+}

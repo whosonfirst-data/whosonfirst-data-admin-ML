@@ -1,0 +1,67 @@
+{
+  "id": 1209720255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.2713,15.2407,-5.2713,15.2407",
+    "geom:latitude":15.2407,
+    "geom:longitude":-5.2713,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Toulde",
+    "gn:country_code":"ML",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6687541,
+    "gn:latitude":15.2407,
+    "gn:longitude":-5.2713,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Tould\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6687541
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8b0d63eb86fe7d30552cf7cb0e11777d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562867,
+            "locality_id":1209720255,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1209720255,
+    "wof:lastmodified":1536386702,
+    "wof:name":"Toulde",
+    "wof:parent_id":1108562867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.2713,
+    15.2407,
+    -5.2713,
+    15.2407
+],
+  "geometry": {"coordinates":[-5.2713,15.2407],"type":"Point"}
+}

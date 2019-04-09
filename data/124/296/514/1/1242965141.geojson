@@ -1,0 +1,71 @@
+{
+  "id": 1242965141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.56171,13.85488,-7.56171,13.85488",
+    "geom:latitude":13.85488,
+    "geom:longitude":-7.56171,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Neguessebougou",
+    "gn:country_code":"ML",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452979,
+    "gn:latitude":13.85488,
+    "gn:longitude":-7.56171,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"N\u00e9gu\u00e9ss\u00e9bougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u00e9gu\u00e9os\u00e9bougou",
+        "N\u00e9gu\u00e9ss\u00e9bougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452979
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c2e9741148dd58f3f9306323727c4f22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562851,
+            "locality_id":1242965141,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1242965141,
+    "wof:lastmodified":1537665101,
+    "wof:name":"Neguessebougou",
+    "wof:parent_id":1108562851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.56171,
+    13.85488,
+    -7.56171,
+    13.85488
+],
+  "geometry": {"coordinates":[-7.56171,13.85488],"type":"Point"}
+}

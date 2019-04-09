@@ -1,0 +1,61 @@
+{
+  "id": 1209606793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.03758,13.54303,-7.03758,13.54303",
+    "geom:latitude":13.54303,
+    "geom:longitude":-7.03758,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Soutourabougou",
+    "gn:country_code":"ML",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450566,
+    "gn:latitude":13.54303,
+    "gn:longitude":-7.03758,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Soutourabougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450566
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8182f1ddb16def2602df3286c8df2a59",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209606793
+        }
+    ],
+    "wof:id":1209606793,
+    "wof:lastmodified":1536281985,
+    "wof:name":"Soutourabougou",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.03758,
+    13.543029999999998,
+    -7.03758,
+    13.543029999999998
+],
+  "geometry": {"coordinates":[-7.03758,13.54303],"type":"Point"}
+}

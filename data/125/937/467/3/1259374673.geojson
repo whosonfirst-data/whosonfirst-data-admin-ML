@@ -1,0 +1,77 @@
+{
+  "id": 1259374673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.2043,12.2165,-6.2043,12.2165",
+    "geom:latitude":12.2165,
+    "geom:longitude":-6.2043,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mena",
+    "gn:country_code":"ML",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453515,
+    "gn:latitude":12.2165,
+    "gn:longitude":-6.2043,
+    "gn:modification_date":"2018-04-13",
+    "gn:name":"M\u00e8na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "M\u00e8na"
+    ],
+    "name:fra_x_variant":[
+        "M\u00e9r\u00e9na"
+    ],
+    "name:und_x_variant":[
+        "M\u00e9r\u00e9na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453515,
+        "wk:page":"Mena,_Koulikoro"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"cdeaee6e01b9df80b319efd8e051abde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1259374673,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1259374673,
+    "wof:lastmodified":1537665116,
+    "wof:name":"Mena",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.2043,
+    12.2165,
+    -6.2043,
+    12.2165
+],
+  "geometry": {"coordinates":[-6.2043,12.2165],"type":"Point"}
+}

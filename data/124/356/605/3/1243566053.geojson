@@ -1,0 +1,70 @@
+{
+  "id": 1243566053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.905,13.6883,-8.905,13.6883",
+    "geom:latitude":13.6883,
+    "geom:longitude":-8.905,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kolonfi",
+    "gn:country_code":"ML",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454931,
+    "gn:latitude":13.6883,
+    "gn:longitude":-8.905,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kolonfi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kolonfi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454931
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9496c6f2dcd2b73b981a5ff00baa7e2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1243566053,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1243566053,
+    "wof:lastmodified":1537665148,
+    "wof:name":"Kolonfi",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.905,
+    13.6883,
+    -8.905,
+    13.6883
+],
+  "geometry": {"coordinates":[-8.905,13.6883],"type":"Point"}
+}

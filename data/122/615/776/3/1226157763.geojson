@@ -1,0 +1,72 @@
+{
+  "id": 1226157763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.85,10.25,-7.85,10.25",
+    "geom:latitude":10.25,
+    "geom:longitude":-7.85,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sandougoula",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451700,
+    "gn:latitude":10.25,
+    "gn:longitude":-7.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sandougoula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanangoula",
+        "Sandougoula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451700
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"20e514ac39b059fcd9d94a60b0fd3db1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562821,
+            "locality_id":1226157763,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1226157763,
+    "wof:lastmodified":1537665067,
+    "wof:name":"Sandougoula",
+    "wof:parent_id":1108562821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.85,
+    10.25,
+    -7.85,
+    10.25
+],
+  "geometry": {"coordinates":[-7.85,10.25],"type":"Point"}
+}

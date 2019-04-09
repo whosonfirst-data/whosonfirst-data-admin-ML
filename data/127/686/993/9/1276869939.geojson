@@ -1,0 +1,71 @@
+{
+  "id": 1276869939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.24008,11.93973,-5.24008,11.93973",
+    "geom:latitude":11.93973,
+    "geom:longitude":-5.24008,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mena",
+    "gn:country_code":"ML",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453516,
+    "gn:latitude":11.93973,
+    "gn:longitude":-5.24008,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"M\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e9ro",
+        "M\u00e9na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453516
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9d07f623cf477401d4f3cc9cedfd5f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1276869939,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1276869939,
+    "wof:lastmodified":1537665116,
+    "wof:name":"Mena",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.24008,
+    11.93973,
+    -5.24008,
+    11.93973
+],
+  "geometry": {"coordinates":[-5.24008,11.93973],"type":"Point"}
+}

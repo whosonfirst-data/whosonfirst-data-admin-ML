@@ -1,0 +1,71 @@
+{
+  "id": 1293884193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.2658,15.0211,-4.2658,15.0211",
+    "geom:latitude":15.0211,
+    "geom:longitude":-4.2658,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Gobe",
+    "gn:country_code":"ML",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457089,
+    "gn:latitude":15.0211,
+    "gn:longitude":-4.2658,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gob\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goud\u00e9",
+        "Gob\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457089
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"66bf11dd95a6ca2e26802e2aa760d042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1293884193,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1293884193,
+    "wof:lastmodified":1537665185,
+    "wof:name":"Gobe",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.2658,
+    15.0211,
+    -4.2658,
+    15.0211
+],
+  "geometry": {"coordinates":[-4.2658,15.0211],"type":"Point"}
+}

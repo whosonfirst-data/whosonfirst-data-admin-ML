@@ -1,0 +1,71 @@
+{
+  "id": 1310486241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.44306,16.93778,-0.44306,16.93778",
+    "geom:latitude":16.93778,
+    "geom:longitude":-0.44306,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kromkorom",
+    "gn:country_code":"ML",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454227,
+    "gn:latitude":16.93778,
+    "gn:longitude":-0.44306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kromkorom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Komkorom",
+        "Kromkorom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        1108562879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454227
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e9e28e998bb9b4a8e04771033127c328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562879,
+            "locality_id":1310486241,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1310486241,
+    "wof:lastmodified":1537665132,
+    "wof:name":"Kromkorom",
+    "wof:parent_id":1108562879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.44306,
+    16.93778,
+    -0.44306,
+    16.93778
+],
+  "geometry": {"coordinates":[-0.44306,16.93778],"type":"Point"}
+}

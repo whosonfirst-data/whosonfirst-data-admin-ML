@@ -1,0 +1,71 @@
+{
+  "id": 1225944365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.32721,14.91819,-4.32721,14.91819",
+    "geom:latitude":14.91819,
+    "geom:longitude":-4.32721,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kakanian",
+    "gn:country_code":"ML",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455944,
+    "gn:latitude":14.91819,
+    "gn:longitude":-4.32721,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kakanian",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kakagnan",
+        "Kakanian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455944
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ef4bcb4c0859acd8c28b7c0440e39a16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1225944365,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1225944365,
+    "wof:lastmodified":1537665171,
+    "wof:name":"Kakanian",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.32721,
+    14.91819,
+    -4.32721,
+    14.91819
+],
+  "geometry": {"coordinates":[-4.32721,14.91819],"type":"Point"}
+}

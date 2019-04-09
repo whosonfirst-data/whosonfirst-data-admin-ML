@@ -1,0 +1,72 @@
+{
+  "id": 1193020711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.1028,13.6082,-6.1028,13.6082",
+    "geom:latitude":13.6082,
+    "geom:longitude":-6.1028,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Soumabougou",
+    "gn:country_code":"ML",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450641,
+    "gn:latitude":13.6082,
+    "gn:longitude":-6.1028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Soumabougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Somonobougou",
+        "Soumadougou",
+        "Soumabougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450641
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"61215e6e2239e6a3e384e2fd49370168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1193020711,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1193020711,
+    "wof:lastmodified":1537665041,
+    "wof:name":"Soumabougou",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.1028,
+    13.6082,
+    -6.1028,
+    13.6082
+],
+  "geometry": {"coordinates":[-6.1028,13.6082],"type":"Point"}
+}

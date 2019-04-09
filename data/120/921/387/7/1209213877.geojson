@@ -1,0 +1,61 @@
+{
+  "id": 1209213877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.78396,13.61277,-5.78396,13.61277",
+    "geom:latitude":13.61277,
+    "geom:longitude":-5.78396,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tibi",
+    "gn:country_code":"ML",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449824,
+    "gn:latitude":13.61277,
+    "gn:longitude":-5.78396,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Tibi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449824
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d4755309f938ab6675db4b58af5f4daf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209213877
+        }
+    ],
+    "wof:id":1209213877,
+    "wof:lastmodified":1536294199,
+    "wof:name":"Tibi",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.78396,
+    13.61277,
+    -5.78396,
+    13.61277
+],
+  "geometry": {"coordinates":[-5.78396,13.61277],"type":"Point"}
+}

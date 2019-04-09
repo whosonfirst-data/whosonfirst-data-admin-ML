@@ -1,0 +1,67 @@
+{
+  "id": 1327126147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.65927,12.43559,-7.65927,12.43559",
+    "geom:latitude":12.43559,
+    "geom:longitude":-7.65927,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gaoussoubougou",
+    "gn:country_code":"ML",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594015,
+    "gn:latitude":12.43559,
+    "gn:longitude":-7.65927,
+    "gn:modification_date":"2008-11-07",
+    "gn:name":"Gaoussoubougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        421177883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594015
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a11713cf16c82dc6bd38980fe6e615d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177883,
+            "locality_id":1327126147,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1327126147,
+    "wof:lastmodified":1536623166,
+    "wof:name":"Gaoussoubougou",
+    "wof:parent_id":421177883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.65927,
+    12.43559,
+    -7.65927,
+    12.43559
+],
+  "geometry": {"coordinates":[-7.65927,12.43559],"type":"Point"}
+}

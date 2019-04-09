@@ -1,0 +1,71 @@
+{
+  "id": 1242689627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.14803,14.61814,-12.14803,14.61814",
+    "geom:latitude":14.61814,
+    "geom:longitude":-12.14803,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Fegui",
+    "gn:country_code":"ML",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457505,
+    "gn:latitude":14.61814,
+    "gn:longitude":-12.14803,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"F\u00e9gui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "F\u00e9gui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457505,
+        "wk:page":"F%C3%A9gui"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ac0ed5a04bce88d56b4f76688fdcb63d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1242689627,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1242689627,
+    "wof:lastmodified":1537665195,
+    "wof:name":"Fegui",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.14803,
+    14.61814,
+    -12.14803,
+    14.61814
+],
+  "geometry": {"coordinates":[-12.14803,14.61814],"type":"Point"}
+}

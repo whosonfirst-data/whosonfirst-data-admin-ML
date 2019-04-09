@@ -1,0 +1,72 @@
+{
+  "id": 1343685867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.08129,14.5844,-3.08129,14.5844",
+    "geom:latitude":14.5844,
+    "geom:longitude":-3.08129,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Diankabou",
+    "gn:country_code":"ML",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458980,
+    "gn:latitude":14.5844,
+    "gn:longitude":-3.08129,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Diankabou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diankabo",
+        "Diankabou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458980,
+        "wk:page":"Diankabou"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c6a5e83e9cde04976c3a7827ca35460e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1343685867,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1343685867,
+    "wof:lastmodified":1537665234,
+    "wof:name":"Diankabou",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.08129,
+    14.5844,
+    -3.08129,
+    14.5844
+],
+  "geometry": {"coordinates":[-3.08129,14.5844],"type":"Point"}
+}

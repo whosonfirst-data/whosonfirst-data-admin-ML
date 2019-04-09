@@ -1,0 +1,71 @@
+{
+  "id": 1310708103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.69081,15.33502,-1.69081,15.33502",
+    "geom:latitude":15.33502,
+    "geom:longitude":-1.69081,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nassouma",
+    "gn:country_code":"ML",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453068,
+    "gn:latitude":15.33502,
+    "gn:longitude":-1.69081,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Nassouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nasouma",
+        "Nassouma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453068
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b38052be0624dd0c985d6312cb5b5279",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1310708103,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1310708103,
+    "wof:lastmodified":1537665103,
+    "wof:name":"Nassouma",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.69081,
+    15.33502,
+    -1.69081,
+    15.33502
+],
+  "geometry": {"coordinates":[-1.69081,15.33502],"type":"Point"}
+}

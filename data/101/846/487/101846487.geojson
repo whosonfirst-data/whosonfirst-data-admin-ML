@@ -1,0 +1,110 @@
+{
+  "id": 101846487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000056,
+    "geom:area_square_m":559944.060298,
+    "geom:bbox":"14.2481194884,36.0747039979,14.2621893663,36.0870117418",
+    "geom:latitude":36.080605,
+    "geom:longitude":14.255788,
+    "iso:country":"ML",
+    "lbl:latitude":36.080805,
+    "lbl:longitude":14.255682,
+    "mps:latitude":36.080805,
+    "mps:longitude":14.255682,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Marsalforn"
+    ],
+    "name:dut_x_preferred":[
+        "Marsalforn"
+    ],
+    "name:eng_x_preferred":[
+        "Marsalforn"
+    ],
+    "name:fra_x_preferred":[
+        "Marsalforn"
+    ],
+    "name:fre_x_preferred":[
+        "Marsalforn"
+    ],
+    "name:ger_x_preferred":[
+        "Marsalforn"
+    ],
+    "name:hun_x_preferred":[
+        "Marsalforn"
+    ],
+    "name:ita_x_preferred":[
+        "Marsalforn"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30eb\u30b5\u30fc\u30d5\u30a9\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Marsalforn"
+    ],
+    "name:swe_x_preferred":[
+        "Marsalforn"
+    ],
+    "name:unk_x_variant":[
+        "Marsalforno"
+    ],
+    "qs:a0":"Malta",
+    "qs:a1":"*Zebbug (Ghawdex)",
+    "qs:a1r":"0",
+    "qs:adm0":"Malta",
+    "qs:la":"\u017bebbu\u0121 (G\u0127awdex)",
+    "qs:la_lc":"*MT12666",
+    "qs:level":"locality",
+    "qs:loc":"Marsalforn",
+    "qs:loc_alt":"Marsalforn",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":36.071944,
+    "wd:longitude":14.258333,
+    "wd:wordcount":942,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2562753,
+        "gp:id":483428,
+        "qs:id":366767,
+        "wd:id":"Q907635",
+        "wk:page":"Marsalforn"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5184b8017a09fc9d07469a30d714b6b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":101846487
+        }
+    ],
+    "wof:id":101846487,
+    "wof:lastmodified":1527714714,
+    "wof:name":"Marsalforn",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.24811948836458,
+    36.07470399789361,
+    14.26218936631619,
+    36.0870117418126
+],
+  "geometry": {"coordinates":[[[14.25157684213781,36.08691149489158],[14.25141601057624,36.08418703530884],[14.25581135499851,36.08398639496028],[14.25575769330868,36.08307824235754],[14.25795533001758,36.08297784598437],[14.25774059278012,36.07934522968219],[14.26103687258217,36.07919454689244],[14.26109059525754,36.08010270052222],[14.26218936631619,36.08005244629726],[14.26192070382626,36.07551167004357],[14.2597232981326,36.07561215816168],[14.25966959911062,36.07470399789361],[14.25857090804948,36.07475422179829],[14.2586782805206,36.07657054263109],[14.25757956058669,36.07662075506812],[14.25763323600989,36.07752891445261],[14.25323828793262,36.07772963770896],[14.25350641914162,36.08227043169046],[14.25130879939604,36.08237072302376],[14.25136240400019,36.08327887975599],[14.25026357836435,36.08332900674122],[14.25031717116156,36.08423716303128],[14.24811948836458,36.08433737963804],[14.24822662475606,36.08615369162737],[14.2493254943754,36.08610358832345],[14.2493790793078,36.0870117418126],[14.25157684213781,36.08691149489158]]],"type":"Polygon"}
+}

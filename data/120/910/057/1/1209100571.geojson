@@ -1,0 +1,70 @@
+{
+  "id": 1209100571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.2836,13.9024,-8.2836,13.9024",
+    "geom:latitude":13.9024,
+    "geom:longitude":-8.2836,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tieblebougou",
+    "gn:country_code":"ML",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449776,
+    "gn:latitude":13.9024,
+    "gn:longitude":-8.2836,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ti\u00e9bl\u00e9bougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ti\u00e9bl\u00e9bougou"
+    ],
+    "name:fra_x_variant":[
+        "Tiebilendougou"
+    ],
+    "name:und_x_variant":[
+        "Tiebilendougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449776
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2cb8a9c2a4091687e537273323584b7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209100571
+        }
+    ],
+    "wof:id":1209100571,
+    "wof:lastmodified":1537665028,
+    "wof:name":"Tieblebougou",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.2836,
+    13.9024,
+    -8.2836,
+    13.9024
+],
+  "geometry": {"coordinates":[-8.2836,13.9024],"type":"Point"}
+}

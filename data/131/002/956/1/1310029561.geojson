@@ -1,0 +1,71 @@
+{
+  "id": 1310029561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.4647,13.9076,-4.4647,13.9076",
+    "geom:latitude":13.9076,
+    "geom:longitude":-4.4647,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bale",
+    "gn:country_code":"ML",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460628,
+    "gn:latitude":13.9076,
+    "gn:longitude":-4.4647,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9l\u00e9",
+        "Bal\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421187097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460628
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"fcff9dfa9a41697a4e899ae3e084d564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421187097,
+            "locality_id":1310029561,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1310029561,
+    "wof:lastmodified":1537665273,
+    "wof:name":"Bale",
+    "wof:parent_id":421187097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4647,
+    13.9076,
+    -4.4647,
+    13.9076
+],
+  "geometry": {"coordinates":[-4.4647,13.9076],"type":"Point"}
+}

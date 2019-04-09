@@ -1,0 +1,78 @@
+{
+  "id": 1260071791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.8134,12.5572,-6.8134,12.5572",
+    "geom:latitude":12.5572,
+    "geom:longitude":-6.8134,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tyendo",
+    "gn:country_code":"ML",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448753,
+    "gn:latitude":12.5572,
+    "gn:longitude":-6.8134,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tyendo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tyendo"
+    ],
+    "name:fra_x_variant":[
+        "Tiendo",
+        "Tiende"
+    ],
+    "name:und_x_variant":[
+        "Tiendo",
+        "Tiende"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448753
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"82f563a10e63900c6ff24f81a47a29f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1260071791,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1260071791,
+    "wof:lastmodified":1537665012,
+    "wof:name":"Tyendo",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.8134,
+    12.5572,
+    -6.8134,
+    12.5572
+],
+  "geometry": {"coordinates":[-6.8134,12.5572],"type":"Point"}
+}

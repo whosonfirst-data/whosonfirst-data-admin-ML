@@ -1,0 +1,67 @@
+{
+  "id": 1327140471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.1574,13.8559,-3.1574,13.8559",
+    "geom:latitude":13.8559,
+    "geom:longitude":-3.1574,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Yogoubeneme",
+    "gn:country_code":"ML",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6875018,
+    "gn:latitude":13.8559,
+    "gn:longitude":-3.1574,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Yogoub\u00e9n\u00e9m\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6875018
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7537d03761de56ef3ee3b026a0bf3b76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1327140471,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1327140471,
+    "wof:lastmodified":1536601244,
+    "wof:name":"Yogoubeneme",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.1574,
+    13.8559,
+    -3.1574,
+    13.8559
+],
+  "geometry": {"coordinates":[-3.1574,13.8559],"type":"Point"}
+}

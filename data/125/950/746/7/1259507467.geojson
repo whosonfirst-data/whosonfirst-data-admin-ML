@@ -1,0 +1,71 @@
+{
+  "id": 1259507467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.6895,13.9751,-3.6895,13.9751",
+    "geom:latitude":13.9751,
+    "geom:longitude":-3.6895,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kobogo",
+    "gn:country_code":"ML",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455160,
+    "gn:latitude":13.9751,
+    "gn:longitude":-3.6895,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kobogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kobogou",
+        "Kobogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455160
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d6d9217083825f317c246d147639802f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1259507467,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1259507467,
+    "wof:lastmodified":1537665153,
+    "wof:name":"Kobogo",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6895,
+    13.9751,
+    -3.6895,
+    13.9751
+],
+  "geometry": {"coordinates":[-3.6895,13.9751],"type":"Point"}
+}

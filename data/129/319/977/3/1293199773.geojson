@@ -1,0 +1,72 @@
+{
+  "id": 1293199773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.9137,13.3733,-4.9137,13.3733",
+    "geom:latitude":13.3733,
+    "geom:longitude":-4.9137,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Benenikenyi",
+    "gn:country_code":"ML",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460143,
+    "gn:latitude":13.3733,
+    "gn:longitude":-4.9137,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9n\u00e9nik\u00e9nyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9n\u00e9ni-K\u00e9gni",
+        "Bell\u00e9niti\u00e9ni",
+        "B\u00e9n\u00e9nik\u00e9nyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421192717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460143
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7029fb04a32054e857ff403f564c3437",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421192717,
+            "locality_id":1293199773,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1293199773,
+    "wof:lastmodified":1537665262,
+    "wof:name":"Benenikenyi",
+    "wof:parent_id":421192717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.9137,
+    13.3733,
+    -4.9137,
+    13.3733
+],
+  "geometry": {"coordinates":[-4.9137,13.3733],"type":"Point"}
+}

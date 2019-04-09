@@ -1,0 +1,67 @@
+{
+  "id": 1344257495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.5139,14.0699,-3.5139,14.0699",
+    "geom:latitude":14.0699,
+    "geom:longitude":-3.5139,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ogotene",
+    "gn:country_code":"ML",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6867235,
+    "gn:latitude":14.0699,
+    "gn:longitude":-3.5139,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Ogot\u00e9n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6867235
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"079339ac21b040376165995aa78db567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1344257495,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1344257495,
+    "wof:lastmodified":1537085286,
+    "wof:name":"Ogotene",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5139,
+    14.0699,
+    -3.5139,
+    14.0699
+],
+  "geometry": {"coordinates":[-3.5139,14.0699],"type":"Point"}
+}

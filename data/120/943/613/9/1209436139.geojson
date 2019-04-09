@@ -1,0 +1,65 @@
+{
+  "id": 1209436139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.3879,12.6411,-7.3879,12.6411",
+    "geom:latitude":12.6411,
+    "geom:longitude":-7.3879,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kobadian",
+    "gn:country_code":"ML",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594128,
+    "gn:latitude":12.6411,
+    "gn:longitude":-7.3879,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kobadian",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nty\u00e8la",
+        "Kobadian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594128
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7c81f76d4e58c65b19e11fca2e83c255",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209436139
+        }
+    ],
+    "wof:id":1209436139,
+    "wof:lastmodified":1537665282,
+    "wof:name":"Kobadian",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.3879,
+    12.6411,
+    -7.3879,
+    12.6411
+],
+  "geometry": {"coordinates":[-7.3879,12.6411],"type":"Point"}
+}

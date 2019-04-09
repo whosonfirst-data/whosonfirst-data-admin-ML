@@ -1,0 +1,66 @@
+{
+  "id": 1209636631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.97219,12.3484,-7.97219,12.3484",
+    "geom:latitude":12.3484,
+    "geom:longitude":-7.97219,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sensina",
+    "gn:country_code":"ML",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451087,
+    "gn:latitude":12.3484,
+    "gn:longitude":-7.97219,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u00e8nsina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chinchina",
+        "Sinsina",
+        "S\u00e8nsina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451087
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e4d160232d720695c6b24bc3882b4e84",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209636631
+        }
+    ],
+    "wof:id":1209636631,
+    "wof:lastmodified":1537665052,
+    "wof:name":"Sensina",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.97219,
+    12.3484,
+    -7.97219,
+    12.3484
+],
+  "geometry": {"coordinates":[-7.97219,12.3484],"type":"Point"}
+}

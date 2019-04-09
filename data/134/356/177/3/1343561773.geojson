@@ -1,0 +1,68 @@
+{
+  "id": 1343561773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.07539,14.064,-3.07539,14.064",
+    "geom:latitude":14.064,
+    "geom:longitude":-3.07539,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Koro",
+    "gn:country_code":"ML",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2454674,
+    "gn:latitude":14.064,
+    "gn:longitude":-3.07539,
+    "gn:modification_date":"2013-11-09",
+    "gn:name":"Koro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454674,
+        "wk:page":"Koro%2C_Mali"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d0e880d0f118dff053b3d9bee63cf637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1343561773,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1343561773,
+    "wof:lastmodified":1537568419,
+    "wof:name":"Koro",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.07539,
+    14.064,
+    -3.07539,
+    14.064
+],
+  "geometry": {"coordinates":[-3.07539,14.064],"type":"Point"}
+}

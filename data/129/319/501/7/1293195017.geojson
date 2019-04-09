@@ -1,0 +1,67 @@
+{
+  "id": 1293195017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.0148,14.0158,-7.0148,14.0158",
+    "geom:latitude":14.0158,
+    "geom:longitude":-7.0148,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sikoro",
+    "gn:country_code":"ML",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451170,
+    "gn:latitude":14.0158,
+    "gn:longitude":-7.0148,
+    "gn:modification_date":"2008-11-07",
+    "gn:name":"Sikoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451170
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6dd3d7539823c48dd41e12934fdc64ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562851,
+            "locality_id":1293195017,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1293195017,
+    "wof:lastmodified":1536712039,
+    "wof:name":"Sikoro",
+    "wof:parent_id":1108562851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.0148,
+    14.0158,
+    -7.0148,
+    14.0158
+],
+  "geometry": {"coordinates":[-7.0148,14.0158],"type":"Point"}
+}

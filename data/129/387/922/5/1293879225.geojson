@@ -1,0 +1,67 @@
+{
+  "id": 1293879225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.9019,12.1097,-5.9019,12.1097",
+    "geom:latitude":12.1097,
+    "geom:longitude":-5.9019,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sazarani",
+    "gn:country_code":"ML",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6861792,
+    "gn:latitude":12.1097,
+    "gn:longitude":-5.9019,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Sazarani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6861792
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"fb4ca379c819c31d24c4b6d73e7a3767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1293879225,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1293879225,
+    "wof:lastmodified":1536719888,
+    "wof:name":"Sazarani",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.9019,
+    12.1097,
+    -5.9019,
+    12.1097
+],
+  "geometry": {"coordinates":[-5.9019,12.1097],"type":"Point"}
+}

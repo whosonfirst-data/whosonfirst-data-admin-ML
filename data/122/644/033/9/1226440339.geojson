@@ -1,0 +1,67 @@
+{
+  "id": 1226440339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.38366,11.65902,-7.38366,11.65902",
+    "geom:latitude":11.65902,
+    "geom:longitude":-7.38366,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kibadou",
+    "gn:country_code":"ML",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6798614,
+    "gn:latitude":11.65902,
+    "gn:longitude":-7.38366,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Kibadou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6798614
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b1ad50de0e6d9df9afba23946e6498d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1226440339,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1226440339,
+    "wof:lastmodified":1536653212,
+    "wof:name":"Kibadou",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.38366,
+    11.65902,
+    -7.38366,
+    11.65902
+],
+  "geometry": {"coordinates":[-7.38366,11.65902],"type":"Point"}
+}

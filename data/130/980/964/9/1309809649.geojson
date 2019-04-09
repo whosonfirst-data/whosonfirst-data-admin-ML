@@ -1,0 +1,67 @@
+{
+  "id": 1309809649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.35217,14.22705,-4.35217,14.22705",
+    "geom:latitude":14.22705,
+    "geom:longitude":-4.35217,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Toumaye",
+    "gn:country_code":"ML",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6765492,
+    "gn:latitude":14.22705,
+    "gn:longitude":-4.35217,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Toumay\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6765492
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a8fbf4cbcfd51e795ec9f60cfe218946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1309809649,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1309809649,
+    "wof:lastmodified":1536926154,
+    "wof:name":"Toumaye",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.35217,
+    14.22705,
+    -4.35217,
+    14.22705
+],
+  "geometry": {"coordinates":[-4.35217,14.22705],"type":"Point"}
+}

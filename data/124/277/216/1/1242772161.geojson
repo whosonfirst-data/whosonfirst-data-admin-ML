@@ -1,0 +1,72 @@
+{
+  "id": 1242772161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.20167,12.43469,-8.20167,12.43469",
+    "geom:latitude":12.43469,
+    "geom:longitude":-8.20167,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Faraba",
+    "gn:country_code":"ML",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457668,
+    "gn:latitude":12.43469,
+    "gn:longitude":-8.20167,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Faraba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Farada",
+        "Faraba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        421177883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457668,
+        "wk:page":"Faraba%2C_Koulikoro"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3f072fe50164520601d9d7d26dae3af0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177883,
+            "locality_id":1242772161,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1242772161,
+    "wof:lastmodified":1537665199,
+    "wof:name":"Faraba",
+    "wof:parent_id":421177883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.20167,
+    12.43469,
+    -8.20167,
+    12.43469
+],
+  "geometry": {"coordinates":[-8.20167,12.43469],"type":"Point"}
+}

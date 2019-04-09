@@ -1,0 +1,61 @@
+{
+  "id": 1209415985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.1052,15.5906,-4.1052,15.5906",
+    "geom:latitude":15.5906,
+    "geom:longitude":-4.1052,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guedia",
+    "gn:country_code":"ML",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6687446,
+    "gn:latitude":15.5906,
+    "gn:longitude":-4.1052,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Gu\u00e9dia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6687446
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"01302365f17205304603607a85611759",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209415985
+        }
+    ],
+    "wof:id":1209415985,
+    "wof:lastmodified":1536287687,
+    "wof:name":"Guedia",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.1052,
+    15.5906,
+    -4.1052,
+    15.5906
+],
+  "geometry": {"coordinates":[-4.1052,15.5906],"type":"Point"}
+}

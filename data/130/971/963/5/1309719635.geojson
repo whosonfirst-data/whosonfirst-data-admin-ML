@@ -1,0 +1,67 @@
+{
+  "id": 1309719635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.7435,14.07107,-11.7435,14.07107",
+    "geom:latitude":14.07107,
+    "geom:longitude":-11.7435,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Niamboulama",
+    "gn:country_code":"ML",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452790,
+    "gn:latitude":14.07107,
+    "gn:longitude":-11.7435,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Niamboulama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452790
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a83fbdf99da42a2bed2a0b9dd74b7194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1309719635,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1309719635,
+    "wof:lastmodified":1537052981,
+    "wof:name":"Niamboulama",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.7435,
+    14.07107,
+    -11.7435,
+    14.07107
+],
+  "geometry": {"coordinates":[-11.7435,14.07107],"type":"Point"}
+}

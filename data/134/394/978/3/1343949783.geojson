@@ -1,0 +1,72 @@
+{
+  "id": 1343949783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.56982,13.28671,-7.56982,13.28671",
+    "geom:latitude":13.28671,
+    "geom:longitude":-7.56982,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sirakorola",
+    "gn:country_code":"ML",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451005,
+    "gn:latitude":13.28671,
+    "gn:longitude":-7.56982,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Sirakorola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siracorola",
+        "Sirakorola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451005,
+        "wk:page":"Sirakorola"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"525f1583bf9691dfe4b5852118d15cff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562839,
+            "locality_id":1343949783,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1343949783,
+    "wof:lastmodified":1537665050,
+    "wof:name":"Sirakorola",
+    "wof:parent_id":1108562839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.56982,
+    13.28671,
+    -7.56982,
+    13.28671
+],
+  "geometry": {"coordinates":[-7.56982,13.28671],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243196265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.7799,13.8209,-3.7799,13.8209",
+    "geom:latitude":13.8209,
+    "geom:longitude":-3.7799,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sambo",
+    "gn:country_code":"ML",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451796,
+    "gn:latitude":13.8209,
+    "gn:longitude":-3.7799,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sammbo",
+        "Sambo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451796
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b89008a185c8ed43d7d9ef7cdf6de988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1243196265,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1243196265,
+    "wof:lastmodified":1537665070,
+    "wof:name":"Sambo",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7799,
+    13.8209,
+    -3.7799,
+    13.8209
+],
+  "geometry": {"coordinates":[-3.7799,13.8209],"type":"Point"}
+}

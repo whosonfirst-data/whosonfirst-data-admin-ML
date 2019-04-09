@@ -1,0 +1,67 @@
+{
+  "id": 1260166575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.783,15.6907,-3.783,15.6907",
+    "geom:latitude":15.6907,
+    "geom:longitude":-3.783,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bakafe",
+    "gn:country_code":"ML",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460704,
+    "gn:latitude":15.6907,
+    "gn:longitude":-3.783,
+    "gn:modification_date":"2008-11-04",
+    "gn:name":"Bakaf\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460704
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0731aad3154d2aebd13257305bdc8d52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562873,
+            "locality_id":1260166575,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1260166575,
+    "wof:lastmodified":1536870111,
+    "wof:name":"Bakafe",
+    "wof:parent_id":1108562873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.783,
+    15.6907,
+    -3.783,
+    15.6907
+],
+  "geometry": {"coordinates":[-3.783,15.6907],"type":"Point"}
+}

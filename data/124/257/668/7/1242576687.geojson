@@ -1,0 +1,71 @@
+{
+  "id": 1242576687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.37761,13.94886,-5.37761,13.94886",
+    "geom:latitude":13.94886,
+    "geom:longitude":-5.37761,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ke-Bozo",
+    "gn:country_code":"ML",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455501,
+    "gn:latitude":13.94886,
+    "gn:longitude":-5.37761,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"K\u00e9-Bozo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00e9",
+        "K\u00e9-Bozo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455501
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9b69b2265712a1f50f0c311a678dd624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":1242576687,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1242576687,
+    "wof:lastmodified":1537665161,
+    "wof:name":"Ke-Bozo",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.37761,
+    13.94886,
+    -5.37761,
+    13.94886
+],
+  "geometry": {"coordinates":[-5.37761,13.94886],"type":"Point"}
+}

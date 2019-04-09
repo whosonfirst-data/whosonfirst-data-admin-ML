@@ -1,0 +1,65 @@
+{
+  "id": 1209337161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.6225,13.2871,-4.6225,13.2871",
+    "geom:latitude":13.2871,
+    "geom:longitude":-4.6225,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bonimasso",
+    "gn:country_code":"ML",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6875976,
+    "gn:latitude":13.2871,
+    "gn:longitude":-4.6225,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Bonimasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moumankui",
+        "Bonimasso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6875976
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"63e660f7458a3e79d33d2abaad56693d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209337161
+        }
+    ],
+    "wof:id":1209337161,
+    "wof:lastmodified":1537665286,
+    "wof:name":"Bonimasso",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.6225,
+    13.2871,
+    -4.6225,
+    13.2871
+],
+  "geometry": {"coordinates":[-4.6225,13.2871],"type":"Point"}
+}

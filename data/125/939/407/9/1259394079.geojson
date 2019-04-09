@@ -1,0 +1,71 @@
+{
+  "id": 1259394079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.26621,13.41084,-11.26621,13.41084",
+    "geom:latitude":13.41084,
+    "geom:longitude":-11.26621,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Konkobara",
+    "gn:country_code":"ML",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455699,
+    "gn:latitude":13.41084,
+    "gn:longitude":-11.26621,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Konkobara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kankobara",
+        "Konkobara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455699
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8b77b8a4d510ece700f8f1153cd3f50c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171903,
+            "locality_id":1259394079,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1259394079,
+    "wof:lastmodified":1537665166,
+    "wof:name":"Konkobara",
+    "wof:parent_id":421171903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.26621,
+    13.41084,
+    -11.26621,
+    13.41084
+],
+  "geometry": {"coordinates":[-11.26621,13.41084],"type":"Point"}
+}

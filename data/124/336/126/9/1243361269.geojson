@@ -1,0 +1,67 @@
+{
+  "id": 1243361269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.25942,11.43934,-6.25942,11.43934",
+    "geom:latitude":11.43934,
+    "geom:longitude":-6.25942,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Yankasso",
+    "gn:country_code":"ML",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910333,
+    "gn:latitude":11.43934,
+    "gn:longitude":-6.25942,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Yankasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910333
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"dcc0012f8863b6e35cb7b9a97cb864e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1243361269,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1243361269,
+    "wof:lastmodified":1536929128,
+    "wof:name":"Yankasso",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.25942,
+    11.43934,
+    -6.25942,
+    11.43934
+],
+  "geometry": {"coordinates":[-6.25942,11.43934],"type":"Point"}
+}

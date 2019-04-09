@@ -1,0 +1,67 @@
+{
+  "id": 1293014611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.0434,12.6752,-8.0434,12.6752",
+    "geom:latitude":12.6752,
+    "geom:longitude":-8.0434,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ie Lido",
+    "gn:country_code":"ML",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6907769,
+    "gn:latitude":12.6752,
+    "gn:longitude":-8.0434,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Ie Lido",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674525,
+        421187095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6907769
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c21fbe572f2dc9c7e40739addda92c4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421187095,
+            "locality_id":1293014611,
+            "region_id":85674525
+        }
+    ],
+    "wof:id":1293014611,
+    "wof:lastmodified":1536971303,
+    "wof:name":"Ie Lido",
+    "wof:parent_id":421187095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.0434,
+    12.6752,
+    -8.0434,
+    12.6752
+],
+  "geometry": {"coordinates":[-8.0434,12.6752],"type":"Point"}
+}

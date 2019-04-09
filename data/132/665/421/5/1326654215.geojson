@@ -1,0 +1,71 @@
+{
+  "id": 1326654215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.96704,14.56529,-4.96704,14.56529",
+    "geom:latitude":14.56529,
+    "geom:longitude":-4.96704,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tengue",
+    "gn:country_code":"ML",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449934,
+    "gn:latitude":14.56529,
+    "gn:longitude":-4.96704,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tengu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tingu\u00e9",
+        "Tengu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449934
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b68f1f7a11711507f0efd0dc2f608214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562861,
+            "locality_id":1326654215,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1326654215,
+    "wof:lastmodified":1537665030,
+    "wof:name":"Tengue",
+    "wof:parent_id":1108562861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.96704,
+    14.56529,
+    -4.96704,
+    14.56529
+],
+  "geometry": {"coordinates":[-4.96704,14.56529],"type":"Point"}
+}

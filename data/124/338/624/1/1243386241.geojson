@@ -1,0 +1,71 @@
+{
+  "id": 1243386241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.31856,13.22811,-4.31856,13.22811",
+    "geom:latitude":13.22811,
+    "geom:longitude":-4.31856,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bosso",
+    "gn:country_code":"ML",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459873,
+    "gn:latitude":13.22811,
+    "gn:longitude":-4.31856,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bosso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yabara",
+        "Bosso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459873
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9aa76cf7137a81ae3f55dd4db1ae7cb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562843,
+            "locality_id":1243386241,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1243386241,
+    "wof:lastmodified":1537665255,
+    "wof:name":"Bosso",
+    "wof:parent_id":1108562843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.31856,
+    13.22811,
+    -4.31856,
+    13.22811
+],
+  "geometry": {"coordinates":[-4.31856,13.22811],"type":"Point"}
+}

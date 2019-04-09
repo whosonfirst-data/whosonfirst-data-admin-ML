@@ -1,0 +1,71 @@
+{
+  "id": 1327239155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.07635,15.28775,-11.07635,15.28775",
+    "geom:latitude":15.28775,
+    "geom:longitude":-11.07635,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Davo",
+    "gn:country_code":"ML",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459266,
+    "gn:latitude":15.28775,
+    "gn:longitude":-11.07635,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Davo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daro",
+        "Davo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459266
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"98f0114d2893e46328b614f2420c0568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1327239155,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1327239155,
+    "wof:lastmodified":1537665242,
+    "wof:name":"Davo",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.07635,
+    15.28775,
+    -11.07635,
+    15.28775
+],
+  "geometry": {"coordinates":[-11.07635,15.28775],"type":"Point"}
+}

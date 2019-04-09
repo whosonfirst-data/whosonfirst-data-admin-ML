@@ -1,0 +1,67 @@
+{
+  "id": 1293591007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.36406,15.17671,-9.36406,15.17671",
+    "geom:latitude":15.17671,
+    "geom:longitude":-9.36406,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gourel Bei",
+    "gn:country_code":"ML",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6759878,
+    "gn:latitude":15.17671,
+    "gn:longitude":-9.36406,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Gourel Bei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6759878
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4369d8fefb736904586eb54ebb30e5b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562857,
+            "locality_id":1293591007,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1293591007,
+    "wof:lastmodified":1536636694,
+    "wof:name":"Gourel Bei",
+    "wof:parent_id":1108562857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.36406,
+    15.17671,
+    -9.36406,
+    15.17671
+],
+  "geometry": {"coordinates":[-9.36406,15.17671],"type":"Point"}
+}

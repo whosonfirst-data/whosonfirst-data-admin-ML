@@ -1,0 +1,61 @@
+{
+  "id": 1209222157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.93912,15.04593,-10.93912,15.04593",
+    "geom:latitude":15.04593,
+    "geom:longitude":-10.93912,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Barsahe",
+    "gn:country_code":"ML",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6652714,
+    "gn:latitude":15.04593,
+    "gn:longitude":-10.93912,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Barsah\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6652714
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a5de51b42643c998f3bb3a7a38efd147",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209222157
+        }
+    ],
+    "wof:id":1209222157,
+    "wof:lastmodified":1536293925,
+    "wof:name":"Barsahe",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.93912,
+    15.045929999999998,
+    -10.93912,
+    15.045929999999998
+],
+  "geometry": {"coordinates":[-10.93912,15.04593],"type":"Point"}
+}

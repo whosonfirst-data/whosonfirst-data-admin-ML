@@ -1,0 +1,71 @@
+{
+  "id": 1242689415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.56599,14.53797,-8.56599,14.53797",
+    "geom:latitude":14.53797,
+    "geom:longitude":-8.56599,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dyoumara",
+    "gn:country_code":"ML",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458064,
+    "gn:latitude":14.53797,
+    "gn:longitude":-8.56599,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dyoumara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dioumara",
+        "Dyoumara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458064
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2622af76774783b4b4ca4d04d417a7f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562857,
+            "locality_id":1242689415,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1242689415,
+    "wof:lastmodified":1537665205,
+    "wof:name":"Dyoumara",
+    "wof:parent_id":1108562857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.56599,
+    14.53797,
+    -8.56599,
+    14.53797
+],
+  "geometry": {"coordinates":[-8.56599,14.53797],"type":"Point"}
+}

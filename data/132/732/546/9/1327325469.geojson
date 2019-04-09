@@ -1,0 +1,67 @@
+{
+  "id": 1327325469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.57017,12.13459,-8.57017,12.13459",
+    "geom:latitude":12.13459,
+    "geom:longitude":-8.57017,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Koundani",
+    "gn:country_code":"ML",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594378,
+    "gn:latitude":12.13459,
+    "gn:longitude":-8.57017,
+    "gn:modification_date":"2008-11-13",
+    "gn:name":"Koundani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594378
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"17c19e8bb925d0844b15ad7246add029",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562827,
+            "locality_id":1327325469,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1327325469,
+    "wof:lastmodified":1536834248,
+    "wof:name":"Koundani",
+    "wof:parent_id":1108562827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.57017,
+    12.13459,
+    -8.57017,
+    12.13459
+],
+  "geometry": {"coordinates":[-8.57017,12.13459],"type":"Point"}
+}

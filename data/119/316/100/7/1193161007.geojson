@@ -1,0 +1,71 @@
+{
+  "id": 1193161007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.67609,14.132,-3.67609,14.132",
+    "geom:latitude":14.132,
+    "geom:longitude":-3.67609,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Yaso",
+    "gn:country_code":"ML",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448506,
+    "gn:latitude":14.132,
+    "gn:longitude":-3.67609,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yaso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yasso",
+        "Yaso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448506
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"81abe6f73a143e0e414136bb0d662906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1193161007,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1193161007,
+    "wof:lastmodified":1537665004,
+    "wof:name":"Yaso",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.67609,
+    14.132,
+    -3.67609,
+    14.132
+],
+  "geometry": {"coordinates":[-3.67609,14.132],"type":"Point"}
+}

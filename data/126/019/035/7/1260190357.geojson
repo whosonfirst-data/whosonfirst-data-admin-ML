@@ -1,0 +1,71 @@
+{
+  "id": 1260190357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.95796,15.33037,-9.95796,15.33037",
+    "geom:latitude":15.33037,
+    "geom:longitude":-9.95796,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Wela",
+    "gn:country_code":"ML",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448605,
+    "gn:latitude":15.33037,
+    "gn:longitude":-9.95796,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"W\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u00e9ta",
+        "W\u00e9la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448605
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"fb492a9de232b12f771803515d5d0f07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562869,
+            "locality_id":1260190357,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1260190357,
+    "wof:lastmodified":1537665007,
+    "wof:name":"Wela",
+    "wof:parent_id":1108562869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.95796,
+    15.33037,
+    -9.95796,
+    15.33037
+],
+  "geometry": {"coordinates":[-9.95796,15.33037],"type":"Point"}
+}

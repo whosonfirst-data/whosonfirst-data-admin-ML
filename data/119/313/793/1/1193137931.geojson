@@ -1,0 +1,72 @@
+{
+  "id": 1193137931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.7062,13.6163,-3.7062,13.6163",
+    "geom:latitude":13.6163,
+    "geom:longitude":-3.7062,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tori",
+    "gn:country_code":"ML",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449006,
+    "gn:latitude":13.6163,
+    "gn:longitude":-3.7062,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ntori",
+        "Tori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449006,
+        "wk:page":"Tori%2C_Mali"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f0c07f4c2c2239a40451ca59d2eeb6dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1193137931,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1193137931,
+    "wof:lastmodified":1537665018,
+    "wof:name":"Tori",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7062,
+    13.6163,
+    -3.7062,
+    13.6163
+],
+  "geometry": {"coordinates":[-3.7062,13.6163],"type":"Point"}
+}

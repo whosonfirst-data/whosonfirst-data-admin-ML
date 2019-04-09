@@ -1,0 +1,67 @@
+{
+  "id": 1360308221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.25445,13.60529,-5.25445,13.60529",
+    "geom:latitude":13.60529,
+    "geom:longitude":-5.25445,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Karadiola",
+    "gn:country_code":"ML",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880375,
+    "gn:latitude":13.60529,
+    "gn:longitude":-5.25445,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Karadiola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880375
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b6ac2b4625a3d6fbdd3d22ca5624ddab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":1360308221,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1360308221,
+    "wof:lastmodified":1536621708,
+    "wof:name":"Karadiola",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.25445,
+    13.60529,
+    -5.25445,
+    13.60529
+],
+  "geometry": {"coordinates":[-5.25445,13.60529],"type":"Point"}
+}

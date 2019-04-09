@@ -1,0 +1,67 @@
+{
+  "id": 1226653435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.8515,14.2379,-9.8515,14.2379",
+    "geom:latitude":14.2379,
+    "geom:longitude":-9.8515,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Boudjadia",
+    "gn:country_code":"ML",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459829,
+    "gn:latitude":14.2379,
+    "gn:longitude":-9.8515,
+    "gn:modification_date":"2008-11-18",
+    "gn:name":"Boudjadia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459829
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"bb587f017424e2c6424da2d346d63ac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562855,
+            "locality_id":1226653435,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1226653435,
+    "wof:lastmodified":1536847197,
+    "wof:name":"Boudjadia",
+    "wof:parent_id":1108562855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.8515,
+    14.2379,
+    -9.8515,
+    14.2379
+],
+  "geometry": {"coordinates":[-9.8515,14.2379],"type":"Point"}
+}

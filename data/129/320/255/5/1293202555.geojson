@@ -1,0 +1,67 @@
+{
+  "id": 1293202555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.56336,15.24704,-9.56336,15.24704",
+    "geom:latitude":15.24704,
+    "geom:longitude":-9.56336,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Niamori",
+    "gn:country_code":"ML",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6759825,
+    "gn:latitude":15.24704,
+    "gn:longitude":-9.56336,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Niamori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6759825
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5ecc0a5bd63b257816d4d78e21cf6d2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562869,
+            "locality_id":1293202555,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1293202555,
+    "wof:lastmodified":1536701113,
+    "wof:name":"Niamori",
+    "wof:parent_id":1108562869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.56336,
+    15.24704,
+    -9.56336,
+    15.24704
+],
+  "geometry": {"coordinates":[-9.56336,15.24704],"type":"Point"}
+}

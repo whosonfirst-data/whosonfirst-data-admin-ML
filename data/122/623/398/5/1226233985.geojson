@@ -1,0 +1,76 @@
+{
+  "id": 1226233985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.5641,12.105,-6.5641,12.105",
+    "geom:latitude":12.105,
+    "geom:longitude":-6.5641,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tirakoroni",
+    "gn:country_code":"ML",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449181,
+    "gn:latitude":12.105,
+    "gn:longitude":-6.5641,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tirakoroni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tirakoroni"
+    ],
+    "name:fra_x_variant":[
+        "Nokolo Sirakoni"
+    ],
+    "name:und_x_variant":[
+        "Nokolo Sirakoni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449181
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"102940ec18043910f0a42e74e271cf7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1226233985,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1226233985,
+    "wof:lastmodified":1537665022,
+    "wof:name":"Tirakoroni",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.5641,
+    12.105,
+    -6.5641,
+    12.105
+],
+  "geometry": {"coordinates":[-6.5641,12.105],"type":"Point"}
+}

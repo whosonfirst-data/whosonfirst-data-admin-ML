@@ -1,0 +1,67 @@
+{
+  "id": 1344261665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.9996,14.4384,-5.9996,14.4384",
+    "geom:latitude":14.4384,
+    "geom:longitude":-5.9996,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Diaka-Were",
+    "gn:country_code":"ML",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459103,
+    "gn:latitude":14.4384,
+    "gn:longitude":-5.9996,
+    "gn:modification_date":"2008-11-03",
+    "gn:name":"Diaka-W\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459103
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"86d2a02e2970e5eb4ef5f8c5cd5d3615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562867,
+            "locality_id":1344261665,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1344261665,
+    "wof:lastmodified":1537079221,
+    "wof:name":"Diaka-Were",
+    "wof:parent_id":1108562867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.9996,
+    14.4384,
+    -5.9996,
+    14.4384
+],
+  "geometry": {"coordinates":[-5.9996,14.4384],"type":"Point"}
+}

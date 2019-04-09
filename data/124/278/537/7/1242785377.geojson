@@ -1,0 +1,71 @@
+{
+  "id": 1242785377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.42425,12.15083,-11.42425,12.15083",
+    "geom:latitude":12.15083,
+    "geom:longitude":-11.42425,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sande-Baleya",
+    "gn:country_code":"ML",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451709,
+    "gn:latitude":12.15083,
+    "gn:longitude":-11.42425,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sande-Bal\u00e9ya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sande Bal\u00e9a",
+        "Sande-Bal\u00e9ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451709
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f12a0c85aedc339c064ece8a82ca848e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171903,
+            "locality_id":1242785377,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1242785377,
+    "wof:lastmodified":1537665068,
+    "wof:name":"Sande-Baleya",
+    "wof:parent_id":421171903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.42425,
+    12.15083,
+    -11.42425,
+    12.15083
+],
+  "geometry": {"coordinates":[-11.42425,12.15083],"type":"Point"}
+}

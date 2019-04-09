@@ -1,0 +1,68 @@
+{
+  "id": 1259480833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.57962,11.36217,-6.57962,11.36217",
+    "geom:latitude":11.36217,
+    "geom:longitude":-6.57962,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Farako",
+    "gn:country_code":"ML",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910242,
+    "gn:latitude":11.36217,
+    "gn:longitude":-6.57962,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Farako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910242,
+        "wk:page":"Farako%2C_Sikasso"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7755aa22dedc3abe8ceddf00acad3321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562819,
+            "locality_id":1259480833,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1259480833,
+    "wof:lastmodified":1537568441,
+    "wof:name":"Farako",
+    "wof:parent_id":1108562819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.57962,
+    11.36217,
+    -6.57962,
+    11.36217
+],
+  "geometry": {"coordinates":[-6.57962,11.36217],"type":"Point"}
+}

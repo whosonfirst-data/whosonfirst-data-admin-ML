@@ -1,0 +1,67 @@
+{
+  "id": 1242874525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.7786,13.8931,-3.7786,13.8931",
+    "geom:latitude":13.8931,
+    "geom:longitude":-3.7786,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kogo",
+    "gn:country_code":"ML",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455085,
+    "gn:latitude":13.8931,
+    "gn:longitude":-3.7786,
+    "gn:modification_date":"2008-10-31",
+    "gn:name":"Kogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455085
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7569ffb96d041e99f525e17327a463b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1242874525,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1242874525,
+    "wof:lastmodified":1536634727,
+    "wof:name":"Kogo",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7786,
+    13.8931,
+    -3.7786,
+    13.8931
+],
+  "geometry": {"coordinates":[-3.7786,13.8931],"type":"Point"}
+}

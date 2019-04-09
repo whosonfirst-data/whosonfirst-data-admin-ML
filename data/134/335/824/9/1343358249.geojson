@@ -1,0 +1,73 @@
+{
+  "id": 1343358249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.6846,13.3351,-4.6846,13.3351",
+    "geom:latitude":13.3351,
+    "geom:longitude":-4.6846,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kanianso",
+    "gn:country_code":"ML",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455719,
+    "gn:latitude":13.3351,
+    "gn:longitude":-4.6846,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kanianso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alikui",
+        "K\u00e9niassa",
+        "Kinia",
+        "Kanianso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421192717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455719
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7244a84d55135cc07c222f7af031638e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421192717,
+            "locality_id":1343358249,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1343358249,
+    "wof:lastmodified":1537665167,
+    "wof:name":"Kanianso",
+    "wof:parent_id":421192717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.6846,
+    13.3351,
+    -4.6846,
+    13.3351
+],
+  "geometry": {"coordinates":[-4.6846,13.3351],"type":"Point"}
+}

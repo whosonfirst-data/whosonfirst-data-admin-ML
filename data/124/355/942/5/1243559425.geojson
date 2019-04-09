@@ -1,0 +1,67 @@
+{
+  "id": 1243559425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.7082,12.99331,-5.7082,12.99331",
+    "geom:latitude":12.99331,
+    "geom:longitude":-5.7082,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tala",
+    "gn:country_code":"ML",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6861929,
+    "gn:latitude":12.99331,
+    "gn:longitude":-5.7082,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Tala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6861929
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ef416ac5400e227b3cafea1b077f2499",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562835,
+            "locality_id":1243559425,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1243559425,
+    "wof:lastmodified":1536641836,
+    "wof:name":"Tala",
+    "wof:parent_id":1108562835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.7082,
+    12.99331,
+    -5.7082,
+    12.99331
+],
+  "geometry": {"coordinates":[-5.7082,12.99331],"type":"Point"}
+}

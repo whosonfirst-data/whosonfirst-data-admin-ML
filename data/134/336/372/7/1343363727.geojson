@@ -1,0 +1,67 @@
+{
+  "id": 1343363727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.4391,13.6244,-4.4391,13.6244",
+    "geom:latitude":13.6244,
+    "geom:longitude":-4.4391,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sekelo",
+    "gn:country_code":"ML",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451434,
+    "gn:latitude":13.6244,
+    "gn:longitude":-4.4391,
+    "gn:modification_date":"2008-11-03",
+    "gn:name":"S\u00e9k\u00e9lo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451434
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"366b061eccc06d3e371ace5107032327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562843,
+            "locality_id":1343363727,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1343363727,
+    "wof:lastmodified":1536885218,
+    "wof:name":"Sekelo",
+    "wof:parent_id":1108562843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4391,
+    13.6244,
+    -4.4391,
+    13.6244
+],
+  "geometry": {"coordinates":[-4.4391,13.6244],"type":"Point"}
+}

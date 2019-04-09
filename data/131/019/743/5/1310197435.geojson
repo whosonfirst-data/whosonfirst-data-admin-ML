@@ -1,0 +1,67 @@
+{
+  "id": 1310197435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.66651,11.37478,-7.66651,11.37478",
+    "geom:latitude":11.37478,
+    "geom:longitude":-7.66651,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Koka",
+    "gn:country_code":"ML",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826701,
+    "gn:latitude":11.37478,
+    "gn:longitude":-7.66651,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Koka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826701
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0c36931608b869ce9290b16bde03279b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1310197435,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1310197435,
+    "wof:lastmodified":1536862560,
+    "wof:name":"Koka",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.66651,
+    11.37478,
+    -7.66651,
+    11.37478
+],
+  "geometry": {"coordinates":[-7.66651,11.37478],"type":"Point"}
+}

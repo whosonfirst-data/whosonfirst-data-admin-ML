@@ -1,0 +1,71 @@
+{
+  "id": 1343262313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.4001,14.35415,-4.4001,14.35415",
+    "geom:latitude":14.35415,
+    "geom:longitude":-4.4001,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Larde-Bale",
+    "gn:country_code":"ML",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454152,
+    "gn:latitude":14.35415,
+    "gn:longitude":-4.4001,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lard\u00e9-Bal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lard\u00e9-Balli",
+        "Lard\u00e9-Bal\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454152
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"880f1fdd2ea5396bb54859be2b6cdb80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1343262313,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1343262313,
+    "wof:lastmodified":1537665129,
+    "wof:name":"Larde-Bale",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4001,
+    14.35415,
+    -4.4001,
+    14.35415
+],
+  "geometry": {"coordinates":[-4.4001,14.35415],"type":"Point"}
+}

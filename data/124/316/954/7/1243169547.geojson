@@ -1,0 +1,73 @@
+{
+  "id": 1243169547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.78878,11.68277,-6.78878,11.68277",
+    "geom:latitude":11.68277,
+    "geom:longitude":-6.78878,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Farani-Fadia",
+    "gn:country_code":"ML",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457804,
+    "gn:latitude":11.68277,
+    "gn:longitude":-6.78878,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Farani-Fadia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Falani Fadia"
+    ],
+    "name:und_x_variant":[
+        "Falani Fadia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457804
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1110ce1cc164f2e178cefe6b4a92d70c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1243169547,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1243169547,
+    "wof:lastmodified":1537665202,
+    "wof:name":"Farani-Fadia",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.78878,
+    11.68277,
+    -6.78878,
+    11.68277
+],
+  "geometry": {"coordinates":[-6.78878,11.68277],"type":"Point"}
+}

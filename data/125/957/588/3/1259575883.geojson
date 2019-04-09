@@ -1,0 +1,74 @@
+{
+  "id": 1259575883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.86283,12.1758,-5.86283,12.1758",
+    "geom:latitude":12.1758,
+    "geom:longitude":-5.86283,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Klela",
+    "gn:country_code":"ML",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455208,
+    "gn:latitude":12.1758,
+    "gn:longitude":-5.86283,
+    "gn:modification_date":"2018-04-14",
+    "gn:name":"Kl\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keleni",
+        "Kl\u00e9tani",
+        "Kl\u00e9lani",
+        "Kl\u00e9la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455208,
+        "wk:page":"Kl%C3%A9la"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a4e700a7d2fdf95fcac42c6e54ba9339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1259575883,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1259575883,
+    "wof:lastmodified":1537665154,
+    "wof:name":"Klela",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.86283,
+    12.1758,
+    -5.86283,
+    12.1758
+],
+  "geometry": {"coordinates":[-5.86283,12.1758],"type":"Point"}
+}

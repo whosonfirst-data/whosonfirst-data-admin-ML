@@ -1,0 +1,76 @@
+{
+  "id": 1225936615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.0762,11.86893,-6.0762,11.86893",
+    "geom:latitude":11.86893,
+    "geom:longitude":-6.0762,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tiefina",
+    "gn:country_code":"ML",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449770,
+    "gn:latitude":11.86893,
+    "gn:longitude":-6.0762,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ti\u00e9fina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ti\u00e9fina"
+    ],
+    "name:fra_x_variant":[
+        "Ten\u00e9na"
+    ],
+    "name:und_x_variant":[
+        "Ten\u00e9na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449770
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e7babe5fa821c569d78a25fc80a04a27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1225936615,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1225936615,
+    "wof:lastmodified":1537665028,
+    "wof:name":"Tiefina",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0762,
+    11.86893,
+    -6.0762,
+    11.86893
+],
+  "geometry": {"coordinates":[-6.0762,11.86893],"type":"Point"}
+}

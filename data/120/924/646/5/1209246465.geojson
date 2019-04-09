@@ -1,0 +1,61 @@
+{
+  "id": 1209246465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.1302,13.401,-4.1302,13.401",
+    "geom:latitude":13.401,
+    "geom:longitude":-4.1302,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tinabe",
+    "gn:country_code":"ML",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449611,
+    "gn:latitude":13.401,
+    "gn:longitude":-4.1302,
+    "gn:modification_date":"2008-11-03",
+    "gn:name":"Tinab\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449611
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"52d77a0e71f912ab05c1e6d379248391",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209246465
+        }
+    ],
+    "wof:id":1209246465,
+    "wof:lastmodified":1536293147,
+    "wof:name":"Tinabe",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.1302,
+    13.401,
+    -4.1302,
+    13.401
+],
+  "geometry": {"coordinates":[-4.1302,13.401],"type":"Point"}
+}

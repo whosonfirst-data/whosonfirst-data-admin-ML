@@ -1,0 +1,67 @@
+{
+  "id": 1344142317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.99959,15.88604,-2.99959,15.88604",
+    "geom:latitude":15.88604,
+    "geom:longitude":-2.99959,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Daka Moamdoudou",
+    "gn:country_code":"ML",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6872483,
+    "gn:latitude":15.88604,
+    "gn:longitude":-2.99959,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Daka Moamdoudou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6872483
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"10b3981788cf2fdcc63e4a10f52b6f68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1344142317,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1344142317,
+    "wof:lastmodified":1536757652,
+    "wof:name":"Daka Moamdoudou",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.99959,
+    15.88604,
+    -2.99959,
+    15.88604
+],
+  "geometry": {"coordinates":[-2.99959,15.88604],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209127373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.9817,15.1126,-7.9817,15.1126",
+    "geom:latitude":15.1126,
+    "geom:longitude":-7.9817,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sanmbe",
+    "gn:country_code":"ML",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451800,
+    "gn:latitude":15.1126,
+    "gn:longitude":-7.9817,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sanmb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samb\u00e9",
+        "Sanmb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451800
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5b4829249ace59746fef1a4e9f5ae8ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209127373
+        }
+    ],
+    "wof:id":1209127373,
+    "wof:lastmodified":1537665071,
+    "wof:name":"Sanmbe",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.9817,
+    15.1126,
+    -7.9817,
+    15.1126
+],
+  "geometry": {"coordinates":[-7.9817,15.1126],"type":"Point"}
+}

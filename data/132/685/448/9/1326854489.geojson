@@ -1,0 +1,67 @@
+{
+  "id": 1326854489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.07249,14.5628,-3.07249,14.5628",
+    "geom:latitude":14.5628,
+    "geom:longitude":-3.07249,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kadiavere",
+    "gn:country_code":"ML",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455978,
+    "gn:latitude":14.5628,
+    "gn:longitude":-3.07249,
+    "gn:modification_date":"2008-10-24",
+    "gn:name":"Kadiav\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421184495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455978
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f42c849636e07d3287b57a3d1fcaceef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421184495,
+            "locality_id":1326854489,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1326854489,
+    "wof:lastmodified":1537015976,
+    "wof:name":"Kadiavere",
+    "wof:parent_id":421184495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.07249,
+    14.5628,
+    -3.07249,
+    14.5628
+],
+  "geometry": {"coordinates":[-3.07249,14.5628],"type":"Point"}
+}

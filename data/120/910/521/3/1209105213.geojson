@@ -1,0 +1,61 @@
+{
+  "id": 1209105213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.7708,13.528,-6.7708,13.528",
+    "geom:latitude":13.528,
+    "geom:longitude":-6.7708,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kodiani Malebougou",
+    "gn:country_code":"ML",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910583,
+    "gn:latitude":13.528,
+    "gn:longitude":-6.7708,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Kodiani Mal\u00e9bougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910583
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"780f1270d65ae72e37e32eec625d6e67",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209105213
+        }
+    ],
+    "wof:id":1209105213,
+    "wof:lastmodified":1536297596,
+    "wof:name":"Kodiani Malebougou",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.7708,
+    13.528,
+    -6.7708,
+    13.528
+],
+  "geometry": {"coordinates":[-6.7708,13.528],"type":"Point"}
+}

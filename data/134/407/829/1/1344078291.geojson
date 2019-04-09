@@ -1,0 +1,67 @@
+{
+  "id": 1344078291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.07611,12.60083,-7.07611,12.60083",
+    "geom:latitude":12.60083,
+    "geom:longitude":-7.07611,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tougouninbougou",
+    "gn:country_code":"ML",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594198,
+    "gn:latitude":12.60083,
+    "gn:longitude":-7.07611,
+    "gn:modification_date":"2001-09-21",
+    "gn:name":"Tougouninbougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594198
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9d505f952c5f6996a50f8c76c84178b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562833,
+            "locality_id":1344078291,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1344078291,
+    "wof:lastmodified":1536848828,
+    "wof:name":"Tougouninbougou",
+    "wof:parent_id":1108562833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.07611,
+    12.60083,
+    -7.07611,
+    12.60083
+],
+  "geometry": {"coordinates":[-7.07611,12.60083],"type":"Point"}
+}

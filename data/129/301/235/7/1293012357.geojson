@@ -1,0 +1,71 @@
+{
+  "id": 1293012357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.19743,15.05905,-10.19743,15.05905",
+    "geom:latitude":15.05905,
+    "geom:longitude":-10.19743,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Wassadiala",
+    "gn:country_code":"ML",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448648,
+    "gn:latitude":15.05905,
+    "gn:longitude":-10.19743,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wassadiala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wassadalia",
+        "Wassadiala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448648
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5bc0a48c36fd17e21c25fc508716e4f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562869,
+            "locality_id":1293012357,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1293012357,
+    "wof:lastmodified":1537665009,
+    "wof:name":"Wassadiala",
+    "wof:parent_id":1108562869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.19743,
+    15.05905,
+    -10.19743,
+    15.05905
+],
+  "geometry": {"coordinates":[-10.19743,15.05905],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344179371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.60005,11.75286,-7.60005,11.75286",
+    "geom:latitude":11.75286,
+    "geom:longitude":-7.60005,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mpiekorola",
+    "gn:country_code":"ML",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6798588,
+    "gn:latitude":11.75286,
+    "gn:longitude":-7.60005,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Mpi\u00e9korola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6798588
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ab59e30d169e53a05cae54166aaaa5af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1344179371,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1344179371,
+    "wof:lastmodified":1536704334,
+    "wof:name":"Mpiekorola",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.60005,
+    11.75286,
+    -7.60005,
+    11.75286
+],
+  "geometry": {"coordinates":[-7.60005,11.75286],"type":"Point"}
+}

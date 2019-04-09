@@ -1,0 +1,71 @@
+{
+  "id": 1292998245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.97004,12.61993,-4.97004,12.61993",
+    "geom:latitude":12.61993,
+    "geom:longitude":-4.97004,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Diebe",
+    "gn:country_code":"ML",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458911,
+    "gn:latitude":12.61993,
+    "gn:longitude":-4.97004,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Di\u00e9b\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Di\u00e9b\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458911,
+        "wk:page":"Dieb%C3%A9"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"fd3a0433016507b9c9641532130514f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1292998245,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1292998245,
+    "wof:lastmodified":1537665233,
+    "wof:name":"Diebe",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.97004,
+    12.61993,
+    -4.97004,
+    12.61993
+],
+  "geometry": {"coordinates":[-4.97004,12.61993],"type":"Point"}
+}

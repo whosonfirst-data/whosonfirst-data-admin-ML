@@ -1,0 +1,67 @@
+{
+  "id": 1243065459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.8447,11.13509,-5.8447,11.13509",
+    "geom:latitude":11.13509,
+    "geom:longitude":-5.8447,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Zanasso",
+    "gn:country_code":"ML",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448380,
+    "gn:latitude":11.13509,
+    "gn:longitude":-5.8447,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Zanasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448380
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"aa6ddc3e3754fd827f5ea9e7f4e5fff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1243065459,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1243065459,
+    "wof:lastmodified":1536856554,
+    "wof:name":"Zanasso",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.8447,
+    11.13509,
+    -5.8447,
+    11.13509
+],
+  "geometry": {"coordinates":[-5.8447,11.13509],"type":"Point"}
+}

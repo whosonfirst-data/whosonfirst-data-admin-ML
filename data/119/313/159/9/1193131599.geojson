@@ -1,0 +1,78 @@
+{
+  "id": 1193131599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.2921,13.5038,-8.2921,13.5038",
+    "geom:latitude":13.5038,
+    "geom:longitude":-8.2921,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dinindiebougou",
+    "gn:country_code":"ML",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458094,
+    "gn:latitude":13.5038,
+    "gn:longitude":-8.2921,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dinindi\u00e9bougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dyinindy\u00e9bougou"
+    ],
+    "name:fra_x_variant":[
+        "Guinigu\u00e9bougou"
+    ],
+    "name:und_x_variant":[
+        "Guinigu\u00e9bougou",
+        "Dinindi\u00e9bougou",
+        "Dyinindy\u00e9bougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458094
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1c4c8b06aee854bb38692e285899687b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":1193131599,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1193131599,
+    "wof:lastmodified":1537665207,
+    "wof:name":"Dinindiebougou",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.2921,
+    13.5038,
+    -8.2921,
+    13.5038
+],
+  "geometry": {"coordinates":[-8.2921,13.5038],"type":"Point"}
+}

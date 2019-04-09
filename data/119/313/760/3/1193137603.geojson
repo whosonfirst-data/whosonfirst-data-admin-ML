@@ -1,0 +1,72 @@
+{
+  "id": 1193137603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.88629,14.6974,-3.88629,14.6974",
+    "geom:latitude":14.6974,
+    "geom:longitude":-3.88629,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sim",
+    "gn:country_code":"ML",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451112,
+    "gn:latitude":14.6974,
+    "gn:longitude":-3.88629,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Simi",
+        "Sini",
+        "Sim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451112
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9c32d0221457d02824b0bf36c7671805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1193137603,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1193137603,
+    "wof:lastmodified":1537665053,
+    "wof:name":"Sim",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.88629,
+    14.6974,
+    -3.88629,
+    14.6974
+],
+  "geometry": {"coordinates":[-3.88629,14.6974],"type":"Point"}
+}

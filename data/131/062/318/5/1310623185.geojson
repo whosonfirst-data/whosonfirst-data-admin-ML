@@ -1,0 +1,71 @@
+{
+  "id": 1310623185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.7837,11.40143,-5.7837,11.40143",
+    "geom:latitude":11.40143,
+    "geom:longitude":-5.7837,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Wolofina",
+    "gn:country_code":"ML",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448578,
+    "gn:latitude":11.40143,
+    "gn:longitude":-5.7837,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Wolofina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouofina",
+        "Wolofina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448578
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b71f218b39f5cd07016b25b1f7e85422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562825,
+            "locality_id":1310623185,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1310623185,
+    "wof:lastmodified":1537665006,
+    "wof:name":"Wolofina",
+    "wof:parent_id":1108562825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.7837,
+    11.40143,
+    -5.7837,
+    11.40143
+],
+  "geometry": {"coordinates":[-5.7837,11.40143],"type":"Point"}
+}

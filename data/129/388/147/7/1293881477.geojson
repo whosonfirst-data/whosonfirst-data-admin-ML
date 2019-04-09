@@ -1,0 +1,67 @@
+{
+  "id": 1293881477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.6556,12.4939,-5.6556,12.4939",
+    "geom:latitude":12.4939,
+    "geom:longitude":-5.6556,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Molokosso",
+    "gn:country_code":"ML",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6861844,
+    "gn:latitude":12.4939,
+    "gn:longitude":-5.6556,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Molokosso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6861844
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c51aea5f4c2d904a5178fdffaa9b8dd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1293881477,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1293881477,
+    "wof:lastmodified":1536716619,
+    "wof:name":"Molokosso",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.6556,
+    12.4939,
+    -5.6556,
+    12.4939
+],
+  "geometry": {"coordinates":[-5.6556,12.4939],"type":"Point"}
+}

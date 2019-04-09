@@ -1,0 +1,72 @@
+{
+  "id": 1343366365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.4757,15.37726,-11.4757,15.37726",
+    "geom:latitude":15.37726,
+    "geom:longitude":-11.4757,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bafarara",
+    "gn:country_code":"ML",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460764,
+    "gn:latitude":15.37726,
+    "gn:longitude":-11.4757,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bafarara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9farara",
+        "Bafarara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460764,
+        "wk:page":"Bafarara"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"edbca9dff8229dd00b684a0efc473ce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1343366365,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1343366365,
+    "wof:lastmodified":1537665276,
+    "wof:name":"Bafarara",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.4757,
+    15.37726,
+    -11.4757,
+    15.37726
+],
+  "geometry": {"coordinates":[-11.4757,15.37726],"type":"Point"}
+}

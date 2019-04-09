@@ -1,0 +1,67 @@
+{
+  "id": 1276770783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.1073,14.7083,-9.1073,14.7083",
+    "geom:latitude":14.7083,
+    "geom:longitude":-9.1073,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mabrouke",
+    "gn:country_code":"ML",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454026,
+    "gn:latitude":14.7083,
+    "gn:longitude":-9.1073,
+    "gn:modification_date":"2008-11-18",
+    "gn:name":"Mabrouk\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454026
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3153ecc11f6849aafc0211459489e064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562857,
+            "locality_id":1276770783,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1276770783,
+    "wof:lastmodified":1536689791,
+    "wof:name":"Mabrouke",
+    "wof:parent_id":1108562857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.1073,
+    14.7083,
+    -9.1073,
+    14.7083
+],
+  "geometry": {"coordinates":[-9.1073,14.7083],"type":"Point"}
+}

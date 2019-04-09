@@ -1,0 +1,72 @@
+{
+  "id": 1309716753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.9732,13.3053,-4.9732,13.3053",
+    "geom:latitude":13.3053,
+    "geom:longitude":-4.9732,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tiekelinsso",
+    "gn:country_code":"ML",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449767,
+    "gn:latitude":13.3053,
+    "gn:longitude":-4.9732,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ti\u00e9k\u00e9linsso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ti\u00e9k\u00e9hensso",
+        "Ti\u00e9k\u00e9linso",
+        "Ti\u00e9k\u00e9linsso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421192717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449767
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"72cc8ed299d10f8117c81dbcd3b46343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421192717,
+            "locality_id":1309716753,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1309716753,
+    "wof:lastmodified":1537665028,
+    "wof:name":"Tiekelinsso",
+    "wof:parent_id":421192717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.9732,
+    13.3053,
+    -4.9732,
+    13.3053
+],
+  "geometry": {"coordinates":[-4.9732,13.3053],"type":"Point"}
+}

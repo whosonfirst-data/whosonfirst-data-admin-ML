@@ -1,0 +1,76 @@
+{
+  "id": 1277098827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.87034,11.44356,-6.87034,11.44356",
+    "geom:latitude":11.44356,
+    "geom:longitude":-6.87034,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kokodio",
+    "gn:country_code":"ML",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455056,
+    "gn:latitude":11.44356,
+    "gn:longitude":-6.87034,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Kokodio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kokodio"
+    ],
+    "name:fra_x_variant":[
+        "Korodiou"
+    ],
+    "name:und_x_variant":[
+        "Korodiou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455056
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"beb8222392f5eac706abce773cafaba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1277098827,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1277098827,
+    "wof:lastmodified":1537665151,
+    "wof:name":"Kokodio",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.87034,
+    11.44356,
+    -6.87034,
+    11.44356
+],
+  "geometry": {"coordinates":[-6.87034,11.44356],"type":"Point"}
+}

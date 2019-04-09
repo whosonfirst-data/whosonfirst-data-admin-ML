@@ -1,0 +1,67 @@
+{
+  "id": 1243275591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.17449,13.42134,-11.17449,13.42134",
+    "geom:latitude":13.42134,
+    "geom:longitude":-11.17449,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Berekoussa Dioma",
+    "gn:country_code":"ML",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460114,
+    "gn:latitude":13.42134,
+    "gn:longitude":-11.17449,
+    "gn:modification_date":"2007-10-24",
+    "gn:name":"B\u00e9r\u00e9koussa Dioma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460114
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"612c1c0c0e73e13426f4180c82ae390e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562855,
+            "locality_id":1243275591,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1243275591,
+    "wof:lastmodified":1537049716,
+    "wof:name":"Berekoussa Dioma",
+    "wof:parent_id":1108562855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.17449,
+    13.42134,
+    -11.17449,
+    13.42134
+],
+  "geometry": {"coordinates":[-11.17449,13.42134],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343584041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.04664,13.80688,-5.04664,13.80688",
+    "geom:latitude":13.80688,
+    "geom:longitude":-5.04664,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tien Kouri",
+    "gn:country_code":"ML",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880290,
+    "gn:latitude":13.80688,
+    "gn:longitude":-5.04664,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Tien Kouri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880290
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6e54a1f8ef68fef4b6f8dbcfcf8328f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":1343584041,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1343584041,
+    "wof:lastmodified":1537062668,
+    "wof:name":"Tien Kouri",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.04664,
+    13.80688,
+    -5.04664,
+    13.80688
+],
+  "geometry": {"coordinates":[-5.04664,13.80688],"type":"Point"}
+}

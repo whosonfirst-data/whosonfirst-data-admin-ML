@@ -1,0 +1,73 @@
+{
+  "id": 1260188517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.7977,13.9599,-3.7977,13.9599",
+    "geom:latitude":13.9599,
+    "geom:longitude":-3.7977,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dome",
+    "gn:country_code":"ML",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458436,
+    "gn:latitude":13.9599,
+    "gn:longitude":-3.7977,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dom\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wome",
+        "Ouom\u00e9",
+        "N\u2019Gon\u00e9",
+        "Dom\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458436
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"b371563fd74d4de977bce5d482f064b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1260188517,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1260188517,
+    "wof:lastmodified":1537665220,
+    "wof:name":"Dome",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7977,
+    13.9599,
+    -3.7977,
+    13.9599
+],
+  "geometry": {"coordinates":[-3.7977,13.9599],"type":"Point"}
+}

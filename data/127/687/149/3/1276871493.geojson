@@ -1,0 +1,67 @@
+{
+  "id": 1276871493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.425,12.9913,-4.425,12.9913",
+    "geom:latitude":12.9913,
+    "geom:longitude":-4.425,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bonkoro",
+    "gn:country_code":"ML",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459913,
+    "gn:latitude":12.9913,
+    "gn:longitude":-4.425,
+    "gn:modification_date":"2008-11-06",
+    "gn:name":"Bonkoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459913
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"98e8701c618e143496ff22001b840193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562843,
+            "locality_id":1276871493,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1276871493,
+    "wof:lastmodified":1537050282,
+    "wof:name":"Bonkoro",
+    "wof:parent_id":1108562843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.425,
+    12.9913,
+    -4.425,
+    12.9913
+],
+  "geometry": {"coordinates":[-4.425,12.9913],"type":"Point"}
+}

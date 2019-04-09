@@ -1,0 +1,67 @@
+{
+  "id": 1309815121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.4374,14.8575,-10.4374,14.8575",
+    "geom:latitude":14.8575,
+    "geom:longitude":-10.4374,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dialaka",
+    "gn:country_code":"ML",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459069,
+    "gn:latitude":14.8575,
+    "gn:longitude":-10.4374,
+    "gn:modification_date":"2008-11-19",
+    "gn:name":"Dialaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459069
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3d1ccfc6f6614765b9501de42a56a4f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562863,
+            "locality_id":1309815121,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1309815121,
+    "wof:lastmodified":1536918155,
+    "wof:name":"Dialaka",
+    "wof:parent_id":1108562863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.4374,
+    14.8575,
+    -10.4374,
+    14.8575
+],
+  "geometry": {"coordinates":[-10.4374,14.8575],"type":"Point"}
+}

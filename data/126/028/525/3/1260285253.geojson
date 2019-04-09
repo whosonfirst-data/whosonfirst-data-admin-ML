@@ -1,0 +1,67 @@
+{
+  "id": 1260285253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.4545,13.9267,-4.4545,13.9267",
+    "geom:latitude":13.9267,
+    "geom:longitude":-4.4545,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Seina",
+    "gn:country_code":"ML",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451443,
+    "gn:latitude":13.9267,
+    "gn:longitude":-4.4545,
+    "gn:modification_date":"2008-11-03",
+    "gn:name":"Se\u00efna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421187097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451443
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4ed439f8376bd99613be3f537d77ec2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421187097,
+            "locality_id":1260285253,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1260285253,
+    "wof:lastmodified":1536709874,
+    "wof:name":"Seina",
+    "wof:parent_id":421187097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4545,
+    13.9267,
+    -4.4545,
+    13.9267
+],
+  "geometry": {"coordinates":[-4.4545,13.9267],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310429505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.7448,13.5509,-3.7448,13.5509",
+    "geom:latitude":13.5509,
+    "geom:longitude":-3.7448,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Koumbouriba",
+    "gn:country_code":"ML",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2454463,
+    "gn:latitude":13.5509,
+    "gn:longitude":-3.7448,
+    "gn:modification_date":"2008-10-31",
+    "gn:name":"Koumbouriba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2454463
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ec24faf93f1b5fd16da48e1e6c03d772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562845,
+            "locality_id":1310429505,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1310429505,
+    "wof:lastmodified":1537025464,
+    "wof:name":"Koumbouriba",
+    "wof:parent_id":1108562845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7448,
+    13.5509,
+    -3.7448,
+    13.5509
+],
+  "geometry": {"coordinates":[-3.7448,13.5509],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209711133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.22507,16.22342,-3.22507,16.22342",
+    "geom:latitude":16.22342,
+    "geom:longitude":-3.22507,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Aina",
+    "gn:country_code":"ML",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2461219,
+    "gn:latitude":16.22342,
+    "gn:longitude":-3.22507,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"A\u00efna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ha\u00efn",
+        "A\u00efna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        421172359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2461219
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c0bcebae30dca3782ae17816864098f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421172359,
+            "locality_id":1209711133,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1209711133,
+    "wof:lastmodified":1537665280,
+    "wof:name":"Aina",
+    "wof:parent_id":421172359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.22507,
+    16.22342,
+    -3.22507,
+    16.22342
+],
+  "geometry": {"coordinates":[-3.22507,16.22342],"type":"Point"}
+}

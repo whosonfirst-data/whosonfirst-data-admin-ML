@@ -1,0 +1,61 @@
+{
+  "id": 1209306257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.15021,12.63995,-8.15021,12.63995",
+    "geom:latitude":12.63995,
+    "geom:longitude":-8.15021,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Beniambougou",
+    "gn:country_code":"ML",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594632,
+    "gn:latitude":12.63995,
+    "gn:longitude":-8.15021,
+    "gn:modification_date":"2008-11-14",
+    "gn:name":"B\u00e9niambougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594632
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"50c384ef6617b91dc1408c38ff69b1ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209306257
+        }
+    ],
+    "wof:id":1209306257,
+    "wof:lastmodified":1536291186,
+    "wof:name":"Beniambougou",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.150210000000001,
+    12.63995,
+    -8.150210000000001,
+    12.63995
+],
+  "geometry": {"coordinates":[-8.15021,12.63995],"type":"Point"}
+}

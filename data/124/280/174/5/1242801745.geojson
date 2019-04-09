@@ -1,0 +1,67 @@
+{
+  "id": 1242801745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.19061,14.33799,-4.19061,14.33799",
+    "geom:latitude":14.33799,
+    "geom:longitude":-4.19061,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mankama",
+    "gn:country_code":"ML",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453770,
+    "gn:latitude":14.33799,
+    "gn:longitude":-4.19061,
+    "gn:modification_date":"2008-05-13",
+    "gn:name":"Mankama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421180081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453770
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"11fbc5b8384b391f76ff05611eee6bef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421180081,
+            "locality_id":1242801745,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1242801745,
+    "wof:lastmodified":1536740639,
+    "wof:name":"Mankama",
+    "wof:parent_id":421180081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.19061,
+    14.33799,
+    -4.19061,
+    14.33799
+],
+  "geometry": {"coordinates":[-4.19061,14.33799],"type":"Point"}
+}

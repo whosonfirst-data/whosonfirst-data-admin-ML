@@ -1,0 +1,74 @@
+{
+  "id": 1327050155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.78857,16.70865,-2.78857,16.70865",
+    "geom:latitude":16.70865,
+    "geom:longitude":-2.78857,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Arnassey",
+    "gn:country_code":"ML",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460916,
+    "gn:latitude":16.70865,
+    "gn:longitude":-2.78857,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Arnassey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ernesse",
+        "Arnasey",
+        "Arnachi",
+        "Arnassi",
+        "Arnassey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460916
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"65a6669fe9b8093167548d5bd0997b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562891,
+            "locality_id":1327050155,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1327050155,
+    "wof:lastmodified":1537665278,
+    "wof:name":"Arnassey",
+    "wof:parent_id":1108562891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.78857,
+    16.70865,
+    -2.78857,
+    16.70865
+],
+  "geometry": {"coordinates":[-2.78857,16.70865],"type":"Point"}
+}

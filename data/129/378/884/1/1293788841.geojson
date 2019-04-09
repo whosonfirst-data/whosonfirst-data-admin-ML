@@ -1,0 +1,70 @@
+{
+  "id": 1293788841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.067,14.3997,-6.067,14.3997",
+    "geom:latitude":14.3997,
+    "geom:longitude":-6.067,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tyofi",
+    "gn:country_code":"ML",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448737,
+    "gn:latitude":14.3997,
+    "gn:longitude":-6.067,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tyofi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tyofi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448737
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7033967d0db99776615ce65e4a004228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562867,
+            "locality_id":1293788841,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1293788841,
+    "wof:lastmodified":1537665011,
+    "wof:name":"Tyofi",
+    "wof:parent_id":1108562867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.067,
+    14.3997,
+    -6.067,
+    14.3997
+],
+  "geometry": {"coordinates":[-6.067,14.3997],"type":"Point"}
+}

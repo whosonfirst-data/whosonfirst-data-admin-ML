@@ -1,0 +1,72 @@
+{
+  "id": 1242778277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.362,15.5208,-4.362,15.5208",
+    "geom:latitude":15.5208,
+    "geom:longitude":-4.362,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Fallou",
+    "gn:country_code":"ML",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457779,
+    "gn:latitude":15.5208,
+    "gn:longitude":-4.362,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fallou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fellou",
+        "Fafou",
+        "Fallou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        1108562871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457779
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"67995adce61df864e0316576fe60a111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562871,
+            "locality_id":1242778277,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1242778277,
+    "wof:lastmodified":1537665201,
+    "wof:name":"Fallou",
+    "wof:parent_id":1108562871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.362,
+    15.5208,
+    -4.362,
+    15.5208
+],
+  "geometry": {"coordinates":[-4.362,15.5208],"type":"Point"}
+}

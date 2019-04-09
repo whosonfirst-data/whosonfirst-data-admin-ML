@@ -1,0 +1,67 @@
+{
+  "id": 1309996713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.5591,15.9934,-3.5591,15.9934",
+    "geom:latitude":15.9934,
+    "geom:longitude":-3.5591,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Toundouma",
+    "gn:country_code":"ML",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448853,
+    "gn:latitude":15.9934,
+    "gn:longitude":-3.5591,
+    "gn:modification_date":"2008-11-04",
+    "gn:name":"Toundouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448853
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8d97e061ed7b0c79b26f8de802ded6a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562873,
+            "locality_id":1309996713,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1309996713,
+    "wof:lastmodified":1536656049,
+    "wof:name":"Toundouma",
+    "wof:parent_id":1108562873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5591,
+    15.9934,
+    -3.5591,
+    15.9934
+],
+  "geometry": {"coordinates":[-3.5591,15.9934],"type":"Point"}
+}

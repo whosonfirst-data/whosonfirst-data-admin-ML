@@ -1,0 +1,67 @@
+{
+  "id": 1310519657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.41667,10.58333,-6.41667,10.58333",
+    "geom:latitude":10.58333,
+    "geom:longitude":-6.41667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kakole",
+    "gn:country_code":"ML",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455934,
+    "gn:latitude":10.58333,
+    "gn:longitude":-6.41667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kakol\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455934
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"40070e57f68abf68a3a02d6657aa70a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562819,
+            "locality_id":1310519657,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1310519657,
+    "wof:lastmodified":1536896316,
+    "wof:name":"Kakole",
+    "wof:parent_id":1108562819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.41667,
+    10.58333,
+    -6.41667,
+    10.58333
+],
+  "geometry": {"coordinates":[-6.41667,10.58333],"type":"Point"}
+}

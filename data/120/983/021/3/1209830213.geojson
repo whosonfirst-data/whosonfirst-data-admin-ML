@@ -1,0 +1,73 @@
+{
+  "id": 1209830213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.9,10.4,-5.9,10.4",
+    "geom:latitude":10.4,
+    "geom:longitude":-5.9,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Zeguedou",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448321,
+    "gn:latitude":10.4,
+    "gn:longitude":-5.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Z\u00e9gu\u00e9dou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u00e9gu\u00e9dougou",
+        "Zeguedugu",
+        "Z\u00e9gu\u00e9dou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448321
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9e8dd5e55b75db715c5686dec79fb7a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562817,
+            "locality_id":1209830213,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1209830213,
+    "wof:lastmodified":1537664997,
+    "wof:name":"Zeguedou",
+    "wof:parent_id":1108562817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.9,
+    10.4,
+    -5.9,
+    10.4
+],
+  "geometry": {"coordinates":[-5.9,10.4],"type":"Point"}
+}

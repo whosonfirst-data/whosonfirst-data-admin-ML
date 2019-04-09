@@ -1,0 +1,70 @@
+{
+  "id": 1276895495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.0244,13.647,-8.0244,13.647",
+    "geom:latitude":13.647,
+    "geom:longitude":-8.0244,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bougoukorola",
+    "gn:country_code":"ML",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459799,
+    "gn:latitude":13.647,
+    "gn:longitude":-8.0244,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bougoukorola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bougoukorola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459799
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"aebca62d7424cccb7cd023a59c6af262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562849,
+            "locality_id":1276895495,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1276895495,
+    "wof:lastmodified":1537665253,
+    "wof:name":"Bougoukorola",
+    "wof:parent_id":1108562849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.0244,
+    13.647,
+    -8.0244,
+    13.647
+],
+  "geometry": {"coordinates":[-8.0244,13.647],"type":"Point"}
+}

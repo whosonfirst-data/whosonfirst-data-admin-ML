@@ -1,0 +1,71 @@
+{
+  "id": 1344052661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.86876,16.72094,-3.86876,16.72094",
+    "geom:latitude":16.72094,
+    "geom:longitude":-3.86876,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sorkey",
+    "gn:country_code":"ML",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450743,
+    "gn:latitude":16.72094,
+    "gn:longitude":-3.86876,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sorkey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sorkoya",
+        "Sorkey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450743
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"cd1d4adee686599a9803506bc4a1be35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562889,
+            "locality_id":1344052661,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1344052661,
+    "wof:lastmodified":1537665043,
+    "wof:name":"Sorkey",
+    "wof:parent_id":1108562889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.86876,
+    16.72094,
+    -3.86876,
+    16.72094
+],
+  "geometry": {"coordinates":[-3.86876,16.72094],"type":"Point"}
+}

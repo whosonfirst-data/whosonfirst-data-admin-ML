@@ -1,0 +1,73 @@
+{
+  "id": 1343950575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.56581,12.6072,-5.56581,12.6072",
+    "geom:latitude":12.6072,
+    "geom:longitude":-5.56581,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Zanzouni",
+    "gn:country_code":"ML",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448332,
+    "gn:latitude":12.6072,
+    "gn:longitude":-5.56581,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zanzouni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sansoni",
+        "Zangoni",
+        "Zanssoni",
+        "Zanzouni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        421177885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448332
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"f1d50aaba0ff47f81e0e25c14a53c2c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177885,
+            "locality_id":1343950575,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1343950575,
+    "wof:lastmodified":1537664998,
+    "wof:name":"Zanzouni",
+    "wof:parent_id":421177885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.56581,
+    12.6072,
+    -5.56581,
+    12.6072
+],
+  "geometry": {"coordinates":[-5.56581,12.6072],"type":"Point"}
+}

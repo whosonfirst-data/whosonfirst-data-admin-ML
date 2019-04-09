@@ -1,0 +1,67 @@
+{
+  "id": 1193274699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.57788,13.53656,-5.57788,13.53656",
+    "geom:latitude":13.53656,
+    "geom:longitude":-5.57788,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Famorola",
+    "gn:country_code":"ML",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457767,
+    "gn:latitude":13.53656,
+    "gn:longitude":-5.57788,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Famorola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421175221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457767
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"497ce7cc2501986c575f1fd80ca8f459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421175221,
+            "locality_id":1193274699,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1193274699,
+    "wof:lastmodified":1536366888,
+    "wof:name":"Famorola",
+    "wof:parent_id":421175221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.57788,
+    13.53656,
+    -5.57788,
+    13.53656
+],
+  "geometry": {"coordinates":[-5.57788,13.53656],"type":"Point"}
+}

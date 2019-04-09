@@ -1,0 +1,61 @@
+{
+  "id": 1209103679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.0591,12.1229,-5.0591,12.1229",
+    "geom:latitude":12.1229,
+    "geom:longitude":-5.0591,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Baakan",
+    "gn:country_code":"ML",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6861797,
+    "gn:latitude":12.1229,
+    "gn:longitude":-5.0591,
+    "gn:modification_date":"2009-01-05",
+    "gn:name":"Baakan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6861797
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e7e91b547c6b703fa635844c341f1a0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209103679
+        }
+    ],
+    "wof:id":1209103679,
+    "wof:lastmodified":1536297649,
+    "wof:name":"Baakan",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.0591,
+    12.1229,
+    -5.0591,
+    12.1229
+],
+  "geometry": {"coordinates":[-5.0591,12.1229],"type":"Point"}
+}

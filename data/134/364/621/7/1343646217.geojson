@@ -1,0 +1,67 @@
+{
+  "id": 1343646217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.24028,16.59167,-0.24028,16.59167",
+    "geom:latitude":16.59167,
+    "geom:longitude":-0.24028,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bandiende",
+    "gn:country_code":"ML",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460484,
+    "gn:latitude":16.59167,
+    "gn:longitude":-0.24028,
+    "gn:modification_date":"2006-05-24",
+    "gn:name":"Bandi\u00e8nd\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        890418899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460484
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"de8652908ec22981155cd53c2345ed27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":890418899,
+            "locality_id":1343646217,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1343646217,
+    "wof:lastmodified":1536975108,
+    "wof:name":"Bandiende",
+    "wof:parent_id":890418899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.24028,
+    16.59167,
+    -0.24028,
+    16.59167
+],
+  "geometry": {"coordinates":[-0.24028,16.59167],"type":"Point"}
+}

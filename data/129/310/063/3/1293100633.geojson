@@ -1,0 +1,74 @@
+{
+  "id": 1293100633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.5676,14.48487,-11.5676,14.48487",
+    "geom:latitude":14.48487,
+    "geom:longitude":-11.5676,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Same",
+    "gn:country_code":"ML",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451794,
+    "gn:latitude":14.48487,
+    "gn:longitude":-11.5676,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Sam\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goui Sami\u00e9",
+        "Goui- Sam\u00e9",
+        "Gouy Sam\u00e9",
+        "Sam\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451794,
+        "wk:page":"Sam%C3%A9"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d997fab6513237c62e1b72a34397bc3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1293100633,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1293100633,
+    "wof:lastmodified":1537665070,
+    "wof:name":"Same",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.5676,
+    14.48487,
+    -11.5676,
+    14.48487
+],
+  "geometry": {"coordinates":[-11.5676,14.48487],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242978403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.21038,14.73693,-11.21038,14.73693",
+    "geom:latitude":14.73693,
+    "geom:longitude":-11.21038,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Falea",
+    "gn:country_code":"ML",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457795,
+    "gn:latitude":14.73693,
+    "gn:longitude":-11.21038,
+    "gn:modification_date":"2018-04-13",
+    "gn:name":"Fal\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fal\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457795,
+        "wk:page":"Fal%C3%A9a"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"4b753cc27476812fb8af640265611749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1242978403,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1242978403,
+    "wof:lastmodified":1537665202,
+    "wof:name":"Falea",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.21038,
+    14.73693,
+    -11.21038,
+    14.73693
+],
+  "geometry": {"coordinates":[-11.21038,14.73693],"type":"Point"}
+}

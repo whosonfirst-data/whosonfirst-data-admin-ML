@@ -1,0 +1,67 @@
+{
+  "id": 1260281477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.7649,12.1446,-4.7649,12.1446",
+    "geom:latitude":12.1446,
+    "geom:longitude":-4.7649,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Moue",
+    "gn:country_code":"ML",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2453297,
+    "gn:latitude":12.1446,
+    "gn:longitude":-4.7649,
+    "gn:modification_date":"2008-11-06",
+    "gn:name":"Mou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2453297
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"9d3ba6b417c410de11545a7f5d909b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562831,
+            "locality_id":1260281477,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1260281477,
+    "wof:lastmodified":1536714965,
+    "wof:name":"Moue",
+    "wof:parent_id":1108562831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7649,
+    12.1446,
+    -4.7649,
+    12.1446
+],
+  "geometry": {"coordinates":[-4.7649,12.1446],"type":"Point"}
+}

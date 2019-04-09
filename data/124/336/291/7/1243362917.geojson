@@ -1,0 +1,67 @@
+{
+  "id": 1243362917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.29403,13.65689,-5.29403,13.65689",
+    "geom:latitude":13.65689,
+    "geom:longitude":-5.29403,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Massa",
+    "gn:country_code":"ML",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880365,
+    "gn:latitude":13.65689,
+    "gn:longitude":-5.29403,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Massa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880365
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3288ace1ca5bbc8a07436e9393edd836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562853,
+            "locality_id":1243362917,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1243362917,
+    "wof:lastmodified":1536926724,
+    "wof:name":"Massa",
+    "wof:parent_id":1108562853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.29403,
+    13.65689,
+    -5.29403,
+    13.65689
+],
+  "geometry": {"coordinates":[-5.29403,13.65689],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276767433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.03516,13.10628,-5.03516,13.10628",
+    "geom:latitude":13.10628,
+    "geom:longitude":-5.03516,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kawesso",
+    "gn:country_code":"ML",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880781,
+    "gn:latitude":13.10628,
+    "gn:longitude":-5.03516,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Kawesso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421192717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880781
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8ef0f444d21abc1d863fbb7e54260631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421192717,
+            "locality_id":1276767433,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1276767433,
+    "wof:lastmodified":1536694357,
+    "wof:name":"Kawesso",
+    "wof:parent_id":421192717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.03516,
+    13.10628,
+    -5.03516,
+    13.10628
+],
+  "geometry": {"coordinates":[-5.03516,13.10628],"type":"Point"}
+}

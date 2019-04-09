@@ -1,0 +1,68 @@
+{
+  "id": 1344057261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.04929,14.8643,-3.04929,14.8643",
+    "geom:latitude":14.8643,
+    "geom:longitude":-3.04929,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Soroli",
+    "gn:country_code":"ML",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450726,
+    "gn:latitude":14.8643,
+    "gn:longitude":-3.04929,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Soroli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421199983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450726,
+        "wk:page":"Soroly"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1efc012ceef218835af3ab06dbd61821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421199983,
+            "locality_id":1344057261,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1344057261,
+    "wof:lastmodified":1537568407,
+    "wof:name":"Soroli",
+    "wof:parent_id":421199983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.04929,
+    14.8643,
+    -3.04929,
+    14.8643
+],
+  "geometry": {"coordinates":[-3.04929,14.8643],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209429733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.7,12.05,-10.7,12.05",
+    "geom:latitude":12.05,
+    "geom:longitude":-10.7,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Darsalam",
+    "gn:country_code":"ML",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459285,
+    "gn:latitude":12.05,
+    "gn:longitude":-10.7,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Darsalam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459285
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"1a424bac50c98d18415c0e9606194e92",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209429733
+        }
+    ],
+    "wof:id":1209429733,
+    "wof:lastmodified":1536287271,
+    "wof:name":"Darsalam",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.7,
+    12.05,
+    -10.7,
+    12.05
+],
+  "geometry": {"coordinates":[-10.7,12.05],"type":"Point"}
+}

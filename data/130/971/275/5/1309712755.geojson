@@ -1,0 +1,67 @@
+{
+  "id": 1309712755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.51089,14.4099,-3.51089,14.4099",
+    "geom:latitude":14.4099,
+    "geom:longitude":-3.51089,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gologoudo",
+    "gn:country_code":"ML",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6866556,
+    "gn:latitude":14.4099,
+    "gn:longitude":-3.51089,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Gologoudo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421171975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6866556
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3a91e25a339032b7073251e0a2b30a4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171975,
+            "locality_id":1309712755,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1309712755,
+    "wof:lastmodified":1537062479,
+    "wof:name":"Gologoudo",
+    "wof:parent_id":421171975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.51089,
+    14.4099,
+    -3.51089,
+    14.4099
+],
+  "geometry": {"coordinates":[-3.51089,14.4099],"type":"Point"}
+}

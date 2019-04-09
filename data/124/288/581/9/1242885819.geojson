@@ -1,0 +1,67 @@
+{
+  "id": 1242885819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.5603,14.7354,-10.5603,14.7354",
+    "geom:latitude":14.7354,
+    "geom:longitude":-10.5603,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Soubanou Fara",
+    "gn:country_code":"ML",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450688,
+    "gn:latitude":14.7354,
+    "gn:longitude":-10.5603,
+    "gn:modification_date":"2008-11-19",
+    "gn:name":"Soubanou Fara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450688
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"62e56b3804d649db34fa7f69c9bc7063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562863,
+            "locality_id":1242885819,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1242885819,
+    "wof:lastmodified":1536617465,
+    "wof:name":"Soubanou Fara",
+    "wof:parent_id":1108562863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.5603,
+    14.7354,
+    -10.5603,
+    14.7354
+],
+  "geometry": {"coordinates":[-10.5603,14.7354],"type":"Point"}
+}

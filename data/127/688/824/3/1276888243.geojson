@@ -1,0 +1,71 @@
+{
+  "id": 1276888243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.80411,13.00261,-7.80411,13.00261",
+    "geom:latitude":13.00261,
+    "geom:longitude":-7.80411,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Diokobougou",
+    "gn:country_code":"ML",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2594258,
+    "gn:latitude":13.00261,
+    "gn:longitude":-7.80411,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Diokobougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dioko",
+        "Diokobougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2594258
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"0c971a779feab3767619167fc039b8a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562839,
+            "locality_id":1276888243,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1276888243,
+    "wof:lastmodified":1537665282,
+    "wof:name":"Diokobougou",
+    "wof:parent_id":1108562839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.80411,
+    13.00261,
+    -7.80411,
+    13.00261
+],
+  "geometry": {"coordinates":[-7.80411,13.00261],"type":"Point"}
+}

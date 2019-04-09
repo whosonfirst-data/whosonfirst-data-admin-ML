@@ -1,0 +1,71 @@
+{
+  "id": 1259574933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.24843,15.35535,-7.24843,15.35535",
+    "geom:latitude":15.35535,
+    "geom:longitude":-7.24843,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Day",
+    "gn:country_code":"ML",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459265,
+    "gn:latitude":15.35535,
+    "gn:longitude":-7.24843,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Day",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Day\u00e9",
+        "Day"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459265
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5f7463e2c13f7b08eeaa0197996752bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562865,
+            "locality_id":1259574933,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1259574933,
+    "wof:lastmodified":1537665242,
+    "wof:name":"Day",
+    "wof:parent_id":1108562865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.24843,
+    15.35535,
+    -7.24843,
+    15.35535
+],
+  "geometry": {"coordinates":[-7.24843,15.35535],"type":"Point"}
+}

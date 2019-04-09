@@ -1,0 +1,67 @@
+{
+  "id": 1209837581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.98233,11.08284,-7.98233,11.08284",
+    "geom:latitude":11.08284,
+    "geom:longitude":-7.98233,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sanana",
+    "gn:country_code":"ML",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6798718,
+    "gn:latitude":11.08284,
+    "gn:longitude":-7.98233,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Sanana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6798718
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"35bed7df7e94cec40b7e4b831505b660",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562821,
+            "locality_id":1209837581,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1209837581,
+    "wof:lastmodified":1536394197,
+    "wof:name":"Sanana",
+    "wof:parent_id":1108562821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.98233,
+    11.08284,
+    -7.98233,
+    11.08284
+],
+  "geometry": {"coordinates":[-7.98233,11.08284],"type":"Point"}
+}

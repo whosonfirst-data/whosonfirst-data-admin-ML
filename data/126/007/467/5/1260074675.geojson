@@ -1,0 +1,74 @@
+{
+  "id": 1260074675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.14111,15.95944,3.14111,15.95944",
+    "geom:latitude":15.95944,
+    "geom:longitude":3.14111,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Inekar",
+    "gn:country_code":"ML",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596483,
+    "gn:latitude":15.95944,
+    "gn:longitude":3.14111,
+    "gn:modification_date":"2013-05-05",
+    "gn:name":"In\u00e9kar",
+    "gn:population":8714,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "In\u00e9kar"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674521,
+        1108562875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596483,
+        "wk:page":"In%C3%A9kar"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3799d8cfe71e752f7cca557470d3fdc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562875,
+            "locality_id":1260074675,
+            "region_id":85674521
+        }
+    ],
+    "wof:id":1260074675,
+    "wof:lastmodified":1537665284,
+    "wof:name":"Inekar",
+    "wof:parent_id":1108562875,
+    "wof:placetype":"locality",
+    "wof:population":8714,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.14111,
+    15.95944,
+    3.14111,
+    15.95944
+],
+  "geometry": {"coordinates":[3.14111,15.95944],"type":"Point"}
+}

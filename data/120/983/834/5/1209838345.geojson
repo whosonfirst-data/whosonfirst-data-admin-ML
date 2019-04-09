@@ -1,0 +1,67 @@
+{
+  "id": 1209838345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.32031,13.09672,-5.32031,13.09672",
+    "geom:latitude":13.09672,
+    "geom:longitude":-5.32031,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Nderesso",
+    "gn:country_code":"ML",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6880815,
+    "gn:latitude":13.09672,
+    "gn:longitude":-5.32031,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Nd\u00e9resso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6880815
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"558ef609059f06a9065e442589f800a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562835,
+            "locality_id":1209838345,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1209838345,
+    "wof:lastmodified":1536393862,
+    "wof:name":"Nderesso",
+    "wof:parent_id":1108562835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.32031,
+    13.09672,
+    -5.32031,
+    13.09672
+],
+  "geometry": {"coordinates":[-5.32031,13.09672],"type":"Point"}
+}

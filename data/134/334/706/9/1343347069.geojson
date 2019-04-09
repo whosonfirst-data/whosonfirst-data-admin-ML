@@ -1,0 +1,67 @@
+{
+  "id": 1343347069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.24057,16.35753,-3.24057,16.35753",
+    "geom:latitude":16.35753,
+    "geom:longitude":-3.24057,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Fadji-Bayendye",
+    "gn:country_code":"ML",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2457851,
+    "gn:latitude":16.35753,
+    "gn:longitude":-3.24057,
+    "gn:modification_date":"2009-06-26",
+    "gn:name":"Fadji-Bay\u00e8ndy\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        421172359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2457851
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"7746313b82c213a728417cc1b1285cec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421172359,
+            "locality_id":1343347069,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1343347069,
+    "wof:lastmodified":1536910281,
+    "wof:name":"Fadji-Bayendye",
+    "wof:parent_id":421172359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.24057,
+    16.35753,
+    -3.24057,
+    16.35753
+],
+  "geometry": {"coordinates":[-3.24057,16.35753],"type":"Point"}
+}

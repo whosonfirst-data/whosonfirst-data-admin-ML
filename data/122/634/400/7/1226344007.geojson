@@ -1,0 +1,67 @@
+{
+  "id": 1226344007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.6032,14.6945,-9.6032,14.6945",
+    "geom:latitude":14.6945,
+    "geom:longitude":-9.6032,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Doroiti",
+    "gn:country_code":"ML",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458379,
+    "gn:latitude":14.6945,
+    "gn:longitude":-9.6032,
+    "gn:modification_date":"2008-11-18",
+    "gn:name":"Doro\u00efti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458379
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"427d608fa3d192a8321e2c6fdaa6001f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562857,
+            "locality_id":1226344007,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1226344007,
+    "wof:lastmodified":1536792287,
+    "wof:name":"Doroiti",
+    "wof:parent_id":1108562857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.6032,
+    14.6945,
+    -9.6032,
+    14.6945
+],
+  "geometry": {"coordinates":[-9.6032,14.6945],"type":"Point"}
+}

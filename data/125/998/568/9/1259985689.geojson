@@ -1,0 +1,67 @@
+{
+  "id": 1259985689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.81399,14.7108,-3.81399,14.7108",
+    "geom:latitude":14.7108,
+    "geom:longitude":-3.81399,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sangou",
+    "gn:country_code":"ML",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2451670,
+    "gn:latitude":14.7108,
+    "gn:longitude":-3.81399,
+    "gn:modification_date":"2008-10-24",
+    "gn:name":"Sangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674539,
+        421171975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2451670
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"cb047eb317c0cacafc77f130bb2c64d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171975,
+            "locality_id":1259985689,
+            "region_id":85674539
+        }
+    ],
+    "wof:id":1259985689,
+    "wof:lastmodified":1536630294,
+    "wof:name":"Sangou",
+    "wof:parent_id":421171975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.81399,
+    14.7108,
+    -3.81399,
+    14.7108
+],
+  "geometry": {"coordinates":[-3.81399,14.7108],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293599189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.56667,12.75,-10.56667,12.75",
+    "geom:latitude":12.75,
+    "geom:longitude":-10.56667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tounboundi",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2448860,
+    "gn:latitude":12.75,
+    "gn:longitude":-10.56667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tounboundi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toumboundi",
+        "Tounboundi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2448860
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"2a91cb2f3edd75c65dda8e9b32a3afbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562855,
+            "locality_id":1293599189,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1293599189,
+    "wof:lastmodified":1537665014,
+    "wof:name":"Tounboundi",
+    "wof:parent_id":1108562855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.56667,
+    12.75,
+    -10.56667,
+    12.75
+],
+  "geometry": {"coordinates":[-10.56667,12.75],"type":"Point"}
+}

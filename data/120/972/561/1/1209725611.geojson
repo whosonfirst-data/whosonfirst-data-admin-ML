@@ -1,0 +1,72 @@
+{
+  "id": 1209725611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.96667,12.21667,-9.96667,12.21667",
+    "geom:latitude":12.21667,
+    "geom:longitude":-9.96667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Baleya",
+    "gn:cc2":"ML",
+    "gn:country_code":"ML",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460616,
+    "gn:latitude":12.21667,
+    "gn:longitude":-9.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bal\u00e9ya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bal\u00e9a",
+        "Bal\u00e9ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460616
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"ccd67d42339083024c3026374c2fa820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1209725611,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1209725611,
+    "wof:lastmodified":1537665273,
+    "wof:name":"Baleya",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.96667,
+    12.21667,
+    -9.96667,
+    12.21667
+],
+  "geometry": {"coordinates":[-9.96667,12.21667],"type":"Point"}
+}

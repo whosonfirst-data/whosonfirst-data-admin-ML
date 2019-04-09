@@ -1,0 +1,67 @@
+{
+  "id": 1360177321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.21571,12.10468,-7.21571,12.10468",
+    "geom:latitude":12.10468,
+    "geom:longitude":-7.21571,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Faniana",
+    "gn:country_code":"ML",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593898,
+    "gn:latitude":12.10468,
+    "gn:longitude":-7.21571,
+    "gn:modification_date":"2008-11-07",
+    "gn:name":"Faniana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593898
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"3cea03ba01465394b5922434a96bafc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1360177321,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1360177321,
+    "wof:lastmodified":1536812086,
+    "wof:name":"Faniana",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.21571,
+    12.10468,
+    -7.21571,
+    12.10468
+],
+  "geometry": {"coordinates":[-7.21571,12.10468],"type":"Point"}
+}

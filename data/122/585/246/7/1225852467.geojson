@@ -1,0 +1,67 @@
+{
+  "id": 1225852467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.51434,14.3224,-11.51434,14.3224",
+    "geom:latitude":14.3224,
+    "geom:longitude":-11.51434,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Diabougou-Segala",
+    "gn:country_code":"ML",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2459137,
+    "gn:latitude":14.3224,
+    "gn:longitude":-11.51434,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Diabougou-S\u00e9gala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2459137
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e1341da0d5bf633d0b5aa275c97465ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1225852467,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1225852467,
+    "wof:lastmodified":1537003173,
+    "wof:name":"Diabougou-Segala",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.51434,
+    14.3224,
+    -11.51434,
+    14.3224
+],
+  "geometry": {"coordinates":[-11.51434,14.3224],"type":"Point"}
+}

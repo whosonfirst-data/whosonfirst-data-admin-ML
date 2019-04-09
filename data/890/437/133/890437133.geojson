@@ -1,0 +1,68 @@
+{
+  "id": 890437133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.96667,12.28333,-10.96667,12.28333",
+    "geom:latitude":12.28333,
+    "geom:longitude":-10.96667,
+    "gn:country":"ML",
+    "gn:fcode":"PPL",
+    "gn:pop":10943,
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Dir\u00e9",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":130,
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458624,
+        "gp:id":1502080,
+        "qs:id":1035824,
+        "wk:page":"Dir\u00e9"
+    },
+    "wof:country":"ML",
+    "wof:created":1469052140,
+    "wof:geomhash":"319c66d7bafb432a89bb1a95392f0752",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171903,
+            "locality_id":890437133,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":890437133,
+    "wof:lastmodified":1527729748,
+    "wof:name":"Dir\u00e9",
+    "wof:parent_id":421171903,
+    "wof:placetype":"locality",
+    "wof:population":10943,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.96667,
+    12.28333,
+    -10.96667,
+    12.28333
+],
+  "geometry": {"coordinates":[-10.96667,12.28333],"type":"Point"}
+}

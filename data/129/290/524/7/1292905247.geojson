@@ -1,0 +1,71 @@
+{
+  "id": 1292905247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.46464,13.66342,-11.46464,13.66342",
+    "geom:latitude":13.66342,
+    "geom:longitude":-11.46464,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Diokeba",
+    "gn:country_code":"ML",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458743,
+    "gn:latitude":13.66342,
+    "gn:longitude":-11.46464,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Diok\u00e9ba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dok\u00e9ba",
+        "Diok\u00e9ba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458743
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"12a1235586cfeb0d32485c50570138cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171903,
+            "locality_id":1292905247,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1292905247,
+    "wof:lastmodified":1537665228,
+    "wof:name":"Diokeba",
+    "wof:parent_id":421171903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.46464,
+    13.66342,
+    -11.46464,
+    13.66342
+],
+  "geometry": {"coordinates":[-11.46464,13.66342],"type":"Point"}
+}

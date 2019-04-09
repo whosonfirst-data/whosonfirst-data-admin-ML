@@ -1,0 +1,70 @@
+{
+  "id": 1327335257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.9232,13.5619,-8.9232,13.5619",
+    "geom:latitude":13.5619,
+    "geom:longitude":-8.9232,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Keniedji",
+    "gn:country_code":"ML",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455418,
+    "gn:latitude":13.5619,
+    "gn:longitude":-8.9232,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u00e9ni\u00e9dji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "K\u00e9ni\u00e9dji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        1108562847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455418
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"8298305afe9c9eeb2a6bbd0e00b93451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562847,
+            "locality_id":1327335257,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1327335257,
+    "wof:lastmodified":1537665159,
+    "wof:name":"Keniedji",
+    "wof:parent_id":1108562847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.9232,
+    13.5619,
+    -8.9232,
+    13.5619
+],
+  "geometry": {"coordinates":[-8.9232,13.5619],"type":"Point"}
+}

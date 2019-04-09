@@ -1,0 +1,72 @@
+{
+  "id": 1260085073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.9198,13.2819,-4.9198,13.2819",
+    "geom:latitude":13.2819,
+    "geom:longitude":-4.9198,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Terekoungo",
+    "gn:country_code":"ML",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2449914,
+    "gn:latitude":13.2819,
+    "gn:longitude":-4.9198,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ter\u00e9koungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koko",
+        "T\u00e9r\u00e9kongo",
+        "Ter\u00e9koungo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        421192717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2449914
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"e54e615d772cdc853e02e857c1a66ebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421192717,
+            "locality_id":1260085073,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1260085073,
+    "wof:lastmodified":1537665030,
+    "wof:name":"Terekoungo",
+    "wof:parent_id":421192717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.9198,
+    13.2819,
+    -4.9198,
+    13.2819
+],
+  "geometry": {"coordinates":[-4.9198,13.2819],"type":"Point"}
+}

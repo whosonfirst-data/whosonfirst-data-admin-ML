@@ -1,0 +1,73 @@
+{
+  "id": 1226638549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.82306,11.79024,-6.82306,11.79024",
+    "geom:latitude":11.79024,
+    "geom:longitude":-6.82306,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ntjila",
+    "gn:country_code":"ML",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452539,
+    "gn:latitude":11.79024,
+    "gn:longitude":-6.82306,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ntjila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ntila"
+    ],
+    "name:und_x_variant":[
+        "Ntila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674531,
+        1108562829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452539
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"c1f715da90d27c90595927e949c0426e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562829,
+            "locality_id":1226638549,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1226638549,
+    "wof:lastmodified":1537665089,
+    "wof:name":"Ntjila",
+    "wof:parent_id":1108562829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.82306,
+    11.79024,
+    -6.82306,
+    11.79024
+],
+  "geometry": {"coordinates":[-6.82306,11.79024],"type":"Point"}
+}

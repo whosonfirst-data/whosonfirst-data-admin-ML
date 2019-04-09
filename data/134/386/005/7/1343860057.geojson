@@ -1,0 +1,73 @@
+{
+  "id": 1343860057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.71,15.27297,-11.71,15.27297",
+    "geom:latitude":15.27297,
+    "geom:longitude":-11.71,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Teichibe",
+    "gn:country_code":"ML",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450006,
+    "gn:latitude":15.27297,
+    "gn:longitude":-11.71,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Te\u00efchib\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Teych\u00efb\u00e9",
+        "Te\u00efchibi",
+        "Te\u00efchib\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674529,
+        421171549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450006,
+        "wk:page":"Teichibe"
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"a9cfb609d3d9c9e07f5344baf3bcf79f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421171549,
+            "locality_id":1343860057,
+            "region_id":85674529
+        }
+    ],
+    "wof:id":1343860057,
+    "wof:lastmodified":1537665032,
+    "wof:name":"Teichibe",
+    "wof:parent_id":421171549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.71,
+    15.27297,
+    -11.71,
+    15.27297
+],
+  "geometry": {"coordinates":[-11.71,15.27297],"type":"Point"}
+}

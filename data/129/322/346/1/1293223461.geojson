@@ -1,0 +1,67 @@
+{
+  "id": 1293223461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.21596,13.21944,-6.21596,13.21944",
+    "geom:latitude":13.21944,
+    "geom:longitude":-6.21596,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zombougou",
+    "gn:country_code":"ML",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6910832,
+    "gn:latitude":13.21944,
+    "gn:longitude":-6.21596,
+    "gn:modification_date":"2009-01-06",
+    "gn:name":"Zombougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6910832
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"5f58b9905bb0a35f356e67bfe78f32fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562837,
+            "locality_id":1293223461,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1293223461,
+    "wof:lastmodified":1536670654,
+    "wof:name":"Zombougou",
+    "wof:parent_id":1108562837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.21596,
+    13.21944,
+    -6.21596,
+    13.21944
+],
+  "geometry": {"coordinates":[-6.21596,13.21944],"type":"Point"}
+}

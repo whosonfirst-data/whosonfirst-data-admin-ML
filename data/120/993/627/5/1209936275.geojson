@@ -1,0 +1,71 @@
+{
+  "id": 1209936275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.60039,16.04038,-3.60039,16.04038",
+    "geom:latitude":16.04038,
+    "geom:longitude":-3.60039,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Banikan",
+    "gn:country_code":"ML",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2460409,
+    "gn:latitude":16.04038,
+    "gn:longitude":-3.60039,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Banikan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Banikane",
+        "Banikan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674511,
+        1108562873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2460409
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"dc96690095b8f56504db23698b336a1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562873,
+            "locality_id":1209936275,
+            "region_id":85674511
+        }
+    ],
+    "wof:id":1209936275,
+    "wof:lastmodified":1537665269,
+    "wof:name":"Banikan",
+    "wof:parent_id":1108562873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.60039,
+    16.04038,
+    -3.60039,
+    16.04038
+],
+  "geometry": {"coordinates":[-3.60039,16.04038],"type":"Point"}
+}

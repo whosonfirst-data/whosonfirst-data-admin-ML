@@ -1,0 +1,61 @@
+{
+  "id": 1209216747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.31959,12.3005,-11.31959,12.3005",
+    "geom:latitude":12.3005,
+    "geom:longitude":-11.31959,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Diara",
+    "gn:country_code":"ML",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2458970,
+    "gn:latitude":12.3005,
+    "gn:longitude":-11.31959,
+    "gn:modification_date":"2007-10-11",
+    "gn:name":"Diara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2458970
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"6d3330867710d66149e137d2f2a0c9e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632553,
+            "locality_id":1209216747
+        }
+    ],
+    "wof:id":1209216747,
+    "wof:lastmodified":1536294106,
+    "wof:name":"Diara",
+    "wof:parent_id":85632553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.31959,
+    12.3005,
+    -11.31959,
+    12.3005
+],
+  "geometry": {"coordinates":[-11.31959,12.3005],"type":"Point"}
+}

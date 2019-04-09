@@ -1,0 +1,67 @@
+{
+  "id": 1360308233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.71905,13.15909,-4.71905,13.15909",
+    "geom:latitude":13.15909,
+    "geom:longitude":-4.71905,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tara",
+    "gn:country_code":"ML",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2450160,
+    "gn:latitude":13.15909,
+    "gn:longitude":-4.71905,
+    "gn:modification_date":"2008-11-03",
+    "gn:name":"Tara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674543,
+        1108562843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2450160
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"d1be51047b5573c39fd1188844919788",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562843,
+            "locality_id":1360308233,
+            "region_id":85674543
+        }
+    ],
+    "wof:id":1360308233,
+    "wof:lastmodified":1536621689,
+    "wof:name":"Tara",
+    "wof:parent_id":1108562843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.71905,
+    13.15909,
+    -4.71905,
+    13.15909
+],
+  "geometry": {"coordinates":[-4.71905,13.15909],"type":"Point"}
+}

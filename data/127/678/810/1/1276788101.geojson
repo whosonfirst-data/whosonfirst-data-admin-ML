@@ -1,0 +1,71 @@
+{
+  "id": 1276788101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.50114,12.24731,-7.50114,12.24731",
+    "geom:latitude":12.24731,
+    "geom:longitude":-7.50114,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Nouoma",
+    "gn:country_code":"ML",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2452860,
+    "gn:latitude":12.24731,
+    "gn:longitude":-7.50114,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nouoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngoma",
+        "Nouoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        421177883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2452860
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"86b9df3a74354392880fd7d78b2748a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":421177883,
+            "locality_id":1276788101,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1276788101,
+    "wof:lastmodified":1537665097,
+    "wof:name":"Nouoma",
+    "wof:parent_id":421177883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.50114,
+    12.24731,
+    -7.50114,
+    12.24731
+],
+  "geometry": {"coordinates":[-7.50114,12.24731],"type":"Point"}
+}

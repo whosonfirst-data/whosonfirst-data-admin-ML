@@ -1,0 +1,67 @@
+{
+  "id": 1209929065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.7,11.8,-8.7,11.8",
+    "geom:latitude":11.8,
+    "geom:longitude":-8.7,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kofoulate",
+    "gn:country_code":"ML",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2455088,
+    "gn:latitude":11.8,
+    "gn:longitude":-8.7,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kofoulat\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bamako",
+    "iso:country":"ML",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632553,
+        85674547,
+        1108562827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2455088
+    },
+    "wof:country":"ML",
+    "wof:geomhash":"378eaf64c9c59552e4ed41c18dd175a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562827,
+            "locality_id":1209929065,
+            "region_id":85674547
+        }
+    ],
+    "wof:id":1209929065,
+    "wof:lastmodified":1536393551,
+    "wof:name":"Kofoulate",
+    "wof:parent_id":1108562827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ml",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.7,
+    11.8,
+    -8.7,
+    11.8
+],
+  "geometry": {"coordinates":[-8.7,11.8],"type":"Point"}
+}
