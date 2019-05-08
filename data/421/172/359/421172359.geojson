@@ -10,6 +10,9 @@
     "geom:latitude":16.248908,
     "geom:longitude":-3.312858,
     "iso:country":"ML",
+    "label:eng_x_preferred_longname":[
+        "Dire County"
+    ],
     "lbl:latitude":16.229826,
     "lbl:longitude":-3.344511,
     "meso:adm1_name":"Tombouctou",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421172359,
-    "wof:lastmodified":1536615938,
+    "wof:lastmodified":1554413701,
     "wof:name":"Dire",
     "wof:parent_id":85674511,
     "wof:placetype":"county",

@@ -10,6 +10,9 @@
     "geom:latitude":12.378869,
     "geom:longitude":-5.56234,
     "iso:country":"ML",
+    "label:eng_x_preferred_longname":[
+        "Koutiala County"
+    ],
     "lbl:latitude":12.366958,
     "lbl:longitude":-5.552298,
     "meso:adm1_name":"Sikasso",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":421177885,
-    "wof:lastmodified":1536615961,
+    "wof:lastmodified":1554413706,
     "wof:name":"Koutiala",
     "wof:parent_id":85674531,
     "wof:placetype":"county",

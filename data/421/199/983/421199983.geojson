@@ -10,6 +10,9 @@
     "geom:latitude":15.112119,
     "geom:longitude":-2.442503,
     "iso:country":"ML",
+    "label:eng_x_preferred_longname":[
+        "Douentza County"
+    ],
     "lbl:latitude":14.984235,
     "lbl:longitude":-1.781123,
     "meso:adm1_name":"Mopti",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421199983,
-    "wof:lastmodified":1536616133,
+    "wof:lastmodified":1554413736,
     "wof:name":"Douentza",
     "wof:parent_id":85674539,
     "wof:placetype":"county",
