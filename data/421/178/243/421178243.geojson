@@ -17,9 +17,6 @@
     "name:deu_x_preferred":[
         "Araouane"
     ],
-    "name:dut_x_preferred":[
-        "Araouane"
-    ],
     "name:eng_x_preferred":[
         "Araouane"
     ],
@@ -33,12 +30,6 @@
         "Araouane"
     ],
     "name:fra_x_preferred":[
-        "Araouane"
-    ],
-    "name:fre_x_preferred":[
-        "Araouane"
-    ],
-    "name:ger_x_preferred":[
         "Araouane"
     ],
     "name:ita_x_preferred":[
@@ -199,7 +190,7 @@
         }
     ],
     "wof:id":421178243,
-    "wof:lastmodified":1553816367,
+    "wof:lastmodified":1561843656,
     "wof:name":"Araouane",
     "wof:parent_id":1108562891,
     "wof:placetype":"locality",

@@ -22,7 +22,7 @@
     "name:deu_x_preferred":[
         "Sanga"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Sangha"
     ],
     "name:eng_x_preferred":[
@@ -34,14 +34,14 @@
     "name:fra_x_preferred":[
         "Sanga"
     ],
-    "name:fre_x_preferred":[
-        "Sangha"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Sangha"
     ],
     "name:ita_x_preferred":[
         "Sanga"
+    ],
+    "name:nld_x_preferred":[
+        "Sangha"
     ],
     "name:por_x_preferred":[
         "Sanga"
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":421192401,
-    "wof:lastmodified":1527716110,
+    "wof:lastmodified":1561843655,
     "wof:name":"Sanga",
     "wof:parent_id":421171975,
     "wof:placetype":"locality",

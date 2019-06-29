@@ -20,16 +20,7 @@
     "name:bam_x_preferred":[
         "Kati"
     ],
-    "name:baq_x_preferred":[
-        "Kati"
-    ],
-    "name:chi_x_preferred":[
-        "\u5361\u8482"
-    ],
     "name:deu_x_preferred":[
-        "Kati"
-    ],
-    "name:dut_x_preferred":[
         "Kati"
     ],
     "name:eng_x_preferred":[
@@ -50,12 +41,6 @@
     "name:fra_x_preferred":[
         "Kati"
     ],
-    "name:fre_x_preferred":[
-        "Kati"
-    ],
-    "name:ger_x_preferred":[
-        "Kati"
-    ],
     "name:heb_x_preferred":[
         "\u05e7\u05d8\u05d9"
     ],
@@ -73,6 +58,9 @@
     ],
     "name:lit_x_preferred":[
         "Katis"
+    ],
+    "name:nld_x_preferred":[
+        "Kati"
     ],
     "name:nob_x_preferred":[
         "Kati"
@@ -241,7 +229,7 @@
         }
     ],
     "wof:id":421169015,
-    "wof:lastmodified":1553816356,
+    "wof:lastmodified":1561843656,
     "wof:name":"Kati",
     "wof:parent_id":421177883,
     "wof:placetype":"locality",

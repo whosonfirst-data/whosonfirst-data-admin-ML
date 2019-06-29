@@ -27,23 +27,20 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u063a\u0627\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Gao eskualdea"
-    ],
     "name:ben_x_preferred":[
         "\u0997\u09be\u0993 \u0985\u099e\u09cd\u099a\u09b2"
     ],
     "name:bul_x_preferred":[
         "\u0413\u0430\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u52a0\u5965\u533a"
-    ],
     "name:dan_x_preferred":[
         "Gao"
     ],
-    "name:dut_x_preferred":[
-        "Gao"
+    "name:deu_x_preferred":[
+        "Region Gao"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0393\u03ba\u03b1\u03cc"
     ],
     "name:eng_x_preferred":[
         "Gao"
@@ -57,20 +54,20 @@
     "name:est_x_preferred":[
         "Gao piirkond"
     ],
+    "name:eus_x_preferred":[
+        "Gao eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06af\u0627\u0626\u0648"
+    ],
     "name:fin_x_preferred":[
         "Gaon alue"
     ],
     "name:fra_x_preferred":[
         "Gao"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "R\u00e9gion de Gao"
-    ],
-    "name:ger_x_preferred":[
-        "Region Gao"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0393\u03ba\u03b1\u03cc"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0abe\u0a93 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -105,17 +102,17 @@
     "name:mar_x_preferred":[
         "\u0917\u093e\u0913 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Gao Region"
     ],
     "name:nds_x_preferred":[
         "Region Gao"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Gao"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u06af\u0627\u0626\u0648"
+    "name:nob_x_preferred":[
+        "Gao"
     ],
     "name:pol_x_preferred":[
         "Region Gao"
@@ -123,7 +120,7 @@
     "name:por_x_preferred":[
         "Gao"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Gao"
     ],
     "name:rus_x_preferred":[
@@ -161,6 +158,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Gao"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u5965\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MLI",
@@ -269,7 +269,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550456,
+    "wof:lastmodified":1561843634,
     "wof:name":"Gao",
     "wof:parent_id":85632553,
     "wof:placetype":"region",
