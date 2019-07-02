@@ -30,23 +30,20 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0633\u064a\u0643\u0627\u0633\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Sikasso eskualdea"
-    ],
     "name:bel_x_preferred":[
         "\u0421\u0456\u043a\u0430\u0441\u043e"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u0995\u09be\u09b8\u09cb \u0985\u099e\u09cd\u099a\u09b2"
     ],
-    "name:chi_x_preferred":[
-        "\u9521\u5361\u7d22\u533a"
-    ],
     "name:dan_x_preferred":[
         "Sikasso"
     ],
-    "name:dut_x_preferred":[
-        "Sikasso"
+    "name:deu_x_preferred":[
+        "Region Sikasso"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a3\u03b9\u03ba\u03b1\u03c3\u03c3\u03cc"
     ],
     "name:eng_x_preferred":[
         "Sikasso"
@@ -60,20 +57,20 @@
     "name:est_x_preferred":[
         "Sikasso piirkond"
     ],
+    "name:eus_x_preferred":[
+        "Sikasso eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u06cc\u06a9\u0627\u0633\u0648"
+    ],
     "name:fin_x_preferred":[
         "Sikasson alue"
     ],
     "name:fra_x_preferred":[
         "Sikasso"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "R\u00e9gion de Sikasso"
-    ],
-    "name:ger_x_preferred":[
-        "Region Sikasso"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a3\u03b9\u03ba\u03b1\u03c3\u03c3\u03cc"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abf\u0a95\u0abe\u0ab8\u0acb \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -108,17 +105,17 @@
     "name:mar_x_preferred":[
         "\u0938\u093f\u0915\u093e\u0938\u094b \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sikasso Region"
     ],
     "name:nds_x_preferred":[
         "Region Sikasso"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Sikasso"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0633\u06cc\u06a9\u0627\u0633\u0648"
+    "name:nob_x_preferred":[
+        "Sikasso"
     ],
     "name:pol_x_preferred":[
         "Region Sikasso"
@@ -126,7 +123,7 @@
     "name:por_x_preferred":[
         "Sikasso"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Sikasso"
     ],
     "name:rus_x_preferred":[
@@ -164,6 +161,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Sikasso"
+    ],
+    "name:zho_x_preferred":[
+        "\u9521\u5361\u7d22\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MLI",
@@ -288,7 +288,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550459,
+    "wof:lastmodified":1561843634,
     "wof:name":"Sikasso",
     "wof:parent_id":85632553,
     "wof:placetype":"region",

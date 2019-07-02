@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Taoudenni"
     ],
-    "name:dut_x_preferred":[
-        "Taoudenni"
-    ],
     "name:eng_x_preferred":[
         "Taoudenni"
     ],
@@ -37,12 +34,6 @@
     ],
     "name:fra_x_preferred":[
         "Taoudeni"
-    ],
-    "name:fre_x_preferred":[
-        "Taoudeni"
-    ],
-    "name:ger_x_preferred":[
-        "Taoudenni"
     ],
     "name:ind_x_preferred":[
         "Taoudenni"
@@ -214,7 +205,7 @@
         }
     ],
     "wof:id":421175973,
-    "wof:lastmodified":1527716345,
+    "wof:lastmodified":1561843656,
     "wof:name":"Taoudenni",
     "wof:parent_id":1108562891,
     "wof:placetype":"locality",

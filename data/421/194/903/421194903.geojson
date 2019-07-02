@@ -13,9 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Farako"
-    ],
     "name:eng_x_preferred":[
         "Farako"
     ],
@@ -23,9 +20,6 @@
         "Farako"
     ],
     "name:fra_x_preferred":[
-        "Farako"
-    ],
-    "name:fre_x_preferred":[
         "Farako"
     ],
     "name:ita_x_preferred":[
@@ -81,7 +75,7 @@
         }
     ],
     "wof:id":421194903,
-    "wof:lastmodified":1527716133,
+    "wof:lastmodified":1561843656,
     "wof:name":"Farako",
     "wof:parent_id":421175221,
     "wof:placetype":"locality",

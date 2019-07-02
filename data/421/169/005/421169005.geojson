@@ -23,12 +23,6 @@
     "name:cat_x_preferred":[
         "Markala"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u723e\u5361\u62c9"
-    ],
-    "name:dut_x_preferred":[
-        "Markala"
-    ],
     "name:eng_x_preferred":[
         "Markala"
     ],
@@ -39,9 +33,6 @@
         "Markala"
     ],
     "name:fra_x_preferred":[
-        "Markala"
-    ],
-    "name:fre_x_preferred":[
         "Markala"
     ],
     "name:hun_x_preferred":[
@@ -214,7 +205,7 @@
         }
     ],
     "wof:id":421169005,
-    "wof:lastmodified":1527716175,
+    "wof:lastmodified":1561843656,
     "wof:name":"Markala",
     "wof:parent_id":421175221,
     "wof:placetype":"locality",

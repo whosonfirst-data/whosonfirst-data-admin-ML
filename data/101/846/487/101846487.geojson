@@ -19,19 +19,10 @@
     "name:deu_x_preferred":[
         "Marsalforn"
     ],
-    "name:dut_x_preferred":[
-        "Marsalforn"
-    ],
     "name:eng_x_preferred":[
         "Marsalforn"
     ],
     "name:fra_x_preferred":[
-        "Marsalforn"
-    ],
-    "name:fre_x_preferred":[
-        "Marsalforn"
-    ],
-    "name:ger_x_preferred":[
         "Marsalforn"
     ],
     "name:hun_x_preferred":[
@@ -91,7 +82,7 @@
         }
     ],
     "wof:id":101846487,
-    "wof:lastmodified":1527714714,
+    "wof:lastmodified":1561843654,
     "wof:name":"Marsalforn",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
