@@ -31,11 +31,17 @@
     "name:glg_x_preferred":[
         "Konna"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0576\u0561"
+    ],
     "name:ita_x_preferred":[
         "Konna"
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30f3\u30ca"
+    ],
+    "name:nan_x_preferred":[
+        "Konna"
     ],
     "name:nld_x_preferred":[
         "Konna"
@@ -45,6 +51,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Konna"
     ],
     "name:unk_x_variant":[
         "Kona"
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":421196279,
-    "wof:lastmodified":1561843656,
+    "wof:lastmodified":1563262897,
     "wof:name":"Konna",
     "wof:parent_id":421180081,
     "wof:placetype":"locality",

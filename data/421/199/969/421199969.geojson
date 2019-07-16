@@ -13,8 +13,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0623\u0646\u0633\u0646\u0643\u0648"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043d\u0441\u043e\u043d\u0433\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Ansongo"
+    ],
     "name:ell_x_preferred":[
         "\u0391\u03bd\u03c3\u03bf\u03bd\u03b3\u03ba\u03cc"
+    ],
+    "name:eng_x_preferred":[
+        "Ansongo"
     ],
     "name:fin_x_preferred":[
         "Ansongo"
@@ -22,7 +34,16 @@
     "name:fra_x_preferred":[
         "Ansongo"
     ],
+    "name:hun_x_preferred":[
+        "Ansongo"
+    ],
     "name:ita_x_preferred":[
+        "Ansongo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30bd\u30f3\u30b4"
+    ],
+    "name:nan_x_preferred":[
         "Ansongo"
     ],
     "name:nld_x_preferred":[
@@ -30,6 +51,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u043d\u0441\u043e\u043d\u0433\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Ansongo"
+    ],
+    "name:swe_x_preferred":[
+        "Ansongo"
     ],
     "name:zho_x_preferred":[
         "\u5b89\u677e\u6208"
@@ -86,7 +113,7 @@
         }
     ],
     "wof:id":421199969,
-    "wof:lastmodified":1527716415,
+    "wof:lastmodified":1563262900,
     "wof:name":"Ansongo",
     "wof:parent_id":890418903,
     "wof:placetype":"localadmin",

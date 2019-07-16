@@ -28,8 +28,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Douentza Cercle"
+    ],
+    "name:deu_x_preferred":[
+        "Douentza"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039d\u03c4\u03bf\u03c5\u03b5\u03bd\u03c4\u03b6\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Douentza Cercle"
+    ],
     "name:eng_x_variant":[
         "Douentza"
+    ],
+    "name:fin_x_preferred":[
+        "Douentzan piiri"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30a5\u30a8\u30f3\u30c4\u30a1\u570f"
+    ],
+    "name:nan_x_preferred":[
+        "Douentza Khian"
+    ],
+    "name:nld_x_preferred":[
+        "Douentza Cercle"
+    ],
+    "name:swe_x_preferred":[
+        "Douentza Cercle"
+    ],
+    "name:zho_x_preferred":[
+        "\u675c\u5b89\u624e\u7701"
     ],
     "qs:gn_country":"ML",
     "qs:gn_fcode":"ADM2",
@@ -81,7 +111,7 @@
         }
     ],
     "wof:id":421199983,
-    "wof:lastmodified":1554413736,
+    "wof:lastmodified":1563262899,
     "wof:name":"Douentza",
     "wof:parent_id":85674539,
     "wof:placetype":"county",

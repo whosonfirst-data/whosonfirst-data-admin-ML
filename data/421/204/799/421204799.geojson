@@ -34,6 +34,9 @@
     "name:jpn_x_preferred":[
         "\u30d0\u30f3\u30ab\u30b9"
     ],
+    "name:nan_x_preferred":[
+        "Bankass"
+    ],
     "name:nld_x_preferred":[
         "Bankass"
     ],
@@ -41,6 +44,9 @@
         "Bankass"
     ],
     "name:nor_x_preferred":[
+        "Bankass"
+    ],
+    "name:spa_x_preferred":[
         "Bankass"
     ],
     "name:unk_x_variant":[
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421204799,
-    "wof:lastmodified":1561843656,
+    "wof:lastmodified":1563262889,
     "wof:name":"Bankass",
     "wof:parent_id":1108562845,
     "wof:placetype":"locality",

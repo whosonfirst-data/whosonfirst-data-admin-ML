@@ -14,6 +14,18 @@
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0646\u0627\u0645\u0628\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u043d\u0430\u043c\u0431\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Banamba"
+    ],
+    "name:eng_x_preferred":[
+        "Banamba"
+    ],
     "name:epo_x_preferred":[
         "Banamba"
     ],
@@ -32,16 +44,34 @@
     "name:ita_x_preferred":[
         "Banamba"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30ca\u30f3\u30d0"
+    ],
+    "name:nan_x_preferred":[
+        "Banamba"
+    ],
     "name:nld_x_preferred":[
+        "Banamba"
+    ],
+    "name:nob_x_preferred":[
         "Banamba"
     ],
     "name:pol_x_preferred":[
         "Banamba"
     ],
+    "name:por_x_preferred":[
+        "Banamba"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043d\u0430\u043c\u0431\u0430"
     ],
+    "name:sco_x_preferred":[
+        "Banamba"
+    ],
     "name:spa_x_preferred":[
+        "Banamba"
+    ],
+    "name:swe_x_preferred":[
         "Banamba"
     ],
     "name:zho_x_preferred":[
@@ -187,7 +217,7 @@
         }
     ],
     "wof:id":421168187,
-    "wof:lastmodified":1527716094,
+    "wof:lastmodified":1563262877,
     "wof:name":"Banamba",
     "wof:parent_id":1108562851,
     "wof:placetype":"localadmin",

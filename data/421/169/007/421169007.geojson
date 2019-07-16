@@ -71,6 +71,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0ccc\u0c9f\u0cbf\u0caf\u0cbe\u0cb2\u0cbe"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e3\u10e2\u10d8\u10d0\u10da\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ucfe0\ud2f0\uc54c\ub77c"
     ],
@@ -84,6 +87,9 @@
         "\u0915\u094c\u091f\u0940\u092f\u093e\u0932\u093e"
     ],
     "name:msa_x_preferred":[
+        "Koutiala"
+    ],
+    "name:nan_x_preferred":[
         "Koutiala"
     ],
     "name:nld_x_preferred":[
@@ -106,6 +112,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0d9a\u0dde\u0da7\u0dd2\u0dba\u0dbd\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "Koutiala"
     ],
     "name:swe_x_preferred":[
         "Koutiala"
@@ -276,7 +285,7 @@
         }
     ],
     "wof:id":421169007,
-    "wof:lastmodified":1561843656,
+    "wof:lastmodified":1563262887,
     "wof:name":"Koutiala",
     "wof:parent_id":421177885,
     "wof:placetype":"locality",

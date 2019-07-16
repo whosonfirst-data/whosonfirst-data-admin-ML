@@ -28,8 +28,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0627\u0626\u0631\u0629 \u0645\u0648\u0628\u062a\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Mopti Cercle"
+    ],
+    "name:deu_x_preferred":[
+        "Mopti"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03bf\u03c0\u03c4\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Mopti Cercle"
+    ],
     "name:eng_x_variant":[
         "Mopti"
+    ],
+    "name:fin_x_preferred":[
+        "Moptin piiri"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30d7\u30c6\u30a3\u570f"
+    ],
+    "name:nan_x_preferred":[
+        "Mopti Khian"
+    ],
+    "name:nld_x_preferred":[
+        "Mopti Cercle"
+    ],
+    "name:swe_x_preferred":[
+        "Mopti Cercle"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u666e\u63d0\u7701"
     ],
     "qs:gn_country":"ML",
     "qs:gn_fcode":"ADM2",
@@ -80,7 +113,7 @@
         }
     ],
     "wof:id":421180081,
-    "wof:lastmodified":1554413707,
+    "wof:lastmodified":1563262892,
     "wof:name":"Mopti",
     "wof:parent_id":85674539,
     "wof:placetype":"county",

@@ -19,6 +19,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u062c\u0627\u0628\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Kangaba"
+    ],
+    "name:deu_x_preferred":[
+        "Kangaba"
+    ],
     "name:eng_x_preferred":[
         "Kangaba"
     ],
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":890440305,
-    "wof:lastmodified":1561843656,
+    "wof:lastmodified":1563262907,
     "wof:name":"Kangaba",
     "wof:parent_id":1108562827,
     "wof:placetype":"locality",
