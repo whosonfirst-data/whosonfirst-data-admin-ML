@@ -30,6 +30,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0643\u0648\u0644\u064a\u0643\u0648\u0631\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0648\u0644\u06cc\u06a9\u0648\u0631\u0648 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u0989\u09b2\u09bf\u0995\u09c1\u09b0\u09cb \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:cat_x_preferred":[
         "Regi\u00f3 de Koulikoro"
+    ],
+    "name:ceb_x_preferred":[
+        "Koulikoro Region"
     ],
     "name:dan_x_preferred":[
         "Koulikoro"
@@ -50,6 +56,9 @@
     ],
     "name:eng_x_preferred":[
         "Koulikoro"
+    ],
+    "name:eng_x_variant":[
+        "Koulikoro Region"
     ],
     "name:epo_x_preferred":[
         "Regiono Koulikoro"
@@ -72,6 +81,9 @@
     "name:fra_x_variant":[
         "R\u00e9gion de Koulikoro"
     ],
+    "name:frr_x_preferred":[
+        "Koulikoro"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0acc\u0ab2\u0ac0\u0a95\u0acb\u0ab0\u0acb \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
@@ -93,6 +105,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0ccc\u0cb2\u0cbf\u0c95\u0cca\u0cb0\u0ccb \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e3\u10da\u10d8\u10d9\u10dd\u10e0\u10dd\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ucfe8\ub9ac\ucf54\ub85c \uc8fc"
     ],
@@ -107,6 +122,9 @@
     ],
     "name:msa_x_preferred":[
         "Koulikoro Region"
+    ],
+    "name:nan_x_preferred":[
+        "Koulikoro Khu"
     ],
     "name:nds_x_preferred":[
         "Region Koulikoro"
@@ -147,6 +165,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e01\u0e39\u0e25\u0e35\u0e01\u0e2d\u0e42\u0e23"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e01\u0e39\u0e25\u0e35\u0e01\u0e2d\u0e42\u0e23"
+    ],
     "name:tur_x_preferred":[
         "Koulikoro B\u00f6lgesi"
     ],
@@ -161,6 +182,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Koulikoro"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5e93\u5229\u79d1\u7f57\u533a"
     ],
     "name:zho_x_preferred":[
         "\u5e93\u5229\u79d1\u7f57\u533a"
@@ -289,7 +313,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1561843634,
+    "wof:lastmodified":1563261450,
     "wof:name":"Koulikoro",
     "wof:parent_id":85632553,
     "wof:placetype":"region",

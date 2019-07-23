@@ -27,8 +27,38 @@
     "mps:longitude":0.428756,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Gao Cercle"
+    ],
+    "name:deu_x_preferred":[
+        "Gao"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0393\u03ba\u03b1\u03cc"
+    ],
+    "name:eng_x_preferred":[
+        "Gao Cercle"
+    ],
     "name:eng_x_variant":[
         "Gao"
+    ],
+    "name:fin_x_preferred":[
+        "Gaon piiri"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ac\u30aa\u570f"
+    ],
+    "name:nan_x_preferred":[
+        "Gao Khian"
+    ],
+    "name:nld_x_preferred":[
+        "Gao Cercle"
+    ],
+    "name:swe_x_preferred":[
+        "Gao Cercle"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u5967\u7701"
     ],
     "qs:name":"Gao Cercle",
     "qs:photos_9r":0,
@@ -66,7 +96,7 @@
         }
     ],
     "wof:id":890418899,
-    "wof:lastmodified":1536617371,
+    "wof:lastmodified":1563262911,
     "wof:name":"Gao",
     "wof:parent_id":85674521,
     "wof:placetype":"county",

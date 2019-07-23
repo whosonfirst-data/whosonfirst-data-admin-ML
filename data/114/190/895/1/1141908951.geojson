@@ -50,6 +50,9 @@
     "name:jpn_x_preferred":[
         "\u30c6\u30c3\u30b5\u30ea\u30c8"
     ],
+    "name:nan_x_preferred":[
+        "Tessalit"
+    ],
     "name:nld_x_preferred":[
         "Tessalit"
     ],
@@ -184,7 +187,7 @@
         }
     ],
     "wof:id":1141908951,
-    "wof:lastmodified":1561843669,
+    "wof:lastmodified":1563263659,
     "wof:name":"Tessalit",
     "wof:parent_id":1108562887,
     "wof:placetype":"locality",

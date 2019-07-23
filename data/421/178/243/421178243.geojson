@@ -14,6 +14,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Araouane"
+    ],
     "name:deu_x_preferred":[
         "Araouane"
     ],
@@ -33,6 +36,9 @@
         "Araouane"
     ],
     "name:ita_x_preferred":[
+        "Araouane"
+    ],
+    "name:nan_x_preferred":[
         "Araouane"
     ],
     "name:nld_x_preferred":[
@@ -190,7 +196,7 @@
         }
     ],
     "wof:id":421178243,
-    "wof:lastmodified":1561843656,
+    "wof:lastmodified":1563262903,
     "wof:name":"Araouane",
     "wof:parent_id":1108562891,
     "wof:placetype":"locality",

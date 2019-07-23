@@ -47,6 +47,9 @@
     "name:eng_x_preferred":[
         "Naxxar"
     ],
+    "name:epo_x_preferred":[
+        "Naxxar"
+    ],
     "name:eus_x_preferred":[
         "Naxxar"
     ],
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":101846471,
-    "wof:lastmodified":1561843654,
+    "wof:lastmodified":1563262793,
     "wof:name":"Naxxar",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

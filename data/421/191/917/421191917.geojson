@@ -16,10 +16,25 @@
     "name:ara_x_preferred":[
         "\u064a\u0648\u0631\u0648\u0633\u0648"
     ],
+    "name:ceb_x_preferred":[
+        "Yorosso"
+    ],
+    "name:eng_x_preferred":[
+        "Yorosso"
+    ],
+    "name:fin_x_preferred":[
+        "Yorosso"
+    ],
     "name:fra_x_preferred":[
         "Yorosso"
     ],
     "name:ita_x_preferred":[
+        "Yorosso"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e8\u30ed\u30c3\u30bd"
+    ],
+    "name:nan_x_preferred":[
         "Yorosso"
     ],
     "name:nld_x_preferred":[
@@ -28,8 +43,14 @@
     "name:pol_x_preferred":[
         "Yorosso"
     ],
+    "name:por_x_preferred":[
+        "Iorosso"
+    ],
     "name:rus_x_preferred":[
         "\u0419\u043e\u0440\u043e\u0441\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Yorosso"
     ],
     "name:urd_x_preferred":[
         "\u06cc\u0648\u0631\u0648\u0633\u0648"
@@ -85,7 +106,7 @@
         }
     ],
     "wof:id":421191917,
-    "wof:lastmodified":1527716387,
+    "wof:lastmodified":1563262899,
     "wof:name":"Yorosso",
     "wof:parent_id":1108562831,
     "wof:placetype":"localadmin",

@@ -25,7 +25,13 @@
     "name:ita_x_preferred":[
         "Kani Bozon"
     ],
+    "name:nan_x_preferred":[
+        "Kani Bozon"
+    ],
     "name:nld_x_preferred":[
+        "Kani Bozon"
+    ],
+    "name:spa_x_preferred":[
         "Kani Bozon"
     ],
     "qs:gn_country":"ML",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":421192381,
-    "wof:lastmodified":1561843655,
+    "wof:lastmodified":1563262879,
     "wof:name":"Kani Bonzon",
     "wof:parent_id":1108562845,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09bf\u099f\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Kita"
+    ],
     "name:dan_x_preferred":[
         "Kita"
     ],
@@ -75,6 +78,9 @@
         "\u0915\u093f\u091f\u093e"
     ],
     "name:msa_x_preferred":[
+        "Kita"
+    ],
+    "name:nan_x_preferred":[
         "Kita"
     ],
     "name:nld_x_preferred":[
@@ -268,7 +274,7 @@
         }
     ],
     "wof:id":421169009,
-    "wof:lastmodified":1561843656,
+    "wof:lastmodified":1563262887,
     "wof:name":"Kita",
     "wof:parent_id":1108562847,
     "wof:placetype":"locality",

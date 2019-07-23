@@ -40,11 +40,23 @@
     "name:ita_x_preferred":[
         "Sanga"
     ],
+    "name:ita_x_variant":[
+        "Sangha"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30ac"
+    ],
+    "name:nan_x_preferred":[
+        "Sangha"
+    ],
     "name:nld_x_preferred":[
         "Sangha"
     ],
     "name:por_x_preferred":[
         "Sanga"
+    ],
+    "name:spa_x_preferred":[
+        "Sangha"
     ],
     "name:swe_x_preferred":[
         "Sanga"
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":421192401,
-    "wof:lastmodified":1561843655,
+    "wof:lastmodified":1563262879,
     "wof:name":"Sanga",
     "wof:parent_id":421171975,
     "wof:placetype":"locality",
