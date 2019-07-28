@@ -25,6 +25,9 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Leleni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1242896047,
-    "wof:lastmodified":1537568442,
+    "wof:lastmodified":1564310838,
     "wof:name":"Leleni",
     "wof:parent_id":421177885,
     "wof:placetype":"locality",

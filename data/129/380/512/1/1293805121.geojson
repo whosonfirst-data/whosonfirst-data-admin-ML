@@ -25,6 +25,15 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Somba"
+    ],
+    "name:fra_x_preferred":[
+        "Somba"
+    ],
+    "name:swe_x_preferred":[
+        "Somba"
+    ],
     "name:und_x_variant":[
         "Semba",
         "Soma",
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1293805121,
-    "wof:lastmodified":1537665045,
+    "wof:lastmodified":1564309565,
     "wof:name":"Somba",
     "wof:parent_id":1108562849,
     "wof:placetype":"locality",

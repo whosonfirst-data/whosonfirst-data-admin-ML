@@ -25,6 +25,18 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tabara"
+    ],
+    "name:fra_x_preferred":[
+        "Tabara"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0430\u0431\u0430\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Tabara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1310104873,
-    "wof:lastmodified":1536996623,
+    "wof:lastmodified":1564310508,
     "wof:name":"Tabara",
     "wof:parent_id":421192717,
     "wof:placetype":"locality",

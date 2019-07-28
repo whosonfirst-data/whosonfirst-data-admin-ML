@@ -25,6 +25,9 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0441\u0441\u0438\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Mbasian",
         "Mbassian",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1360277035,
-    "wof:lastmodified":1537665117,
+    "wof:lastmodified":1564310629,
     "wof:name":"Bassian",
     "wof:parent_id":421177883,
     "wof:placetype":"locality",

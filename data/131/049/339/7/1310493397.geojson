@@ -25,7 +25,19 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u043d\u0434\u0443"
+    ],
     "name:fra_x_preferred":[
+        "Koundou"
+    ],
+    "name:ita_x_preferred":[
+        "Koundou"
+    ],
+    "name:msa_x_preferred":[
+        "Koundou"
+    ],
+    "name:spa_x_preferred":[
         "Koundou"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1310493397,
-    "wof:lastmodified":1537665136,
+    "wof:lastmodified":1564310418,
     "wof:name":"Koundou",
     "wof:parent_id":421177883,
     "wof:placetype":"locality",

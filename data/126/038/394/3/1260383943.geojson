@@ -25,6 +25,9 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Ziena"
+    ],
     "name:und_x_variant":[
         "Jina",
         "Zina",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1260383943,
-    "wof:lastmodified":1537664997,
+    "wof:lastmodified":1564310279,
     "wof:name":"Ziena",
     "wof:parent_id":421177885,
     "wof:placetype":"locality",

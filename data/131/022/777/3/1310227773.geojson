@@ -28,8 +28,29 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u063a\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Seg\u00fa"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0642\u0648"
+    ],
     "name:bam_x_preferred":[
         "Segu"
+    ],
+    "name:cat_x_preferred":[
+        "S\u00e9gou"
+    ],
+    "name:ces_x_preferred":[
+        "S\u00e9gou"
+    ],
+    "name:cym_x_preferred":[
+        "S\u00e9gou"
+    ],
+    "name:dan_x_preferred":[
+        "S\u00e9gou"
+    ],
+    "name:deu_x_preferred":[
+        "S\u00e9gou"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b5\u03b3\u03ba\u03bf\u03cd"
@@ -41,23 +62,77 @@
         "Segu",
         "Seku"
     ],
+    "name:epo_x_preferred":[
+        "S\u00e9gou"
+    ],
+    "name:eus_x_preferred":[
+        "S\u00e9gou"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u06af\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "S\u00e9gou"
+    ],
+    "name:fra_x_preferred":[
+        "S\u00e9gou"
+    ],
+    "name:frr_x_preferred":[
+        "S\u00e9gou"
+    ],
+    "name:fry_x_preferred":[
+        "S\u00e9gou"
+    ],
+    "name:hun_x_preferred":[
+        "S\u00e9gou"
+    ],
+    "name:ind_x_preferred":[
+        "S\u00e9gou"
+    ],
+    "name:ita_x_preferred":[
+        "S\u00e9gou"
     ],
     "name:jpn_x_preferred":[
         "\u30bb\u30b0\u30fc"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d4\u10d2\u10e3"
+    ],
     "name:kor_x_preferred":[
         "\uc138\uad6c"
     ],
+    "name:lat_x_preferred":[
+        "S\u00e9gou"
+    ],
     "name:lit_x_preferred":[
         "Segu"
+    ],
+    "name:ltz_x_preferred":[
+        "S\u00e9gou"
+    ],
+    "name:nld_x_preferred":[
+        "S\u00e9gou"
+    ],
+    "name:pol_x_preferred":[
+        "S\u00e9gou"
+    ],
+    "name:por_x_preferred":[
+        "Segu"
+    ],
+    "name:ron_x_preferred":[
+        "S\u00e9gou"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0433\u0443"
     ],
     "name:spa_x_preferred":[
         "Seg\u00fa"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00e9gou"
+    ],
+    "name:tur_x_preferred":[
+        "S\u00e9gou"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0433\u0443"
@@ -97,7 +172,7 @@
         }
     ],
     "wof:id":1310227773,
-    "wof:lastmodified":1537665063,
+    "wof:lastmodified":1564310410,
     "wof:name":"Segou",
     "wof:parent_id":421175221,
     "wof:placetype":"locality",

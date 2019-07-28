@@ -25,9 +25,81 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0627\u0644\u0627\u063a\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Galaga"
+    ],
+    "name:dan_x_preferred":[
+        "Galaga"
+    ],
+    "name:deu_x_preferred":[
+        "Galaga"
+    ],
+    "name:fin_x_preferred":[
+        "Galaga"
+    ],
+    "name:fra_x_preferred":[
+        "Galaga"
+    ],
+    "name:glg_x_preferred":[
+        "Galaga"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05dc\u05d2\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Galaga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ae\u30e3\u30e9\u30ac"
+    ],
+    "name:kor_x_preferred":[
+        "\uac24\ub7ec\uac00"
+    ],
+    "name:nld_x_preferred":[
+        "Galaga"
+    ],
+    "name:pol_x_preferred":[
+        "Galaga"
+    ],
+    "name:por_x_preferred":[
+        "Galaga"
+    ],
+    "name:rus_x_preferred":[
+        "Galaga"
+    ],
+    "name:spa_x_preferred":[
+        "Galaga"
+    ],
+    "name:swe_x_preferred":[
+        "Galaga"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e32\u0e25\u0e32\u0e01\u0e49\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Galaga"
+    ],
+    "name:ukr_x_preferred":[
+        "Galaga"
+    ],
     "name:und_x_variant":[
         "Gallaga",
         "Galaga"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u06cc\u0644\u06cc\u06af\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Galaga"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5927\u871c\u8702"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u871c\u8702"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +124,7 @@
         }
     ],
     "wof:id":1326515633,
-    "wof:lastmodified":1537665188,
+    "wof:lastmodified":1564308751,
     "wof:name":"Galaga",
     "wof:parent_id":1108562889,
     "wof:placetype":"locality",

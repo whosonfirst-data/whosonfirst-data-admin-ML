@@ -25,6 +25,21 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Kendi\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Kendi\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Kendi\u00e9"
+    ],
+    "name:nld_x_preferred":[
+        "Kendi\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Kendi\u00e9"
+    ],
     "name:und_x_variant":[
         "Kend\u00e9",
         "Kendi",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1360185187,
-    "wof:lastmodified":1537665160,
+    "wof:lastmodified":1564310635,
     "wof:name":"Kenndie",
     "wof:parent_id":421171975,
     "wof:placetype":"locality",

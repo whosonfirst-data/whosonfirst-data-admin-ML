@@ -25,11 +25,23 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Guir\u00e9"
+    ],
     "name:fra_x_preferred":[
         "Guir\u00e9"
     ],
     "name:fra_x_variant":[
         "Gir\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Guir\u00e9"
+    ],
+    "name:nld_x_preferred":[
+        "Guir\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Guir\u00e9"
     ],
     "name:und_x_variant":[
         "Gir\u00e9"
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1327455267,
-    "wof:lastmodified":1537665176,
+    "wof:lastmodified":1564308997,
     "wof:name":"Guire",
     "wof:parent_id":1108562865,
     "wof:placetype":"locality",

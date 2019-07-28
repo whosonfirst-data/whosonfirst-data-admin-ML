@@ -25,6 +25,21 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Mandiakuy"
+    ],
+    "name:fra_x_preferred":[
+        "Mandiakuy"
+    ],
+    "name:ita_x_preferred":[
+        "Mandiakuy"
+    ],
+    "name:nld_x_preferred":[
+        "Mandiakuy"
+    ],
+    "name:spa_x_preferred":[
+        "Mandiakuy"
+    ],
     "name:und_x_variant":[
         "Mandjakoui",
         "Mandjakuy",
@@ -32,6 +47,9 @@
         "Manjakui",
         "Mandjakui",
         "Mandiakui"
+    ],
+    "name:zho_x_preferred":[
+        "\u66fc\u8fea\u4e9e\u594e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1360207361,
-    "wof:lastmodified":1537665123,
+    "wof:lastmodified":1564310618,
     "wof:name":"Mandiakui",
     "wof:parent_id":1108562843,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Baramba"
+    ],
     "name:und_x_variant":[
         "Barhanba",
         "Baramba",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1309898501,
-    "wof:lastmodified":1537665266,
+    "wof:lastmodified":1564310740,
     "wof:name":"Baghanba",
     "wof:parent_id":421177885,
     "wof:placetype":"locality",

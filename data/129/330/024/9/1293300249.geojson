@@ -25,6 +25,24 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lame"
+    ],
+    "name:deu_x_preferred":[
+        "Lame"
+    ],
+    "name:fra_x_preferred":[
+        "Lame"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043c\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "Lame"
+    ],
+    "name:swe_x_preferred":[
+        "Lame"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1293300249,
-    "wof:lastmodified":1537054518,
+    "wof:lastmodified":1564309334,
     "wof:name":"Lame",
     "wof:parent_id":1108562857,
     "wof:placetype":"locality",

@@ -25,12 +25,30 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u0646\u06a9\u0648\u0645\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Bankouma"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0646\u06a9\u0648\u0645\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Bankouma"
+    ],
+    "name:swe_x_preferred":[
+        "Bankouma"
+    ],
     "name:und_x_variant":[
         "Niamana-Bankouma",
         "Niamana Bankoumana",
         "Niamina",
         "Niamana",
         "Bankouma"
+    ],
+    "name:zho_x_preferred":[
+        "\u90a6\u5eab\u99ac"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1343857423,
-    "wof:lastmodified":1537665096,
+    "wof:lastmodified":1564309120,
     "wof:name":"Bankouma",
     "wof:parent_id":421192717,
     "wof:placetype":"locality",

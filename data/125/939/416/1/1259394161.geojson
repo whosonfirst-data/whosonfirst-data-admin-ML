@@ -26,6 +26,27 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sagalo"
+    ],
+    "name:fin_x_preferred":[
+        "Sagalo"
+    ],
+    "name:fra_x_preferred":[
+        "Sagalo"
+    ],
+    "name:ita_x_preferred":[
+        "Sagalo"
+    ],
+    "name:nld_x_preferred":[
+        "Sagalo"
+    ],
+    "name:spa_x_preferred":[
+        "Sagalo"
+    ],
+    "name:swe_x_preferred":[
+        "Sagalo"
+    ],
     "name:und_x_variant":[
         "Sagallo",
         "Sagalo"
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1259394161,
-    "wof:lastmodified":1537665073,
+    "wof:lastmodified":1564311095,
     "wof:name":"Sagalo",
     "wof:parent_id":421171903,
     "wof:placetype":"locality",

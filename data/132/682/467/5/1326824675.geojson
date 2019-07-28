@@ -25,6 +25,21 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Tioribougou"
+    ],
+    "name:fra_x_preferred":[
+        "Tioribougou"
+    ],
+    "name:ita_x_preferred":[
+        "Tioribougou"
+    ],
+    "name:nld_x_preferred":[
+        "Tioribougou"
+    ],
+    "name:spa_x_preferred":[
+        "Tioribougou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1326824675,
-    "wof:lastmodified":1537568441,
+    "wof:lastmodified":1564308887,
     "wof:name":"Tioribougou",
     "wof:parent_id":1108562849,
     "wof:placetype":"locality",

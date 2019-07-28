@@ -31,6 +31,9 @@
     "name:fra_x_variant":[
         "M\u00e9r\u00e9na"
     ],
+    "name:spa_x_preferred":[
+        "Mena"
+    ],
     "name:und_x_variant":[
         "M\u00e9r\u00e9na"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1259374673,
-    "wof:lastmodified":1537665116,
+    "wof:lastmodified":1564311101,
     "wof:name":"Mena",
     "wof:parent_id":1108562833,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Blajmil"
+    ],
+    "name:ita_x_preferred":[
+        "Blajmil"
+    ],
+    "name:msa_x_preferred":[
+        "Blajmil"
+    ],
+    "name:ron_x_preferred":[
+        "Blajmil"
+    ],
+    "name:spa_x_preferred":[
+        "Blajmil"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1210023971,
-    "wof:lastmodified":1536391580,
+    "wof:lastmodified":1564310199,
     "wof:name":"Blajmil",
     "wof:parent_id":1108562863,
     "wof:placetype":"locality",

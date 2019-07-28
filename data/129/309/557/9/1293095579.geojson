@@ -25,6 +25,24 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Masako"
+    ],
+    "name:ita_x_preferred":[
+        "Masako"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\uc0ac\ucf54"
+    ],
+    "name:pol_x_preferred":[
+        "Masako"
+    ],
+    "name:por_x_preferred":[
+        "Masako"
+    ],
+    "name:swe_x_preferred":[
+        "Masako"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1293095579,
-    "wof:lastmodified":1536853994,
+    "wof:lastmodified":1564309319,
     "wof:name":"Masako",
     "wof:parent_id":1108562833,
     "wof:placetype":"locality",

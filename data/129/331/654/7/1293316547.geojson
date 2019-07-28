@@ -25,6 +25,24 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Baye"
+    ],
+    "name:fra_x_preferred":[
+        "Baye"
+    ],
+    "name:ind_x_preferred":[
+        "Baye"
+    ],
+    "name:ita_x_preferred":[
+        "Baye"
+    ],
+    "name:nor_x_preferred":[
+        "Baye"
+    ],
+    "name:spa_x_preferred":[
+        "Baye"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1293316547,
-    "wof:lastmodified":1537568442,
+    "wof:lastmodified":1564309332,
     "wof:name":"Baye",
     "wof:parent_id":421171975,
     "wof:placetype":"locality",

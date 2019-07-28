@@ -25,6 +25,12 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:est_x_preferred":[
+        "Sitakare"
+    ],
+    "name:fra_x_preferred":[
+        "Sitakare"
+    ],
     "name:und_x_variant":[
         "Mangara",
         "Sitakar\u00e9"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1225946209,
-    "wof:lastmodified":1537665048,
+    "wof:lastmodified":1564311279,
     "wof:name":"Sitakare",
     "wof:parent_id":1108562857,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Carangasso"
+    ],
     "name:und_x_variant":[
         "Karangassod\u00e8ni",
         "Karangasso"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1293093525,
-    "wof:lastmodified":1537665165,
+    "wof:lastmodified":1564309320,
     "wof:name":"Karangasso",
     "wof:parent_id":421177885,
     "wof:placetype":"locality",

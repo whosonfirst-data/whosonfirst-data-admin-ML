@@ -25,6 +25,30 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Macina"
+    ],
+    "name:fra_x_preferred":[
+        "Macina"
+    ],
+    "name:ita_x_preferred":[
+        "Macina"
+    ],
+    "name:nld_x_preferred":[
+        "Macina"
+    ],
+    "name:pol_x_preferred":[
+        "K\u00e9-Massina"
+    ],
+    "name:spa_x_preferred":[
+        "Macina"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u06a9\u06cc\u0646\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u897f\u7d0d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1260289295,
-    "wof:lastmodified":1537568440,
+    "wof:lastmodified":1564310356,
     "wof:name":"Macina",
     "wof:parent_id":1108562853,
     "wof:placetype":"locality",

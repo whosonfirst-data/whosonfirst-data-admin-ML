@@ -25,6 +25,21 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Bangassi"
+    ],
+    "name:fra_x_preferred":[
+        "Bangassi"
+    ],
+    "name:ita_x_preferred":[
+        "Bangassi"
+    ],
+    "name:nld_x_preferred":[
+        "Bangassi"
+    ],
+    "name:spa_x_preferred":[
+        "Bangassi"
+    ],
     "name:und_x_variant":[
         "Bangasse",
         "Bangassi",
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1343969573,
-    "wof:lastmodified":1537665269,
+    "wof:lastmodified":1564309025,
     "wof:name":"Bangassi-Nangou",
     "wof:parent_id":421171549,
     "wof:placetype":"locality",

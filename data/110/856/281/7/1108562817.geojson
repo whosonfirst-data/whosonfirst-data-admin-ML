@@ -27,6 +27,27 @@
     "name:eng_x_variant":[
         "Kadiolo"
     ],
+    "name:fin_x_preferred":[
+        "Kadiolo"
+    ],
+    "name:fra_x_preferred":[
+        "Kadiolo"
+    ],
+    "name:ita_x_preferred":[
+        "Kadiolo"
+    ],
+    "name:nld_x_preferred":[
+        "Kadiolo"
+    ],
+    "name:por_x_preferred":[
+        "Cadiolo"
+    ],
+    "name:spa_x_preferred":[
+        "Kadiolo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u7126\u6d1b"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1108562817,
-    "wof:lastmodified":1536615191,
+    "wof:lastmodified":1564310375,
     "wof:name":"Kadiolo",
     "wof:parent_id":85674531,
     "wof:placetype":"county",

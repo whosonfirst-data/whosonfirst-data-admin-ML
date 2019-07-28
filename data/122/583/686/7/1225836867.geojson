@@ -25,6 +25,21 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Dombila"
+    ],
+    "name:fra_x_preferred":[
+        "Dombila"
+    ],
+    "name:ita_x_preferred":[
+        "Dombila"
+    ],
+    "name:nld_x_preferred":[
+        "Dombila"
+    ],
+    "name:spa_x_preferred":[
+        "Dombila"
+    ],
     "name:und_x_variant":[
         "Domila Ruines",
         "Dombila"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1225836867,
-    "wof:lastmodified":1537665220,
+    "wof:lastmodified":1564311554,
     "wof:name":"Dombila",
     "wof:parent_id":421177883,
     "wof:placetype":"locality",

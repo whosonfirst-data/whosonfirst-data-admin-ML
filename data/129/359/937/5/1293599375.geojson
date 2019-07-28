@@ -25,6 +25,12 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kokoun"
+    ],
+    "name:msa_x_preferred":[
+        "Kokoun"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1293599375,
-    "wof:lastmodified":1536623732,
+    "wof:lastmodified":1564309450,
     "wof:name":"Kokoun",
     "wof:parent_id":1108562847,
     "wof:placetype":"locality",

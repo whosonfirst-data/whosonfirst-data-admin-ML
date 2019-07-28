@@ -25,6 +25,15 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Loba"
+    ],
+    "name:spa_x_preferred":[
+        "Loba"
+    ],
+    "name:swe_x_preferred":[
+        "Loba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632553
@@ -34,7 +43,7 @@
         "gn:id":6906802
     },
     "wof:country":"ML",
-    "wof:geomhash":"0e11b03afc7830347e2eb46fae9d1b06",
+    "wof:geomhash":"ac717e17cf41e77e77589684c301886a",
     "wof:hierarchy":[
         {
             "country_id":85632553,
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209536907,
-    "wof:lastmodified":1536284112,
+    "wof:lastmodified":1564309913,
     "wof:name":"Loba",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",
@@ -53,9 +62,9 @@
 },
   "bbox": [
     -7.78901,
-    13.327229999999998,
+    13.32723,
     -7.78901,
-    13.327229999999998
+    13.32723
 ],
   "geometry": {"coordinates":[-7.78901,13.32723],"type":"Point"}
 }

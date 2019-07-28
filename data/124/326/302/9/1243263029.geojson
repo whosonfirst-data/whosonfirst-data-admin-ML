@@ -25,6 +25,9 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:tam_x_preferred":[
+        "\u0ba8\u0bbf\u0b95\u0bbe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1243263029,
-    "wof:lastmodified":1537067022,
+    "wof:lastmodified":1564311065,
     "wof:name":"Niga",
     "wof:parent_id":421175221,
     "wof:placetype":"locality",

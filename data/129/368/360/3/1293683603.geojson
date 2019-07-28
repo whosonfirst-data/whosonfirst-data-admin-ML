@@ -25,6 +25,15 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kamiko"
+    ],
+    "name:fra_x_preferred":[
+        "Kamiko"
+    ],
+    "name:jpn_x_preferred":[
+        "\u795e\u5deb\u5973 -\u30ab\u30df\u30b3-"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1293683603,
-    "wof:lastmodified":1537000918,
+    "wof:lastmodified":1564309467,
     "wof:name":"Kamiko",
     "wof:parent_id":1108562851,
     "wof:placetype":"locality",

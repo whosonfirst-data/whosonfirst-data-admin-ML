@@ -25,6 +25,15 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dialakoro"
+    ],
+    "name:ita_x_preferred":[
+        "Dialakoro"
+    ],
+    "name:spa_x_preferred":[
+        "Dialakoro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632553
@@ -34,7 +43,7 @@
         "gn:id":2459054
     },
     "wof:country":"ML",
-    "wof:geomhash":"ca6101be3f51c67d4262c6e56db3328d",
+    "wof:geomhash":"ccf75330d31d3288a7cdefc63345f39d",
     "wof:hierarchy":[
         {
             "country_id":85632553,
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209306255,
-    "wof:lastmodified":1536291186,
+    "wof:lastmodified":1564309950,
     "wof:name":"Dialakoro",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",
@@ -53,9 +62,9 @@
 },
   "bbox": [
     -7.29413,
-    13.636029999999998,
+    13.63603,
     -7.29413,
-    13.636029999999998
+    13.63603
 ],
   "geometry": {"coordinates":[-7.29413,13.63603],"type":"Point"}
 }

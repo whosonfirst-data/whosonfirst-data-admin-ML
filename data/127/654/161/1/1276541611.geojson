@@ -25,8 +25,14 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Banankoro"
+    ],
     "name:fra_x_preferred":[
         "Bananko"
+    ],
+    "name:swe_x_preferred":[
+        "Banankoro"
     ],
     "name:und_x_variant":[
         "Bananko"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1276541611,
-    "wof:lastmodified":1537665270,
+    "wof:lastmodified":1564309875,
     "wof:name":"Banankoro",
     "wof:parent_id":1108562819,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Goumbou"
+    ],
+    "name:fra_x_preferred":[
+        "Goumbou"
+    ],
     "name:und_x_variant":[
         "Gumbu",
         "Goumbou"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1276863333,
-    "wof:lastmodified":1537665182,
+    "wof:lastmodified":1564309650,
     "wof:name":"Goumbou",
     "wof:parent_id":1108562865,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u044f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1226164145,
-    "wof:lastmodified":1537049159,
+    "wof:lastmodified":1564311352,
     "wof:name":"Bereya",
     "wof:parent_id":421177883,
     "wof:placetype":"locality",

@@ -25,6 +25,57 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0646\u064a\u0627\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Feni\u00e0"
+    ],
+    "name:ces_x_preferred":[
+        "Feni\u00e1ni"
+    ],
+    "name:eus_x_preferred":[
+        "Fenian"
+    ],
+    "name:fin_x_preferred":[
+        "Feenil\u00e4isyys"
+    ],
+    "name:fra_x_preferred":[
+        "F\u00e9nien"
+    ],
+    "name:glg_x_preferred":[
+        "Feniano"
+    ],
+    "name:hin_x_preferred":[
+        "\u092b\u0940\u0928\u093f\u092f\u0928"
+    ],
+    "name:ita_x_preferred":[
+        "Fenianismo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a7\u30cb\u30a2\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ud398\ub2c8\uc5b8"
+    ],
+    "name:nor_x_preferred":[
+        "Fenian"
+    ],
+    "name:por_x_preferred":[
+        "Feniano"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0435\u043d\u0438\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Feniano"
+    ],
+    "name:swe_x_preferred":[
+        "Fenier"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0435\u043d\u0456\u0430\u043d\u0446\u0456"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +99,7 @@
         }
     ],
     "wof:id":1310622145,
-    "wof:lastmodified":1536748554,
+    "wof:lastmodified":1564310432,
     "wof:name":"Fenian",
     "wof:parent_id":1108562851,
     "wof:placetype":"locality",

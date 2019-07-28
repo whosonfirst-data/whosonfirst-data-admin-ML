@@ -25,6 +25,12 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Labb\u00e9zanga"
+    ],
+    "name:slk_x_preferred":[
+        "Labbezanga"
+    ],
     "name:und_x_variant":[
         "Labbezanga",
         "Labbezenga",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1327223467,
-    "wof:lastmodified":1537665131,
+    "wof:lastmodified":1564308780,
     "wof:name":"Labezanga",
     "wof:parent_id":890418903,
     "wof:placetype":"locality",

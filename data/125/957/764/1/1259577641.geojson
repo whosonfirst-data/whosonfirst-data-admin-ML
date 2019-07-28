@@ -25,6 +25,18 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zela"
+    ],
+    "name:deu_x_preferred":[
+        "Zela"
+    ],
+    "name:fin_x_preferred":[
+        "Zela"
+    ],
+    "name:swe_x_preferred":[
+        "Zela"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1259577641,
-    "wof:lastmodified":1536723647,
+    "wof:lastmodified":1564311188,
     "wof:name":"Zela",
     "wof:parent_id":421177883,
     "wof:placetype":"locality",

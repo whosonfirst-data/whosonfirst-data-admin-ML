@@ -25,6 +25,24 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Moha"
+    ],
+    "name:deu_x_preferred":[
+        "Moha"
+    ],
+    "name:fra_x_preferred":[
+        "Moha"
+    ],
+    "name:hun_x_preferred":[
+        "Moha"
+    ],
+    "name:nld_x_preferred":[
+        "Moha"
+    ],
+    "name:swe_x_preferred":[
+        "Moha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1193137599,
-    "wof:lastmodified":1536368896,
+    "wof:lastmodified":1564310233,
     "wof:name":"Moha",
     "wof:parent_id":421180081,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u0422\u0430\u0439\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0439\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1209814739,
-    "wof:lastmodified":1536384826,
+    "wof:lastmodified":1564310166,
     "wof:name":"Tayo",
     "wof:parent_id":1108562843,
     "wof:placetype":"locality",

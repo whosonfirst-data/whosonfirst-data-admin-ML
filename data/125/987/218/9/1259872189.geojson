@@ -25,6 +25,27 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Semana"
+    ],
+    "name:epo_x_preferred":[
+        "Revista Semana"
+    ],
+    "name:est_x_preferred":[
+        "Semana"
+    ],
+    "name:fin_x_preferred":[
+        "Semana"
+    ],
+    "name:fra_x_preferred":[
+        "Semana"
+    ],
+    "name:por_x_preferred":[
+        "Semana"
+    ],
+    "name:spa_x_preferred":[
+        "Semana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1259872189,
-    "wof:lastmodified":1536795730,
+    "wof:lastmodified":1564311246,
     "wof:name":"Semana",
     "wof:parent_id":1108562829,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "M\u00e9dine"
+    ],
+    "name:fin_x_preferred":[
+        "M\u00e9dine"
+    ],
+    "name:fra_x_preferred":[
+        "M\u00e9dine"
+    ],
     "name:und_x_variant":[
         "M\u00e9dine"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1344168863,
-    "wof:lastmodified":1537665116,
+    "wof:lastmodified":1564309224,
     "wof:name":"Medine",
     "wof:parent_id":421171549,
     "wof:placetype":"locality",

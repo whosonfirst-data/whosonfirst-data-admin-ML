@@ -25,6 +25,24 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Garalo"
+    ],
+    "name:fra_x_preferred":[
+        "Garalo"
+    ],
+    "name:ita_x_preferred":[
+        "Garalo"
+    ],
+    "name:nld_x_preferred":[
+        "Garalo"
+    ],
+    "name:spa_x_preferred":[
+        "Garalo"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u62c9\u6d1b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632553
@@ -43,7 +61,7 @@
         }
     ],
     "wof:id":1209336665,
-    "wof:lastmodified":1537568426,
+    "wof:lastmodified":1564310100,
     "wof:name":"Garalo",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",

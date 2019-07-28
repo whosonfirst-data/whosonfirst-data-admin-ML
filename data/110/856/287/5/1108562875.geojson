@@ -28,6 +28,51 @@
         "Menaka",
         "M\u00e9naka"
     ],
+    "name:fra_x_preferred":[
+        "Menaka"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0947\u0928\u0915\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Menaka"
+    ],
+    "name:jav_x_preferred":[
+        "M\u00e9naka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30fc\u30ca\u30ab\u30fc"
+    ],
+    "name:lit_x_preferred":[
+        "Menaka"
+    ],
+    "name:mai_x_preferred":[
+        "\u092e\u0947\u0928\u0915\u093e"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d47\u0d28\u0d15"
+    ],
+    "name:pol_x_preferred":[
+        "Menaka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043d\u0430\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "M\u00e9naka"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bc7\u0ba9\u0b95\u0bc8"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c47\u0c28\u0c15"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u043d\u0430\u043a\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0646\u06a9\u0627"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -51,7 +96,7 @@
         }
     ],
     "wof:id":1108562875,
-    "wof:lastmodified":1536615192,
+    "wof:lastmodified":1564310370,
     "wof:name":"Menaka",
     "wof:parent_id":85674521,
     "wof:placetype":"county",

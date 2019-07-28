@@ -25,6 +25,12 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Ula"
+    ],
+    "name:vie_x_preferred":[
+        "Oula"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1310128115,
-    "wof:lastmodified":1537568412,
+    "wof:lastmodified":1564310383,
     "wof:name":"Oula",
     "wof:parent_id":421177885,
     "wof:placetype":"locality",

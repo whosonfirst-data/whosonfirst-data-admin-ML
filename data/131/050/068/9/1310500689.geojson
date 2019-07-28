@@ -25,6 +25,24 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Yasso"
+    ],
+    "name:fra_x_preferred":[
+        "Yasso"
+    ],
+    "name:ita_x_preferred":[
+        "Yasso"
+    ],
+    "name:nld_x_preferred":[
+        "Yasso"
+    ],
+    "name:spa_x_preferred":[
+        "Yasso"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0633\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1310500689,
-    "wof:lastmodified":1537568401,
+    "wof:lastmodified":1564310545,
     "wof:name":"Yasso",
     "wof:parent_id":1108562843,
     "wof:placetype":"locality",

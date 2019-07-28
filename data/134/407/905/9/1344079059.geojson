@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Koungoba"
     ],
+    "name:por_x_preferred":[
+        "Cungoba"
+    ],
     "name:und_x_variant":[
         "Koungoba"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1344079059,
-    "wof:lastmodified":1537665135,
+    "wof:lastmodified":1564309085,
     "wof:name":"Kongoba",
     "wof:parent_id":1108562825,
     "wof:placetype":"locality",

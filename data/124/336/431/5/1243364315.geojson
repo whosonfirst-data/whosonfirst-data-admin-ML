@@ -25,10 +25,28 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Doucoumbo"
+    ],
+    "name:fra_x_preferred":[
+        "Doucoumbo"
+    ],
+    "name:ita_x_preferred":[
+        "Doucombo"
+    ],
+    "name:nld_x_preferred":[
+        "Doucombo"
+    ],
+    "name:spa_x_preferred":[
+        "Doucoumbo"
+    ],
     "name:und_x_variant":[
         "Dioukombo",
         "Diukombo",
         "Doukombo"
+    ],
+    "name:zho_x_preferred":[
+        "\u675c\u5b54\u535a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1243364315,
-    "wof:lastmodified":1537665215,
+    "wof:lastmodified":1564310775,
     "wof:name":"Doukombo",
     "wof:parent_id":421171975,
     "wof:placetype":"locality",

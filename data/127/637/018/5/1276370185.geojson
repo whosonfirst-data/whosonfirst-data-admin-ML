@@ -25,9 +25,27 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Diondiori"
+    ],
+    "name:fra_x_preferred":[
+        "Diondiori"
+    ],
+    "name:ita_x_preferred":[
+        "Diondiori"
+    ],
+    "name:nld_x_preferred":[
+        "Diondiori"
+    ],
+    "name:spa_x_preferred":[
+        "Diondiori"
+    ],
     "name:und_x_variant":[
         "Diond\u00e9ni",
         "Diondiori"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fea\u7fc1\u8fea\u5967\u91cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1276370185,
-    "wof:lastmodified":1537665227,
+    "wof:lastmodified":1564309858,
     "wof:name":"Diondiori",
     "wof:parent_id":1108562861,
     "wof:placetype":"locality",

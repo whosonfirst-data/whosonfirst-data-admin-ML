@@ -25,6 +25,9 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Kora"
+    ],
     "name:und_x_variant":[
         "Koara",
         "Kora"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1327030201,
-    "wof:lastmodified":1537665142,
+    "wof:lastmodified":1564308874,
     "wof:name":"Kora",
     "wof:parent_id":1108562871,
     "wof:placetype":"locality",

@@ -25,6 +25,135 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Brie"
+    ],
+    "name:als_x_preferred":[
+        "Brie"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0440\u044b"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0440\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Brie"
+    ],
+    "name:ces_x_preferred":[
+        "Brie"
+    ],
+    "name:chv_x_preferred":[
+        "\u0411\u0440\u0438"
+    ],
+    "name:cym_x_preferred":[
+        "Brie"
+    ],
+    "name:dan_x_preferred":[
+        "Brie"
+    ],
+    "name:deu_x_preferred":[
+        "Brie"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03c1\u03b9"
+    ],
+    "name:epo_x_preferred":[
+        "Brio"
+    ],
+    "name:est_x_preferred":[
+        "Brie juust"
+    ],
+    "name:eus_x_preferred":[
+        "Brie"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0646\u06cc\u0631 \u0628\u0631\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Brie"
+    ],
+    "name:fra_x_preferred":[
+        "Brie"
+    ],
+    "name:glg_x_preferred":[
+        "Brie"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d9"
+    ],
+    "name:hrv_x_preferred":[
+        "Brie"
+    ],
+    "name:hun_x_preferred":[
+        "Brie"
+    ],
+    "name:ina_x_preferred":[
+        "Brie"
+    ],
+    "name:ind_x_preferred":[
+        "Brie"
+    ],
+    "name:ita_x_preferred":[
+        "Brie"
+    ],
+    "name:jav_x_preferred":[
+        "Brie"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ea\u30fc\u30c1\u30fc\u30ba"
+    ],
+    "name:lat_x_preferred":[
+        "Bria"
+    ],
+    "name:msa_x_preferred":[
+        "Brie"
+    ],
+    "name:nld_x_preferred":[
+        "Brie"
+    ],
+    "name:nor_x_preferred":[
+        "Brie"
+    ],
+    "name:pol_x_preferred":[
+        "Brie"
+    ],
+    "name:por_x_preferred":[
+        "Brie"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0438"
+    ],
+    "name:scn_x_preferred":[
+        "Brie"
+    ],
+    "name:sco_x_preferred":[
+        "Brie"
+    ],
+    "name:slk_x_preferred":[
+        "Brie"
+    ],
+    "name:slv_x_preferred":[
+        "Brie"
+    ],
+    "name:spa_x_preferred":[
+        "Brie"
+    ],
+    "name:swe_x_preferred":[
+        "Brie"
+    ],
+    "name:tur_x_preferred":[
+        "Brie"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0456"
+    ],
+    "name:vie_x_preferred":[
+        "Brie"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u91cc\u5976\u916a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632553
@@ -42,7 +171,7 @@
         }
     ],
     "wof:id":1209310325,
-    "wof:lastmodified":1536291051,
+    "wof:lastmodified":1564309904,
     "wof:name":"Brie",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",

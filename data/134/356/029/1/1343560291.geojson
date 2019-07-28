@@ -25,6 +25,21 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Bangassi"
+    ],
+    "name:fra_x_preferred":[
+        "Bangassi"
+    ],
+    "name:ita_x_preferred":[
+        "Bangassi"
+    ],
+    "name:nld_x_preferred":[
+        "Bangassi"
+    ],
+    "name:spa_x_preferred":[
+        "Bangassi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1343560291,
-    "wof:lastmodified":1537096497,
+    "wof:lastmodified":1564309193,
     "wof:name":"Bangassi",
     "wof:parent_id":421192717,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:fra_x_preferred":[
         "Koloni"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u056c\u0578\u0576\u056b"
+    ],
+    "name:por_x_preferred":[
+        "Coloni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1343962893,
-    "wof:lastmodified":1537665148,
+    "wof:lastmodified":1564309024,
     "wof:name":"Koloni",
     "wof:parent_id":1108562867,
     "wof:placetype":"locality",

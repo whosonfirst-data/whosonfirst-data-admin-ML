@@ -25,6 +25,18 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Boba"
+    ],
+    "name:deu_x_preferred":[
+        "Boba"
+    ],
+    "name:ita_x_preferred":[
+        "Boba"
+    ],
+    "name:swe_x_preferred":[
+        "Boba"
+    ],
     "name:und_x_variant":[
         "Boda",
         "Boba"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1344048945,
-    "wof:lastmodified":1537665282,
+    "wof:lastmodified":1564309240,
     "wof:name":"Boba",
     "wof:parent_id":1108562827,
     "wof:placetype":"locality",

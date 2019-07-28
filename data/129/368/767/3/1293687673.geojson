@@ -25,6 +25,15 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Yele"
+    ],
+    "name:fra_x_preferred":[
+        "Yele"
+    ],
+    "name:swe_x_preferred":[
+        "Yele"
+    ],
     "name:und_x_variant":[
         "S\u00e9l\u00e9",
         "Y\u00e9l\u00e9"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1293687673,
-    "wof:lastmodified":1537665004,
+    "wof:lastmodified":1564309466,
     "wof:name":"Yele",
     "wof:parent_id":1108562845,
     "wof:placetype":"locality",

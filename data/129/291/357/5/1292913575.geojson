@@ -25,6 +25,12 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30ab\u30d0\u30e4\u98df\u54c1"
+    ],
+    "name:kor_x_preferred":[
+        "\uac00\ubc14\uc57c \uc2dd\ud488"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1292913575,
-    "wof:lastmodified":1536618090,
+    "wof:lastmodified":1564309503,
     "wof:name":"Kabaya",
     "wof:parent_id":1108562821,
     "wof:placetype":"locality",

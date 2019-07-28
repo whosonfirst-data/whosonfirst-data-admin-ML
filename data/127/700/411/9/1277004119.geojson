@@ -25,6 +25,33 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0645\u0627\u0648\u064a\u0629"
+    ],
+    "name:fry_x_preferred":[
+        "Lama-eftigen"
+    ],
+    "name:hun_x_preferred":[
+        "Lamini"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ub9c8\uc871"
+    ],
+    "name:lav_x_preferred":[
+        "Lamu cilts"
+    ],
+    "name:nno_x_preferred":[
+        "Lamadyr"
+    ],
+    "name:nor_x_preferred":[
+        "Lamadyr"
+    ],
+    "name:spa_x_preferred":[
+        "Lamini"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f8e\u6d32\u9a7c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1277004119,
-    "wof:lastmodified":1536873730,
+    "wof:lastmodified":1564309643,
     "wof:name":"Lamini",
     "wof:parent_id":421177885,
     "wof:placetype":"locality",

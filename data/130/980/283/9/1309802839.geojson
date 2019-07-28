@@ -25,6 +25,15 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Somo"
+    ],
+    "name:fra_x_preferred":[
+        "Somo"
+    ],
+    "name:ita_x_preferred":[
+        "Somo"
+    ],
     "name:und_x_variant":[
         "Somo",
         "Somou W\u00e9r\u00e9",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1309802839,
-    "wof:lastmodified":1537665045,
+    "wof:lastmodified":1564310737,
     "wof:name":"Somon-Ouere I",
     "wof:parent_id":1108562837,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bagaya"
+    ],
+    "name:fra_x_preferred":[
+        "Bagaya"
+    ],
+    "name:nld_x_preferred":[
+        "Bagaya"
+    ],
     "name:und_x_variant":[
         "Baga\u00efa",
         "Bagaya"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1226450233,
-    "wof:lastmodified":1537665275,
+    "wof:lastmodified":1564311333,
     "wof:name":"Bagaya",
     "wof:parent_id":421171903,
     "wof:placetype":"locality",

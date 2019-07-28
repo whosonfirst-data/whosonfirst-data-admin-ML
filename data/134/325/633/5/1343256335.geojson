@@ -25,6 +25,24 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tamala"
+    ],
+    "name:deu_x_preferred":[
+        "Tamala"
+    ],
+    "name:hrv_x_preferred":[
+        "Tamala"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043c\u0430\u043b\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0430\u043c\u0430\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Tamala"
+    ],
     "name:und_x_variant":[
         "Tamara",
         "Tomala",
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1343256335,
-    "wof:lastmodified":1537665036,
+    "wof:lastmodified":1564309146,
     "wof:name":"Tamala",
     "wof:parent_id":421177883,
     "wof:placetype":"locality",

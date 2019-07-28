@@ -25,6 +25,9 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0688\u0627\u0644\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1242779771,
-    "wof:lastmodified":1536773094,
+    "wof:lastmodified":1564310969,
     "wof:name":"Madala",
     "wof:parent_id":1108562855,
     "wof:placetype":"locality",

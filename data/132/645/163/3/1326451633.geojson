@@ -25,6 +25,39 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Momondo.com"
+    ],
+    "name:deu_x_preferred":[
+        "Momondo"
+    ],
+    "name:fin_x_preferred":[
+        "Momondo"
+    ],
+    "name:ita_x_preferred":[
+        "Momondo"
+    ],
+    "name:nor_x_preferred":[
+        "Momondo"
+    ],
+    "name:pol_x_preferred":[
+        "Momondo"
+    ],
+    "name:por_x_preferred":[
+        "Momondo"
+    ],
+    "name:ron_x_preferred":[
+        "Momondo"
+    ],
+    "name:rus_x_preferred":[
+        "Momondo"
+    ],
+    "name:spa_x_preferred":[
+        "Momondo"
+    ],
+    "name:ukr_x_preferred":[
+        "Momondo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +81,7 @@
         }
     ],
     "wof:id":1326451633,
-    "wof:lastmodified":1537096861,
+    "wof:lastmodified":1564308740,
     "wof:name":"Momondo",
     "wof:parent_id":421177883,
     "wof:placetype":"locality",

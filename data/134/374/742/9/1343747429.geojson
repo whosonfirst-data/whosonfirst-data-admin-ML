@@ -25,6 +25,18 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kowa"
+    ],
+    "name:deu_x_preferred":[
+        "Kowa"
+    ],
+    "name:fra_x_preferred":[
+        "K\u014dwa"
+    ],
+    "name:swe_x_preferred":[
+        "Kowa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1343747429,
-    "wof:lastmodified":1536828767,
+    "wof:lastmodified":1564309260,
     "wof:name":"Kowa",
     "wof:parent_id":1108562873,
     "wof:placetype":"locality",

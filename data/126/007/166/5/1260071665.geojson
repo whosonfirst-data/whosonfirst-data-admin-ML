@@ -25,9 +25,27 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Dio-Gare"
+    ],
+    "name:fra_x_preferred":[
+        "Dio-Gare"
+    ],
+    "name:ita_x_preferred":[
+        "Dio-Gare"
+    ],
+    "name:nld_x_preferred":[
+        "Dio-Gare"
+    ],
+    "name:spa_x_preferred":[
+        "Dio-Gare"
+    ],
     "name:und_x_variant":[
         "Dio",
         "Dio-Gare"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fea\u5967\u52a0\u96f7"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1260071665,
-    "wof:lastmodified":1537665207,
+    "wof:lastmodified":1564310283,
     "wof:name":"Dio-Gare",
     "wof:parent_id":421177883,
     "wof:placetype":"locality",

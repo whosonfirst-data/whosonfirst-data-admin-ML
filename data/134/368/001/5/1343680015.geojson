@@ -25,6 +25,24 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Sanankoroba"
+    ],
+    "name:fra_x_preferred":[
+        "Sanankoroba"
+    ],
+    "name:ita_x_preferred":[
+        "Sanankoroba"
+    ],
+    "name:nld_x_preferred":[
+        "Sanankoroba"
+    ],
+    "name:spa_x_preferred":[
+        "Sanankoroba"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u5357\u79d1\u7f85\u5df4"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1343680015,
-    "wof:lastmodified":1536927561,
+    "wof:lastmodified":1564309169,
     "wof:name":"Sanankoroba",
     "wof:parent_id":1108562821,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "And\u00e9ramboukane"
+    ],
+    "name:fin_x_preferred":[
+        "And\u00e9ramboukane"
+    ],
+    "name:fra_x_preferred":[
+        "And\u00e9ramboukane"
+    ],
+    "name:ita_x_preferred":[
+        "And\u00e9ramboukane"
+    ],
+    "name:nld_x_preferred":[
+        "And\u00e9ramboukane"
+    ],
+    "name:spa_x_preferred":[
+        "And\u00e9ramboukane"
+    ],
     "name:und_x_variant":[
         "Amderamboukan",
         "Anderamboukan",
@@ -32,6 +50,9 @@
         "And\u00e9ranboukane",
         "And\u00e9ramboukane",
         "And\u00e9ranboukan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u5fb7\u862d\u5e03\u5361\u5167"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1343746347,
-    "wof:lastmodified":1537665279,
+    "wof:lastmodified":1564309260,
     "wof:name":"Anderanboukan",
     "wof:parent_id":1108562875,
     "wof:placetype":"locality",

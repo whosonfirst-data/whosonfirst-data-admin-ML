@@ -25,8 +25,20 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dio\u00efla"
+    ],
+    "name:fin_x_preferred":[
+        "Dio\u00eflan piiri"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30a3\u30aa\u30a4\u30e9\u570f"
+    ],
     "name:und_x_variant":[
         "Dio\u00efla"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fea\u74e6\u62c9\u7701"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1327354941,
-    "wof:lastmodified":1537665228,
+    "wof:lastmodified":1564308865,
     "wof:name":"Dioila",
     "wof:parent_id":1108562833,
     "wof:placetype":"locality",

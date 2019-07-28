@@ -25,6 +25,24 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Almamy"
+    ],
+    "name:epo_x_preferred":[
+        "Almamio"
+    ],
+    "name:fra_x_preferred":[
+        "Almamy"
+    ],
+    "name:ful_x_preferred":[
+        "Almaami"
+    ],
+    "name:por_x_preferred":[
+        "Almani"
+    ],
+    "name:spa_x_preferred":[
+        "Almami"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1343859225,
-    "wof:lastmodified":1536668408,
+    "wof:lastmodified":1564309116,
     "wof:name":"Almami",
     "wof:parent_id":1108562861,
     "wof:placetype":"locality",

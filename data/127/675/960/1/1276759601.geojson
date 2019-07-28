@@ -25,6 +25,18 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Koumbala"
+    ],
+    "name:ita_x_preferred":[
+        "Koumbala"
+    ],
+    "name:msa_x_preferred":[
+        "Koumbala"
+    ],
+    "name:por_x_preferred":[
+        "Cumbala"
+    ],
     "name:und_x_variant":[
         "Koumala",
         "Koumbala"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1276759601,
-    "wof:lastmodified":1537665136,
+    "wof:lastmodified":1564309656,
     "wof:name":"Koumbala",
     "wof:parent_id":1108562825,
     "wof:placetype":"locality",

@@ -25,11 +25,20 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sirakoro"
+    ],
     "name:fra_x_preferred":[
         "Sirakoro"
     ],
     "name:fra_x_variant":[
         "Sirakorobougou"
+    ],
+    "name:spa_x_preferred":[
+        "Sirakoro"
+    ],
+    "name:swe_x_preferred":[
+        "Sirakoro"
     ],
     "name:und_x_variant":[
         "Sirakorobougou"
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1276224299,
-    "wof:lastmodified":1537665050,
+    "wof:lastmodified":1564309777,
     "wof:name":"Sirakoro",
     "wof:parent_id":1108562833,
     "wof:placetype":"locality",

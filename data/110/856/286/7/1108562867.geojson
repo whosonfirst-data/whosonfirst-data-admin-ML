@@ -27,6 +27,36 @@
     "name:eng_x_variant":[
         "Niono"
     ],
+    "name:epo_x_preferred":[
+        "Niono"
+    ],
+    "name:fin_x_preferred":[
+        "Niono"
+    ],
+    "name:fra_x_preferred":[
+        "Niono"
+    ],
+    "name:hun_x_preferred":[
+        "Niono"
+    ],
+    "name:ita_x_preferred":[
+        "Niono"
+    ],
+    "name:lit_x_preferred":[
+        "Nionas"
+    ],
+    "name:nld_x_preferred":[
+        "Niono"
+    ],
+    "name:pol_x_preferred":[
+        "Niono"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u043e\u043d\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Niono"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -50,7 +80,7 @@
         }
     ],
     "wof:id":1108562867,
-    "wof:lastmodified":1536615192,
+    "wof:lastmodified":1564310373,
     "wof:name":"Niono",
     "wof:parent_id":85674543,
     "wof:placetype":"county",

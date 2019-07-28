@@ -26,6 +26,66 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "DENSO Corporation"
+    ],
+    "name:ara_x_preferred":[
+        "\u062f\u0646\u0633\u0648"
+    ],
+    "name:cat_x_preferred":[
+        "Denso Corporation"
+    ],
+    "name:dan_x_preferred":[
+        "Denso"
+    ],
+    "name:deu_x_preferred":[
+        "Denso"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0646\u0633\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Denso"
+    ],
+    "name:fra_x_preferred":[
+        "Denso Corporation"
+    ],
+    "name:hun_x_preferred":[
+        "Denso"
+    ],
+    "name:ind_x_preferred":[
+        "Denso"
+    ],
+    "name:ita_x_preferred":[
+        "Denso"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30f3\u30bd\u30fc"
+    ],
+    "name:msa_x_preferred":[
+        "Denso"
+    ],
+    "name:nld_x_preferred":[
+        "Denso"
+    ],
+    "name:pol_x_preferred":[
+        "Denso"
+    ],
+    "name:por_x_preferred":[
+        "Denso"
+    ],
+    "name:rus_x_preferred":[
+        "Denso"
+    ],
+    "name:spa_x_preferred":[
+        "Denso Corporation"
+    ],
+    "name:tur_x_preferred":[
+        "Denso"
+    ],
+    "name:ukr_x_preferred":[
+        "Denso"
+    ],
     "name:und_x_variant":[
         "Dinso",
         "Denso"
@@ -53,7 +113,7 @@
         }
     ],
     "wof:id":1225854851,
-    "wof:lastmodified":1537665240,
+    "wof:lastmodified":1564311541,
     "wof:name":"Denso",
     "wof:parent_id":1108562821,
     "wof:placetype":"locality",
