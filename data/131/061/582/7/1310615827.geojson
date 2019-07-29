@@ -26,6 +26,21 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Tiongui"
+    ],
+    "name:fra_x_preferred":[
+        "Tiongui"
+    ],
+    "name:ita_x_preferred":[
+        "Tiongui"
+    ],
+    "name:nld_x_preferred":[
+        "Tiongui"
+    ],
+    "name:spa_x_preferred":[
+        "Tiongui"
+    ],
     "name:und_x_variant":[
         "Tiongni",
         "Tiongi",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1310615827,
-    "wof:lastmodified":1537665023,
+    "wof:lastmodified":1564310531,
     "wof:name":"Tiongui",
     "wof:parent_id":1108562819,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:fra_x_variant":[
         "Kouo"
     ],
+    "name:por_x_preferred":[
+        "Cu\u00f4"
+    ],
     "name:und_x_variant":[
         "Kouo"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1293711333,
-    "wof:lastmodified":1537665131,
+    "wof:lastmodified":1564309407,
     "wof:name":"Kwo",
     "wof:parent_id":421177885,
     "wof:placetype":"locality",

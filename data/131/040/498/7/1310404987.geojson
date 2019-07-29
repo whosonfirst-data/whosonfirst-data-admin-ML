@@ -25,6 +25,18 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Toura"
+    ],
+    "name:ita_x_preferred":[
+        "Toura"
+    ],
+    "name:msa_x_preferred":[
+        "Toura"
+    ],
+    "name:swe_x_preferred":[
+        "Toura"
+    ],
     "name:und_x_variant":[
         "Tora",
         "Tura",
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1310404987,
-    "wof:lastmodified":1537665014,
+    "wof:lastmodified":1564310425,
     "wof:name":"Toura",
     "wof:parent_id":421192717,
     "wof:placetype":"locality",

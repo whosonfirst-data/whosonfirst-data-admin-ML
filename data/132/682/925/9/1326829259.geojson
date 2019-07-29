@@ -25,6 +25,15 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Somo"
+    ],
+    "name:fra_x_preferred":[
+        "Somo"
+    ],
+    "name:ita_x_preferred":[
+        "Somo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1326829259,
-    "wof:lastmodified":1537568407,
+    "wof:lastmodified":1564308885,
     "wof:name":"Somo",
     "wof:parent_id":421192717,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Yankasso"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1243361269,
-    "wof:lastmodified":1536929128,
+    "wof:lastmodified":1564310777,
     "wof:name":"Yankasso",
     "wof:parent_id":1108562825,
     "wof:placetype":"locality",

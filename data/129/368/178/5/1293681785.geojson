@@ -25,6 +25,9 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Siraquel\u00e9"
+    ],
     "name:und_x_variant":[
         "S\u00e9rak\u00e9l\u00e9",
         "S\u00e9nak\u00e9l\u00e9",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1293681785,
-    "wof:lastmodified":1537665051,
+    "wof:lastmodified":1564309472,
     "wof:name":"Sirakele",
     "wof:parent_id":421177885,
     "wof:placetype":"locality",

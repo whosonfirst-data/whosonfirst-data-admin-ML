@@ -25,6 +25,9 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Kanou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1226236983,
-    "wof:lastmodified":1536946651,
+    "wof:lastmodified":1564311462,
     "wof:name":"Kanou",
     "wof:parent_id":1108562865,
     "wof:placetype":"locality",

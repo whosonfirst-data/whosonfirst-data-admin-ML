@@ -25,6 +25,21 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Batara"
+    ],
+    "name:deu_x_preferred":[
+        "Batara"
+    ],
+    "name:fra_x_preferred":[
+        "Batara"
+    ],
+    "name:pol_x_preferred":[
+        "Batara"
+    ],
+    "name:swe_x_preferred":[
+        "Batara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1343565859,
-    "wof:lastmodified":1537088427,
+    "wof:lastmodified":1564309197,
     "wof:name":"Batara",
     "wof:parent_id":421175221,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tienko"
+    ],
+    "name:ita_x_preferred":[
+        "Tienko"
+    ],
+    "name:msa_x_preferred":[
+        "Tienko"
+    ],
+    "name:ron_x_preferred":[
+        "Tienko"
+    ],
     "name:und_x_variant":[
         "Tienkouo",
         "Ti\u00e8nko"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1309827487,
-    "wof:lastmodified":1537665026,
+    "wof:lastmodified":1564310710,
     "wof:name":"Tienko",
     "wof:parent_id":1108562849,
     "wof:placetype":"locality",

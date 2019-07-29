@@ -25,8 +25,14 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Fofo"
+    ],
     "name:fra_x_preferred":[
         "Folo"
+    ],
+    "name:swe_x_preferred":[
+        "Fofo"
     ],
     "name:und_x_variant":[
         "Folo"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1293482409,
-    "wof:lastmodified":1537665192,
+    "wof:lastmodified":1564309398,
     "wof:name":"Fofo",
     "wof:parent_id":1108562819,
     "wof:placetype":"locality",

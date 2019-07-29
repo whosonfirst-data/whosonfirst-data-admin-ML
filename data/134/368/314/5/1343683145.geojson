@@ -25,6 +25,15 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kaban"
+    ],
+    "name:ita_x_preferred":[
+        "Kaban"
+    ],
+    "name:swe_x_preferred":[
+        "Kaban"
+    ],
     "name:und_x_variant":[
         "Ngaban",
         "Kaban"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1343683145,
-    "wof:lastmodified":1537665100,
+    "wof:lastmodified":1564309170,
     "wof:name":"Kaban",
     "wof:parent_id":421177883,
     "wof:placetype":"locality",

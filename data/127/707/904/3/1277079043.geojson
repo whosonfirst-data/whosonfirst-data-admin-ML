@@ -25,6 +25,24 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Fofana"
+    ],
+    "name:fra_x_preferred":[
+        "Fofana"
+    ],
+    "name:ita_x_preferred":[
+        "Fofana"
+    ],
+    "name:nds_x_preferred":[
+        "Fofana"
+    ],
+    "name:pol_x_preferred":[
+        "Fofana"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043e\u0444\u0430\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Ti\u00e9ma",
         "Fofana"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1277079043,
-    "wof:lastmodified":1537665288,
+    "wof:lastmodified":1564309635,
     "wof:name":"Fofana",
     "wof:parent_id":421192717,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u056c\u0578\u0576\u056b"
+    ],
+    "name:por_x_preferred":[
+        "Coloni"
+    ],
     "name:und_x_variant":[
         "Koleni",
         "Koloni"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1293492335,
-    "wof:lastmodified":1537665148,
+    "wof:lastmodified":1564309413,
     "wof:name":"Koloni",
     "wof:parent_id":1108562835,
     "wof:placetype":"locality",

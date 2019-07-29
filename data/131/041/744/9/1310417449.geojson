@@ -25,11 +25,23 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u043d\u0434\u0443"
+    ],
     "name:fra_x_preferred":[
         "Koundou"
     ],
     "name:fra_x_variant":[
         "Koundiou"
+    ],
+    "name:ita_x_preferred":[
+        "Koundou"
+    ],
+    "name:msa_x_preferred":[
+        "Koundou"
+    ],
+    "name:spa_x_preferred":[
+        "Koundou"
     ],
     "name:und_x_variant":[
         "Koundiou"
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1310417449,
-    "wof:lastmodified":1537665136,
+    "wof:lastmodified":1564310395,
     "wof:name":"Koundou",
     "wof:parent_id":1108562847,
     "wof:placetype":"locality",

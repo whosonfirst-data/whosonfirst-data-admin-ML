@@ -25,6 +25,9 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kabat\u00e9"
+    ],
     "name:und_x_variant":[
         "Kabat\u00e9"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1209925753,
-    "wof:lastmodified":1537665172,
+    "wof:lastmodified":1564310055,
     "wof:name":"Kabate",
     "wof:parent_id":421171549,
     "wof:placetype":"locality",

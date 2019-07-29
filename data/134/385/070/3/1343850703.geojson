@@ -25,6 +25,27 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Semi"
+    ],
+    "name:ceb_x_preferred":[
+        "Semi"
+    ],
+    "name:deu_x_preferred":[
+        "Semi"
+    ],
+    "name:ita_x_preferred":[
+        "Semi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30df"
+    ],
+    "name:por_x_preferred":[
+        "Semi"
+    ],
+    "name:swe_x_preferred":[
+        "Semi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1343850703,
-    "wof:lastmodified":1536680680,
+    "wof:lastmodified":1564309111,
     "wof:name":"Semi",
     "wof:parent_id":1108562829,
     "wof:placetype":"locality",

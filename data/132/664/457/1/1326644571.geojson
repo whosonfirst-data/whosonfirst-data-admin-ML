@@ -26,6 +26,21 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gouin"
+    ],
+    "name:deu_x_preferred":[
+        "Gouin"
+    ],
+    "name:fra_x_preferred":[
+        "Gouin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u044d\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Gouin"
+    ],
     "name:und_x_variant":[
         "Gouan",
         "Gouin"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1326644571,
-    "wof:lastmodified":1537665182,
+    "wof:lastmodified":1564308930,
     "wof:name":"Gouin",
     "wof:parent_id":1108562817,
     "wof:placetype":"locality",

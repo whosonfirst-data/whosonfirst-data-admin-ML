@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Korokoro"
     ],
+    "name:fra_x_variant":[
+        "Kouroukoro"
+    ],
     "name:und_x_variant":[
         "Korokoro"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1210038577,
-    "wof:lastmodified":1537665140,
+    "wof:lastmodified":1564310191,
     "wof:name":"Kouroukoro",
     "wof:parent_id":1108562829,
     "wof:placetype":"locality",

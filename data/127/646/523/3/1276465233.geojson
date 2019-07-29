@@ -25,6 +25,30 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Landi"
+    ],
+    "name:deu_x_preferred":[
+        "Landi"
+    ],
+    "name:fra_x_preferred":[
+        "Landi"
+    ],
+    "name:ita_x_preferred":[
+        "Landi"
+    ],
+    "name:pol_x_preferred":[
+        "Landi"
+    ],
+    "name:por_x_preferred":[
+        "Landi"
+    ],
+    "name:spa_x_preferred":[
+        "Landi"
+    ],
+    "name:swe_x_preferred":[
+        "Landi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1276465233,
-    "wof:lastmodified":1537095920,
+    "wof:lastmodified":1564309822,
     "wof:name":"Landi",
     "wof:parent_id":1108562827,
     "wof:placetype":"locality",

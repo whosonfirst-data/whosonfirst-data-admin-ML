@@ -25,6 +25,9 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09ae\u09a8\u09be"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1327157083,
-    "wof:lastmodified":1537075276,
+    "wof:lastmodified":1564308803,
     "wof:name":"Kamona",
     "wof:parent_id":1108562867,
     "wof:placetype":"locality",

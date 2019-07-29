@@ -25,11 +25,24 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Wola"
+    ],
+    "name:fin_x_preferred":[
+        "Wola"
+    ],
     "name:fra_x_preferred":[
         "Ouola"
     ],
     "name:fra_x_variant":[
-        "Ouala"
+        "Ouala",
+        "Wola"
+    ],
+    "name:ita_x_preferred":[
+        "Wola"
+    ],
+    "name:spa_x_preferred":[
+        "Wola"
     ],
     "name:und_x_variant":[
         "Ouala",
@@ -60,7 +73,7 @@
         }
     ],
     "wof:id":1259775815,
-    "wof:lastmodified":1537665079,
+    "wof:lastmodified":1564311136,
     "wof:name":"Wola",
     "wof:parent_id":1108562829,
     "wof:placetype":"locality",

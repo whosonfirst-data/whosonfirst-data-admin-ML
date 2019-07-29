@@ -25,6 +25,24 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bea"
+    ],
+    "name:fin_x_preferred":[
+        "Bea"
+    ],
+    "name:nld_x_preferred":[
+        "Bea"
+    ],
+    "name:pol_x_preferred":[
+        "Bea"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Bea"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1259506325,
-    "wof:lastmodified":1536825066,
+    "wof:lastmodified":1564311184,
     "wof:name":"Bea",
     "wof:parent_id":1108562837,
     "wof:placetype":"locality",

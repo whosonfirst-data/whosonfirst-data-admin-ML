@@ -26,6 +26,15 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Soloba"
+    ],
+    "name:pol_x_preferred":[
+        "Soloba"
+    ],
+    "name:szl_x_preferred":[
+        "Soloba"
+    ],
     "name:und_x_variant":[
         "Sotouba",
         "Soutouba",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1360194601,
-    "wof:lastmodified":1537665045,
+    "wof:lastmodified":1564310666,
     "wof:name":"Soloba",
     "wof:parent_id":1108562821,
     "wof:placetype":"locality",

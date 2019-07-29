@@ -25,6 +25,9 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Mourrah"
+    ],
     "name:und_x_variant":[
         "Murrari",
         "Mourrari",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1259589363,
-    "wof:lastmodified":1537665111,
+    "wof:lastmodified":1564311219,
     "wof:name":"Mora",
     "wof:parent_id":421187097,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Sorona"
+    ],
+    "name:spa_x_preferred":[
+        "Sorona"
+    ],
     "name:und_x_variant":[
         "Sorana",
         "Sorona"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1292993301,
-    "wof:lastmodified":1537665043,
+    "wof:lastmodified":1564309518,
     "wof:name":"Sorona",
     "wof:parent_id":1108562829,
     "wof:placetype":"locality",

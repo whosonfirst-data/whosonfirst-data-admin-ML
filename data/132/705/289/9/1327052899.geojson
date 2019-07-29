@@ -25,6 +25,9 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tesso"
+    ],
     "name:und_x_variant":[
         "T\u00e8kui",
         "T\u00e9asso",
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1327052899,
-    "wof:lastmodified":1537665029,
+    "wof:lastmodified":1564308831,
     "wof:name":"Tesso",
     "wof:parent_id":1108562843,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bouna"
+    ],
+    "name:fra_x_preferred":[
+        "Bouna"
+    ],
+    "name:ita_x_preferred":[
+        "Bouna"
+    ],
+    "name:swa_x_preferred":[
+        "Bouna"
+    ],
+    "name:swe_x_preferred":[
+        "Bouna"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1226048773,
-    "wof:lastmodified":1536721110,
+    "wof:lastmodified":1564311391,
     "wof:name":"Bouna",
     "wof:parent_id":421180081,
     "wof:placetype":"locality",

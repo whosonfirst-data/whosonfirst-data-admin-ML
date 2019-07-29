@@ -25,6 +25,9 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Zanssoni"
+    ],
     "name:und_x_variant":[
         "Zanao",
         "Zansoni"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1259872261,
-    "wof:lastmodified":1537664998,
+    "wof:lastmodified":1564311249,
     "wof:name":"Zansoni",
     "wof:parent_id":1108562825,
     "wof:placetype":"locality",

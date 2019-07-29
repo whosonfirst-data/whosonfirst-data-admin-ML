@@ -25,8 +25,26 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tenda"
+    ],
+    "name:deu_x_preferred":[
+        "Tenda"
+    ],
+    "name:fra_x_preferred":[
+        "Tenda"
+    ],
+    "name:ita_x_preferred":[
+        "Tenda"
+    ],
+    "name:swe_x_preferred":[
+        "Tenda"
+    ],
     "name:und_x_variant":[
         "Tanda",
+        "Tenda"
+    ],
+    "name:zho_x_preferred":[
         "Tenda"
     ],
     "src:geom":"geonames",
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1309906433,
-    "wof:lastmodified":1537665031,
+    "wof:lastmodified":1564310676,
     "wof:name":"Tenda",
     "wof:parent_id":1108562861,
     "wof:placetype":"locality",

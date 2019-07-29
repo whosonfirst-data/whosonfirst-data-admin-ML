@@ -25,6 +25,15 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dialakoro"
+    ],
+    "name:ita_x_preferred":[
+        "Dialakoro"
+    ],
+    "name:spa_x_preferred":[
+        "Dialakoro"
+    ],
     "name:und_x_variant":[
         "Dyalakoro",
         "Dialakoro"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1360076717,
-    "wof:lastmodified":1537665211,
+    "wof:lastmodified":1564310584,
     "wof:name":"Dialakoro",
     "wof:parent_id":421177883,
     "wof:placetype":"locality",

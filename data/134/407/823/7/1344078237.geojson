@@ -25,6 +25,30 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Semba"
+    ],
+    "name:deu_x_preferred":[
+        "Semba"
+    ],
+    "name:epo_x_preferred":[
+        "Sembo"
+    ],
+    "name:fra_x_preferred":[
+        "Semba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30f3\u30d0"
+    ],
+    "name:por_x_preferred":[
+        "Semba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043c\u0431\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Semba"
+    ],
     "name:und_x_variant":[
         "Simba",
         "S\u00e8mba"
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1344078237,
-    "wof:lastmodified":1537665060,
+    "wof:lastmodified":1564309085,
     "wof:name":"Semba",
     "wof:parent_id":1108562839,
     "wof:placetype":"locality",

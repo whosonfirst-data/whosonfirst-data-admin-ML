@@ -25,6 +25,9 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Nohi"
+    ],
     "name:und_x_variant":[
         "Noy\u00e9",
         "Nohi"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1326652859,
-    "wof:lastmodified":1537665092,
+    "wof:lastmodified":1564308956,
     "wof:name":"Nohi",
     "wof:parent_id":1108562853,
     "wof:placetype":"locality",

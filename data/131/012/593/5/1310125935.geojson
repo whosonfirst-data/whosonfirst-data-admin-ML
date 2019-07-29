@@ -25,6 +25,30 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Fita"
+    ],
+    "name:epo_x_preferred":[
+        "Fita"
+    ],
+    "name:ita_x_preferred":[
+        "Fita"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Fita"
+    ],
+    "name:tgl_x_preferred":[
+        "Fita"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0456\u0442\u0430"
+    ],
+    "name:xal_x_preferred":[
+        "\u0472 \u04af\u0437\u0433"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1310125935,
-    "wof:lastmodified":1536966813,
+    "wof:lastmodified":1564310381,
     "wof:name":"Fita",
     "wof:parent_id":1108562873,
     "wof:placetype":"locality",

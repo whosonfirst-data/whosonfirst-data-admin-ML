@@ -25,9 +25,147 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "B\u00f2rore"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0631\u0648\u0631\u0647"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0440\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Borore"
+    ],
+    "name:ceb_x_preferred":[
+        "Borore"
+    ],
+    "name:ces_x_preferred":[
+        "Borore"
+    ],
+    "name:dan_x_preferred":[
+        "Borore"
+    ],
+    "name:deu_x_preferred":[
+        "Borore"
+    ],
+    "name:epo_x_preferred":[
+        "Borore"
+    ],
+    "name:eus_x_preferred":[
+        "Borore"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u0648\u0631\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Borore"
+    ],
+    "name:fra_x_preferred":[
+        "Borore"
+    ],
+    "name:hrv_x_preferred":[
+        "Borore"
+    ],
+    "name:hun_x_preferred":[
+        "Borore"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0580\u0578\u0580\u0565"
+    ],
+    "name:ind_x_preferred":[
+        "Borore"
+    ],
+    "name:ita_x_preferred":[
+        "Borore"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30fc\u30ed\u30ec"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0440\u0435"
+    ],
+    "name:lat_x_preferred":[
+        "Borores"
+    ],
+    "name:lmo_x_preferred":[
+        "Borore"
+    ],
+    "name:msa_x_preferred":[
+        "Borore"
+    ],
+    "name:nap_x_preferred":[
+        "Borore"
+    ],
+    "name:nld_x_preferred":[
+        "Borore"
+    ],
+    "name:nno_x_preferred":[
+        "Borore"
+    ],
+    "name:nor_x_preferred":[
+        "Borore"
+    ],
+    "name:pms_x_preferred":[
+        "Borore"
+    ],
+    "name:pol_x_preferred":[
+        "Borore"
+    ],
+    "name:por_x_preferred":[
+        "Borore"
+    ],
+    "name:ron_x_preferred":[
+        "Borore"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0440\u0435"
+    ],
+    "name:scn_x_preferred":[
+        "Borore"
+    ],
+    "name:spa_x_preferred":[
+        "Borore"
+    ],
+    "name:sqi_x_preferred":[
+        "Borore"
+    ],
+    "name:srd_x_preferred":[
+        "B\u00f2rore"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0440\u0435"
+    ],
+    "name:tgl_x_preferred":[
+        "Borore"
+    ],
+    "name:tur_x_preferred":[
+        "Borore"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0440\u0435"
+    ],
     "name:und_x_variant":[
         "Woulalo",
         "Boror\u00e9"
+    ],
+    "name:uzb_x_preferred":[
+        "Borore"
+    ],
+    "name:vec_x_preferred":[
+        "Borore"
+    ],
+    "name:vie_x_preferred":[
+        "Borore"
+    ],
+    "name:vol_x_preferred":[
+        "Borore"
+    ],
+    "name:war_x_preferred":[
+        "Borore"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u7f57\u96f7"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +190,7 @@
         }
     ],
     "wof:id":1327230715,
-    "wof:lastmodified":1537665286,
+    "wof:lastmodified":1564308819,
     "wof:name":"Borore",
     "wof:parent_id":1108562843,
     "wof:placetype":"locality",

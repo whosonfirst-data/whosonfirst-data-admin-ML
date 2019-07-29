@@ -25,6 +25,9 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Boni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1343459213,
-    "wof:lastmodified":1537568435,
+    "wof:lastmodified":1564309257,
     "wof:name":"Boni",
     "wof:parent_id":421199983,
     "wof:placetype":"locality",

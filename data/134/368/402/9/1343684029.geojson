@@ -25,11 +25,32 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Zanina"
+    ],
     "name:fra_x_preferred":[
         "Nzanina"
     ],
+    "name:fra_x_variant":[
+        "Zanina"
+    ],
+    "name:ita_x_preferred":[
+        "Zanina"
+    ],
+    "name:nld_x_preferred":[
+        "Zanina"
+    ],
+    "name:por_x_preferred":[
+        "Zanina"
+    ],
+    "name:spa_x_preferred":[
+        "Zanina"
+    ],
     "name:und_x_variant":[
         "Nzanina"
+    ],
+    "name:zho_x_preferred":[
+        "\u624e\u5c3c\u7d0d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1343684029,
-    "wof:lastmodified":1537665084,
+    "wof:lastmodified":1564309173,
     "wof:name":"Zanina",
     "wof:parent_id":1108562819,
     "wof:placetype":"locality",

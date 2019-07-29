@@ -25,6 +25,15 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Karaga"
+    ],
+    "name:fra_x_preferred":[
+        "Karaga"
+    ],
+    "name:swe_x_preferred":[
+        "Karaga"
+    ],
     "name:und_x_variant":[
         "Karga",
         "Kanga",
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1243079061,
-    "wof:lastmodified":1537665165,
+    "wof:lastmodified":1564310757,
     "wof:name":"Karaga",
     "wof:parent_id":1108562855,
     "wof:placetype":"locality",

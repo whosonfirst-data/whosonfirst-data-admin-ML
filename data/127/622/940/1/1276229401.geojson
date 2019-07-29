@@ -25,6 +25,9 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0627\u0645"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1276229401,
-    "wof:lastmodified":1536918682,
+    "wof:lastmodified":1564309775,
     "wof:name":"Maram",
     "wof:parent_id":421171549,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Dansa"
+    ],
+    "name:ita_x_preferred":[
+        "Dansa"
+    ],
     "name:und_x_variant":[
         "Danza",
         "Dansa"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1276448791,
-    "wof:lastmodified":1537665243,
+    "wof:lastmodified":1564309673,
     "wof:name":"Dansa",
     "wof:parent_id":421199983,
     "wof:placetype":"locality",

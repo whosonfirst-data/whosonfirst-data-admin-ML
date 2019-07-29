@@ -25,6 +25,18 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sido"
+    ],
+    "name:deu_x_preferred":[
+        "Sido"
+    ],
+    "name:fra_x_preferred":[
+        "Sido"
+    ],
+    "name:swe_x_preferred":[
+        "Sido"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1277098009,
-    "wof:lastmodified":1536745369,
+    "wof:lastmodified":1564309628,
     "wof:name":"Sido",
     "wof:parent_id":1108562851,
     "wof:placetype":"locality",

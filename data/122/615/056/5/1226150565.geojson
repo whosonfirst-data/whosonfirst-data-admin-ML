@@ -25,6 +25,12 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sonson"
+    ],
+    "name:swe_x_preferred":[
+        "Sonson"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1226150565,
-    "wof:lastmodified":1537067734,
+    "wof:lastmodified":1564311476,
     "wof:name":"Sonson",
     "wof:parent_id":1108562847,
     "wof:placetype":"locality",

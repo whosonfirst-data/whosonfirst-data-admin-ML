@@ -25,6 +25,24 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nema"
+    ],
+    "name:epo_x_preferred":[
+        "Nema"
+    ],
+    "name:fra_x_preferred":[
+        "Nema"
+    ],
+    "name:ita_x_preferred":[
+        "Nema"
+    ],
+    "name:swe_x_preferred":[
+        "Nema"
+    ],
+    "name:tur_x_preferred":[
+        "Nema"
+    ],
     "name:und_x_variant":[
         "Oro\u00e8l\u00e9ne",
         "N\u00e9ma"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1360009669,
-    "wof:lastmodified":1537665285,
+    "wof:lastmodified":1564310591,
     "wof:name":"Nema",
     "wof:parent_id":1108562845,
     "wof:placetype":"locality",

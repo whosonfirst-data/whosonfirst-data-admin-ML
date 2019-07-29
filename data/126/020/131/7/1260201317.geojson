@@ -25,6 +25,9 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043d\u0430\u043d\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1260201317,
-    "wof:lastmodified":1536822597,
+    "wof:lastmodified":1564310322,
     "wof:name":"Kanana",
     "wof:parent_id":1108562839,
     "wof:placetype":"locality",

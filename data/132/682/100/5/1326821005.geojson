@@ -25,10 +25,28 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Banikane"
+    ],
+    "name:fra_x_preferred":[
+        "Banikane"
+    ],
+    "name:ita_x_preferred":[
+        "Banikane"
+    ],
+    "name:nld_x_preferred":[
+        "Banikane"
+    ],
+    "name:spa_x_preferred":[
+        "Banikane"
+    ],
     "name:und_x_variant":[
         "Banekane",
         "Banikan",
         "Banikane"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5167\u5361\u5167"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1326821005,
-    "wof:lastmodified":1537665269,
+    "wof:lastmodified":1564308885,
     "wof:name":"Banikane",
     "wof:parent_id":890418895,
     "wof:placetype":"locality",

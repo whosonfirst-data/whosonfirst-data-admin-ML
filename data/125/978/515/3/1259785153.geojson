@@ -29,6 +29,9 @@
         "Lany Tounka",
         "Lani Tounka"
     ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0646\u06cc \u0679\u0646\u06a9\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1259785153,
-    "wof:lastmodified":1537665130,
+    "wof:lastmodified":1564311170,
     "wof:name":"Lani Tounka",
     "wof:parent_id":421171549,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Sope"
+    ],
+    "name:spa_x_preferred":[
+        "Huarache"
+    ],
+    "name:swe_x_preferred":[
+        "Sope"
+    ],
     "name:und_x_variant":[
         "Sopi\u00e9",
         "Sop\u00e9"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1242687745,
-    "wof:lastmodified":1537665043,
+    "wof:lastmodified":1564310870,
     "wof:name":"Sope",
     "wof:parent_id":1108562825,
     "wof:placetype":"locality",

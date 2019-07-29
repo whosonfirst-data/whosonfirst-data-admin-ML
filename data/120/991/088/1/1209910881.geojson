@@ -25,6 +25,12 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Warwasi"
+    ],
+    "name:pol_x_preferred":[
+        "Warwasi"
+    ],
     "name:und_x_variant":[
         "Warwassi",
         "Warwasi"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1209910881,
-    "wof:lastmodified":1537665009,
+    "wof:lastmodified":1564309924,
     "wof:name":"Warwasi",
     "wof:parent_id":1108562865,
     "wof:placetype":"locality",

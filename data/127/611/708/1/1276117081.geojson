@@ -25,6 +25,15 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Douna"
+    ],
+    "name:fra_x_preferred":[
+        "Douna"
+    ],
+    "name:swe_x_preferred":[
+        "Douna"
+    ],
     "name:und_x_variant":[
         "Somono",
         "Somona",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1276117081,
-    "wof:lastmodified":1537665213,
+    "wof:lastmodified":1564309707,
     "wof:name":"Douna",
     "wof:parent_id":421175221,
     "wof:placetype":"locality",

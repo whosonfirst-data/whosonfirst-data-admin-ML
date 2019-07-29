@@ -25,6 +25,72 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0422\u043e\u043d\u0444\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Tonfa"
+    ],
+    "name:ces_x_preferred":[
+        "Tonfa"
+    ],
+    "name:deu_x_preferred":[
+        "Tonfa"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0646\u0641\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Tonfa"
+    ],
+    "name:fra_x_preferred":[
+        "Tonfa"
+    ],
+    "name:fry_x_preferred":[
+        "Tonfa"
+    ],
+    "name:ind_x_preferred":[
+        "Tonfa"
+    ],
+    "name:ita_x_preferred":[
+        "Tonfa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30f3\u30d5\u30a1\u30fc"
+    ],
+    "name:lit_x_preferred":[
+        "Tonfa"
+    ],
+    "name:nld_x_preferred":[
+        "Tonfa"
+    ],
+    "name:nor_x_preferred":[
+        "Tonfa"
+    ],
+    "name:pol_x_preferred":[
+        "Tonfa"
+    ],
+    "name:por_x_preferred":[
+        "Porrete#Tonfa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043d\u0444\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Tonfa"
+    ],
+    "name:spa_x_preferred":[
+        "Tonfa"
+    ],
+    "name:swe_x_preferred":[
+        "Tonfa"
+    ],
+    "name:tur_x_preferred":[
+        "Tonfa"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1ea3i"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +114,7 @@
         }
     ],
     "wof:id":1293485097,
-    "wof:lastmodified":1536790919,
+    "wof:lastmodified":1564309397,
     "wof:name":"Tonfa",
     "wof:parent_id":1108562829,
     "wof:placetype":"locality",

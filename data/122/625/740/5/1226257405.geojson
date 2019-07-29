@@ -26,6 +26,15 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e09\u6627\u8036\u6212"
+    ],
+    "name:lat_x_preferred":[
+        "Samaya"
+    ],
+    "name:pol_x_preferred":[
+        "Samaja"
+    ],
     "name:und_x_variant":[
         "Sama\u00efa",
         "Samaya"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1226257405,
-    "wof:lastmodified":1537665071,
+    "wof:lastmodified":1564311446,
     "wof:name":"Samaya",
     "wof:parent_id":1108562827,
     "wof:placetype":"locality",

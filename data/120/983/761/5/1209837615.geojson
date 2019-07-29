@@ -25,6 +25,15 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Siou"
+    ],
+    "name:fra_x_preferred":[
+        "Siou"
+    ],
+    "name:swe_x_preferred":[
+        "Siou"
+    ],
     "name:und_x_variant":[
         "Sihou",
         "Siou"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1209837615,
-    "wof:lastmodified":1537665051,
+    "wof:lastmodified":1564309980,
     "wof:name":"Siou",
     "wof:parent_id":421177885,
     "wof:placetype":"locality",

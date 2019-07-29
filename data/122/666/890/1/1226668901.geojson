@@ -25,6 +25,24 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Badia"
+    ],
+    "name:fra_x_preferred":[
+        "Badia"
+    ],
+    "name:ita_x_preferred":[
+        "Badia"
+    ],
+    "name:nld_x_preferred":[
+        "Badia"
+    ],
+    "name:spa_x_preferred":[
+        "Badia"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u8fea\u4e9e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1226668901,
-    "wof:lastmodified":1537568441,
+    "wof:lastmodified":1564311413,
     "wof:name":"Badia",
     "wof:parent_id":421175221,
     "wof:placetype":"locality",

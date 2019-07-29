@@ -25,6 +25,30 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kouba"
+    ],
+    "name:ces_x_preferred":[
+        "Kouba"
+    ],
+    "name:deu_x_preferred":[
+        "Kouba"
+    ],
+    "name:fra_x_preferred":[
+        "Kouba"
+    ],
+    "name:msa_x_preferred":[
+        "Kouba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0443\u0431\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Kouba"
+    ],
+    "name:swe_x_preferred":[
+        "Kouba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1292898643,
-    "wof:lastmodified":1536641025,
+    "wof:lastmodified":1564309364,
     "wof:name":"Kouba",
     "wof:parent_id":1108562825,
     "wof:placetype":"locality",

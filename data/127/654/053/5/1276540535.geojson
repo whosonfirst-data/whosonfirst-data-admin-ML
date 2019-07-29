@@ -25,6 +25,39 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Tomba"
+    ],
+    "name:ceb_x_preferred":[
+        "Tomba"
+    ],
+    "name:ces_x_preferred":[
+        "Tomba"
+    ],
+    "name:fin_x_preferred":[
+        "Tomba"
+    ],
+    "name:fra_x_preferred":[
+        "Tomba"
+    ],
+    "name:ita_x_preferred":[
+        "Tomba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30f3\u30d0"
+    ],
+    "name:por_x_preferred":[
+        "Tomba"
+    ],
+    "name:ron_x_preferred":[
+        "Tomba"
+    ],
+    "name:srp_x_preferred":[
+        "Tomba"
+    ],
+    "name:swe_x_preferred":[
+        "Tomba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +81,7 @@
         }
     ],
     "wof:id":1276540535,
-    "wof:lastmodified":1536997623,
+    "wof:lastmodified":1564309878,
     "wof:name":"Tomba",
     "wof:parent_id":1108562827,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Douna"
+    ],
+    "name:fra_x_preferred":[
+        "Douna"
+    ],
+    "name:swe_x_preferred":[
+        "Douna"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1343561747,
-    "wof:lastmodified":1537094406,
+    "wof:lastmodified":1564309188,
     "wof:name":"Douna",
     "wof:parent_id":421199983,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Goundaka"
+    ],
     "name:und_x_variant":[
         "Boundaga",
         "Gundaka",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1243369835,
-    "wof:lastmodified":1537665181,
+    "wof:lastmodified":1564310776,
     "wof:name":"Goundaka",
     "wof:parent_id":421187097,
     "wof:placetype":"locality",

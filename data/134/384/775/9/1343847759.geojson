@@ -25,6 +25,27 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Garat"
+    ],
+    "name:deu_x_preferred":[
+        "Garat"
+    ],
+    "name:eus_x_preferred":[
+        "Garat"
+    ],
+    "name:fra_x_preferred":[
+        "Garat"
+    ],
+    "name:pol_x_preferred":[
+        "Garat"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Garat"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1343847759,
-    "wof:lastmodified":1536684914,
+    "wof:lastmodified":1564309108,
     "wof:name":"Garat",
     "wof:parent_id":1108562879,
     "wof:placetype":"locality",

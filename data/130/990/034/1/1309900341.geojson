@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Kassa"
     ],
+    "name:swe_x_preferred":[
+        "Kosa"
+    ],
     "name:und_x_variant":[
         "Kassa"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1309900341,
-    "wof:lastmodified":1537665164,
+    "wof:lastmodified":1564310683,
     "wof:name":"Kosa",
     "wof:parent_id":1108562833,
     "wof:placetype":"locality",

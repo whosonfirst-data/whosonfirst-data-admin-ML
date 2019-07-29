@@ -25,6 +25,18 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0428\u0447\u043e\u0434\u0440\u044b \u0432\u0435\u0447\u0430\u0440"
+    ],
+    "name:fra_x_preferred":[
+        "Malanka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0429\u0435\u0434\u0440\u044b\u0439 \u0432\u0435\u0447\u0435\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u043d\u043a\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1293591173,
-    "wof:lastmodified":1536636440,
+    "wof:lastmodified":1564309455,
     "wof:name":"Malanka",
     "wof:parent_id":1108562855,
     "wof:placetype":"locality",

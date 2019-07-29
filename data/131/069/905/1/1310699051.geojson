@@ -25,10 +25,34 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bam_x_preferred":[
+        "Finkolo"
+    ],
+    "name:fin_x_preferred":[
+        "Finkolo"
+    ],
+    "name:fra_x_preferred":[
+        "Finkolo"
+    ],
+    "name:ita_x_preferred":[
+        "Finkolo"
+    ],
+    "name:nld_x_preferred":[
+        "Finkolo"
+    ],
+    "name:por_x_preferred":[
+        "Fincolo"
+    ],
+    "name:spa_x_preferred":[
+        "Finkolo"
+    ],
     "name:und_x_variant":[
         "Fenkolo",
         "Finkolo",
         "Finnkolo"
+    ],
+    "name:zho_x_preferred":[
+        "\u82ac\u79d1\u6d1b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1310699051,
-    "wof:lastmodified":1537665193,
+    "wof:lastmodified":1564310561,
     "wof:name":"Finnkolo",
     "wof:parent_id":1108562825,
     "wof:placetype":"locality",

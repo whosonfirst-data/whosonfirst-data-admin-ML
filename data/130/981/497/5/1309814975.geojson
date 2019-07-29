@@ -25,10 +25,31 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Lakhaman\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Lakaman\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Lakaman\u00e9"
+    ],
+    "name:nld_x_preferred":[
+        "Lakaman\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Lakaman\u00e9"
+    ],
     "name:und_x_variant":[
         "Lankaman\u00e9",
         "Lakamin\u00e9",
         "Lakaman\u00e9"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u06a9\u0627\u0645\u0627\u0646\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5361\u99ac\u5167"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1309814975,
-    "wof:lastmodified":1537665130,
+    "wof:lastmodified":1564310744,
     "wof:name":"Lakamane",
     "wof:parent_id":1108562857,
     "wof:placetype":"locality",

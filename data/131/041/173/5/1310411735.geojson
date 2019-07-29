@@ -25,6 +25,18 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dian"
+    ],
+    "name:fra_x_preferred":[
+        "Dian"
+    ],
+    "name:ita_x_preferred":[
+        "Dian"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u044f\u043d\u044c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1310411735,
-    "wof:lastmodified":1537050132,
+    "wof:lastmodified":1564310391,
     "wof:name":"Dian",
     "wof:parent_id":1108562845,
     "wof:placetype":"locality",

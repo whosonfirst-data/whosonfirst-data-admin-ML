@@ -25,16 +25,32 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Wacoro"
+    ],
     "name:fra_x_preferred":[
         "Ouakoro"
     ],
     "name:fra_x_variant":[
-        "Ouakou"
+        "Ouakou",
+        "Wacoro"
+    ],
+    "name:ita_x_preferred":[
+        "Wacoro"
+    ],
+    "name:nld_x_preferred":[
+        "Wacoro"
+    ],
+    "name:spa_x_preferred":[
+        "Wacoro"
     ],
     "name:und_x_variant":[
         "Ouakou",
         "Wakoro",
         "Ouakoro"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u79d1\u7f85"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +76,7 @@
         }
     ],
     "wof:id":1292900539,
-    "wof:lastmodified":1537665082,
+    "wof:lastmodified":1564309509,
     "wof:name":"Wakoro",
     "wof:parent_id":1108562833,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bingata"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u043d\u0433\u0430\u0442\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1226328097,
-    "wof:lastmodified":1536814261,
+    "wof:lastmodified":1564311407,
     "wof:name":"Bingata",
     "wof:parent_id":421172359,
     "wof:placetype":"locality",

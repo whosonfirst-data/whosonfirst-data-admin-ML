@@ -25,6 +25,12 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Guiri"
+    ],
+    "name:hun_x_preferred":[
+        "Guiri"
+    ],
     "name:und_x_variant":[
         "Guiri-Ka\u00efna",
         "Guiri"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1259402691,
-    "wof:lastmodified":1537665176,
+    "wof:lastmodified":1564311155,
     "wof:name":"Guiri",
     "wof:parent_id":890418895,
     "wof:placetype":"locality",

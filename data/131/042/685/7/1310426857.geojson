@@ -25,6 +25,9 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sebbe"
+    ],
     "name:und_x_variant":[
         "Sob\u00e9",
         "S\u00e9b\u00e9"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1310426857,
-    "wof:lastmodified":1537665064,
+    "wof:lastmodified":1564310480,
     "wof:name":"Sebe",
     "wof:parent_id":421177883,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kalo"
+    ],
+    "name:dan_x_preferred":[
+        "Kal\u00f8"
+    ],
+    "name:deu_x_preferred":[
+        "Kalo"
+    ],
+    "name:swe_x_preferred":[
+        "Kalo"
+    ],
     "name:und_x_variant":[
         "Kato",
         "Kalo"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1327354865,
-    "wof:lastmodified":1537665169,
+    "wof:lastmodified":1564308864,
     "wof:name":"Kalo",
     "wof:parent_id":1108562839,
     "wof:placetype":"locality",

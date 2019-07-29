@@ -25,6 +25,45 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0642\u0631\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Bougara"
+    ],
+    "name:ceb_x_preferred":[
+        "Bougara"
+    ],
+    "name:fra_x_preferred":[
+        "Bougara"
+    ],
+    "name:ita_x_preferred":[
+        "Buqara"
+    ],
+    "name:kab_x_preferred":[
+        "Bugerra"
+    ],
+    "name:msa_x_preferred":[
+        "Bougara"
+    ],
+    "name:por_x_preferred":[
+        "Bougara"
+    ],
+    "name:ron_x_preferred":[
+        "Bougara"
+    ],
+    "name:spa_x_preferred":[
+        "Bougara"
+    ],
+    "name:swe_x_preferred":[
+        "Bougara"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0642\u0631\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Bougara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632553
@@ -42,7 +81,7 @@
         }
     ],
     "wof:id":1209113689,
-    "wof:lastmodified":1536297323,
+    "wof:lastmodified":1564310109,
     "wof:name":"Bougara",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",

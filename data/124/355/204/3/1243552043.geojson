@@ -25,6 +25,15 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sokoro"
+    ],
+    "name:ita_x_preferred":[
+        "Sokoro"
+    ],
+    "name:msa_x_preferred":[
+        "Sokoro"
+    ],
     "name:und_x_variant":[
         "Sokoroni",
         "Sokoro"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1243552043,
-    "wof:lastmodified":1537665046,
+    "wof:lastmodified":1564310812,
     "wof:name":"Sokoro",
     "wof:parent_id":1108562829,
     "wof:placetype":"locality",

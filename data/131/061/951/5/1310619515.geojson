@@ -26,8 +26,17 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dalama"
+    ],
+    "name:tur_x_preferred":[
+        "Dalama"
+    ],
     "name:und_x_variant":[
         "Dalaba",
+        "Dalama"
+    ],
+    "name:vie_x_preferred":[
         "Dalama"
     ],
     "src:geom":"geonames",
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1310619515,
-    "wof:lastmodified":1537665245,
+    "wof:lastmodified":1564310530,
     "wof:name":"Dalama",
     "wof:parent_id":1108562847,
     "wof:placetype":"locality",

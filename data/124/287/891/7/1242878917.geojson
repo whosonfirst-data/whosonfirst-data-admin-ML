@@ -25,6 +25,21 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yardi"
+    ],
+    "name:fra_x_preferred":[
+        "Yardie"
+    ],
+    "name:ita_x_preferred":[
+        "Yardies"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0440\u0434\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Yardie"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1242878917,
-    "wof:lastmodified":1536627888,
+    "wof:lastmodified":1564310833,
     "wof:name":"Yardie",
     "wof:parent_id":421175221,
     "wof:placetype":"locality",

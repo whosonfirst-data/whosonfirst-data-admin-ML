@@ -25,6 +25,24 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bondo"
+    ],
+    "name:fin_x_preferred":[
+        "Bondo"
+    ],
+    "name:fra_x_preferred":[
+        "Bondo"
+    ],
+    "name:ita_x_preferred":[
+        "Bondo"
+    ],
+    "name:spa_x_preferred":[
+        "Bondo"
+    ],
+    "name:zho_x_preferred":[
+        "\u90a6\u591a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1327425653,
-    "wof:lastmodified":1537568439,
+    "wof:lastmodified":1564308993,
     "wof:name":"Bondo",
     "wof:parent_id":421177883,
     "wof:placetype":"locality",

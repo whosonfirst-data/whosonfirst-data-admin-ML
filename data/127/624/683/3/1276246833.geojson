@@ -25,6 +25,126 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Nena"
+    ],
+    "name:als_x_preferred":[
+        "Nena"
+    ],
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0646\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Nena"
+    ],
+    "name:azb_x_preferred":[
+        "\u0646\u0646\u0627"
+    ],
+    "name:bre_x_preferred":[
+        "Nena"
+    ],
+    "name:cat_x_preferred":[
+        "Nena"
+    ],
+    "name:ces_x_preferred":[
+        "Nena"
+    ],
+    "name:dan_x_preferred":[
+        "Nena"
+    ],
+    "name:deu_x_preferred":[
+        "Nena"
+    ],
+    "name:ell_x_preferred":[
+        "Nena"
+    ],
+    "name:epo_x_preferred":[
+        "Nena"
+    ],
+    "name:est_x_preferred":[
+        "Nena"
+    ],
+    "name:eus_x_preferred":[
+        "Nena"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0646\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Nena"
+    ],
+    "name:fra_x_preferred":[
+        "Nena"
+    ],
+    "name:glg_x_preferred":[
+        "Nena"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05e0\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Nena"
+    ],
+    "name:ind_x_preferred":[
+        "Nena"
+    ],
+    "name:ita_x_preferred":[
+        "Nena"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cd\u30fc\u30ca"
+    ],
+    "name:lav_x_preferred":[
+        "Nena"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u0435\u043d\u0430"
+    ],
+    "name:mon_x_preferred":[
+        "\u041d\u0435\u043d\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Nena"
+    ],
+    "name:nor_x_preferred":[
+        "Nena"
+    ],
+    "name:oci_x_preferred":[
+        "Nena"
+    ],
+    "name:pol_x_preferred":[
+        "Nena"
+    ],
+    "name:por_x_preferred":[
+        "Nena"
+    ],
+    "name:rus_x_preferred":[
+        "Nena"
+    ],
+    "name:sco_x_preferred":[
+        "Nena"
+    ],
+    "name:slk_x_preferred":[
+        "Nena"
+    ],
+    "name:spa_x_preferred":[
+        "Nena"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0435\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Nena"
+    ],
+    "name:tur_x_preferred":[
+        "Nena"
+    ],
+    "name:ukr_x_preferred":[
+        "Nena"
+    ],
+    "name:zho_x_preferred":[
+        "\u59ae\u5a1c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +168,7 @@
         }
     ],
     "wof:id":1276246833,
-    "wof:lastmodified":1536894294,
+    "wof:lastmodified":1564309808,
     "wof:name":"Nena",
     "wof:parent_id":421171903,
     "wof:placetype":"locality",

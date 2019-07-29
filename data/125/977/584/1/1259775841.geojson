@@ -25,14 +25,41 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Katiola"
+    ],
     "name:fra_x_preferred":[
         "Katiola"
     ],
     "name:fra_x_variant":[
         "Kantiola"
     ],
+    "name:ita_x_preferred":[
+        "Katiola"
+    ],
+    "name:msa_x_preferred":[
+        "Katiola"
+    ],
+    "name:pol_x_preferred":[
+        "Katiola"
+    ],
+    "name:ron_x_preferred":[
+        "Katiola"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0442\u0438\u043e\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Katiola"
+    ],
+    "name:swe_x_preferred":[
+        "Katiola"
+    ],
     "name:und_x_variant":[
         "Kantiola"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u8482\u5967\u62c9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +84,7 @@
         }
     ],
     "wof:id":1259775841,
-    "wof:lastmodified":1537665162,
+    "wof:lastmodified":1564311137,
     "wof:name":"Katiola",
     "wof:parent_id":1108562819,
     "wof:placetype":"locality",

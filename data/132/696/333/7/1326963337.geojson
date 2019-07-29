@@ -25,6 +25,36 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "T\u0259k\u0259"
+    ],
+    "name:cat_x_preferred":[
+        "Teke"
+    ],
+    "name:ceb_x_preferred":[
+        "Teke"
+    ],
+    "name:deu_x_preferred":[
+        "Teke"
+    ],
+    "name:fra_x_preferred":[
+        "Teke"
+    ],
+    "name:hun_x_preferred":[
+        "Teke"
+    ],
+    "name:ita_x_preferred":[
+        "Teke"
+    ],
+    "name:swe_x_preferred":[
+        "Teke"
+    ],
+    "name:tur_x_preferred":[
+        "Teke"
+    ],
+    "name:uzb_x_preferred":[
+        "Teke"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1326963337,
-    "wof:lastmodified":1536858735,
+    "wof:lastmodified":1564308952,
     "wof:name":"Teke",
     "wof:parent_id":421180081,
     "wof:placetype":"locality",

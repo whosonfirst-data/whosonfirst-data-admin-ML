@@ -25,6 +25,21 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Samina"
+    ],
+    "name:ceb_x_preferred":[
+        "Samina"
+    ],
+    "name:nds_x_preferred":[
+        "Samina"
+    ],
+    "name:pol_x_preferred":[
+        "Samina"
+    ],
+    "name:swe_x_preferred":[
+        "Samina"
+    ],
     "name:und_x_variant":[
         "Saomina",
         "Samina"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1225951579,
-    "wof:lastmodified":1537665070,
+    "wof:lastmodified":1564311292,
     "wof:name":"Samina",
     "wof:parent_id":1108562847,
     "wof:placetype":"locality",

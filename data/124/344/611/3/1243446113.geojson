@@ -25,8 +25,23 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Domi"
+    ],
+    "name:deu_x_preferred":[
+        "Domi"
+    ],
+    "name:fin_x_preferred":[
+        "Domi"
+    ],
     "name:fra_x_preferred":[
         "Domi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043c\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043c\u0456"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1243446113,
-    "wof:lastmodified":1537665219,
+    "wof:lastmodified":1564311071,
     "wof:name":"Domi",
     "wof:parent_id":1108562833,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tienko"
+    ],
+    "name:ita_x_preferred":[
+        "Tienko"
+    ],
+    "name:msa_x_preferred":[
+        "Tienko"
+    ],
+    "name:ron_x_preferred":[
+        "Tienko"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1310097967,
-    "wof:lastmodified":1537006632,
+    "wof:lastmodified":1564310441,
     "wof:name":"Tienko",
     "wof:parent_id":1108562821,
     "wof:placetype":"locality",

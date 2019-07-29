@@ -25,6 +25,27 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tombo"
+    ],
+    "name:deu_x_preferred":[
+        "Tombo"
+    ],
+    "name:glg_x_preferred":[
+        "Tombo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043c\u0431\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Tombo"
+    ],
+    "name:swe_x_preferred":[
+        "Tombo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u043c\u0431\u043e"
+    ],
     "name:und_x_variant":[
         "Tonbo",
         "Tombo"
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1327146095,
-    "wof:lastmodified":1537665020,
+    "wof:lastmodified":1564308801,
     "wof:name":"Tombo",
     "wof:parent_id":421171903,
     "wof:placetype":"locality",

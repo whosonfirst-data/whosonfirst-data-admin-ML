@@ -25,6 +25,9 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kalabougou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1360290369,
-    "wof:lastmodified":1537568424,
+    "wof:lastmodified":1564310641,
     "wof:name":"Kalabougou",
     "wof:parent_id":421175221,
     "wof:placetype":"locality",

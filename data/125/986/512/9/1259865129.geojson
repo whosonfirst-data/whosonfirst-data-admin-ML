@@ -25,9 +25,27 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Sareyamou"
+    ],
+    "name:fra_x_preferred":[
+        "Sareyamou"
+    ],
+    "name:ita_x_preferred":[
+        "Sareyamou"
+    ],
+    "name:nld_x_preferred":[
+        "Sareyamou"
+    ],
+    "name:spa_x_preferred":[
+        "Sareyamou"
+    ],
     "name:und_x_variant":[
         "Sarayamou",
         "Sar\u00e9-Yamou"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u96f7\u4e9e\u7a46"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1259865129,
-    "wof:lastmodified":1537665064,
+    "wof:lastmodified":1564311276,
     "wof:name":"Sare-Yamou",
     "wof:parent_id":421172359,
     "wof:placetype":"locality",

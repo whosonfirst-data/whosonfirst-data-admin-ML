@@ -25,6 +25,9 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Nalan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1259698385,
-    "wof:lastmodified":1537043679,
+    "wof:lastmodified":1564311245,
     "wof:name":"Nalan",
     "wof:parent_id":421177883,
     "wof:placetype":"locality",

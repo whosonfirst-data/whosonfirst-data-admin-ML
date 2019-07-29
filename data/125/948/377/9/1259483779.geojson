@@ -25,6 +25,90 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u062f\u0623 \u0627\u0644\u0646\u062d\u0627\u0633"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u0442\u0438\u043d\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "P\u00e0tina"
+    ],
+    "name:ces_x_preferred":[
+        "Patina"
+    ],
+    "name:csb_x_preferred":[
+        "K\u00f2prow\u00f4 rec"
+    ],
+    "name:dan_x_preferred":[
+        "Patina"
+    ],
+    "name:deu_x_preferred":[
+        "Patina"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03c4\u03af\u03bd\u03b1"
+    ],
+    "name:epo_x_preferred":[
+        "Patino"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u062a\u06cc\u0646\u0647\u200c\u06a9\u0627\u0631\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Patina"
+    ],
+    "name:fra_x_preferred":[
+        "Patine"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d8\u05d9\u05e0\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Patina"
+    ],
+    "name:hun_x_preferred":[
+        "Patina"
+    ],
+    "name:ido_x_preferred":[
+        "Patino"
+    ],
+    "name:ita_x_preferred":[
+        "Patina"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30c6\u30a3\u30ca"
+    ],
+    "name:nld_x_preferred":[
+        "Patina"
+    ],
+    "name:nor_x_preferred":[
+        "Patina"
+    ],
+    "name:pol_x_preferred":[
+        "Patyna"
+    ],
+    "name:por_x_preferred":[
+        "P\u00e1tina"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0442\u0438\u043d\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Patina"
+    ],
+    "name:spa_x_preferred":[
+        "P\u00e1tina"
+    ],
+    "name:srp_x_preferred":[
+        "Patina"
+    ],
+    "name:swe_x_preferred":[
+        "Patina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0442\u0438\u043d\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +132,7 @@
         }
     ],
     "wof:id":1259483779,
-    "wof:lastmodified":1536857160,
+    "wof:lastmodified":1564311129,
     "wof:name":"Patina",
     "wof:parent_id":421180081,
     "wof:placetype":"locality",

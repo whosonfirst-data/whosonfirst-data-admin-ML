@@ -25,6 +25,21 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Songo"
+    ],
+    "name:deu_x_preferred":[
+        "Songo"
+    ],
+    "name:fra_x_preferred":[
+        "Songo"
+    ],
+    "name:por_x_preferred":[
+        "Songo"
+    ],
+    "name:swe_x_preferred":[
+        "Songo"
+    ],
     "name:und_x_variant":[
         "Sawa",
         "Songo"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1226147753,
-    "wof:lastmodified":1537665044,
+    "wof:lastmodified":1564311438,
     "wof:name":"Songo",
     "wof:parent_id":1108562843,
     "wof:placetype":"locality",

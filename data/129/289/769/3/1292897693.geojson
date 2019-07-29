@@ -25,7 +25,13 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Toula"
+    ],
     "name:fra_x_preferred":[
+        "Toula"
+    ],
+    "name:swe_x_preferred":[
         "Toula"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1292897693,
-    "wof:lastmodified":1537665016,
+    "wof:lastmodified":1564309364,
     "wof:name":"Toula",
     "wof:parent_id":1108562833,
     "wof:placetype":"locality",

@@ -25,6 +25,48 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bousse"
+    ],
+    "name:deu_x_preferred":[
+        "Bousse"
+    ],
+    "name:fra_x_preferred":[
+        "Bousse"
+    ],
+    "name:ita_x_preferred":[
+        "Bousse"
+    ],
+    "name:nds_x_preferred":[
+        "Bousse"
+    ],
+    "name:nld_x_preferred":[
+        "Bousse"
+    ],
+    "name:oci_x_preferred":[
+        "Bousse"
+    ],
+    "name:pol_x_preferred":[
+        "Bousse"
+    ],
+    "name:por_x_preferred":[
+        "Bousse"
+    ],
+    "name:ron_x_preferred":[
+        "Bousse"
+    ],
+    "name:slk_x_preferred":[
+        "Bousse"
+    ],
+    "name:spa_x_preferred":[
+        "Bousse"
+    ],
+    "name:swe_x_preferred":[
+        "Bousse"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0441\u0441"
+    ],
     "name:und_x_variant":[
         "Busse",
         "Bouss\u00e9"
@@ -52,7 +94,7 @@
         }
     ],
     "wof:id":1360084183,
-    "wof:lastmodified":1537665249,
+    "wof:lastmodified":1564310614,
     "wof:name":"Bousse",
     "wof:parent_id":421175221,
     "wof:placetype":"locality",

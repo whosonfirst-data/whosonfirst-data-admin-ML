@@ -31,6 +31,9 @@
     "name:fra_x_variant":[
         "Kokouri"
     ],
+    "name:msa_x_preferred":[
+        "Kokoun"
+    ],
     "name:und_x_variant":[
         "Kokouri"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1209335735,
-    "wof:lastmodified":1537665151,
+    "wof:lastmodified":1564310101,
     "wof:name":"Kokoun",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",

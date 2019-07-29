@@ -25,6 +25,12 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tinaga Island"
+    ],
+    "name:ilo_x_preferred":[
+        "Tinaga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1344064663,
-    "wof:lastmodified":1536868252,
+    "wof:lastmodified":1564309079,
     "wof:name":"Tinaga",
     "wof:parent_id":1108562869,
     "wof:placetype":"locality",

@@ -25,6 +25,36 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Diena"
+    ],
+    "name:dan_x_preferred":[
+        "Diena"
+    ],
+    "name:deu_x_preferred":[
+        "Diena"
+    ],
+    "name:est_x_preferred":[
+        "Diena"
+    ],
+    "name:fin_x_preferred":[
+        "Diena"
+    ],
+    "name:fra_x_preferred":[
+        "Diena"
+    ],
+    "name:lav_x_preferred":[
+        "Diena"
+    ],
+    "name:lit_x_preferred":[
+        "Diena"
+    ],
+    "name:por_x_preferred":[
+        "Diena"
+    ],
+    "name:rus_x_preferred":[
+        "Diena"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1225830633,
-    "wof:lastmodified":1537034004,
+    "wof:lastmodified":1564311556,
     "wof:name":"Diena",
     "wof:parent_id":1108562871,
     "wof:placetype":"locality",

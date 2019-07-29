@@ -28,6 +28,15 @@
     "name:fra_x_preferred":[
         "Kol\u00e9"
     ],
+    "name:fra_x_variant":[
+        "Kole Weathers"
+    ],
+    "name:ron_x_preferred":[
+        "Kole"
+    ],
+    "name:spa_x_preferred":[
+        "Kole"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1242875937,
-    "wof:lastmodified":1537665150,
+    "wof:lastmodified":1564310823,
     "wof:name":"Kole",
     "wof:parent_id":1108562847,
     "wof:placetype":"locality",

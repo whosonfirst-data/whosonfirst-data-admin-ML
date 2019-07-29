@@ -25,8 +25,50 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Tian"
+    ],
+    "name:ces_x_preferred":[
+        "Nebesa"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Tian"
+    ],
     "name:fra_x_preferred":[
         "Tian"
+    ],
+    "name:hun_x_preferred":[
+        "Tien"
+    ],
+    "name:ind_x_preferred":[
+        "Tian"
+    ],
+    "name:kor_x_preferred":[
+        "\ucc9c"
+    ],
+    "name:nor_x_preferred":[
+        "Tian"
+    ],
+    "name:pol_x_preferred":[
+        "Tian"
+    ],
+    "name:por_x_preferred":[
+        "Tian"
+    ],
+    "name:spa_x_preferred":[
+        "Tian"
+    ],
+    "name:swe_x_preferred":[
+        "Tian"
+    ],
+    "name:tur_x_preferred":[
+        "Tian"
+    ],
+    "name:vie_x_preferred":[
+        "Thi\u00ean"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +93,7 @@
         }
     ],
     "wof:id":1343764077,
-    "wof:lastmodified":1537665028,
+    "wof:lastmodified":1564309125,
     "wof:name":"Tian",
     "wof:parent_id":1108562847,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Nossombougou"
+    ],
+    "name:fra_x_preferred":[
+        "Nonssombougou"
+    ],
+    "name:ita_x_preferred":[
+        "Nossombougou"
+    ],
+    "name:nld_x_preferred":[
+        "Nossombougou"
+    ],
+    "name:spa_x_preferred":[
+        "Nossombougou"
+    ],
     "name:und_x_variant":[
         "Nossobougou",
         "Nossombougou"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1343555639,
-    "wof:lastmodified":1537665091,
+    "wof:lastmodified":1564309046,
     "wof:name":"Nossombougou",
     "wof:parent_id":1108562849,
     "wof:placetype":"locality",

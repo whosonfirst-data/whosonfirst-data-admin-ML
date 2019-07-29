@@ -25,6 +25,18 @@
     "iso:country":"ML",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Samango"
+    ],
+    "name:ita_x_preferred":[
+        "Samango"
+    ],
+    "name:msa_x_preferred":[
+        "Samango"
+    ],
+    "name:ron_x_preferred":[
+        "Samango"
+    ],
     "name:und_x_variant":[
         "Samankou",
         "Samango"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1326729551,
-    "wof:lastmodified":1537665071,
+    "wof:lastmodified":1564308723,
     "wof:name":"Samango",
     "wof:parent_id":421175221,
     "wof:placetype":"locality",
