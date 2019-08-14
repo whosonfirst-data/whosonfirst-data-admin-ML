@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SK"
+    ],
     "lbl:latitude":11.166131,
     "lbl:longitude":-7.30016,
     "meso:name_local":"Sikasso",
@@ -300,16 +303,13 @@
         }
     ],
     "wof:id":85674531,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563261447,
+    "wof:lastmodified":1565727627,
     "wof:name":"Sikasso",
     "wof:parent_id":85632553,
     "wof:placetype":"region",

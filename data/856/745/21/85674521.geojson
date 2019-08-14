@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Gao Region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GO"
+    ],
     "lbl:latitude":16.494997,
     "lbl:longitude":1.364926,
     "meso:name_local":"Gao",
@@ -284,16 +287,13 @@
         }
     ],
     "wof:id":85674521,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563261445,
+    "wof:lastmodified":1565727626,
     "wof:name":"Gao",
     "wof:parent_id":85632553,
     "wof:placetype":"region",

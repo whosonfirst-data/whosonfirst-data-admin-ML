@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KY"
+    ],
     "lbl:latitude":13.833694,
     "lbl:longitude":-10.229414,
     "meso:name_local":"Kayes",
@@ -303,16 +306,13 @@
         }
     ],
     "wof:id":85674529,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563261444,
+    "wof:lastmodified":1565727626,
     "wof:name":"Kayes",
     "wof:parent_id":85632553,
     "wof:placetype":"region",

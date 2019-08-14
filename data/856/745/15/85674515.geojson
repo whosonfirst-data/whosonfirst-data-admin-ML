@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KD"
+    ],
     "lbl:latitude":19.28001,
     "lbl:longitude":1.155034,
     "meso:name_local":"Kidal",
@@ -301,16 +304,13 @@
         }
     ],
     "wof:id":85674515,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563261449,
+    "wof:lastmodified":1565727627,
     "wof:name":"Kidal",
     "wof:parent_id":85632553,
     "wof:placetype":"region",

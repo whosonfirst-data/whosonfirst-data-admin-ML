@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MO"
+    ],
     "lbl:latitude":14.632557,
     "lbl:longitude":-3.553578,
     "meso:name_local":"Mopti",
@@ -306,16 +309,13 @@
         }
     ],
     "wof:id":85674539,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563261448,
+    "wof:lastmodified":1565727627,
     "wof:name":"Mopti",
     "wof:parent_id":85632553,
     "wof:placetype":"region",

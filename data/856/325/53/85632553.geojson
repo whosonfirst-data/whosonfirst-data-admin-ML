@@ -15,6 +15,9 @@
     "itu:country_code":[
         "223"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ML"
+    ],
     "lbl:latitude":18.683211,
     "lbl:longitude":-2.015109,
     "mps:latitude":18.683211,
@@ -923,16 +926,13 @@
         }
     ],
     "wof:id":85632553,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563261441,
+    "wof:lastmodified":1565727625,
     "wof:name":"Mali",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Timbuktu Region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TT"
+    ],
     "lbl:latitude":21.488625,
     "lbl:longitude":-3.859508,
     "meso:name_local":"Timbuktu",
@@ -289,16 +292,13 @@
         }
     ],
     "wof:id":85674511,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563261443,
+    "wof:lastmodified":1565727626,
     "wof:name":"Timbuktu",
     "wof:parent_id":85632553,
     "wof:placetype":"region",

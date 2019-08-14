@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KK"
+    ],
     "lbl:latitude":13.650893,
     "lbl:longitude":-7.669443,
     "meso:name_local":"Koulikoro",
@@ -304,16 +307,13 @@
         }
     ],
     "wof:id":85674547,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563261450,
+    "wof:lastmodified":1565727627,
     "wof:name":"Koulikoro",
     "wof:parent_id":85632553,
     "wof:placetype":"region",

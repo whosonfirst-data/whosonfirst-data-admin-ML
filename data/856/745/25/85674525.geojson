@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BA"
+    ],
     "lbl:latitude":12.622,
     "lbl:longitude":-7.974234,
     "meso:name_local":"Bamako",
@@ -576,16 +579,13 @@
         }
     ],
     "wof:id":85674525,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563261453,
+    "wof:lastmodified":1565727627,
     "wof:name":"Bamako",
     "wof:parent_id":85632553,
     "wof:placetype":"region",

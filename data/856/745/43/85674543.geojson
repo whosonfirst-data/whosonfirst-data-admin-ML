@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SG"
+    ],
     "lbl:latitude":13.69862,
     "lbl:longitude":-5.934549,
     "meso:name_local":"S\u00e9gou",
@@ -310,16 +313,13 @@
         }
     ],
     "wof:id":85674543,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563261446,
+    "wof:lastmodified":1565727627,
     "wof:name":"S\u00e9gou",
     "wof:parent_id":85632553,
     "wof:placetype":"region",
