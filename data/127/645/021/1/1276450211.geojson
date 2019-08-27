@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-11.07016,12.31376,-11.03016,12.35376",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Malezia"
     ],
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":1276450211,
-    "wof:lastmodified":1564309685,
+    "wof:lastmodified":1566605933,
     "wof:name":"Malaya",
     "wof:parent_id":421171903,
     "wof:placetype":"locality",

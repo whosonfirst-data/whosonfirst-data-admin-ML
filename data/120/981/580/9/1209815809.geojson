@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-3.2783,15.3278,-3.2383,15.3678",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209815809,
-    "wof:lastmodified":1536384025,
+    "wof:lastmodified":1566606116,
     "wof:name":"Youna",
     "wof:parent_id":421199983,
     "wof:placetype":"locality",

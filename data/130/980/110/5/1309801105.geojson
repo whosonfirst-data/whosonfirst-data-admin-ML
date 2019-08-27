@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.91173,12.0004,-5.87173,12.0404",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Koti\u00e9n\u00e9bougou",
         "Kotienebugu",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309801105,
-    "wof:lastmodified":1537665133,
+    "wof:lastmodified":1566606387,
     "wof:name":"Koutienebougou",
     "wof:parent_id":1108562825,
     "wof:placetype":"locality",

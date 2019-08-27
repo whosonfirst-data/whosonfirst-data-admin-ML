@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.0478,12.575,-6.0078,12.615",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "S\u00e9nt\u00e9la"
     ],
     "name:fra_x_variant":[
-        "Sintala"
-    ],
-    "name:und_x_variant":[
         "Sintala"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1242675557,
-    "wof:lastmodified":1537665059,
+    "wof:lastmodified":1566606460,
     "wof:name":"Sentela",
     "wof:parent_id":421177885,
     "wof:placetype":"locality",

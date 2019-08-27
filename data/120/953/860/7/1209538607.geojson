@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.13001,14.47371,-6.09001,14.51371",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bassaro W\u00e9r\u00e9"
     ],
     "name:und_x_variant":[
-        "Basaro W\u00e9r\u00e9",
-        "Bassaro W\u00e9r\u00e9"
+        "Basaro W\u00e9r\u00e9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1209538607,
-    "wof:lastmodified":1537665265,
+    "wof:lastmodified":1566606020,
     "wof:name":"Basaro Were",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.59417,11.45007,-6.55417,11.49007",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Ti\u00e9kongoba"
     ],
@@ -32,9 +36,7 @@
         "Ti\u00e9koungoba"
     ],
     "name:und_x_variant":[
-        "Ti\u00e9koungoba",
-        "Tyinkongoba",
-        "Ti\u00e9kongoba"
+        "Tyinkongoba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +61,7 @@
         }
     ],
     "wof:id":1326552225,
-    "wof:lastmodified":1537665027,
+    "wof:lastmodified":1566605618,
     "wof:name":"Tyinkongoba",
     "wof:parent_id":1108562829,
     "wof:placetype":"locality",

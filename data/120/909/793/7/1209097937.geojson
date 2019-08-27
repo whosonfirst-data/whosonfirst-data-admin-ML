@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.3024,12.2021,-6.2624,12.2421",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Kwazana"
     ],
     "name:fra_x_variant":[
-        "Kouanzana"
-    ],
-    "name:und_x_variant":[
         "Kouanzana"
     ],
     "src:geom":"geonames",
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":1209097937,
-    "wof:lastmodified":1537665131,
+    "wof:lastmodified":1566606014,
     "wof:name":"Kwazana",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",

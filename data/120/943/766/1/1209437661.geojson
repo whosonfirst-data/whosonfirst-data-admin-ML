@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.40749,13.77472,-6.36749,13.81472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632553
@@ -34,7 +38,7 @@
         "gn:id":6910510
     },
     "wof:country":"ML",
-    "wof:geomhash":"95662a4f870702ae5d8676baa91e4687",
+    "wof:geomhash":"09b80752ba607fbe3e7ceb3e31e6b873",
     "wof:hierarchy":[
         {
             "country_id":85632553,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209437661,
-    "wof:lastmodified":1536287054,
+    "wof:lastmodified":1566606113,
     "wof:name":"Noumoubougou",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",
@@ -52,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.3874900000000014,
-    13.794720000000002,
-    -6.3874900000000014,
-    13.794720000000002
+    -6.38749,
+    13.79472,
+    -6.38749,
+    13.79472
 ],
   "geometry": {"coordinates":[-6.38749,13.79472],"type":"Point"}
 }

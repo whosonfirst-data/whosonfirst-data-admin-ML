@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-2.28422,14.83995,-2.24422,14.87995",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276873315,
-    "wof:lastmodified":1537047901,
+    "wof:lastmodified":1566605937,
     "wof:name":"Serma",
     "wof:parent_id":421199983,
     "wof:placetype":"locality",

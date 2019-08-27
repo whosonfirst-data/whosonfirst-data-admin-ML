@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-8.35444,12.77944,-8.31444,12.81944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Koni Koni",
         "Kouri-Kouni",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1243355185,
-    "wof:lastmodified":1537665144,
+    "wof:lastmodified":1566606484,
     "wof:name":"Kominkomi",
     "wof:parent_id":421177883,
     "wof:placetype":"locality",

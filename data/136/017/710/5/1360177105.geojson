@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.8589,12.5662,-5.8189,12.6062",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1360177105,
-    "wof:lastmodified":1536812389,
+    "wof:lastmodified":1566606349,
     "wof:name":"Yogorasso",
     "wof:parent_id":421177885,
     "wof:placetype":"locality",

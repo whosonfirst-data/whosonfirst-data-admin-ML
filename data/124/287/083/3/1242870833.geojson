@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-8.411,13.0953,-8.371,13.1353",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Djibouroula"
     ],
     "name:fra_x_variant":[
-        "Guibouroula"
-    ],
-    "name:und_x_variant":[
         "Guibouroula"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1242870833,
-    "wof:lastmodified":1537665223,
+    "wof:lastmodified":1566606430,
     "wof:name":"Djibouroula",
     "wof:parent_id":421177883,
     "wof:placetype":"locality",

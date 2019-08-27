@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-9.0832,14.6881,-9.0432,14.7281",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260091975,
-    "wof:lastmodified":1536975256,
+    "wof:lastmodified":1566606170,
     "wof:name":"Boutissigare",
     "wof:parent_id":1108562857,
     "wof:placetype":"locality",

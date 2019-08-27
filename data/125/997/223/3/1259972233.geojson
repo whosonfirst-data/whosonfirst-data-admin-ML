@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.77088,11.24552,-5.73088,11.28552",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bam_x_preferred":[
         "Misirik\u0254r\u0254"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1259972233,
-    "wof:lastmodified":1564311109,
+    "wof:lastmodified":1566606555,
     "wof:name":"Missirikoro",
     "wof:parent_id":1108562825,
     "wof:placetype":"locality",

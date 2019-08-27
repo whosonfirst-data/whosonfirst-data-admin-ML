@@ -23,12 +23,13 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.47772,11.91585,-6.43772,11.95585",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
-        "Siokoro"
-    ],
-    "name:und_x_variant":[
         "Siokoro"
     ],
     "src:geom":"geonames",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1276331003,
-    "wof:lastmodified":1537665052,
+    "wof:lastmodified":1566605945,
     "wof:name":"Syokoro",
     "wof:parent_id":1108562833,
     "wof:placetype":"locality",

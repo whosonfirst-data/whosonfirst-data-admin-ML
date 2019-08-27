@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.71367,11.92491,-6.67367,11.96491",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bourouna"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1277003281,
-    "wof:lastmodified":1537665249,
+    "wof:lastmodified":1566605916,
     "wof:name":"Bourouna",
     "wof:parent_id":1108562833,
     "wof:placetype":"locality",

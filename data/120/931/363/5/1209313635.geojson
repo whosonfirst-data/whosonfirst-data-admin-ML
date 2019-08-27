@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.4086,12.7729,-6.3686,12.8129",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Siriguidya"
     ],
     "name:fra_x_variant":[
-        "Sirigidya"
-    ],
-    "name:und_x_variant":[
         "Sirigidya"
     ],
     "src:geom":"geonames",
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":1209313635,
-    "wof:lastmodified":1537665048,
+    "wof:lastmodified":1566606016,
     "wof:name":"Siriguidya",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",

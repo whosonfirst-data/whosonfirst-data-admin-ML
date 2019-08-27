@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-7.6195,14.293,-7.5795,14.333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Galo"
     ],
@@ -47,8 +51,7 @@
         "Galo"
     ],
     "name:und_x_variant":[
-        "Gallo",
-        "Galo"
+        "Gallo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1343353289,
-    "wof:lastmodified":1564309184,
+    "wof:lastmodified":1566605723,
     "wof:name":"Galo",
     "wof:parent_id":1108562865,
     "wof:placetype":"locality",

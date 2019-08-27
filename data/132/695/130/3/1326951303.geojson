@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.91865,14.39155,-6.87865,14.43155",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Sab\u00e9r\u00e9 Mami"
     ],
     "name:fra_x_variant":[
-        "Kar\u00e9wal"
-    ],
-    "name:und_x_variant":[
         "Kar\u00e9wal"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1326951303,
-    "wof:lastmodified":1537665074,
+    "wof:lastmodified":1566605560,
     "wof:name":"Sabere Mami",
     "wof:parent_id":1108562865,
     "wof:placetype":"locality",

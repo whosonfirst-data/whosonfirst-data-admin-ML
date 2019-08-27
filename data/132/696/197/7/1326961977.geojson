@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.77612,13.70477,-5.73612,13.74477",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Sama"
     ],
@@ -56,8 +60,7 @@
         "Sama"
     ],
     "name:und_x_variant":[
-        "Samou",
-        "Sama"
+        "Samou"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0645\u0627"
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1326961977,
-    "wof:lastmodified":1564308951,
+    "wof:lastmodified":1566605633,
     "wof:name":"Sama",
     "wof:parent_id":421175221,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-11.18155,13.45007,-11.14155,13.49007",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Saga"
     ],
@@ -210,7 +214,7 @@
         }
     ],
     "wof:id":1293401433,
-    "wof:lastmodified":1564309421,
+    "wof:lastmodified":1566605823,
     "wof:name":"Saga",
     "wof:parent_id":1108562855,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":14.295959,
     "gn:population":2868,
     "iso:country":"ML",
+    "lbl:bbox":"14.290959,36.01967,14.300959,36.02967",
     "lbl:latitude":36.02467,
     "lbl:longitude":14.295959,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.024668,
     "mps:longitude":14.295959,
     "mz:hierarchy_label":0,
@@ -55,15 +57,8 @@
         "L-Imgarr",
         "Mgarr"
     ],
-    "name:und_x_preferred":[
-        "M\u0121arr"
-    ],
     "name:und_x_variant":[
         "L-Im\u0121arr"
-    ],
-    "name:unk_x_variant":[
-        "L-Im\u0121arr",
-        "M\u0121arr"
     ],
     "qs:gn_adm0_cc":"MT",
     "qs:gn_fcode":"PPL",
@@ -94,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -106,7 +101,7 @@
     "wof:concordances":{
         "gn:id":2562734,
         "gp:id":483433,
-        "qs:id":302100,
+        "qs_pg:id":302100,
         "wd:id":"Q737590",
         "wk:page":"M\u0121arr, Gozo"
     },
@@ -125,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563261453,
+    "wof:lastmodified":1566605774,
     "wof:name":"M\u0121arr",
     "wof:parent_id":101874857,
     "wof:placetype":"neighbourhood",

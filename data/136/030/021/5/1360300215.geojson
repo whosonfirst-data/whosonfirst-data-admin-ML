@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.97,10.86333,-5.93,10.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mougn\u00e9na",
         "Mounyina"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360300215,
-    "wof:lastmodified":1537665109,
+    "wof:lastmodified":1566606324,
     "wof:name":"Mounyina",
     "wof:parent_id":1108562825,
     "wof:placetype":"locality",

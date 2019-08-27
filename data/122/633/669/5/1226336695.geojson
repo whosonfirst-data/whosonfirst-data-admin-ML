@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-7.266,12.5088,-7.226,12.5488",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226336695,
-    "wof:lastmodified":1536802531,
+    "wof:lastmodified":1566606649,
     "wof:name":"Sonkan",
     "wof:parent_id":1108562833,
     "wof:placetype":"locality",

@@ -12,6 +12,8 @@
     "iso:country":"ML",
     "lbl:latitude":14.960061,
     "lbl:longitude":-6.005676,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Segou",
     "meso:gadm_admin":"Niono",
     "meso:gadm_hasc2":"ML.SG.NN",
@@ -24,6 +26,7 @@
     "mps:longitude":-6.005676,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Niono"
     ],
@@ -58,7 +61,7 @@
         "Niono"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632553,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1108562867,
-    "wof:lastmodified":1564310373,
+    "wof:lastmodified":1566606200,
     "wof:name":"Niono",
     "wof:parent_id":85674543,
     "wof:placetype":"county",

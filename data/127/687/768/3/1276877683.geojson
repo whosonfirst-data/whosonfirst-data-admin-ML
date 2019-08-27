@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.08093,12.8357,-5.04093,12.8757",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Dioundiou"
     ],
@@ -38,8 +42,7 @@
         "Dioundiou"
     ],
     "name:und_x_variant":[
-        "Dioudiou",
-        "Dioundiou"
+        "Dioudiou"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1276877683,
-    "wof:lastmodified":1564309703,
+    "wof:lastmodified":1566605938,
     "wof:name":"Dioundiou",
     "wof:parent_id":421192717,
     "wof:placetype":"locality",

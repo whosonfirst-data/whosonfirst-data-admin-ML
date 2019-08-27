@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.7464,13.2481,-6.7064,13.2881",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Choni"
     ],
@@ -36,8 +40,7 @@
     ],
     "name:und_x_variant":[
         "Soni",
-        "So\u00f4ni",
-        "Choni"
+        "So\u00f4ni"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1276232737,
-    "wof:lastmodified":1564309800,
+    "wof:lastmodified":1566605978,
     "wof:name":"Choni",
     "wof:parent_id":1108562837,
     "wof:placetype":"locality",

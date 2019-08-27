@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-3.28513,14.63437,-3.24513,14.67437",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632553
@@ -34,7 +38,7 @@
         "gn:id":6866728
     },
     "wof:country":"ML",
-    "wof:geomhash":"a35e5b03b578b35e7bf9306b82e7631d",
+    "wof:geomhash":"3e0684f8bda019194f02f5ebd200f3e8",
     "wof:hierarchy":[
         {
             "country_id":85632553,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209621315,
-    "wof:lastmodified":1536281508,
+    "wof:lastmodified":1566606029,
     "wof:name":"Komberou",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -3.26513,
-    14.654370000000002,
+    14.65437,
     -3.26513,
-    14.654370000000002
+    14.65437
 ],
   "geometry": {"coordinates":[-3.26513,14.65437],"type":"Point"}
 }

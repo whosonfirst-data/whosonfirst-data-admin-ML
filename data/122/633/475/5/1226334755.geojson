@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.1489,12.1237,-6.1089,12.1637",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Dyabasso"
     ],
@@ -32,9 +36,7 @@
         "Diabasso"
     ],
     "name:und_x_variant":[
-        "Diabasso",
-        "Dyabaso",
-        "Dyabasso"
+        "Dyabaso"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +61,7 @@
         }
     ],
     "wof:id":1226334755,
-    "wof:lastmodified":1537665213,
+    "wof:lastmodified":1566606650,
     "wof:name":"Dyabaso",
     "wof:parent_id":1108562825,
     "wof:placetype":"locality",

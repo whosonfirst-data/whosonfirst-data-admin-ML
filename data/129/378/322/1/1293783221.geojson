@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.066,12.9025,-6.026,12.9425",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Tiguina"
     ],
     "name:fra_x_variant":[
-        "Tigina"
-    ],
-    "name:und_x_variant":[
         "Tigina"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1293783221,
-    "wof:lastmodified":1537665025,
+    "wof:lastmodified":1566605826,
     "wof:name":"Tiguina",
     "wof:parent_id":1108562835,
     "wof:placetype":"locality",

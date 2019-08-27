@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-7.88378,12.66672,-7.84378,12.70672",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Moribabougou"
     ],
@@ -44,8 +48,7 @@
         "Moribabougou"
     ],
     "name:und_x_variant":[
-        "Maribabougou",
-        "Moribabougou"
+        "Maribabougou"
     ],
     "name:zho_x_preferred":[
         "\u83ab\u91cc\u5df4\u5e03\u53e4"
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1344049041,
-    "wof:lastmodified":1564309241,
+    "wof:lastmodified":1566605747,
     "wof:name":"Moribabougou",
     "wof:parent_id":421177883,
     "wof:placetype":"locality",

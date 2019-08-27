@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-8.90147,12.88269,-8.86147,12.92269",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0430\u043d\u0434\u0443\u0433\u0443"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1243075123,
-    "wof:lastmodified":1564310761,
+    "wof:lastmodified":1566606404,
     "wof:name":"Balandougou",
     "wof:parent_id":1108562847,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-7.35591,13.81799,-7.31591,13.85799",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Moribougou",
         "Moribougou Tiguira"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226463701,
-    "wof:lastmodified":1537665110,
+    "wof:lastmodified":1566606693,
     "wof:name":"Moribougou Tiguira",
     "wof:parent_id":1108562851,
     "wof:placetype":"locality",

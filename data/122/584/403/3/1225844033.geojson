@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.78186,12.96621,-5.74186,13.00621",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "N\u00e9ti\u00e9la",
         "Nienta",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225844033,
-    "wof:lastmodified":1537665114,
+    "wof:lastmodified":1566606724,
     "wof:name":"Minetia",
     "wof:parent_id":1108562835,
     "wof:placetype":"locality",

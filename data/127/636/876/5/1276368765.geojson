@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-7.03506,13.04426,-6.99506,13.08426",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Niamana"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276368765,
-    "wof:lastmodified":1564309888,
+    "wof:lastmodified":1566606012,
     "wof:name":"Niamana",
     "wof:parent_id":1108562837,
     "wof:placetype":"locality",

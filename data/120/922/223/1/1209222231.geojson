@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-9.34084,14.24391,-9.30084,14.28391",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Gu\u00e9moukouraba"
     ],
@@ -42,8 +46,7 @@
     ],
     "name:und_x_variant":[
         "Gu\u00e9moukoura",
-        "Gu\u00e9moui-Kouraba",
-        "Gu\u00e9moukouraba"
+        "Gu\u00e9moui-Kouraba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1209222231,
-    "wof:lastmodified":1564310036,
+    "wof:lastmodified":1566606066,
     "wof:name":"Guemoukouraba",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",

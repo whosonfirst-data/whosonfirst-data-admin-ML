@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.04743,11.55968,-6.00743,11.59968",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Zangasso"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1209612527,
-    "wof:lastmodified":1564310052,
+    "wof:lastmodified":1566606073,
     "wof:name":"Zangasso",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",

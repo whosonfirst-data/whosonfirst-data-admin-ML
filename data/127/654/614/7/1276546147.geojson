@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.48386,14.13592,-6.44386,14.17592",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Tyongo"
     ],
     "name:fra_x_variant":[
-        "Tiongo"
-    ],
-    "name:und_x_variant":[
         "Tiongo"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1276546147,
-    "wof:lastmodified":1537665011,
+    "wof:lastmodified":1566606010,
     "wof:name":"Tyongo",
     "wof:parent_id":421175221,
     "wof:placetype":"locality",

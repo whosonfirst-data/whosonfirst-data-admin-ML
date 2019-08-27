@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-7.51193,13.57116,-7.47193,13.61116",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343356123,
-    "wof:lastmodified":1536896688,
+    "wof:lastmodified":1566605723,
     "wof:name":"Bougounina",
     "wof:parent_id":1108562851,
     "wof:placetype":"locality",

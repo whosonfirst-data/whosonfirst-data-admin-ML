@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-7.1456,11.41413,-7.1056,11.45413",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u043e\u043d\u0444\u0430"
     ],
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":1293485097,
-    "wof:lastmodified":1564309397,
+    "wof:lastmodified":1566605814,
     "wof:name":"Tonfa",
     "wof:parent_id":1108562829,
     "wof:placetype":"locality",

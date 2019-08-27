@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.1228,13.5882,-6.0828,13.6282",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Somonobougou",
         "Soumadougou",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193020711,
-    "wof:lastmodified":1537665041,
+    "wof:lastmodified":1566606153,
     "wof:name":"Soumabougou",
     "wof:parent_id":421175221,
     "wof:placetype":"locality",

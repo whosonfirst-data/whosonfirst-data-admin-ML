@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.78966,13.01091,-6.74966,13.05091",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632553
@@ -34,7 +38,7 @@
         "gn:id":6910637
     },
     "wof:country":"ML",
-    "wof:geomhash":"122c13cdc4a7d5e5280493fad41956ac",
+    "wof:geomhash":"e5c58004ad072761d9cef912d11b0886",
     "wof:hierarchy":[
         {
             "country_id":85632553,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209105161,
-    "wof:lastmodified":1536297598,
+    "wof:lastmodified":1566606110,
     "wof:name":"Ouondo",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.769660000000001,
+    -6.76966,
     13.03091,
-    -6.769660000000001,
+    -6.76966,
     13.03091
 ],
   "geometry": {"coordinates":[-6.76966,13.03091],"type":"Point"}

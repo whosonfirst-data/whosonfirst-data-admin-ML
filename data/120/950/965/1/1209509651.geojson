@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.9444,14.2581,-6.9044,14.2981",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Djikon\u00e9"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209509651,
-    "wof:lastmodified":1537665223,
+    "wof:lastmodified":1566606067,
     "wof:name":"Djikone",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",

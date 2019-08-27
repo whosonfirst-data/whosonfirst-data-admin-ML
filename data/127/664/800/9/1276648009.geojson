@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.6722,12.7137,-6.6322,12.7537",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bankoni"
     ],
     "name:fra_x_variant":[
-        "Bankol\u00e9"
-    ],
-    "name:und_x_variant":[
         "Bankol\u00e9"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1276648009,
-    "wof:lastmodified":1537665268,
+    "wof:lastmodified":1566605995,
     "wof:name":"Bankoni",
     "wof:parent_id":1108562833,
     "wof:placetype":"locality",

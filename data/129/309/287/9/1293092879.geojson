@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-8.56392,14.99661,-8.52392,15.03661",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293092879,
-    "wof:lastmodified":1536857725,
+    "wof:lastmodified":1566605783,
     "wof:name":"Moriba",
     "wof:parent_id":1108562865,
     "wof:placetype":"locality",

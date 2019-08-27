@@ -23,12 +23,13 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.2756,12.2264,-6.2356,12.2664",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
-        "Fassirimanbougou"
-    ],
-    "name:und_x_variant":[
         "Fassirimanbougou"
     ],
     "src:geom":"geonames",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1310296701,
-    "wof:lastmodified":1537665197,
+    "wof:lastmodified":1566606254,
     "wof:name":"Fasirimanbougou",
     "wof:parent_id":1108562833,
     "wof:placetype":"locality",

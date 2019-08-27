@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-10.5245,14.1274,-10.4845,14.1674",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Gao"
     ],
@@ -195,7 +199,7 @@
         }
     ],
     "wof:id":1326541679,
-    "wof:lastmodified":1564308969,
+    "wof:lastmodified":1566605639,
     "wof:name":"Gao",
     "wof:parent_id":1108562855,
     "wof:placetype":"locality",

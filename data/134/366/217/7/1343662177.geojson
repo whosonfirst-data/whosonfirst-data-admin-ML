@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-4.05822,14.64144,-4.01822,14.68144",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Badiomo",
         "Badio",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343662177,
-    "wof:lastmodified":1537665276,
+    "wof:lastmodified":1566605714,
     "wof:name":"Badiongo",
     "wof:parent_id":421180081,
     "wof:placetype":"locality",

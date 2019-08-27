@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.65353,11.40374,-5.61353,11.44374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Dioumat\u00e9n\u00e9"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1259972193,
-    "wof:lastmodified":1564311104,
+    "wof:lastmodified":1566606552,
     "wof:name":"Dioumatene",
     "wof:parent_id":1108562825,
     "wof:placetype":"locality",

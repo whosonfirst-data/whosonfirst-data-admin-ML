@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-8.65684,13.14575,-8.61684,13.18575",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0443\u043d\u0434\u0443"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:spa_x_preferred":[
         "Koundou"
-    ],
-    "name:und_x_variant":[
-        "Koundiou"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1310417449,
-    "wof:lastmodified":1564310395,
+    "wof:lastmodified":1566606209,
     "wof:name":"Koundou",
     "wof:parent_id":1108562847,
     "wof:placetype":"locality",

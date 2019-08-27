@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-2.98026,14.8939,-2.94026,14.9339",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260207679,
-    "wof:lastmodified":1536814179,
+    "wof:lastmodified":1566606180,
     "wof:name":"Dieribana",
     "wof:parent_id":421199983,
     "wof:placetype":"locality",

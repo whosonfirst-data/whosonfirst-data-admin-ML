@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.72092,13.76416,-5.68092,13.80416",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242800425,
-    "wof:lastmodified":1536742483,
+    "wof:lastmodified":1566606429,
     "wof:name":"Ladjika",
     "wof:parent_id":421175221,
     "wof:placetype":"locality",

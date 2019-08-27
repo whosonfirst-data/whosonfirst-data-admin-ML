@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-4.61484,14.89693,-4.57484,14.93693",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Togor\u00e9-Coumb\u00e9"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1276553749,
-    "wof:lastmodified":1564309836,
+    "wof:lastmodified":1566605992,
     "wof:name":"Toguere-Koumbe",
     "wof:parent_id":1108562861,
     "wof:placetype":"locality",

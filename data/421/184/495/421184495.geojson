@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":14.440215,
     "lbl:longitude":-2.829574,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Mopti",
     "meso:gadm_admin":"Koro",
     "meso:gadm_hasc2":"ML.MO.KR",
@@ -27,6 +29,7 @@
     "mps:longitude":-2.829574,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Koro"
@@ -104,7 +107,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632553,
@@ -115,7 +118,7 @@
         "gn:id":7701494,
         "gp:id":56000014,
         "hasc:id":"ML.MO.KR",
-        "qs:id":1000655
+        "qs_pg:id":1000655
     },
     "wof:country":"ML",
     "wof:created":1459009412,
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421184495,
-    "wof:lastmodified":1564310753,
+    "wof:lastmodified":1566606398,
     "wof:name":"Koro",
     "wof:parent_id":85674539,
     "wof:placetype":"county",

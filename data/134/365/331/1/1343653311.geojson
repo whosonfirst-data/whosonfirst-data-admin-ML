@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-7.6165,14.8262,-7.5765,14.8662",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pikin\u00e8mbougou",
         "Ntomikoro"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343653311,
-    "wof:lastmodified":1537665088,
+    "wof:lastmodified":1566605657,
     "wof:name":"Ntomikoro",
     "wof:parent_id":1108562865,
     "wof:placetype":"locality",

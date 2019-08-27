@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.02696,11.24851,-5.98696,11.28851",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Niantanso"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:spa_x_preferred":[
         "Niantanso"
-    ],
-    "name:und_x_variant":[
-        "Nadinso"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1276972055,
-    "wof:lastmodified":1564309853,
+    "wof:lastmodified":1566605997,
     "wof:name":"Niantanso",
     "wof:parent_id":1108562825,
     "wof:placetype":"locality",

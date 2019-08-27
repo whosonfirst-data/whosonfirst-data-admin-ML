@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-8.2314,13.3364,-8.1914,13.3764",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bouadi\u00e9bougou"
     ],
     "name:fra_x_variant":[
-        "Bonadi\u00e9bougou"
-    ],
-    "name:und_x_variant":[
         "Bonadi\u00e9bougou"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1226336907,
-    "wof:lastmodified":1537665254,
+    "wof:lastmodified":1566606650,
     "wof:name":"Bouadiebougou",
     "wof:parent_id":1108562849,
     "wof:placetype":"locality",

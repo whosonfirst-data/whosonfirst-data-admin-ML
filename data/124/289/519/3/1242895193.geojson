@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-8.4813,14.6704,-8.4413,14.7104",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242895193,
-    "wof:lastmodified":1536603156,
+    "wof:lastmodified":1566606437,
     "wof:name":"Dyalakoro",
     "wof:parent_id":1108562865,
     "wof:placetype":"locality",

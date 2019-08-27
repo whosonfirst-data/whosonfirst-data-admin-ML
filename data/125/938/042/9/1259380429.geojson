@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.47888,11.60236,-6.43888,11.64236",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Koulou"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1259380429,
-    "wof:lastmodified":1564311082,
+    "wof:lastmodified":1566606543,
     "wof:name":"Koulou",
     "wof:parent_id":1108562825,
     "wof:placetype":"locality",

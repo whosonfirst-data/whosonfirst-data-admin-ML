@@ -10,6 +10,9 @@
     "geom:latitude":22.67443,
     "geom:longitude":-3.97891,
     "iso:country":"ML",
+    "lbl:bbox":"-3.99891,22.65443,-3.95891,22.69443",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -74,7 +77,7 @@
     "name:swe_x_preferred":[
         "Taoudenni"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taudeni"
     ],
     "name:zho_x_preferred":[
@@ -203,7 +206,7 @@
     "wof:concordances":{
         "gn:id":2450173,
         "gp:id":1376271,
-        "qs:id":1035801,
+        "qs_pg:id":1035801,
         "wd:id":"Q1888993",
         "wk:page":"Taoudenni"
     },
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":421175973,
-    "wof:lastmodified":1563262895,
+    "wof:lastmodified":1566606397,
     "wof:name":"Taoudenni",
     "wof:parent_id":1108562891,
     "wof:placetype":"locality",

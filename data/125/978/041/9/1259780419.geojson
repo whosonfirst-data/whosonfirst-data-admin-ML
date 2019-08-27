@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-8.3136,13.9233,-8.2736,13.9633",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bodi\u00e9bougou"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259780419,
-    "wof:lastmodified":1537665258,
+    "wof:lastmodified":1566606574,
     "wof:name":"Bodiebougou",
     "wof:parent_id":1108562849,
     "wof:placetype":"locality",

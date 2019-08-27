@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-8.87605,15.4473,-8.83605,15.4873",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0645\u064a"
     ],
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1343683227,
-    "wof:lastmodified":1564309171,
+    "wof:lastmodified":1566605718,
     "wof:name":"Sami",
     "wof:parent_id":1108562865,
     "wof:placetype":"locality",

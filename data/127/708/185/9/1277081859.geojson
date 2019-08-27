@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-11.56935,14.28829,-11.52935,14.32829",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1277081859,
-    "wof:lastmodified":1536769318,
+    "wof:lastmodified":1566605907,
     "wof:name":"Binteguela",
     "wof:parent_id":421171549,
     "wof:placetype":"locality",

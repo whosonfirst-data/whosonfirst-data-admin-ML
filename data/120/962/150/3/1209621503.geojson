@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-4.98315,14.47672,-4.94315,14.51672",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632553
@@ -34,7 +38,7 @@
         "gn:id":6763837
     },
     "wof:country":"ML",
-    "wof:geomhash":"0a4a4a2a07cc15818fa7b7f9234f0111",
+    "wof:geomhash":"25eaf5de9fde1c2a705d0a93fa803344",
     "wof:hierarchy":[
         {
             "country_id":85632553,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209621503,
-    "wof:lastmodified":1536281502,
+    "wof:lastmodified":1566606026,
     "wof:name":"Toguel-Kossam",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -4.96315,
-    14.496720000000002,
+    14.49672,
     -4.96315,
-    14.496720000000002
+    14.49672
 ],
   "geometry": {"coordinates":[-4.96315,14.49672],"type":"Point"}
 }

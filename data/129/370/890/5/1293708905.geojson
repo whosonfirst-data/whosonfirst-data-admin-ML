@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-1.94306,16.85778,-1.90306,16.89778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Gourma-Rharous"
     ],
@@ -50,10 +54,8 @@
         "Rharous"
     ],
     "name:und_x_variant":[
-        "Rharous",
         "Gourma-Rarous",
         "Gourma-Barous",
-        "Gourma-Rharous",
         "Gourma Rharous"
     ],
     "name:zho_x_preferred":[
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":1293708905,
-    "wof:lastmodified":1564309403,
+    "wof:lastmodified":1566605817,
     "wof:name":"Gourma Rharous",
     "wof:parent_id":890418895,
     "wof:placetype":"locality",

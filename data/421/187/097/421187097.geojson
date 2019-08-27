@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":13.923984,
     "lbl:longitude":-4.612274,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Mopti",
     "meso:gadm_admin":"Djenn\u00e9",
     "meso:gadm_hasc2":"ML.MO.DJ",
@@ -27,6 +29,7 @@
     "mps:longitude":-4.612274,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062c\u064a\u0646\u064a\u0647"
@@ -206,7 +209,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":6176,
     "wof:belongsto":[
         102191573,
@@ -217,7 +220,7 @@
     "wof:concordances":{
         "gp:id":56000012,
         "hasc:id":"ML.MO.DJ",
-        "qs:id":1080270,
+        "qs_pg:id":1080270,
         "wd:id":"Q213507"
     },
     "wof:country":"ML",
@@ -232,7 +235,7 @@
         }
     ],
     "wof:id":421187097,
-    "wof:lastmodified":1563262892,
+    "wof:lastmodified":1566606396,
     "wof:name":"Djenne",
     "wof:parent_id":85674539,
     "wof:placetype":"county",

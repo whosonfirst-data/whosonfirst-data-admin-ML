@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-3.1995,15.8259,-3.1595,15.8659",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260305911,
-    "wof:lastmodified":1536681853,
+    "wof:lastmodified":1566606172,
     "wof:name":"Tilere",
     "wof:parent_id":890418895,
     "wof:placetype":"locality",

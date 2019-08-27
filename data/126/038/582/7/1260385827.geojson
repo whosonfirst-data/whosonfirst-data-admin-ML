@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.623,12.7277,-6.583,12.7677",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Nyamina"
     ],
@@ -46,9 +50,6 @@
     ],
     "name:spa_x_preferred":[
         "Nyamina"
-    ],
-    "name:und_x_variant":[
-        "Nianiana"
     ],
     "name:zho_x_preferred":[
         "\u5c3c\u4e9e\u7c73\u7d0d"
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1260385827,
-    "wof:lastmodified":1564310282,
+    "wof:lastmodified":1566606163,
     "wof:name":"Nyamana",
     "wof:parent_id":1108562833,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-8.17657,12.75799,-8.13657,12.79799",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Diago"
     ],
@@ -42,8 +46,7 @@
     ],
     "name:und_x_variant":[
         "Niago",
-        "Dyago",
-        "Diago"
+        "Dyago"
     ],
     "name:zho_x_preferred":[
         "\u8fea\u4e9e\u6208"
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1292900485,
-    "wof:lastmodified":1564309508,
+    "wof:lastmodified":1566605858,
     "wof:name":"Diago",
     "wof:parent_id":421177883,
     "wof:placetype":"locality",

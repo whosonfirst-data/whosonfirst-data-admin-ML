@@ -10,8 +10,11 @@
     "geom:latitude":12.65,
     "geom:longitude":-8.03333,
     "iso:country":"ML",
+    "lbl:bbox":"-8.03833,12.645,-8.02833,12.655",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"ML",
     "qs:gn_fcode":"PPLX",
@@ -33,16 +36,16 @@
     "qs:woe_id":1372234,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85674525,
         102191573,
         85632553,
-        421187095,
-        85674525
+        421187095
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2456849,
         "gp:id":1372234,
-        "qs:id":1096490
+        "qs_pg:id":1096490
     },
     "wof:country":"ML",
     "wof:created":1459009555,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":421188419,
-    "wof:lastmodified":1531858621,
+    "wof:lastmodified":1566606396,
     "wof:name":"Grottes",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

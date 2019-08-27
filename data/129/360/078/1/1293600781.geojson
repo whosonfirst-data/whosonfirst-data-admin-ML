@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-10.72112,15.1014,-10.68112,15.1414",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sambakar\u00e9",
         "Sambakan\u00e9",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293600781,
-    "wof:lastmodified":1537665071,
+    "wof:lastmodified":1566605851,
     "wof:name":"Sanbakanou",
     "wof:parent_id":1108562863,
     "wof:placetype":"locality",

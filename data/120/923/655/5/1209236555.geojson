@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.45476,11.58466,-6.41476,11.62466",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kongola"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209236555,
-    "wof:lastmodified":1564310007,
+    "wof:lastmodified":1566606056,
     "wof:name":"Kongola",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",

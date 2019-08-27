@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.28517,13.42084,-6.24517,13.46084",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u063a\u0648"
     ],
@@ -139,8 +143,7 @@
     ],
     "name:und_x_variant":[
         "Segoukoro",
-        "S\u00e9gou-Koura",
-        "S\u00e9gou"
+        "S\u00e9gou-Koura"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u06af\u0648"
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":1310227773,
-    "wof:lastmodified":1564310410,
+    "wof:lastmodified":1566606215,
     "wof:name":"Segou",
     "wof:parent_id":421175221,
     "wof:placetype":"locality",

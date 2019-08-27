@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.25633,12.5392,-5.21633,12.5792",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632553
@@ -34,7 +38,7 @@
         "gn:id":2452703
     },
     "wof:country":"ML",
-    "wof:geomhash":"b39d949890f83c58ae3e61e364a77cc3",
+    "wof:geomhash":"710776954b3aa311701518f15b33e23c",
     "wof:hierarchy":[
         {
             "country_id":85632553,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209407305,
-    "wof:lastmodified":1536287953,
+    "wof:lastmodified":1566606057,
     "wof:name":"Niessasso",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.2363300000000015,
+    -5.23633,
     12.5592,
-    -5.2363300000000015,
+    -5.23633,
     12.5592
 ],
   "geometry": {"coordinates":[-5.23633,12.5592],"type":"Point"}

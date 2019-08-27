@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.33872,12.99205,-6.29872,13.03205",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tcho\u00efna",
         "N\u2019To\u00efna",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326529115,
-    "wof:lastmodified":1537665016,
+    "wof:lastmodified":1566605621,
     "wof:name":"Tioina",
     "wof:parent_id":1108562837,
     "wof:placetype":"locality",

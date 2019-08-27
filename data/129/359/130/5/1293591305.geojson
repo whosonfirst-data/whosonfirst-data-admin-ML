@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-11.07177,12.75785,-11.03177,12.79785",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Dombia"
     ],
@@ -42,8 +46,7 @@
     ],
     "name:und_x_variant":[
         "Donbia",
-        "Doumbia",
-        "Dombia"
+        "Doumbia"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1293591305,
-    "wof:lastmodified":1564309457,
+    "wof:lastmodified":1566605837,
     "wof:name":"Dombia",
     "wof:parent_id":421171903,
     "wof:placetype":"locality",

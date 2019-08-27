@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"0.6741,15.4529,0.7141,15.4929",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Tassiga"
     ],
     "name:und_x_variant":[
-        "Kasga",
-        "Tassiga"
+        "Kasga"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1226734161,
-    "wof:lastmodified":1564311350,
+    "wof:lastmodified":1566606646,
     "wof:name":"Tassiga",
     "wof:parent_id":890418903,
     "wof:placetype":"locality",

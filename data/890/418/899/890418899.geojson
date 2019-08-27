@@ -11,10 +11,12 @@
     "geom:longitude":0.298669,
     "gn:country":"ML",
     "gn:fcode":"ADM2",
-    "gn:pop":239853,
+    "gn:population":239853,
     "iso:country":"ML",
     "lbl:latitude":16.486168,
     "lbl:longitude":0.428756,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Gao",
     "meso:gadm_admin":"Gao",
     "meso:gadm_hasc2":"ML.GA.GA",
@@ -27,6 +29,7 @@
     "mps:longitude":0.428756,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Gao Cercle"
     ],
@@ -68,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":167,
     "wof:belongsto":[
@@ -80,7 +83,7 @@
     "wof:concordances":{
         "gn:id":7670553,
         "hasc:id":"ML.GA.GA",
-        "qs:id":696752,
+        "qs_pg:id":696752,
         "wd:id":"Q1493783",
         "wk:page":"Gao Cercle"
     },
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":890418899,
-    "wof:lastmodified":1563262911,
+    "wof:lastmodified":1566606400,
     "wof:name":"Gao",
     "wof:parent_id":85674521,
     "wof:placetype":"county",

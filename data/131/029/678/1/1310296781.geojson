@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.4175,12.5239,-6.3775,12.5639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Ty\u00e9koum\u00e9la"
     ],
     "name:fra_x_variant":[
-        "Ti\u00e9koumela"
-    ],
-    "name:und_x_variant":[
         "Ti\u00e9koumela"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1310296781,
-    "wof:lastmodified":1537665013,
+    "wof:lastmodified":1566606254,
     "wof:name":"Tyekoumela",
     "wof:parent_id":1108562833,
     "wof:placetype":"locality",

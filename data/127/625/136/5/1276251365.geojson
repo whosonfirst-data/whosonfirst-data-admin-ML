@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-3.39775,16.35789,-3.35775,16.39789",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Arham"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1276251365,
-    "wof:lastmodified":1564309766,
+    "wof:lastmodified":1566605964,
     "wof:name":"Araham",
     "wof:parent_id":421172359,
     "wof:placetype":"locality",

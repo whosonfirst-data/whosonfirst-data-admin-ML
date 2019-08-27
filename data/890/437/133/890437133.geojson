@@ -11,10 +11,14 @@
     "geom:longitude":-10.96667,
     "gn:country":"ML",
     "gn:fcode":"PPL",
-    "gn:pop":10943,
+    "gn:population":10943,
     "iso:country":"ML",
+    "lbl:bbox":"-10.98667,12.26333,-10.94667,12.30333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03b9\u03c1\u03ad"
     ],
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":2458624,
         "gp:id":1502080,
-        "qs:id":1035824,
+        "qs_pg:id":1035824,
         "wk:page":"Dir\u00e9"
     },
     "wof:country":"ML",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890437133,
-    "wof:lastmodified":1564310754,
+    "wof:lastmodified":1566606400,
     "wof:name":"Dir\u00e9",
     "wof:parent_id":421171903,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-3.49036,16.29657,-3.45036,16.33657",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310692129,
-    "wof:lastmodified":1536647310,
+    "wof:lastmodified":1566606284,
     "wof:name":"Tondigame",
     "wof:parent_id":421172359,
     "wof:placetype":"locality",

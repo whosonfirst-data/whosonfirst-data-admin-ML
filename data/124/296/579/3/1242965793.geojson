@@ -23,12 +23,13 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.02936,11.14989,-5.98936,11.18989",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
-        "Ntossanso"
-    ],
-    "name:und_x_variant":[
         "Ntossanso"
     ],
     "src:geom":"geonames",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1242965793,
-    "wof:lastmodified":1537665088,
+    "wof:lastmodified":1566606508,
     "wof:name":"Ntozanso",
     "wof:parent_id":1108562825,
     "wof:placetype":"locality",

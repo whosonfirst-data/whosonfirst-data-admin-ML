@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.91403,12.6359,-5.87403,12.6759",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243256143,
-    "wof:lastmodified":1537076764,
+    "wof:lastmodified":1566606480,
     "wof:name":"Yafola",
     "wof:parent_id":421177885,
     "wof:placetype":"locality",

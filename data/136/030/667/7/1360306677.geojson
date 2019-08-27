@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-7.48735,15.02747,-7.44735,15.06747",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1360306677,
-    "wof:lastmodified":1536624024,
+    "wof:lastmodified":1566606321,
     "wof:name":"Demba Nare",
     "wof:parent_id":1108562865,
     "wof:placetype":"locality",

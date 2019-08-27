@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-4.8313,13.6621,-4.7913,13.7021",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sounga"
     ],
     "name:und_x_variant":[
-        "Bambara",
-        "Sounga"
+        "Bambara"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1293023391,
-    "wof:lastmodified":1564309494,
+    "wof:lastmodified":1566605852,
     "wof:name":"Sounga",
     "wof:parent_id":421187097,
     "wof:placetype":"locality",

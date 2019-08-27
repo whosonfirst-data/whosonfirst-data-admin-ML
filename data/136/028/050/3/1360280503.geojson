@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.72803,11.9946,-5.68803,12.0346",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Kouoro"
     ],
@@ -44,8 +48,7 @@
         "Kouoro"
     ],
     "name:und_x_variant":[
-        "Koro",
-        "Kouoro"
+        "Koro"
     ],
     "name:zho_x_preferred":[
         "\u5eab\u5967\u7f85"
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1360280503,
-    "wof:lastmodified":1564310658,
+    "wof:lastmodified":1566606352,
     "wof:name":"Kouoro",
     "wof:parent_id":1108562825,
     "wof:placetype":"locality",

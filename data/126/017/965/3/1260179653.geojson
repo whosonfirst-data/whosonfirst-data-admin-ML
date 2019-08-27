@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.74137,11.17941,-6.70137,11.21941",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Makana"
     ],
@@ -33,11 +37,6 @@
     ],
     "name:fra_x_variant":[
         "Mabana"
-    ],
-    "name:und_x_variant":[
-        "Mabana",
-        "Makana",
-        "Mahana"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +61,7 @@
         }
     ],
     "wof:id":1260179653,
-    "wof:lastmodified":1564310343,
+    "wof:lastmodified":1566606188,
     "wof:name":"Makana",
     "wof:parent_id":1108562819,
     "wof:placetype":"locality",

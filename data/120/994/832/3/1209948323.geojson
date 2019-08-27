@@ -23,18 +23,18 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.4511,12.9259,-6.4111,12.9659",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Kongou"
     ],
     "name:fra_x_variant":[
         "Kongo",
         "Kango"
-    ],
-    "name:und_x_variant":[
-        "Kango",
-        "Kongo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +59,7 @@
         }
     ],
     "wof:id":1209948323,
-    "wof:lastmodified":1537665144,
+    "wof:lastmodified":1566606083,
     "wof:name":"Kongou",
     "wof:parent_id":1108562837,
     "wof:placetype":"locality",

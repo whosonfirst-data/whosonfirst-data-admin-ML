@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-3.79679,14.3046,-3.75679,14.3446",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ngoro"
     ],
@@ -41,8 +45,7 @@
         "Ngoro"
     ],
     "name:und_x_variant":[
-        "Koro",
-        "Ngoro"
+        "Koro"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1209247781,
-    "wof:lastmodified":1564310003,
+    "wof:lastmodified":1566606055,
     "wof:name":"Ngoro",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",

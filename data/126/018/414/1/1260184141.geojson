@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-8.7436,13.4543,-8.7036,13.4943",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Kotouba"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:spa_x_preferred":[
         "Kotouba"
-    ],
-    "name:und_x_variant":[
-        "Kotoubaguintan"
     ],
     "name:zho_x_preferred":[
         "\u79d1\u5716\u5df4"
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1260184141,
-    "wof:lastmodified":1564310328,
+    "wof:lastmodified":1566606183,
     "wof:name":"Kotouba",
     "wof:parent_id":1108562847,
     "wof:placetype":"locality",

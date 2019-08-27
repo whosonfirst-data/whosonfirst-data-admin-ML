@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-9.49777,15.23938,-9.45777,15.27938",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Noma"
     ],
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":1260190079,
-    "wof:lastmodified":1564310365,
+    "wof:lastmodified":1566606197,
     "wof:name":"Noma",
     "wof:parent_id":1108562869,
     "wof:placetype":"locality",

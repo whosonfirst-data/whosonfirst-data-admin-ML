@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-2.05778,16.8627,-2.01778,16.9027",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nana-Guindi",
         "Nana Guind\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276571137,
-    "wof:lastmodified":1537665105,
+    "wof:lastmodified":1566605960,
     "wof:name":"Nana Guinde",
     "wof:parent_id":1108562891,
     "wof:placetype":"locality",

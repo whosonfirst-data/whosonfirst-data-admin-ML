@@ -10,6 +10,9 @@
     "geom:latitude":13.0349,
     "geom:longitude":-9.4895,
     "iso:country":"ML",
+    "lbl:bbox":"-9.5095,13.0149,-9.4695,13.0549",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -111,7 +114,7 @@
         "Kita"
     ],
     "name:tam_x_preferred":[
-        "\u0b9c\u0bbf\u0ba9\u0bbe\u0ba9\u0bcd  \u0ba8\u0b95\u0bb0\u0bae\u0bcd a"
+        "\u0b9c\u0bbf\u0ba9\u0bbe\u0ba9\u0bcd \u0ba8\u0b95\u0bb0\u0bae\u0bcd a"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c40\u0c1f\u0c3e"
@@ -257,7 +260,7 @@
     "wof:concordances":{
         "gn:id":2455216,
         "gp:id":1372979,
-        "qs:id":519935,
+        "qs_pg:id":519935,
         "wd:id":"Q578014",
         "wk:page":"Kita, Mali"
     },
@@ -274,7 +277,7 @@
         }
     ],
     "wof:id":421169009,
-    "wof:lastmodified":1563262887,
+    "wof:lastmodified":1566606395,
     "wof:name":"Kita",
     "wof:parent_id":1108562847,
     "wof:placetype":"locality",

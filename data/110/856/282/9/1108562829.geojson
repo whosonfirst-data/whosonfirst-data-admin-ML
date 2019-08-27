@@ -12,6 +12,8 @@
     "iso:country":"ML",
     "lbl:latitude":11.523399,
     "lbl:longitude":-7.476618,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Sikasso",
     "meso:gadm_admin":"Bougouni",
     "meso:gadm_hasc2":"ML.SK.BG",
@@ -24,6 +26,7 @@
     "mps:longitude":-7.476618,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bam_x_preferred":[
         "Buguni"
     ],
@@ -73,7 +76,7 @@
         "\u5e03\u53e4\u5c3c"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632553,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1108562829,
-    "wof:lastmodified":1564310378,
+    "wof:lastmodified":1566606202,
     "wof:name":"Bougouni",
     "wof:parent_id":85674531,
     "wof:placetype":"county",

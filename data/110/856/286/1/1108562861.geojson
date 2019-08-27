@@ -12,6 +12,8 @@
     "iso:country":"ML",
     "lbl:latitude":14.681713,
     "lbl:longitude":-4.959498,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Mopti",
     "meso:gadm_admin":"T\u00e9nenkou",
     "meso:gadm_hasc2":"ML.MO.TN",
@@ -24,12 +26,13 @@
     "mps:longitude":-4.959498,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Tenenkou",
         "T\u00e9nenkou"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632553,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108562861,
-    "wof:lastmodified":1536615192,
+    "wof:lastmodified":1566606200,
     "wof:name":"Tenenkou",
     "wof:parent_id":85674539,
     "wof:placetype":"county",

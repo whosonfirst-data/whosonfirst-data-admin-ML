@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-3.0305,15.0819,-2.9905,15.1219",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "D\u00e9b\u00e9r\u00e9"
     ],
@@ -38,9 +42,6 @@
         "D\u00e9b\u00e9r\u00e9"
     ],
     "name:spa_x_preferred":[
-        "D\u00e9b\u00e9r\u00e9"
-    ],
-    "name:und_x_variant":[
         "D\u00e9b\u00e9r\u00e9"
     ],
     "name:zho_x_preferred":[
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1210022445,
-    "wof:lastmodified":1564310200,
+    "wof:lastmodified":1566606131,
     "wof:name":"Debere",
     "wof:parent_id":421199983,
     "wof:placetype":"locality",

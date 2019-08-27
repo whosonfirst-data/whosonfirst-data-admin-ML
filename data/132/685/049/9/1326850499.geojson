@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-3.09828,16.4178,-3.05828,16.4578",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Taka\u00ef Gorout",
         "Torhayt Gorou",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326850499,
-    "wof:lastmodified":1537665018,
+    "wof:lastmodified":1566605607,
     "wof:name":"Tarhayt-Gorou",
     "wof:parent_id":890418895,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-2.80889,15.96504,-2.76889,16.00504",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632553
@@ -34,7 +38,7 @@
         "gn:id":2458504
     },
     "wof:country":"ML",
-    "wof:geomhash":"55b85092121c1657ad475939067b7007",
+    "wof:geomhash":"1270cd261dd2fb37e9ee2510e9800e4f",
     "wof:hierarchy":[
         {
             "country_id":85632553,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209608429,
-    "wof:lastmodified":1536281929,
+    "wof:lastmodified":1566606081,
     "wof:name":"Djoubouloumbe",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.7888900000000003,
+    -2.78889,
     15.98504,
-    -2.7888900000000003,
+    -2.78889,
     15.98504
 ],
   "geometry": {"coordinates":[-2.78889,15.98504],"type":"Point"}

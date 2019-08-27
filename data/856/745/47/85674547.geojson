@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":13.650893,
     "lbl:longitude":-7.669443,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Koulikoro",
     "meso:source":"mz",
     "mps:latitude":13.64551,
@@ -177,7 +178,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043b\u0456\u043a\u043e\u0440\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Region II"
     ],
     "name:urd_x_preferred":[
@@ -264,9 +265,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-04-14",
+    "src:population_date":"2009-04-14",
     "statoids:area_km":"95,848",
     "statoids:area_mi":"37,007",
     "statoids:as_of_date":"2009-04-14",
@@ -292,7 +293,7 @@
         "hasc:id":"ML.KK",
         "iso:id":"ML-2",
         "loc:id":"n85160174",
-        "qs:id":1083846,
+        "qs_pg:id":1083846,
         "unlc:id":"ML-2",
         "wd:id":"Q287789",
         "wk:page":"Koulikoro Region"
@@ -313,11 +314,10 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565727627,
+    "wof:lastmodified":1566605774,
     "wof:name":"Koulikoro",
     "wof:parent_id":85632553,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":2418305,
     "wof:population_rank":12,

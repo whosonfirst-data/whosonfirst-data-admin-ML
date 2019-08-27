@@ -23,16 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.24694,11.28756,-6.20694,11.32756",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Sirakoroba"
     ],
     "name:fra_x_variant":[
-        "Sirakoro",
-        "Sikoro"
-    ],
-    "name:und_x_variant":[
         "Sirakoro",
         "Sikoro"
     ],
@@ -59,7 +59,7 @@
         }
     ],
     "wof:id":1243169629,
-    "wof:lastmodified":1537665050,
+    "wof:lastmodified":1566606520,
     "wof:name":"Sirakoroba",
     "wof:parent_id":1108562825,
     "wof:placetype":"locality",

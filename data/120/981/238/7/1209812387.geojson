@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-8.2332,13.6839,-8.1932,13.7239",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Tiafahina"
     ],
     "name:fra_x_variant":[
-        "Tiafina"
-    ],
-    "name:und_x_variant":[
         "Tiafina"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1209812387,
-    "wof:lastmodified":1537665029,
+    "wof:lastmodified":1566606117,
     "wof:name":"Tiafahina",
     "wof:parent_id":1108562849,
     "wof:placetype":"locality",

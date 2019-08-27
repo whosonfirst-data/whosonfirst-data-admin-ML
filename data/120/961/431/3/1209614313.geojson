@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.98757,13.46311,-5.94757,13.50311",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632553
@@ -34,7 +38,7 @@
         "gn:id":6880695
     },
     "wof:country":"ML",
-    "wof:geomhash":"2252754676ff3a3d3d905fc9bbb540e3",
+    "wof:geomhash":"534f874acd699e9acf2918f4246028b3",
     "wof:hierarchy":[
         {
             "country_id":85632553,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209614313,
-    "wof:lastmodified":1536281742,
+    "wof:lastmodified":1566606070,
     "wof:name":"Maliguika",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.9675699999999985,
+    -5.96757,
     13.48311,
-    -5.9675699999999985,
+    -5.96757,
     13.48311
 ],
   "geometry": {"coordinates":[-5.96757,13.48311],"type":"Point"}

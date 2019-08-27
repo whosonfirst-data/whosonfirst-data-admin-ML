@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-1.60343,15.40361,-1.56343,15.44361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sambangou",
         "Sombangou",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259999583,
-    "wof:lastmodified":1537665074,
+    "wof:lastmodified":1566606559,
     "wof:name":"Sabangou",
     "wof:parent_id":890418895,
     "wof:placetype":"locality",

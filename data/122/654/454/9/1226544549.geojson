@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.72962,12.85356,-5.68962,12.89356",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0995\u09be\u09ae\u09a8\u09be"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226544549,
-    "wof:lastmodified":1564311525,
+    "wof:lastmodified":1566606712,
     "wof:name":"Kamona",
     "wof:parent_id":1108562835,
     "wof:placetype":"locality",

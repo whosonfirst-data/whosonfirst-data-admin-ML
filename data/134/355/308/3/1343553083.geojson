@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.58637,11.92642,-6.54637,11.96642",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Diougouna"
     ],
     "name:fra_x_variant":[
-        "Diougouma"
-    ],
-    "name:und_x_variant":[
         "Diougouma"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1343553083,
-    "wof:lastmodified":1537665226,
+    "wof:lastmodified":1566605668,
     "wof:name":"Diougouna",
     "wof:parent_id":1108562833,
     "wof:placetype":"locality",

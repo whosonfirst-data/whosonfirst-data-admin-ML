@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-9.19912,15.04134,-9.15912,15.08134",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gu\u00e9sin\u00e9",
         "Guessin\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343269351,
-    "wof:lastmodified":1537665177,
+    "wof:lastmodified":1566605761,
     "wof:name":"Guessine",
     "wof:parent_id":1108562857,
     "wof:placetype":"locality",

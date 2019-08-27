@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.9225,12.743,-6.8825,12.783",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Folondara"
     ],
     "name:fra_x_variant":[
-        "Folondala"
-    ],
-    "name:und_x_variant":[
         "Folondala"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1242569399,
-    "wof:lastmodified":1537665192,
+    "wof:lastmodified":1566606468,
     "wof:name":"Folondara",
     "wof:parent_id":1108562833,
     "wof:placetype":"locality",

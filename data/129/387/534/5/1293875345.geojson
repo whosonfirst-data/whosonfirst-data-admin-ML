@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.953,12.2531,-6.913,12.2931",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u043e\u043d"
     ],
@@ -71,9 +75,6 @@
     "name:spa_x_preferred":[
         "Sonio"
     ],
-    "name:und_x_variant":[
-        "Seno"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1293875345,
-    "wof:lastmodified":1564309558,
+    "wof:lastmodified":1566605881,
     "wof:name":"Sone",
     "wof:parent_id":1108562833,
     "wof:placetype":"locality",

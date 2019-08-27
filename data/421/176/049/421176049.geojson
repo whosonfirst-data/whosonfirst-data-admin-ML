@@ -10,8 +10,12 @@
     "geom:latitude":14.54091,
     "geom:longitude":-4.21458,
     "iso:country":"ML",
+    "lbl:bbox":"-4.23458,14.52091,-4.19458,14.56091",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"ML",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":6765902,
         "gp:id":1374395,
-        "qs:id":1040801
+        "qs_pg:id":1040801
     },
     "wof:country":"ML",
     "wof:created":1459009088,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421176049,
-    "wof:lastmodified":1500013718,
+    "wof:lastmodified":1566606398,
     "wof:name":"Nantaka",
     "wof:parent_id":421180081,
     "wof:placetype":"locality",

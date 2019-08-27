@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.88283,12.1558,-5.84283,12.1958",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Kl\u00e9la"
     ],
@@ -46,8 +50,7 @@
     "name:und_x_variant":[
         "Keleni",
         "Kl\u00e9tani",
-        "Kl\u00e9lani",
-        "Kl\u00e9la"
+        "Kl\u00e9lani"
     ],
     "name:zho_x_preferred":[
         "\u514b\u840a\u62c9"
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1259575883,
-    "wof:lastmodified":1564311191,
+    "wof:lastmodified":1566606588,
     "wof:name":"Klela",
     "wof:parent_id":1108562825,
     "wof:placetype":"locality",

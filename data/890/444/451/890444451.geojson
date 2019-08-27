@@ -11,11 +11,15 @@
     "geom:longitude":-4.9245,
     "gn:country":"ML",
     "gn:fcode":"PPL",
-    "gn:pop":6014,
+    "gn:population":6014,
     "iso:country":"ML",
+    "lbl:bbox":"-4.9445,12.82217,-4.9045,12.86217",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Kimparana"
     ],
     "qs:name":"Kinmparana",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2455456,
         "gp:id":1372941,
-        "qs:id":1035819
+        "qs_pg:id":1035819
     },
     "wof:country":"ML",
     "wof:created":1469052469,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890444451,
-    "wof:lastmodified":1505343599,
+    "wof:lastmodified":1566606400,
     "wof:name":"Kinmparana",
     "wof:parent_id":421192717,
     "wof:placetype":"locality",

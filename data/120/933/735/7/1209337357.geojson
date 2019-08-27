@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.10051,13.7574,-6.06051,13.7974",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632553
@@ -34,7 +38,7 @@
         "gn:id":6910493
     },
     "wof:country":"ML",
-    "wof:geomhash":"1a3adac93910c72d770ceeef80fddb91",
+    "wof:geomhash":"3591f7cf3adcd0be74c86f157511d735",
     "wof:hierarchy":[
         {
             "country_id":85632553,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209337357,
-    "wof:lastmodified":1536290175,
+    "wof:lastmodified":1566606091,
     "wof:name":"Bourama Ouere",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.0805099999999985,
+    -6.08051,
     13.7774,
-    -6.0805099999999985,
+    -6.08051,
     13.7774
 ],
   "geometry": {"coordinates":[-6.08051,13.7774],"type":"Point"}

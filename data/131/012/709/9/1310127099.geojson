@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-8.2183,13.6344,-8.1783,13.6744",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bohidini\u00e9"
     ],
     "name:fra_x_variant":[
-        "Bo\u00efdigu\u00e9"
-    ],
-    "name:und_x_variant":[
         "Bo\u00efdigu\u00e9"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1310127099,
-    "wof:lastmodified":1537665258,
+    "wof:lastmodified":1566606204,
     "wof:name":"Bohidinie",
     "wof:parent_id":1108562849,
     "wof:placetype":"locality",

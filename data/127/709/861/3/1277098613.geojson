@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.62266,11.60368,-5.58266,11.64368",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1277098613,
-    "wof:lastmodified":1536744494,
+    "wof:lastmodified":1566605908,
     "wof:name":"Sanzarabougou",
     "wof:parent_id":1108562825,
     "wof:placetype":"locality",

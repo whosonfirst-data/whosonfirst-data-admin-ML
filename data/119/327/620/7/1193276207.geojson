@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-4.1004,15.6108,-4.0604,15.6508",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1193276207,
-    "wof:lastmodified":1536365828,
+    "wof:lastmodified":1566606155,
     "wof:name":"Ergam",
     "wof:parent_id":1108562871,
     "wof:placetype":"locality",

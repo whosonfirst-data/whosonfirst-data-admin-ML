@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-2.44983,15.13663,-2.40983,15.17663",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309809703,
-    "wof:lastmodified":1536926075,
+    "wof:lastmodified":1566606387,
     "wof:name":"Kikiri",
     "wof:parent_id":421199983,
     "wof:placetype":"locality",

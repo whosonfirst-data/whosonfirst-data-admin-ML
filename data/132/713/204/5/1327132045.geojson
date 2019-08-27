@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.80794,11.61407,-5.76794,11.65407",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327132045,
-    "wof:lastmodified":1536614297,
+    "wof:lastmodified":1566605566,
     "wof:name":"De",
     "wof:parent_id":1108562825,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-7.7068,12.4618,-7.6668,12.5018",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309997629,
-    "wof:lastmodified":1536654699,
+    "wof:lastmodified":1566606365,
     "wof:name":"Nteneme",
     "wof:parent_id":421177883,
     "wof:placetype":"locality",

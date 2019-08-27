@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-7.75799,12.59229,-7.71799,12.63229",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1360206133,
-    "wof:lastmodified":1536771673,
+    "wof:lastmodified":1566606335,
     "wof:name":"Sadio Ouere",
     "wof:parent_id":421177883,
     "wof:placetype":"locality",

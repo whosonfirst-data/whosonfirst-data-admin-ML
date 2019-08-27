@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-4.76591,14.19135,-4.72591,14.23135",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Round\u00e9-Bana",
         "Koa"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242897751,
-    "wof:lastmodified":1537665154,
+    "wof:lastmodified":1566606438,
     "wof:name":"Koa",
     "wof:parent_id":421187097,
     "wof:placetype":"locality",

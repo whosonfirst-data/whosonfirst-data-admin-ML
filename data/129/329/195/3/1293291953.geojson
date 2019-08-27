@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.12986,13.03072,-5.08986,13.07072",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293291953,
-    "wof:lastmodified":1537066020,
+    "wof:lastmodified":1566605874,
     "wof:name":"Ngosso",
     "wof:parent_id":421192717,
     "wof:placetype":"locality",

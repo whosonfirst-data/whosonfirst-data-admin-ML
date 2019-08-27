@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-11.40992,12.16207,-11.36992,12.20207",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "N\u00e9h\u00e9tandi",
         "N\u00e8r\u00e8tandi"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327433293,
-    "wof:lastmodified":1537665101,
+    "wof:lastmodified":1566605645,
     "wof:name":"Neretandi",
     "wof:parent_id":421171903,
     "wof:placetype":"locality",

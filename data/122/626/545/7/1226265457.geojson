@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.37474,13.62591,-5.33474,13.66591",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kala",
         "Noumou"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226265457,
-    "wof:lastmodified":1537665287,
+    "wof:lastmodified":1566606638,
     "wof:name":"Noumou",
     "wof:parent_id":1108562853,
     "wof:placetype":"locality",

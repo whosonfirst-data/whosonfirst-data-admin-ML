@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-3.79255,13.41013,-3.75255,13.45013",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Neon"
     ],
@@ -419,8 +423,7 @@
         "\u041d\u0435\u043e\u043d"
     ],
     "name:und_x_variant":[
-        "Nion",
-        "N\u00e9on"
+        "Nion"
     ],
     "name:urd_x_preferred":[
         "\u0646\u06cc\u0648\u0646"
@@ -472,7 +475,7 @@
         }
     ],
     "wof:id":1293613107,
-    "wof:lastmodified":1564309450,
+    "wof:lastmodified":1566605834,
     "wof:name":"Neon",
     "wof:parent_id":1108562845,
     "wof:placetype":"locality",

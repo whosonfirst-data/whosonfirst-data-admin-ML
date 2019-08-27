@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.6205,15.2043,-5.5805,15.2443",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Dianw\u00e9li"
     ],
@@ -41,8 +45,7 @@
         "Dianw\u00e9ly"
     ],
     "name:und_x_variant":[
-        "Diaouanv\u00e9li",
-        "Dianw\u00e9li"
+        "Diaouanv\u00e9li"
     ],
     "name:zho_x_preferred":[
         "\u8fea\u5b89\u97cb\u5229"
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1310304011,
-    "wof:lastmodified":1564310460,
+    "wof:lastmodified":1566606237,
     "wof:name":"Dianweli",
     "wof:parent_id":1108562867,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.50132,13.39337,-6.46132,13.43337",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259582377,
-    "wof:lastmodified":1536716781,
+    "wof:lastmodified":1566606601,
     "wof:name":"Diambougou",
     "wof:parent_id":421175221,
     "wof:placetype":"locality",

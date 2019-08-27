@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-8.3208,13.3023,-8.2808,13.3423",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Ntola"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226536939,
-    "wof:lastmodified":1537665088,
+    "wof:lastmodified":1566606709,
     "wof:name":"Ntola",
     "wof:parent_id":421177883,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"ML",
     "lbl:latitude":35.970722,
     "lbl:longitude":14.365647,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":35.970722,
     "mps:longitude":14.365647,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0644\u064a\u062d\u0629"
     ],
@@ -149,9 +152,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u043b\u043b\u0456\u0445\u0430"
     ],
-    "name:unk_x_variant":[
-        "Il-Mellie\u0127a"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u06c1\u0644\u06cc\u0626\u062d\u0627"
     ],
@@ -178,7 +178,7 @@
     "qs:type":"rural hamlet many local_admin match geoplanet",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85632553
@@ -198,7 +198,7 @@
         }
     ],
     "wof:id":101912869,
-    "wof:lastmodified":1563262792,
+    "wof:lastmodified":1566606357,
     "wof:name":"Mellie\u0127a",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

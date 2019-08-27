@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.242,13.4074,-6.202,13.4474",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Pelengana"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1243362945,
-    "wof:lastmodified":1564310775,
+    "wof:lastmodified":1566606408,
     "wof:name":"Pelengana",
     "wof:parent_id":421175221,
     "wof:placetype":"locality",

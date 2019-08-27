@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"0.1189,15.9307,0.1589,15.9707",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310001861,
-    "wof:lastmodified":1536648238,
+    "wof:lastmodified":1566606227,
     "wof:name":"Tondyakara",
     "wof:parent_id":890418899,
     "wof:placetype":"locality",

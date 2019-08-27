@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-3.9983,14.5327,-3.9583,14.5727",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Boga"
     ],
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":1360309279,
-    "wof:lastmodified":1564310608,
+    "wof:lastmodified":1566606325,
     "wof:name":"Bougue",
     "wof:parent_id":421180081,
     "wof:placetype":"locality",

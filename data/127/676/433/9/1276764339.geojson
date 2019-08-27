@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-9.16506,15.31403,-9.12506,15.35403",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276764339,
-    "wof:lastmodified":1536698565,
+    "wof:lastmodified":1566605972,
     "wof:name":"Moujerigue Oulad Mounou",
     "wof:parent_id":1108562869,
     "wof:placetype":"locality",

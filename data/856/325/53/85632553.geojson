@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":18.683211,
     "lbl:longitude":-2.015109,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":18.683211,
     "mps:longitude":-2.015109,
     "mz:hierarchy_label":1,
@@ -701,9 +703,7 @@
         "\u041c\u0430\u043b\u0456"
     ],
     "name:und_x_variant":[
-        "Republika Mali"
-    ],
-    "name:unk_x_variant":[
+        "Republika Mali",
         "French Sudan"
     ],
     "name:urd_x_preferred":[
@@ -865,7 +865,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"223",
     "statoids:ds":"RMM",
@@ -910,7 +910,7 @@
         "mzb:id":"mali",
         "ne:adm0_a3":"MLI",
         "nyt:id":"62242867699662192641",
-        "qs:id":91463,
+        "qs_pg:id":91463,
         "uncrt:id":"RMM",
         "wd:id":"Q912",
         "wk:page":"Mali",
@@ -932,7 +932,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565727625,
+    "wof:lastmodified":1566605771,
     "wof:name":"Mali",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

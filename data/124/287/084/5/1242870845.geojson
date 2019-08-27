@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-8.85577,12.20489,-8.81577,12.24489",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "C\u00e9lofana",
         "C\u00e9lofara",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242870845,
-    "wof:lastmodified":1537665060,
+    "wof:lastmodified":1566606430,
     "wof:name":"Selofara",
     "wof:parent_id":1108562827,
     "wof:placetype":"locality",

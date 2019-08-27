@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-1.88346,15.4295,-1.84346,15.4695",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "L\u00e9gil\u00e9gi",
         "L\u00e9guil\u00e9gui"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327156547,
-    "wof:lastmodified":1537665129,
+    "wof:lastmodified":1566605573,
     "wof:name":"Leguilegui",
     "wof:parent_id":890418895,
     "wof:placetype":"locality",

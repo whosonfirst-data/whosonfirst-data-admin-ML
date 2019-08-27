@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-7.17,10.46333,-7.13,10.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Naw\u00e9na",
         "Naou\u00e9na"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360004197,
-    "wof:lastmodified":1537665104,
+    "wof:lastmodified":1566606312,
     "wof:name":"Naouena",
     "wof:parent_id":1108562829,
     "wof:placetype":"locality",

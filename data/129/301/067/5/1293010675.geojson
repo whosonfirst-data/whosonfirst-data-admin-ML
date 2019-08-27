@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-10.23667,12.19667,-10.19667,12.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kab\u00e9leia",
         "Kab\u00e9l\u00e9ya"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293010675,
-    "wof:lastmodified":1537665172,
+    "wof:lastmodified":1566605793,
     "wof:name":"Kabeleya",
     "wof:parent_id":1108562847,
     "wof:placetype":"locality",
