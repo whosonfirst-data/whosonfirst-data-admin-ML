@@ -23,12 +23,13 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-8.295,13.8489,-8.255,13.8889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
-        "Sounsou"
-    ],
-    "name:und_x_variant":[
         "Sounsou"
     ],
     "src:geom":"geonames",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1209707409,
-    "wof:lastmodified":1537665040,
+    "wof:lastmodified":1566606048,
     "wof:name":"Sounssou",
     "wof:parent_id":1108562849,
     "wof:placetype":"locality",

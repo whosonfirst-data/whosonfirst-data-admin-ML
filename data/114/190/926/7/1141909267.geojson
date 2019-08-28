@@ -10,10 +10,14 @@
     "geom:latitude":16.26659,
     "geom:longitude":-0.050008,
     "iso:country":"ML",
+    "lbl:bbox":"-0.0700075697742,16.2465897817,-0.0300075697742,16.2865897817",
     "lbl:latitude":16.26659,
     "lbl:longitude":-0.050008,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Gao"
     ],
@@ -325,7 +329,7 @@
         }
     ],
     "wof:id":1141909267,
-    "wof:lastmodified":1563263662,
+    "wof:lastmodified":1566606728,
     "wof:name":"Gao",
     "wof:parent_id":890418899,
     "wof:placetype":"locality",

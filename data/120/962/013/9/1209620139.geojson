@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.85226,13.09572,-5.81226,13.13572",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Touna"
     ],
@@ -41,8 +45,7 @@
         "Touna"
     ],
     "name:und_x_variant":[
-        "Tuna",
-        "Touna"
+        "Tuna"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1209620139,
-    "wof:lastmodified":1564309930,
+    "wof:lastmodified":1566606027,
     "wof:name":"Touna",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",

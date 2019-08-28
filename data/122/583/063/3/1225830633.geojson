@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-4.4611,15.6409,-4.4211,15.6809",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Diena"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1225830633,
-    "wof:lastmodified":1564311556,
+    "wof:lastmodified":1566606725,
     "wof:name":"Diena",
     "wof:parent_id":1108562871,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-8.10333,11.51333,-8.06333,11.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dossela",
         "Dossola"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310319961,
-    "wof:lastmodified":1537665217,
+    "wof:lastmodified":1566606230,
     "wof:name":"Dossola",
     "wof:parent_id":1108562821,
     "wof:placetype":"locality",

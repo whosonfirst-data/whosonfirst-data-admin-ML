@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-8.2078,13.5688,-8.1678,13.6088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Tom\u00e9koro"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326821945,
-    "wof:lastmodified":1537665020,
+    "wof:lastmodified":1566605604,
     "wof:name":"Tomekoro",
     "wof:parent_id":1108562849,
     "wof:placetype":"locality",

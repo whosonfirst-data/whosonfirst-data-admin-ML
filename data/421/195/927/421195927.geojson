@@ -10,6 +10,9 @@
     "geom:latitude":13.90608,
     "geom:longitude":-4.55332,
     "iso:country":"ML",
+    "lbl:bbox":"-4.57332,13.88608,-4.53332,13.92608",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
@@ -298,7 +301,7 @@
     "wof:concordances":{
         "gn:id":2458589,
         "gp:id":1371133,
-        "qs:id":140117,
+        "qs_pg:id":140117,
         "wd:id":"Q213507",
         "wk:page":"Djenn\u00e9"
     },
@@ -315,7 +318,7 @@
         }
     ],
     "wof:id":421195927,
-    "wof:lastmodified":1563262883,
+    "wof:lastmodified":1566606395,
     "wof:name":"Dj\u00e9nn\u00e9",
     "wof:parent_id":421187097,
     "wof:placetype":"locality",

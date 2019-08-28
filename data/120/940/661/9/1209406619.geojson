@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-7.42089,12.29157,-7.38089,12.33157",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632553
@@ -34,7 +38,7 @@
         "gn:id":2593967
     },
     "wof:country":"ML",
-    "wof:geomhash":"28817a5bb17322699288a1366831d121",
+    "wof:geomhash":"93f1a778fd1d70d4b0ac3b4536a026ab",
     "wof:hierarchy":[
         {
             "country_id":85632553,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209406619,
-    "wof:lastmodified":1536287976,
+    "wof:lastmodified":1566606057,
     "wof:name":"Dianikoro",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.400889999999999,
+    -7.40089,
     12.31157,
-    -7.400889999999999,
+    -7.40089,
     12.31157
 ],
   "geometry": {"coordinates":[-7.40089,12.31157],"type":"Point"}

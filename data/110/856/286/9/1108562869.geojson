@@ -12,6 +12,8 @@
     "iso:country":"ML",
     "lbl:latitude":15.129568,
     "lbl:longitude":-9.783127,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Kayes",
     "meso:gadm_admin":"Nioro",
     "meso:gadm_hasc2":"ML.KY.NR",
@@ -24,6 +26,7 @@
     "mps:longitude":-9.783127,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Nioro"
     ],
@@ -46,7 +49,7 @@
         "Nioro"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632553,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108562869,
-    "wof:lastmodified":1564310372,
+    "wof:lastmodified":1566606200,
     "wof:name":"Nioro",
     "wof:parent_id":85674529,
     "wof:placetype":"county",

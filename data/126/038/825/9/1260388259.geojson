@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.56559,13.29667,-5.52559,13.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bougoula"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1260388259,
-    "wof:lastmodified":1564310281,
+    "wof:lastmodified":1566606162,
     "wof:name":"Bougoula",
     "wof:parent_id":421175221,
     "wof:placetype":"locality",

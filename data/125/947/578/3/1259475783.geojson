@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-7.9189,11.10573,-7.8789,11.14573",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259475783,
-    "wof:lastmodified":1536868780,
+    "wof:lastmodified":1566606580,
     "wof:name":"Makadala",
     "wof:parent_id":1108562821,
     "wof:placetype":"locality",

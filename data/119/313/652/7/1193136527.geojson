@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.8667,14.0857,-6.8267,14.1257",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Donk\u00e9n\u00e9"
     ],
     "name:fra_x_variant":[
-        "Dongu\u00e9n\u00e9"
-    ],
-    "name:und_x_variant":[
         "Dongu\u00e9n\u00e9"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1193136527,
-    "wof:lastmodified":1537665218,
+    "wof:lastmodified":1566606144,
     "wof:name":"Donkene",
     "wof:parent_id":1108562851,
     "wof:placetype":"locality",

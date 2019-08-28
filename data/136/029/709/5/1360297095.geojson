@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-10.0485,14.2791,-10.0085,14.3191",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1360297095,
-    "wof:lastmodified":1536638683,
+    "wof:lastmodified":1566606343,
     "wof:name":"Diagounte",
     "wof:parent_id":1108562855,
     "wof:placetype":"locality",

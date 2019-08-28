@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-4.8419,14.60398,-4.8019,14.64398",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kinta-Foulb\u00e9",
         "Kenta Foulb\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242583779,
-    "wof:lastmodified":1537665159,
+    "wof:lastmodified":1566606465,
     "wof:name":"Kenta Foulbe",
     "wof:parent_id":1108562861,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-11.27237,12.13147,-11.23237,12.17147",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Diami Foulaguin\u00e9",
         "Diami Foula Guin\u00e9\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226254487,
-    "wof:lastmodified":1537665235,
+    "wof:lastmodified":1566606680,
     "wof:name":"Diami Foula Guinee",
     "wof:parent_id":421171903,
     "wof:placetype":"locality",

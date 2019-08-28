@@ -12,6 +12,8 @@
     "iso:country":"ML",
     "lbl:latitude":18.188133,
     "lbl:longitude":1.517652,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Kidal",
     "meso:gadm_admin":"Kidal",
     "meso:gadm_hasc2":"ML.KD.KL",
@@ -24,6 +26,7 @@
     "mps:longitude":1.517652,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u062f\u0627\u0644"
     ],
@@ -121,7 +124,7 @@
         "\u57fa\u9054\u723e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632553,
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":1108562883,
-    "wof:lastmodified":1564310372,
+    "wof:lastmodified":1566606200,
     "wof:name":"Kidal",
     "wof:parent_id":85674515,
     "wof:placetype":"county",

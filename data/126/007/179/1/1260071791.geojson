@@ -23,16 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.8334,12.5372,-6.7934,12.5772",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Tyendo"
     ],
     "name:fra_x_variant":[
-        "Tiendo",
-        "Tiende"
-    ],
-    "name:und_x_variant":[
         "Tiendo",
         "Tiende"
     ],
@@ -59,7 +59,7 @@
         }
     ],
     "wof:id":1260071791,
-    "wof:lastmodified":1537665012,
+    "wof:lastmodified":1566606166,
     "wof:name":"Tyendo",
     "wof:parent_id":1108562833,
     "wof:placetype":"locality",

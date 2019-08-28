@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.9701,11.73088,-5.9301,11.77088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Sanzana"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1343784219,
-    "wof:lastmodified":1564309142,
+    "wof:lastmodified":1566605706,
     "wof:name":"Sanzana",
     "wof:parent_id":1108562825,
     "wof:placetype":"locality",

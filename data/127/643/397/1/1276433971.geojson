@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.96392,11.62847,-6.92392,11.66847",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Kodiala"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276433971,
-    "wof:lastmodified":1537665153,
+    "wof:lastmodified":1566605921,
     "wof:name":"Kodiala",
     "wof:parent_id":1108562829,
     "wof:placetype":"locality",

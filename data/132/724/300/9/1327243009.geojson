@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-11.42524,14.48375,-11.38524,14.52375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Segue"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1327243009,
-    "wof:lastmodified":1564308811,
+    "wof:lastmodified":1566605575,
     "wof:name":"Segue",
     "wof:parent_id":421171549,
     "wof:placetype":"locality",

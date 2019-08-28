@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-8.7783,13.0599,-8.7383,13.0999",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Kola"
     ],
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":1243075063,
-    "wof:lastmodified":1564310760,
+    "wof:lastmodified":1566606403,
     "wof:name":"Kola",
     "wof:parent_id":1108562847,
     "wof:placetype":"locality",

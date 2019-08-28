@@ -10,6 +10,9 @@
     "geom:latitude":16.77348,
     "geom:longitude":-3.00742,
     "iso:country":"ML",
+    "lbl:bbox":"-3.02742,16.75348,-2.98742,16.79348",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
@@ -284,7 +287,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0456\u043c\u0431\u0443\u043a\u0442\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Timbuctoo"
     ],
     "name:urd_x_preferred":[
@@ -442,7 +445,7 @@
     "wof:concordances":{
         "gn:id":2449067,
         "gp:id":1376636,
-        "qs:id":492833,
+        "qs_pg:id":492833,
         "wd:id":"Q9427",
         "wk:page":"Timbuktu"
     },
@@ -459,7 +462,7 @@
         }
     ],
     "wof:id":421195697,
-    "wof:lastmodified":1563262882,
+    "wof:lastmodified":1566606395,
     "wof:name":"Tombouctou",
     "wof:parent_id":1108562891,
     "wof:placetype":"locality",

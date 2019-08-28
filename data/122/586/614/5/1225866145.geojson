@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-7.39035,13.12601,-7.35035,13.16601",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fougal\u00e9",
         "Fougalessoba",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225866145,
-    "wof:lastmodified":1537665190,
+    "wof:lastmodified":1566606670,
     "wof:name":"Fougalensoba",
     "wof:parent_id":1108562839,
     "wof:placetype":"locality",

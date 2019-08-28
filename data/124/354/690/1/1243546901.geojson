@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.80703,12.6729,-5.76703,12.7129",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bana"
     ],
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":1243546901,
-    "wof:lastmodified":1564310788,
+    "wof:lastmodified":1566606413,
     "wof:name":"Bana",
     "wof:parent_id":421177885,
     "wof:placetype":"locality",

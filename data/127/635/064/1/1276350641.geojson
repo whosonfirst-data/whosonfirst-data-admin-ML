@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.68667,10.48,-5.64667,10.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Z\u00e9goua"
     ],
@@ -45,9 +49,7 @@
         "Z\u00e9goua"
     ],
     "name:und_x_variant":[
-        "Zegua",
-        "Z\u00e9koua",
-        "Z\u00e9goua"
+        "Z\u00e9koua"
     ],
     "name:zho_x_preferred":[
         "\u6fa4\u6208\u74e6"
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":1276350641,
-    "wof:lastmodified":1564309736,
+    "wof:lastmodified":1566605953,
     "wof:name":"Zegoua",
     "wof:parent_id":1108562817,
     "wof:placetype":"locality",

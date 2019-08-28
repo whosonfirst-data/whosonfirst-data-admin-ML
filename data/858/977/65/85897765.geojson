@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":25194476.254209,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.346246,35.971863,14.346246,35.971863",
     "geom:latitude":35.971863,
     "geom:longitude":14.346246,
     "iso:country":"ML",
+    "lbl:bbox":"14.341246,35.966863,14.351246,35.976863",
     "lbl:latitude":35.971863,
     "lbl:longitude":14.346246,
+    "lbl:max_zoom":18.0,
     "mps:latitude":35.974232,
     "mps:longitude":14.341656,
     "mz:hierarchy_label":0,
@@ -26,10 +28,7 @@
     "name:und_x_colloquial":[
         "Il-Kamp tal-Mellieha"
     ],
-    "name:und_x_preferred":[
-        "Il-Kamp tal-Mellie\u0127a"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Il-Kamp tal-Mellie\u0127a"
     ],
     "qs:gn_fcode":"PPLX",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101848919,
@@ -70,7 +69,6 @@
     "wof:concordances":{
         "gn:id":2564646,
         "gp:id":483380,
-        "qs:id":211223,
         "qs_pg:id":211223
     },
     "wof:country":"ML",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531931937,
+    "wof:lastmodified":1566605774,
     "wof:name":"Il-Kamp tal-Mellie\u0127a",
     "wof:parent_id":101848919,
     "wof:placetype":"neighbourhood",

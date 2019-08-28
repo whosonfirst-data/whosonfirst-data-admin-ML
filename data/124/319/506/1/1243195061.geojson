@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.33827,12.77379,-6.29827,12.81379",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Guendou"
     ],
@@ -32,11 +36,6 @@
         "Guendo",
         "Gou\u00e9nou",
         "Gendou"
-    ],
-    "name:und_x_variant":[
-        "Gou\u00e9nou",
-        "Gendou",
-        "Guendo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +60,7 @@
         }
     ],
     "wof:id":1243195061,
-    "wof:lastmodified":1537665179,
+    "wof:lastmodified":1566606532,
     "wof:name":"Gendou",
     "wof:parent_id":1108562837,
     "wof:placetype":"locality",

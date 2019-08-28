@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.93273,12.6579,-5.89273,12.6979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "P\u00e9gu\u00e9na"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242599771,
-    "wof:lastmodified":1537665076,
+    "wof:lastmodified":1566606451,
     "wof:name":"Peguena",
     "wof:parent_id":421177885,
     "wof:placetype":"locality",

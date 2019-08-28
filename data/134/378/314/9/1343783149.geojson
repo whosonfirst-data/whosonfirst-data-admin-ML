@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-8.3172,13.4995,-8.2772,13.5395",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Foundoubougou"
     ],
     "name:fra_x_variant":[
-        "Foudombougou"
-    ],
-    "name:und_x_variant":[
         "Foudombougou"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1343783149,
-    "wof:lastmodified":1537665190,
+    "wof:lastmodified":1566605705,
     "wof:name":"Foundoubougou",
     "wof:parent_id":1108562849,
     "wof:placetype":"locality",

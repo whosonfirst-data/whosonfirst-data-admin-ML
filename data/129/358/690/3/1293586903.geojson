@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.33832,11.54357,-6.29832,11.58357",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Sanankoroba"
     ],
@@ -43,11 +47,6 @@
     ],
     "name:spa_x_preferred":[
         "Sanankoroba"
-    ],
-    "name:und_x_variant":[
-        "Sanonkorola",
-        "Sanankoroba",
-        "Sanonkorala"
     ],
     "name:zho_x_preferred":[
         "\u85a9\u5357\u79d1\u7f85\u5df4"
@@ -75,7 +74,7 @@
         }
     ],
     "wof:id":1293586903,
-    "wof:lastmodified":1564309490,
+    "wof:lastmodified":1566605850,
     "wof:name":"Sanankoroba",
     "wof:parent_id":1108562825,
     "wof:placetype":"locality",

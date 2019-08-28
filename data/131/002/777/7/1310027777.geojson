@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.86585,12.62092,-5.82585,12.66092",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310027777,
-    "wof:lastmodified":1536608464,
+    "wof:lastmodified":1566606281,
     "wof:name":"Dogonie",
     "wof:parent_id":421177885,
     "wof:placetype":"locality",

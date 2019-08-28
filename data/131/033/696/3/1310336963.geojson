@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.5081,14.0494,-5.4681,14.0894",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fy",
         "Fi"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310336963,
-    "wof:lastmodified":1537665195,
+    "wof:lastmodified":1566606279,
     "wof:name":"Fi",
     "wof:parent_id":1108562853,
     "wof:placetype":"locality",

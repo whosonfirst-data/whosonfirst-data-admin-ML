@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-2.24539,15.08336,-2.20539,15.12336",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Missirata",
         "Missinata",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209914699,
-    "wof:lastmodified":1537665092,
+    "wof:lastmodified":1566606026,
     "wof:name":"Nissanata",
     "wof:parent_id":421199983,
     "wof:placetype":"locality",

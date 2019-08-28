@@ -10,10 +10,14 @@
     "geom:latitude":20.201388,
     "geom:longitude":1.088812,
     "iso:country":"ML",
+    "lbl:bbox":"1.06881180686,20.1813883657,1.10881180686,20.2213883657",
     "lbl:latitude":20.201388,
     "lbl:longitude":1.088812,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0633\u0627\u0644\u064a\u062a"
     ],
@@ -187,7 +191,7 @@
         }
     ],
     "wof:id":1141908951,
-    "wof:lastmodified":1563263659,
+    "wof:lastmodified":1566606727,
     "wof:name":"Tessalit",
     "wof:parent_id":1108562887,
     "wof:placetype":"locality",

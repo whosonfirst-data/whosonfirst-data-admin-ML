@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-11.14229,12.90931,-11.10229,12.94931",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293106277,
-    "wof:lastmodified":1536838578,
+    "wof:lastmodified":1566605889,
     "wof:name":"Koutoufi",
     "wof:parent_id":421171903,
     "wof:placetype":"locality",

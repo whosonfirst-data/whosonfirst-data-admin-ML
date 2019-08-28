@@ -10,6 +10,9 @@
     "geom:latitude":13.4317,
     "geom:longitude":-6.2157,
     "iso:country":"ML",
+    "lbl:bbox":"-6.2357,13.4117,-6.1957,13.4517",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -301,7 +304,7 @@
     "wof:concordances":{
         "gn:id":2451478,
         "gp:id":1375496,
-        "qs:id":492844,
+        "qs_pg:id":492844,
         "wd:id":"Q333476"
     },
     "wof:country":"ML",
@@ -317,7 +320,7 @@
         }
     ],
     "wof:id":421195699,
-    "wof:lastmodified":1563262880,
+    "wof:lastmodified":1566606395,
     "wof:name":"S\u00e9gou",
     "wof:parent_id":421175221,
     "wof:placetype":"locality",

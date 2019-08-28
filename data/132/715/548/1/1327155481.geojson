@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-8.3041,13.7215,-8.2641,13.7615",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Diababougou"
     ],
     "name:fra_x_variant":[
-        "Doubabougou"
-    ],
-    "name:und_x_variant":[
         "Doubabougou"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1327155481,
-    "wof:lastmodified":1537665239,
+    "wof:lastmodified":1566605574,
     "wof:name":"Diababougou",
     "wof:parent_id":1108562849,
     "wof:placetype":"locality",

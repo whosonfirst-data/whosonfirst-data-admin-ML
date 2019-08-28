@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.1975,13.411,-6.1575,13.451",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "S\u00e9m\u00e9bougou",
         "S\u00e9mennbougou",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242776865,
-    "wof:lastmodified":1537665060,
+    "wof:lastmodified":1566606493,
     "wof:name":"Semembougou",
     "wof:parent_id":421175221,
     "wof:placetype":"locality",

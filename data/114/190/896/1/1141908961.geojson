@@ -10,10 +10,14 @@
     "geom:latitude":15.180015,
     "geom:longitude":-7.27998,
     "iso:country":"ML",
+    "lbl:bbox":"-7.29997969708,15.1600152781,-7.25997969708,15.2000152781",
     "lbl:latitude":15.180015,
     "lbl:longitude":-7.27998,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0648\u0627\u0631\u0629"
     ],
@@ -187,7 +191,7 @@
         }
     ],
     "wof:id":1141908961,
-    "wof:lastmodified":1563263661,
+    "wof:lastmodified":1566606728,
     "wof:name":"Nara",
     "wof:parent_id":1108562865,
     "wof:placetype":"locality",

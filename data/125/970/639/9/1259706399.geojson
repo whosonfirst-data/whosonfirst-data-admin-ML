@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.75844,13.15268,-6.71844,13.19268",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Zana"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1259706399,
-    "wof:lastmodified":1564311141,
+    "wof:lastmodified":1566606567,
     "wof:name":"Zana",
     "wof:parent_id":1108562837,
     "wof:placetype":"locality",

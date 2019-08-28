@@ -9,24 +9,23 @@
     "geom:bbox":"-8.0,12.63333,-8.0,12.63333",
     "geom:latitude":12.63333,
     "geom:longitude":-8.0,
-    "gn:gn_country":"ML",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"ML",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"ML",
+    "lbl:bbox":"-8.005,12.62833,-7.995,12.63833",
     "lbl:latitude":12.63333,
     "lbl:longitude":-8.0,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fra_x_preferred":[
         "Bozola"
     ],
     "name:fra_x_variant":[
         "Bosola"
-    ],
-    "name:unk_x_variant":[
-        "Bosola",
-        "Bozola"
     ],
     "qs_pg:aaroncc":"ML",
     "qs_pg:gn_country":"ML",
@@ -49,7 +48,7 @@
     "qs_pg:woe_adm0":23424891,
     "qs_pg:woe_id":1370415,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424891,
     "woe:name_adm0":"Mali",
     "woe:name_adm1":"Koulikoro",
@@ -64,7 +63,6 @@
     "wof:concordances":{
         "gn:id":2459611,
         "gp:id":1370415,
-        "qs:id":892311,
         "qs_pg:id":892311
     },
     "wof:country":"ML",
@@ -81,7 +79,7 @@
         }
     ],
     "wof:id":1126060599,
-    "wof:lastmodified":1534379379,
+    "wof:lastmodified":1566606401,
     "wof:name":"Bozola",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

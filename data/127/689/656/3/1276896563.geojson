@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.26684,11.67392,-6.22684,11.71392",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Kess\u00e9na"
     ],
     "name:und_x_variant":[
-        "K\u00e9ssana",
-        "Kess\u00e9na"
+        "K\u00e9ssana"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1276896563,
-    "wof:lastmodified":1537665157,
+    "wof:lastmodified":1566605934,
     "wof:name":"Kessana",
     "wof:parent_id":1108562825,
     "wof:placetype":"locality",

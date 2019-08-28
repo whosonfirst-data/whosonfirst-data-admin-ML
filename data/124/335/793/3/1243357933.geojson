@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-7.70988,13.40435,-7.66988,13.44435",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243357933,
-    "wof:lastmodified":1536933985,
+    "wof:lastmodified":1566606485,
     "wof:name":"Tchitcherela",
     "wof:parent_id":1108562839,
     "wof:placetype":"locality",

@@ -23,18 +23,18 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-8.771,13.0021,-8.731,13.0421",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Moabougou"
     ],
     "name:fra_x_variant":[
         "Mokoyabougou",
         "Makaiabougou"
-    ],
-    "name:und_x_variant":[
-        "Makaiabougou",
-        "Mokoyabougou"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +59,7 @@
         }
     ],
     "wof:id":1293891063,
-    "wof:lastmodified":1537665113,
+    "wof:lastmodified":1566605880,
     "wof:name":"Moabougou",
     "wof:parent_id":1108562847,
     "wof:placetype":"locality",

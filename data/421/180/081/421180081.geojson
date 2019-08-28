@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":14.870429,
     "lbl:longitude":-4.075176,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Mopti",
     "meso:gadm_admin":"Mopti",
     "meso:gadm_hasc2":"ML.MO.MP",
@@ -27,6 +29,7 @@
     "mps:longitude":-4.075176,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u062f\u0627\u0626\u0631\u0629 \u0645\u0648\u0628\u062a\u064a"
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632553,
@@ -97,7 +100,7 @@
         "gn:id":7701484,
         "gp:id":56000015,
         "hasc:id":"ML.MO.MP",
-        "qs:id":361584,
+        "qs_pg:id":361584,
         "wd:id":"Q1816378",
         "wk:page":"Mopti Cercle"
     },
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":421180081,
-    "wof:lastmodified":1563262892,
+    "wof:lastmodified":1566606396,
     "wof:name":"Mopti",
     "wof:parent_id":85674539,
     "wof:placetype":"county",

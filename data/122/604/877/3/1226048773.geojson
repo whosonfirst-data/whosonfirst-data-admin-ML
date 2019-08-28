@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-3.9552,15.0723,-3.9152,15.1123",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bouna"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1226048773,
-    "wof:lastmodified":1564311391,
+    "wof:lastmodified":1566606661,
     "wof:name":"Bouna",
     "wof:parent_id":421180081,
     "wof:placetype":"locality",

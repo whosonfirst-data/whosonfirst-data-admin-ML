@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.63293,10.99827,-5.59293,11.03827",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259578653,
-    "wof:lastmodified":1536722174,
+    "wof:lastmodified":1566606589,
     "wof:name":"Kodiassa",
     "wof:parent_id":1108562825,
     "wof:placetype":"locality",

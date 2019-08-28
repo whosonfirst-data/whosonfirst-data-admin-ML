@@ -23,8 +23,12 @@
     "gn:population":8714,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"3.12111,15.93944,3.16111,15.97944",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "In\u00e9kar"
     ],
@@ -44,9 +48,6 @@
         "In\u00e9kar"
     ],
     "name:swe_x_preferred":[
-        "In\u00e9kar"
-    ],
-    "name:und_x_variant":[
         "In\u00e9kar"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1260074675,
-    "wof:lastmodified":1564310289,
+    "wof:lastmodified":1566606166,
     "wof:name":"Inekar",
     "wof:parent_id":1108562875,
     "wof:placetype":"locality",

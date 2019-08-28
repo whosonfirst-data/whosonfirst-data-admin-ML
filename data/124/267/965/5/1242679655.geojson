@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-11.19571,13.11622,-11.15571,13.15622",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242679655,
-    "wof:lastmodified":1536917314,
+    "wof:lastmodified":1566606456,
     "wof:name":"Yatera",
     "wof:parent_id":421171903,
     "wof:placetype":"locality",

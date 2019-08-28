@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-7.22464,13.89427,-7.18464,13.93427",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Sirani"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1277097989,
-    "wof:lastmodified":1564309624,
+    "wof:lastmodified":1566605907,
     "wof:name":"Sirani",
     "wof:parent_id":1108562851,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-7.45944,12.33639,-7.41944,12.37639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632553
@@ -34,7 +38,7 @@
         "gn:id":2593971
     },
     "wof:country":"ML",
-    "wof:geomhash":"7c3c15d11c2eac77e21421fbdad612fa",
+    "wof:geomhash":"694a7359d9dc13e2f24c3b9dbe110e88",
     "wof:hierarchy":[
         {
             "country_id":85632553,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209027851,
-    "wof:lastmodified":1536299939,
+    "wof:lastmodified":1566606088,
     "wof:name":"Mpiebougou",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.4394399999999985,
+    -7.43944,
     12.35639,
-    -7.4394399999999985,
+    -7.43944,
     12.35639
 ],
   "geometry": {"coordinates":[-7.43944,12.35639],"type":"Point"}

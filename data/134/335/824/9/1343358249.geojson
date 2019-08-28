@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-4.7046,13.3151,-4.6646,13.3551",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Alikui",
         "K\u00e9niassa",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343358249,
-    "wof:lastmodified":1537665167,
+    "wof:lastmodified":1566605722,
     "wof:name":"Kanianso",
     "wof:parent_id":421192717,
     "wof:placetype":"locality",

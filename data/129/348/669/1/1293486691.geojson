@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.40184,13.55346,-5.36184,13.59346",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Fatin\u00e9"
     ],
@@ -41,7 +45,6 @@
         "Fatin\u00e9"
     ],
     "name:und_x_variant":[
-        "Fatin\u00e9",
         "Fatim\u00e9"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1293486691,
-    "wof:lastmodified":1564309393,
+    "wof:lastmodified":1566605812,
     "wof:name":"Fatime",
     "wof:parent_id":421175221,
     "wof:placetype":"locality",

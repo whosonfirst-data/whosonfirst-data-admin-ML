@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-3.78715,16.52811,-3.74715,16.56811",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dend\u00e9gu\u00e9re",
         "D\u00e8nd\u00e9guer"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326520915,
-    "wof:lastmodified":1537665240,
+    "wof:lastmodified":1566605620,
     "wof:name":"Dendeguer",
     "wof:parent_id":1108562889,
     "wof:placetype":"locality",

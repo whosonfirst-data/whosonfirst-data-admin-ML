@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-9.89643,15.34425,-9.85643,15.38425",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1344068467,
-    "wof:lastmodified":1536862583,
+    "wof:lastmodified":1566605682,
     "wof:name":"Diamoukata",
     "wof:parent_id":1108562869,
     "wof:placetype":"locality",

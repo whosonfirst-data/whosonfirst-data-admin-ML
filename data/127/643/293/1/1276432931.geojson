@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-7.51611,13.53532,-7.47611,13.57532",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276432931,
-    "wof:lastmodified":1536644606,
+    "wof:lastmodified":1566605922,
     "wof:name":"Kouna",
     "wof:parent_id":1108562851,
     "wof:placetype":"locality",

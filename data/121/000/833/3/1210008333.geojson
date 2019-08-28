@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-7.5878,12.2803,-7.5478,12.3203",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u064a\u064a\u0644\u064a"
     ],
@@ -44,7 +48,6 @@
         "Ti\u00e9l\u00e9"
     ],
     "name:und_x_variant":[
-        "Ti\u00e9l\u00e9",
         "Ty\u00e8l\u00e8"
     ],
     "name:zho_x_preferred":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1210008333,
-    "wof:lastmodified":1564310179,
+    "wof:lastmodified":1566606122,
     "wof:name":"Tyele",
     "wof:parent_id":421177883,
     "wof:placetype":"locality",

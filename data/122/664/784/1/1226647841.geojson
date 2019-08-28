@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-11.80692,14.25757,-11.76692,14.29757",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yass\u00e9lam",
         "Ya S\u00e9lam"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226647841,
-    "wof:lastmodified":1537665004,
+    "wof:lastmodified":1566606700,
     "wof:name":"Ya Selam",
     "wof:parent_id":421171549,
     "wof:placetype":"locality",

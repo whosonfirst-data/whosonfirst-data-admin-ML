@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-7.8747,14.3456,-7.8347,14.3856",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mar\u00e9na",
         "Mar\u00e9na Dyarisso",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326651385,
-    "wof:lastmodified":1537665120,
+    "wof:lastmodified":1566605634,
     "wof:name":"Marena Dyariso",
     "wof:parent_id":1108562865,
     "wof:placetype":"locality",

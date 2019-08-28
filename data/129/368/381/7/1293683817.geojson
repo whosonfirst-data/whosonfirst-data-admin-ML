@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-8.23747,12.40199,-8.19747,12.44199",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293683817,
-    "wof:lastmodified":1537000609,
+    "wof:lastmodified":1566605843,
     "wof:name":"Djissoumabougou",
     "wof:parent_id":421177883,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"0.7012,15.2424,0.7412,15.2824",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Gala"
     ],
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":1293276615,
-    "wof:lastmodified":1564309538,
+    "wof:lastmodified":1566605872,
     "wof:name":"Gala",
     "wof:parent_id":890418903,
     "wof:placetype":"locality",

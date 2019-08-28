@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.74013,11.84308,-6.70013,11.88308",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Fara"
     ],
@@ -94,9 +98,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u0430\u0440\u0430"
     ],
-    "name:und_x_variant":[
-        "Fala"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1193272541,
-    "wof:lastmodified":1564310271,
+    "wof:lastmodified":1566606158,
     "wof:name":"Fara",
     "wof:parent_id":1108562833,
     "wof:placetype":"locality",

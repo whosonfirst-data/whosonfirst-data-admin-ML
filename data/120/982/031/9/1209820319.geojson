@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.4687,13.5796,-5.4287,13.6196",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kossi"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209820319,
-    "wof:lastmodified":1564310026,
+    "wof:lastmodified":1566606063,
     "wof:name":"Kossi",
     "wof:parent_id":421175221,
     "wof:placetype":"locality",

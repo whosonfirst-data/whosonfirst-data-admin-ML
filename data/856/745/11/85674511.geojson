@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":21.488625,
     "lbl:longitude":-3.859508,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Timbuktu",
     "meso:source":"mz",
     "mps:latitude":21.294327,
@@ -156,7 +157,7 @@
         "Timbuktu"
     ],
     "name:tam_x_preferred":[
-        "\u0b9f\u0bbe\u0bae\u0bcd\u0baa\u0bcb\u0bb5\u0bc1\u0b95\u0bcd\u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0bc1  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0b9f\u0bbe\u0bae\u0bcd\u0baa\u0bcb\u0bb5\u0bc1\u0b95\u0bcd\u0b9f\u0bcb\u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c3e\u0c02\u0c2c\u0c4b\u0c15\u0c4d\u0c1f\u0c4b\u0c35\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -173,7 +174,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0456\u043c\u0431\u0443\u043a\u0442\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Region VI"
     ],
     "name:urd_x_preferred":[
@@ -264,7 +265,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "unlc:subdivision":"ML-6",
     "wof:belongsto":[
@@ -277,7 +278,7 @@
         "gn:id":2449066,
         "gp:id":2346187,
         "hasc:id":"ML.TT",
-        "qs:id":1083848,
+        "qs_pg:id":1083848,
         "unlc:id":"ML-6",
         "wd:id":"Q339462",
         "wk:page":"Tombouctou Region"
@@ -298,7 +299,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565727626,
+    "wof:lastmodified":1566605772,
     "wof:name":"Timbuktu",
     "wof:parent_id":85632553,
     "wof:placetype":"region",

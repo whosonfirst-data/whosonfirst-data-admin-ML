@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.6564,12.0146,-6.6164,12.0546",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Darak\u00e9l\u00e9"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293585943,
-    "wof:lastmodified":1537665243,
+    "wof:lastmodified":1566605848,
     "wof:name":"Darakele",
     "wof:parent_id":1108562833,
     "wof:placetype":"locality",

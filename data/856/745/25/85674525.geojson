@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":12.622,
     "lbl:longitude":-7.974234,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Bamako",
     "meso:source":"mz",
     "mps:latitude":12.626176,
@@ -534,9 +535,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-04-14",
+    "src:population_date":"2009-04-14",
     "statoids:area_km":"252",
     "statoids:area_mi":"97",
     "statoids:as_of_date":"2009-04-14",
@@ -561,7 +562,7 @@
         "gp:id":2346180,
         "hasc:id":"ML.BA",
         "iso:id":"ML-BKO",
-        "qs:id":219575,
+        "qs_pg:id":219575,
         "unlc:id":"ML-BKO",
         "wd:id":"Q3703",
         "wk:page":"Bamako"
@@ -585,11 +586,10 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565727627,
+    "wof:lastmodified":1566605774,
     "wof:name":"Bamako",
     "wof:parent_id":85632553,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":1809106,
     "wof:population_rank":12,

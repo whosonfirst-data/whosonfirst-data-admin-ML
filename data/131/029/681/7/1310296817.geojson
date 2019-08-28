@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-8.04907,12.55329,-8.00907,12.59329",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kalabancoro"
     ],
@@ -60,8 +64,7 @@
     ],
     "name:und_x_variant":[
         "Kalaba",
-        "Kalaban Koro",
-        "Kalabancoro"
+        "Kalaban Koro"
     ],
     "name:zho_x_preferred":[
         "\u5361\u62c9\u73ed\u79d1\u7f85"
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1310296817,
-    "wof:lastmodified":1564310497,
+    "wof:lastmodified":1566606253,
     "wof:name":"Kalaban Koro",
     "wof:parent_id":421177883,
     "wof:placetype":"locality",

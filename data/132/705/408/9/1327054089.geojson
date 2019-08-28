@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-3.1032,14.4687,-3.0632,14.5087",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Soye"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1327054089,
-    "wof:lastmodified":1564308832,
+    "wof:lastmodified":1566605583,
     "wof:name":"Soye",
     "wof:parent_id":421184495,
     "wof:placetype":"locality",

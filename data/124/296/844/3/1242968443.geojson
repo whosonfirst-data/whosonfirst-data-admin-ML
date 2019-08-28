@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.1003,12.567,-6.0603,12.607",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Ndy\u00e9g\u00e9bougou"
     ],
     "name:und_x_variant":[
-        "Ndy\u00e9gu\u00e9bougou",
-        "Ndy\u00e9g\u00e9bougou"
+        "Ndy\u00e9gu\u00e9bougou"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1242968443,
-    "wof:lastmodified":1537665288,
+    "wof:lastmodified":1566606506,
     "wof:name":"Ndyeguebougou",
     "wof:parent_id":421177885,
     "wof:placetype":"locality",

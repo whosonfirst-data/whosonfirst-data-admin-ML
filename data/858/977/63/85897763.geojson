@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":31400863.775975,
+    "geom:area_square_m":0.0,
     "geom:bbox":"14.496747,35.914509,14.496747,35.914509",
     "geom:latitude":35.914509,
     "geom:longitude":14.496747,
     "gn:id":"",
     "iso:country":"ML",
+    "lbl:bbox":"14.491747,35.909509,14.501747,35.919509",
     "lbl:latitude":35.914509,
     "lbl:longitude":14.496747,
+    "lbl:max_zoom":18.0,
     "mps:latitude":35.907224,
     "mps:longitude":14.482691,
     "mz:hierarchy_label":0,
@@ -27,10 +29,7 @@
     "name:und_x_colloquial":[
         "Il-Gzira"
     ],
-    "name:und_x_preferred":[
-        "Il-G\u017cira"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Il-G\u017cira"
     ],
     "qs:gn_id":0,
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101752431,
@@ -68,7 +67,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":483373,
-        "qs:id":219157,
         "qs_pg:id":219157
     },
     "wof:country":"ML",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531931936,
+    "wof:lastmodified":1566605774,
     "wof:name":"Il-G\u017cira",
     "wof:parent_id":101752431,
     "wof:placetype":"neighbourhood",

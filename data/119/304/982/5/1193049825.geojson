@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.07045,13.2704,-5.03045,13.3104",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1193049825,
-    "wof:lastmodified":1536366928,
+    "wof:lastmodified":1566606150,
     "wof:name":"Dioou",
     "wof:parent_id":421192717,
     "wof:placetype":"locality",

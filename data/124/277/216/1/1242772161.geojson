@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-8.22167,12.41469,-8.18167,12.45469",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Faraba"
     ],
@@ -41,8 +45,7 @@
         "Faraba"
     ],
     "name:und_x_variant":[
-        "Farada",
-        "Faraba"
+        "Farada"
     ],
     "name:zho_x_preferred":[
         "\u6cd5\u62c9\u5df4"
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1242772161,
-    "wof:lastmodified":1564310964,
+    "wof:lastmodified":1566606493,
     "wof:name":"Faraba",
     "wof:parent_id":421177883,
     "wof:placetype":"locality",

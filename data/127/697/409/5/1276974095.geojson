@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.7114,12.0443,-6.6714,12.0843",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Togo"
     ],
@@ -621,7 +625,7 @@
         }
     ],
     "wof:id":1276974095,
-    "wof:lastmodified":1564309852,
+    "wof:lastmodified":1566605997,
     "wof:name":"Togo",
     "wof:parent_id":1108562833,
     "wof:placetype":"locality",

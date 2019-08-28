@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-3.14896,16.48194,-3.10896,16.52194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Samsar",
         "Samdia",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343252685,
-    "wof:lastmodified":1537665070,
+    "wof:lastmodified":1566605708,
     "wof:name":"Samdyara",
     "wof:parent_id":421172359,
     "wof:placetype":"locality",

@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.5152,11.23849,-6.4752,11.27849",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "N\u00e9gu\u00e9la"
     ],
     "name:fra_x_variant":[
-        "N\u00e9g\u00e9la"
-    ],
-    "name:und_x_variant":[
         "N\u00e9g\u00e9la"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1259578553,
-    "wof:lastmodified":1537665101,
+    "wof:lastmodified":1566606589,
     "wof:name":"Neguela",
     "wof:parent_id":1108562819,
     "wof:placetype":"locality",

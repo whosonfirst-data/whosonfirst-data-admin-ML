@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-3.8291,13.4975,-3.7891,13.5375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Boule"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1243387421,
-    "wof:lastmodified":1564310769,
+    "wof:lastmodified":1566606406,
     "wof:name":"Boule",
     "wof:parent_id":1108562845,
     "wof:placetype":"locality",

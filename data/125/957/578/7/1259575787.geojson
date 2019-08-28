@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.13754,11.78339,-6.09754,11.82339",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Y\u00e9l\u00e9k\u00e9la"
     ],
     "name:fra_x_variant":[
-        "T\u00e9l\u00e9kola"
-    ],
-    "name:und_x_variant":[
         "T\u00e9l\u00e9kola"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1259575787,
-    "wof:lastmodified":1537665004,
+    "wof:lastmodified":1566606589,
     "wof:name":"Yelekela",
     "wof:parent_id":1108562825,
     "wof:placetype":"locality",

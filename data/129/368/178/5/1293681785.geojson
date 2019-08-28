@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.50043,12.498,-5.46043,12.538",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Siraquel\u00e9"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293681785,
-    "wof:lastmodified":1564309472,
+    "wof:lastmodified":1566605843,
     "wof:name":"Sirakele",
     "wof:parent_id":421177885,
     "wof:placetype":"locality",

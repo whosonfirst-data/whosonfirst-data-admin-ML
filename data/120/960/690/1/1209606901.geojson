@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-8.48587,12.24933,-8.44587,12.28933",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632553
@@ -34,7 +38,7 @@
         "gn:id":2594496
     },
     "wof:country":"ML",
-    "wof:geomhash":"49661e7886d5c7e4df1a8b69c870f849",
+    "wof:geomhash":"0bea5cb6bd306c37405092a6944d62a0",
     "wof:hierarchy":[
         {
             "country_id":85632553,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209606901,
-    "wof:lastmodified":1536281981,
+    "wof:lastmodified":1566606083,
     "wof:name":"Mourouba",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.465869999999999,
+    -8.46587,
     12.26933,
-    -8.465869999999999,
+    -8.46587,
     12.26933
 ],
   "geometry": {"coordinates":[-8.46587,12.26933],"type":"Point"}

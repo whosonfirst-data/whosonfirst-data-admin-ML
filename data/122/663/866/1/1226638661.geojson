@@ -23,12 +23,13 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.25367,11.62305,-6.21367,11.66305",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
-        "Singu\u00e9"
-    ],
-    "name:und_x_variant":[
         "Singu\u00e9"
     ],
     "src:geom":"geonames",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1226638661,
-    "wof:lastmodified":1537665053,
+    "wof:lastmodified":1566606701,
     "wof:name":"Seguin",
     "wof:parent_id":1108562825,
     "wof:placetype":"locality",

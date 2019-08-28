@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.15865,13.24906,-6.11865,13.28906",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zangorabougou",
         "Zangourabougou"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225949147,
-    "wof:lastmodified":1537664999,
+    "wof:lastmodified":1566606620,
     "wof:name":"Zangourabougou",
     "wof:parent_id":421175221,
     "wof:placetype":"locality",

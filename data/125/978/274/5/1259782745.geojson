@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.1023,12.7535,-6.0623,12.7935",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259782745,
-    "wof:lastmodified":1536924950,
+    "wof:lastmodified":1566606574,
     "wof:name":"Boubakabougou",
     "wof:parent_id":1108562835,
     "wof:placetype":"locality",

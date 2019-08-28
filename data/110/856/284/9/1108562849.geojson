@@ -12,6 +12,8 @@
     "iso:country":"ML",
     "lbl:latitude":13.716116,
     "lbl:longitude":-8.099684,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Koulikoro",
     "meso:gadm_admin":"Kolokani",
     "meso:gadm_hasc2":"ML.KK.KO",
@@ -24,6 +26,7 @@
     "mps:longitude":-8.099684,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kolokani"
     ],
@@ -70,7 +73,7 @@
         "\u79d1\u6d1b\u5361\u5c3c"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632553,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1108562849,
-    "wof:lastmodified":1564310375,
+    "wof:lastmodified":1566606201,
     "wof:name":"Kolokani",
     "wof:parent_id":85674547,
     "wof:placetype":"county",

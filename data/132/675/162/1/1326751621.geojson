@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.6791,12.3806,-6.6391,12.4206",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Manakoumbo"
     ],
     "name:fra_x_variant":[
-        "Manakongo"
-    ],
-    "name:und_x_variant":[
         "Manakongo"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1326751621,
-    "wof:lastmodified":1537665124,
+    "wof:lastmodified":1566605541,
     "wof:name":"Manakoumbo",
     "wof:parent_id":1108562833,
     "wof:placetype":"locality",

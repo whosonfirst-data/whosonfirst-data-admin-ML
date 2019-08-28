@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-7.4573,12.4251,-7.4173,12.4651",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bini"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1209409585,
-    "wof:lastmodified":1564310012,
+    "wof:lastmodified":1566606058,
     "wof:name":"Bini",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-10.44176,13.91502,-10.40176,13.95502",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632553
@@ -34,7 +38,7 @@
         "gn:id":2458819
     },
     "wof:country":"ML",
-    "wof:geomhash":"485b52b1234206d07dcbcce5d79a426e",
+    "wof:geomhash":"6854318607c7eefaf76afb68987cc9f1",
     "wof:hierarchy":[
         {
             "country_id":85632553,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209108131,
-    "wof:lastmodified":1536297498,
+    "wof:lastmodified":1566606111,
     "wof:name":"Diguine",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -10.42176,
-    13.935020000000002,
+    13.93502,
     -10.42176,
-    13.935020000000002
+    13.93502
 ],
   "geometry": {"coordinates":[-10.42176,13.93502],"type":"Point"}
 }

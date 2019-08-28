@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.77788,12.89703,-6.73788,12.93703",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Konobougou"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1243459423,
-    "wof:lastmodified":1564311042,
+    "wof:lastmodified":1566606526,
     "wof:name":"Konobougou",
     "wof:parent_id":1108562837,
     "wof:placetype":"locality",

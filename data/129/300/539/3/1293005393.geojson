@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.7084,15.4723,-5.6684,15.5123",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "\u0422\u0430\u0440\u0441\u0430"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293005393,
-    "wof:lastmodified":1564309313,
+    "wof:lastmodified":1566605781,
     "wof:name":"Tarsa",
     "wof:parent_id":1108562867,
     "wof:placetype":"locality",

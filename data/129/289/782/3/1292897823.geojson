@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.8729,12.4669,-6.8329,12.5069",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1292897823,
-    "wof:lastmodified":1536642302,
+    "wof:lastmodified":1566605800,
     "wof:name":"Finyanibougou",
     "wof:parent_id":1108562833,
     "wof:placetype":"locality",

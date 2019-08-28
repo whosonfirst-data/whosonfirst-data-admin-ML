@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.66138,13.277,-5.62138,13.317",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u043b\u0430"
     ],
@@ -59,8 +63,7 @@
         "Bla"
     ],
     "name:und_x_variant":[
-        "Blan",
-        "Bla"
+        "Blan"
     ],
     "name:zho_x_preferred":[
         "\u5e03\u62c9"
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1210039203,
-    "wof:lastmodified":1564310196,
+    "wof:lastmodified":1566606129,
     "wof:name":"Bla",
     "wof:parent_id":421175221,
     "wof:placetype":"locality",

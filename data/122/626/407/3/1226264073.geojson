@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-8.49647,12.25599,-8.45647,12.29599",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226264073,
-    "wof:lastmodified":1536907545,
+    "wof:lastmodified":1566606637,
     "wof:name":"Kaouale",
     "wof:parent_id":1108562827,
     "wof:placetype":"locality",

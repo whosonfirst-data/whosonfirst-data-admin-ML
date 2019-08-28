@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"2.46795,18.43059,2.50795,18.47059",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u03a4\u03b9\u03bd-\u0395\u03c3\u03c3\u03b1\u03ba\u03cc"
     ],
@@ -44,9 +48,6 @@
         "Tin-Essako"
     ],
     "name:spa_x_preferred":[
-        "Tin-Essako"
-    ],
-    "name:und_x_variant":[
         "Tin-Essako"
     ],
     "name:zho_x_preferred":[
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1309989775,
-    "wof:lastmodified":1564310667,
+    "wof:lastmodified":1566606358,
     "wof:name":"Ti-n-Essako",
     "wof:parent_id":1108562881,
     "wof:placetype":"locality",

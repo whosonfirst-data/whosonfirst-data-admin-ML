@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-3.33385,16.1696,-3.29385,16.2096",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "M\u00e9nissiague",
         "Menissi\u00e9gu\u00e9",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259679455,
-    "wof:lastmodified":1537665114,
+    "wof:lastmodified":1566606597,
     "wof:name":"Minessengue",
     "wof:parent_id":421172359,
     "wof:placetype":"locality",

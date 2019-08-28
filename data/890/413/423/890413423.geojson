@@ -11,8 +11,11 @@
     "geom:longitude":-6.1219,
     "gn:country":"ML",
     "gn:fcode":"PPL",
-    "gn:pop":4374,
+    "gn:population":4374,
     "iso:country":"ML",
+    "lbl:bbox":"-6.1419,14.7128,-6.1019,14.7528",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -55,9 +58,6 @@
     ],
     "name:swe_x_preferred":[
         "Sokolo"
-    ],
-    "name:unk_x_variant":[
-        "Soala"
     ],
     "name:zho_x_preferred":[
         "\u7d22\u79d1\u6d1b"
@@ -170,7 +170,7 @@
     "wof:concordances":{
         "gn:id":2450849,
         "gp:id":1503143,
-        "qs:id":574114,
+        "qs_pg:id":574114,
         "wd:id":"Q2257485",
         "wk:page":"Sokolo"
     },
@@ -187,7 +187,7 @@
         }
     ],
     "wof:id":890413423,
-    "wof:lastmodified":1563262908,
+    "wof:lastmodified":1566606399,
     "wof:name":"Sokolo",
     "wof:parent_id":1108562867,
     "wof:placetype":"locality",

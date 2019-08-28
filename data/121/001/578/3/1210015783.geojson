@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-4.4656,13.5087,-4.4256,13.5487",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Fangasso"
     ],
@@ -41,8 +45,7 @@
         "Fangasso"
     ],
     "name:und_x_variant":[
-        "Pakui",
-        "Fangasso"
+        "Pakui"
     ],
     "name:zho_x_preferred":[
         "\u51e1\u52a0\u7d22"
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1210015783,
-    "wof:lastmodified":1564310188,
+    "wof:lastmodified":1566606126,
     "wof:name":"Fangasso",
     "wof:parent_id":1108562843,
     "wof:placetype":"locality",

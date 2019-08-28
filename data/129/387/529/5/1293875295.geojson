@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-7.5596,14.2888,-7.5196,14.3288",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tola"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1293875295,
-    "wof:lastmodified":1564309559,
+    "wof:lastmodified":1566605882,
     "wof:name":"Tola",
     "wof:parent_id":1108562865,
     "wof:placetype":"locality",

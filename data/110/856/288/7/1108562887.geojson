@@ -12,6 +12,8 @@
     "iso:country":"ML",
     "lbl:latitude":19.989834,
     "lbl:longitude":0.067364,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Kidal",
     "meso:gadm_admin":"Tessalit",
     "meso:gadm_hasc2":"ML.KD.TS",
@@ -24,6 +26,7 @@
     "mps:longitude":0.067364,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Tessalit"
     ],
@@ -64,7 +67,7 @@
         "\u6cf0\u85a9\u5229"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632553,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1108562887,
-    "wof:lastmodified":1564310371,
+    "wof:lastmodified":1566606200,
     "wof:name":"Tessalit",
     "wof:parent_id":85674515,
     "wof:placetype":"county",

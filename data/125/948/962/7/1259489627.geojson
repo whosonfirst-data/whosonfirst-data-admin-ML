@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-4.4733,15.0415,-4.4333,15.0815",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259489627,
-    "wof:lastmodified":1536848820,
+    "wof:lastmodified":1566606560,
     "wof:name":"Yere-Yere",
     "wof:parent_id":1108562871,
     "wof:placetype":"locality",

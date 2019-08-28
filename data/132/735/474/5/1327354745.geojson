@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-8.1544,12.32189,-8.1144,12.36189",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Di\u00e9liba",
         "Dy\u00e9liba",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327354745,
-    "wof:lastmodified":1537665228,
+    "wof:lastmodified":1566605597,
     "wof:name":"Djoliba",
     "wof:parent_id":421177883,
     "wof:placetype":"locality",

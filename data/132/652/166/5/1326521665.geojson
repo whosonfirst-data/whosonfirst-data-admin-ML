@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-7.48584,13.95882,-7.44584,13.99882",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Me\u00efk\u00e9l\u00e9",
         "M\u00e8k\u00e9l\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326521665,
-    "wof:lastmodified":1537665116,
+    "wof:lastmodified":1566605619,
     "wof:name":"Mekele",
     "wof:parent_id":1108562851,
     "wof:placetype":"locality",

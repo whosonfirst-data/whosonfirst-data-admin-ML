@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-4.1687,13.4739,-4.1287,13.5139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lanf\u00e9ria",
         "Lanfi\u00e9ra"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276447375,
-    "wof:lastmodified":1537665130,
+    "wof:lastmodified":1566605926,
     "wof:name":"Lanfiera",
     "wof:parent_id":1108562843,
     "wof:placetype":"locality",

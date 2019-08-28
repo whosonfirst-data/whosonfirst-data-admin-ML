@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.38164,11.70799,-6.34164,11.74799",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Dembela"
     ],
@@ -48,9 +52,7 @@
         "Dembela"
     ],
     "name:und_x_variant":[
-        "Ti\u00e9tembougou",
-        "Dinb\u00e9la",
-        "Demb\u00e9la"
+        "Dinb\u00e9la"
     ],
     "name:zho_x_preferred":[
         "\u767b\u8c9d\u62c9"
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":1226464705,
-    "wof:lastmodified":1564311478,
+    "wof:lastmodified":1566606693,
     "wof:name":"Dinbela",
     "wof:parent_id":1108562825,
     "wof:placetype":"locality",

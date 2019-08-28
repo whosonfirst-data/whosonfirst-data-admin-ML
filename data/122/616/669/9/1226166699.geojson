@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-1.97127,14.65619,-1.93127,14.69619",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Mondoro"
     ],
@@ -41,8 +45,7 @@
         "Mondoro"
     ],
     "name:und_x_variant":[
-        "Moundoro",
-        "Mondoro"
+        "Moundoro"
     ],
     "name:zho_x_preferred":[
         "\u8499\u591a\u7f85"
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1226166699,
-    "wof:lastmodified":1564311353,
+    "wof:lastmodified":1566606647,
     "wof:name":"Mondoro",
     "wof:parent_id":421199983,
     "wof:placetype":"locality",

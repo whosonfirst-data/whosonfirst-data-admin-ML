@@ -23,16 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.7922,12.68583,-6.7522,12.72583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Dyendyen"
     ],
     "name:fra_x_variant":[
-        "Dindi\u00e9",
-        "Diandy\u00e9"
-    ],
-    "name:und_x_variant":[
         "Dindi\u00e9",
         "Diandy\u00e9"
     ],
@@ -59,7 +59,7 @@
         }
     ],
     "wof:id":1326922163,
-    "wof:lastmodified":1537665209,
+    "wof:lastmodified":1566605556,
     "wof:name":"Dyendyen",
     "wof:parent_id":1108562833,
     "wof:placetype":"locality",

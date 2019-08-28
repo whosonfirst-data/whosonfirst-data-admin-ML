@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-4.95532,14.44274,-4.91532,14.48274",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226149303,
-    "wof:lastmodified":1537069504,
+    "wof:lastmodified":1566606674,
     "wof:name":"Sinde-Sala",
     "wof:parent_id":1108562861,
     "wof:placetype":"locality",

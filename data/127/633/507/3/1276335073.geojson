@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-4.14382,13.98974,-4.10382,14.02974",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276335073,
-    "wof:lastmodified":1536776759,
+    "wof:lastmodified":1566605945,
     "wof:name":"Nia-Ouro",
     "wof:parent_id":421187097,
     "wof:placetype":"locality",

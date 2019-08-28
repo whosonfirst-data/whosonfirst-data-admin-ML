@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-7.58982,13.26671,-7.54982,13.30671",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Sirakorola"
     ],
@@ -41,8 +45,7 @@
         "Sirakorola"
     ],
     "name:und_x_variant":[
-        "Siracorola",
-        "Sirakorola"
+        "Siracorola"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1343949783,
-    "wof:lastmodified":1564309207,
+    "wof:lastmodified":1566605733,
     "wof:name":"Sirakorola",
     "wof:parent_id":1108562839,
     "wof:placetype":"locality",

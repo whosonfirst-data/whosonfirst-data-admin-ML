@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.0575,13.7184,-6.0175,13.7584",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Velentiguila",
         "Walantiguila",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344156271,
-    "wof:lastmodified":1537665010,
+    "wof:lastmodified":1566605677,
     "wof:name":"Ouelentiguila",
     "wof:parent_id":421175221,
     "wof:placetype":"locality",

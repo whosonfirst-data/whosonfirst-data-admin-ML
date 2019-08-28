@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.47662,11.31131,-6.43662,11.35131",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Diomana"
     ],
     "name:fra_x_variant":[
-        "Dioumana"
-    ],
-    "name:und_x_variant":[
         "Dioumana"
     ],
     "src:geom":"geonames",
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":1209236439,
-    "wof:lastmodified":1537665227,
+    "wof:lastmodified":1566606056,
     "wof:name":"Diomana",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",

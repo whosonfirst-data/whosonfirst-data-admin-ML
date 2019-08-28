@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-11.07697,13.82103,-11.03697,13.86103",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Galouko",
         "Galougo"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310007623,
-    "wof:lastmodified":1537665188,
+    "wof:lastmodified":1566606225,
     "wof:name":"Galougo",
     "wof:parent_id":421171549,
     "wof:placetype":"locality",

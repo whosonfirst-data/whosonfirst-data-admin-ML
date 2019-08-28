@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-9.5327,14.5248,-9.4927,14.5648",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Diangount\u00e9"
     ],
@@ -41,8 +45,6 @@
         "Diangount\u00e9 Camara"
     ],
     "name:und_x_variant":[
-        "Diangount\u00e9 Camara",
-        "Diangount\u00e9",
         "Diangount\u00e9 Kamara",
         "Diangout\u00e9 Kamara"
     ],
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1259394269,
-    "wof:lastmodified":1564311094,
+    "wof:lastmodified":1566606548,
     "wof:name":"Diangoute Kamara",
     "wof:parent_id":1108562857,
     "wof:placetype":"locality",

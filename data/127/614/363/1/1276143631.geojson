@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-7.1918,13.18408,-7.1518,13.22408",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0411\u0430\u043b\u0430\u0431\u0430\u043d"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1276143631,
-    "wof:lastmodified":1564309755,
+    "wof:lastmodified":1566605961,
     "wof:name":"Balaban",
     "wof:parent_id":1108562839,
     "wof:placetype":"locality",

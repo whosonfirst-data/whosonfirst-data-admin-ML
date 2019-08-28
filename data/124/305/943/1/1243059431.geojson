@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.9598,12.2863,-6.9198,12.3263",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Ty\u00e8nkola"
     ],
     "name:fra_x_variant":[
-        "Tiengala"
-    ],
-    "name:und_x_variant":[
         "Tiengala"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1243059431,
-    "wof:lastmodified":1537665012,
+    "wof:lastmodified":1566606491,
     "wof:name":"Tyenkola",
     "wof:parent_id":1108562833,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-5.32114,13.13266,-5.28114,13.17266",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lug_x_preferred":[
         "Dokolo"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1327139187,
-    "wof:lastmodified":1564308795,
+    "wof:lastmodified":1566605568,
     "wof:name":"Dokolo",
     "wof:parent_id":1108562835,
     "wof:placetype":"locality",

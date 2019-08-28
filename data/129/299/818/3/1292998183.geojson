@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.13462,11.34043,-6.09462,11.38043",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Nkourala"
     ],
     "name:fra_x_variant":[
-        "Kourala"
-    ],
-    "name:und_x_variant":[
         "Kourala"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1292998183,
-    "wof:lastmodified":1537665092,
+    "wof:lastmodified":1566605863,
     "wof:name":"Nkourala",
     "wof:parent_id":1108562825,
     "wof:placetype":"locality",

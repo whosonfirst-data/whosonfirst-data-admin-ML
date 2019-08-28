@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-10.12,12.76333,-10.08,12.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kolinnf\u00e9",
         "Kalinnf\u00e9"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260090031,
-    "wof:lastmodified":1537665169,
+    "wof:lastmodified":1566606170,
     "wof:name":"Kalinnfe",
     "wof:parent_id":1108562847,
     "wof:placetype":"locality",

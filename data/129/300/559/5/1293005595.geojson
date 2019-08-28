@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.6096,13.0261,-6.5696,13.0661",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293005595,
-    "wof:lastmodified":1536983897,
+    "wof:lastmodified":1566605778,
     "wof:name":"Ouokoni-Bamana",
     "wof:parent_id":1108562837,
     "wof:placetype":"locality",

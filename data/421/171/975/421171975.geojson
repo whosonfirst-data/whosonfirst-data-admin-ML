@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":14.548206,
     "lbl:longitude":-3.543218,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Mopti",
     "meso:gadm_admin":"Bandiagara",
     "meso:gadm_hasc2":"ML.MO.BD",
@@ -27,6 +29,7 @@
     "mps:longitude":-3.543218,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Bandiagara Cercle"
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632553,
@@ -100,7 +103,7 @@
         "gn:id":8299591,
         "gp:id":56000010,
         "hasc:id":"ML.MO.BD",
-        "qs:id":1288751,
+        "qs_pg:id":1288751,
         "wd:id":"Q806313",
         "wk:page":"Bandiagara Cercle"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":421171975,
-    "wof:lastmodified":1563262907,
+    "wof:lastmodified":1566606399,
     "wof:name":"Bandiagara",
     "wof:parent_id":85674539,
     "wof:placetype":"county",

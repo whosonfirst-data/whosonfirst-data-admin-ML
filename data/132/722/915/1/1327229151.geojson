@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-8.01462,11.45008,-7.97462,11.49008",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Kore"
     ],
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":1327229151,
-    "wof:lastmodified":1564308780,
+    "wof:lastmodified":1566605561,
     "wof:name":"Kore",
     "wof:parent_id":1108562829,
     "wof:placetype":"locality",

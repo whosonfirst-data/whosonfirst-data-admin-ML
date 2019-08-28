@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-0.08694,16.47722,-0.04694,16.51722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Amata"
     ],
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":1276221509,
-    "wof:lastmodified":1564309769,
+    "wof:lastmodified":1566605966,
     "wof:name":"Amata",
     "wof:parent_id":890418899,
     "wof:placetype":"locality",

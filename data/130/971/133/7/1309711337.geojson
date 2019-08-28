@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.7116,13.3952,-6.6716,13.4352",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Seun"
     ],
@@ -231,7 +235,7 @@
         }
     ],
     "wof:id":1309711337,
-    "wof:lastmodified":1564310699,
+    "wof:lastmodified":1566606372,
     "wof:name":"Son",
     "wof:parent_id":421175221,
     "wof:placetype":"locality",

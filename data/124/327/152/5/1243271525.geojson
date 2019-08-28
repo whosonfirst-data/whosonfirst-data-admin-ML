@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-9.76089,14.24741,-9.72089,14.28741",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Niar\u00e9n\u00e9",
         "Niagan\u00e9",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243271525,
-    "wof:lastmodified":1537665096,
+    "wof:lastmodified":1566606518,
     "wof:name":"Niarane",
     "wof:parent_id":1108562847,
     "wof:placetype":"locality",

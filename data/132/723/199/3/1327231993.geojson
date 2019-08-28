@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-2.91641,13.68038,-2.87641,13.72038",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saima"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327231993,
-    "wof:lastmodified":1564308822,
+    "wof:lastmodified":1566605579,
     "wof:name":"Saima",
     "wof:parent_id":421184495,
     "wof:placetype":"locality",

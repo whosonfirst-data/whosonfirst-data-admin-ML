@@ -10,8 +10,11 @@
     "geom:latitude":12.65,
     "geom:longitude":-8.01667,
     "iso:country":"ML",
+    "lbl:bbox":"-8.02167,12.645,-8.01167,12.655",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"ML",
     "qs:gn_fcode":"PPLX",
@@ -34,16 +37,16 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":53,
     "wof:belongsto":[
+        85674525,
         102191573,
         85632553,
-        421187095,
-        85674525
+        421187095
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2459947,
         "gp:id":1370171,
-        "qs:id":58867
+        "qs_pg:id":58867
     },
     "wof:country":"ML",
     "wof:created":1459010147,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":421203315,
-    "wof:lastmodified":1531858819,
+    "wof:lastmodified":1566606396,
     "wof:name":"Bolibana",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

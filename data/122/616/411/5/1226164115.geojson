@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.56915,11.77772,-6.52915,11.81772",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Niantjila"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:spa_x_preferred":[
         "Niantjila"
-    ],
-    "name:und_x_variant":[
-        "Niendjila"
     ],
     "name:zho_x_preferred":[
         "\u5c3c\u5b89\u7279\u5409\u62c9"
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1226164115,
-    "wof:lastmodified":1564311355,
+    "wof:lastmodified":1566606648,
     "wof:name":"Niandjila",
     "wof:parent_id":1108562833,
     "wof:placetype":"locality",

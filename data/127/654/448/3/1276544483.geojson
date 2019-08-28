@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.87163,11.29896,-6.83163,11.33896",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Wennkala"
     ],
@@ -32,9 +36,7 @@
         "Wenkala"
     ],
     "name:und_x_variant":[
-        "Wenkala",
-        "Vinkala",
-        "Wennkala"
+        "Vinkala"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +61,7 @@
         }
     ],
     "wof:id":1276544483,
-    "wof:lastmodified":1537665007,
+    "wof:lastmodified":1566606008,
     "wof:name":"Vinkala",
     "wof:parent_id":1108562829,
     "wof:placetype":"locality",

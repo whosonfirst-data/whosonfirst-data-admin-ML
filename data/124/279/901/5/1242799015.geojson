@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.94337,12.78944,-6.90337,12.82944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "W\u00e9r\u00e9k\u00e9la"
     ],
     "name:fra_x_variant":[
-        "Ourogour\u00e9li"
-    ],
-    "name:und_x_variant":[
         "Ourogour\u00e9li"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1242799015,
-    "wof:lastmodified":1537665007,
+    "wof:lastmodified":1566606498,
     "wof:name":"Werekela",
     "wof:parent_id":1108562833,
     "wof:placetype":"locality",

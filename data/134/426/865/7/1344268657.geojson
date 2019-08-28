@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-9.8693,13.1976,-9.8293,13.2376",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Sansanding"
     ],
@@ -44,8 +48,7 @@
         "Sansanding"
     ],
     "name:und_x_variant":[
-        "Sansandi",
-        "Sansanding"
+        "Sansandi"
     ],
     "name:zho_x_preferred":[
         "\u6851\u6851\u4e01"
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1344268657,
-    "wof:lastmodified":1564309216,
+    "wof:lastmodified":1566605736,
     "wof:name":"Sansanding",
     "wof:parent_id":1108562847,
     "wof:placetype":"locality",

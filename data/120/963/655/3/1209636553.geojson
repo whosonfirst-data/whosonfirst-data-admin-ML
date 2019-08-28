@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.93175,11.97498,-6.89175,12.01498",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Siss\u00e9la"
     ],
     "name:und_x_variant":[
-        "Sis\u00e9la",
-        "Siss\u00e9la"
+        "Sis\u00e9la"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1209636553,
-    "wof:lastmodified":1537665288,
+    "wof:lastmodified":1566606040,
     "wof:name":"Sissela",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",

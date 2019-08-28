@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-11.39531,13.27248,-11.35531,13.31248",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Boko"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1343764065,
-    "wof:lastmodified":1564309124,
+    "wof:lastmodified":1566605699,
     "wof:name":"Boko",
     "wof:parent_id":421171903,
     "wof:placetype":"locality",

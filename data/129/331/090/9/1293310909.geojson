@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-8.01472,13.81944,-7.97472,13.85944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Didi\u00e9ni"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1293310909,
-    "wof:lastmodified":1564309328,
+    "wof:lastmodified":1566605786,
     "wof:name":"Didieni",
     "wof:parent_id":1108562849,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-3.23793,16.1609,-3.19793,16.2009",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327219525,
-    "wof:lastmodified":1536987448,
+    "wof:lastmodified":1566605646,
     "wof:name":"El Gassouba",
     "wof:parent_id":421172359,
     "wof:placetype":"locality",

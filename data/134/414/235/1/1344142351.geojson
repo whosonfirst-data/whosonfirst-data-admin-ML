@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-3.8845,15.7634,-3.8445,15.8034",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Kouma\u00efra"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:spa_x_preferred":[
         "Koumaira"
-    ],
-    "name:und_x_variant":[
-        "Kouma\u00efra"
     ],
     "name:zho_x_preferred":[
         "\u5eab\u9081\u62c9"
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1344142351,
-    "wof:lastmodified":1564309060,
+    "wof:lastmodified":1566605675,
     "wof:name":"Koumaira",
     "wof:parent_id":1108562873,
     "wof:placetype":"locality",

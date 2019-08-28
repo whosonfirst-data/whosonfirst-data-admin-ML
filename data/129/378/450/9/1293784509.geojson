@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-2.70632,15.01076,-2.66632,15.05076",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "K\u00e9r\u00e9na"
     ],
@@ -41,7 +45,6 @@
         "K\u00e9r\u00e9na"
     ],
     "name:und_x_variant":[
-        "K\u00e9r\u00e9na",
         "K\u00e9rano"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1293784509,
-    "wof:lastmodified":1564309433,
+    "wof:lastmodified":1566605828,
     "wof:name":"Kerano",
     "wof:parent_id":421199983,
     "wof:placetype":"locality",

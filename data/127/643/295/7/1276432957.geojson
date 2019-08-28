@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-7.24054,15.36072,-7.20054,15.40072",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276432957,
-    "wof:lastmodified":1536644569,
+    "wof:lastmodified":1566605922,
     "wof:name":"Debat Jidoutoureu",
     "wof:parent_id":1108562865,
     "wof:placetype":"locality",

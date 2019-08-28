@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-7.0683,13.79142,-7.0283,13.83142",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Koyo"
     ],
@@ -32,8 +36,7 @@
         "Koyo"
     ],
     "name:und_x_variant":[
-        "Ko\u00efo",
-        "Koyo"
+        "Ko\u00efo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1343653273,
-    "wof:lastmodified":1564309022,
+    "wof:lastmodified":1566605659,
     "wof:name":"Koyo",
     "wof:parent_id":1108562851,
     "wof:placetype":"locality",

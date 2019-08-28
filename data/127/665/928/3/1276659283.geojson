@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-11.16379,12.90235,-11.12379,12.94235",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u043b\u0443\u0431"
     ],
@@ -50,8 +54,7 @@
         "\u0413\u043e\u043b\u0443\u0431"
     ],
     "name:und_x_variant":[
-        "Golou",
-        "Golub"
+        "Golou"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1276659283,
-    "wof:lastmodified":1564309867,
+    "wof:lastmodified":1566606004,
     "wof:name":"Golub",
     "wof:parent_id":421171903,
     "wof:placetype":"locality",

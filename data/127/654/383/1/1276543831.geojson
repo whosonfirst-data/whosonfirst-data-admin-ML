@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-7.12118,15.43165,-7.08118,15.47165",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guirel",
         "Gir\u00e8l"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276543831,
-    "wof:lastmodified":1537665176,
+    "wof:lastmodified":1566606008,
     "wof:name":"Girel",
     "wof:parent_id":1108562865,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-7.96287,13.10582,-7.92287,13.14582",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242569275,
-    "wof:lastmodified":1537072585,
+    "wof:lastmodified":1566606469,
     "wof:name":"Falambougou",
     "wof:parent_id":1108562849,
     "wof:placetype":"locality",

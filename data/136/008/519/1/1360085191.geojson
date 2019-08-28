@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-3.3848,14.1972,-3.3448,14.2372",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1360085191,
-    "wof:lastmodified":1536945927,
+    "wof:lastmodified":1566606328,
     "wof:name":"Korolou",
     "wof:parent_id":421184495,
     "wof:placetype":"locality",

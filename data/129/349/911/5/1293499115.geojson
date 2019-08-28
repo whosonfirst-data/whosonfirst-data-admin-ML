@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-11.28732,12.11336,-11.24732,12.15336",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Banda"
     ],
@@ -116,8 +120,7 @@
         "\u0411\u0430\u043d\u0434\u0430"
     ],
     "name:und_x_variant":[
-        "Banba",
-        "Banda"
+        "Banba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":1293499115,
-    "wof:lastmodified":1564309418,
+    "wof:lastmodified":1566605822,
     "wof:name":"Banda",
     "wof:parent_id":421171903,
     "wof:placetype":"locality",

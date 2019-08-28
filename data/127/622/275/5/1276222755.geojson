@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-3.74157,16.71741,-3.70157,16.75741",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0646\u0631\u0627\u0644 \u062a\u0627\u0643\u0633\u064a\u0646"
     ],
@@ -98,8 +102,7 @@
         "\u0422\u0430\u043a\u0441\u0438\u043d"
     ],
     "name:und_x_variant":[
-        "Taksine",
-        "Taksin"
+        "Taksine"
     ],
     "name:vie_x_preferred":[
         "Taksin"
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1276222755,
-    "wof:lastmodified":1564309773,
+    "wof:lastmodified":1566605967,
     "wof:name":"Taksin",
     "wof:parent_id":1108562889,
     "wof:placetype":"locality",

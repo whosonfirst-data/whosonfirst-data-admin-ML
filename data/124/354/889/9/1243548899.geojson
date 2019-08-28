@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-0.7851,16.97429,-0.7451,17.01429",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bossahalia",
         "Bosahalia"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243548899,
-    "wof:lastmodified":1537665255,
+    "wof:lastmodified":1566606413,
     "wof:name":"Bosahalia",
     "wof:parent_id":1108562879,
     "wof:placetype":"locality",

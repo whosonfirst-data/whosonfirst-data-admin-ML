@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Bamako",
     "iso:country":"ML",
+    "lbl:bbox":"-6.01061,11.88251,-5.97061,11.92251",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Koumbala"
     ],
@@ -38,8 +42,7 @@
         "Cumbala"
     ],
     "name:und_x_variant":[
-        "Koumala",
-        "Koumbala"
+        "Koumala"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1276759601,
-    "wof:lastmodified":1564309656,
+    "wof:lastmodified":1566605920,
     "wof:name":"Koumbala",
     "wof:parent_id":1108562825,
     "wof:placetype":"locality",
