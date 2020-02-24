@@ -122,6 +122,9 @@
     },
     "wof:country":"ML",
     "wof:created":1459009412,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"58e19382afbad3ce5bc3a4f17fe377db",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":421184495,
-    "wof:lastmodified":1566606398,
+    "wof:lastmodified":1582382266,
     "wof:name":"Koro",
     "wof:parent_id":85674539,
     "wof:placetype":"county",

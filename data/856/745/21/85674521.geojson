@@ -279,6 +279,9 @@
         "wk:page":"Gao Region"
     },
     "wof:country":"ML",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f72196f93301d08d95895af099cb0e5d",
     "wof:hierarchy":[
         {
@@ -294,7 +297,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566605773,
+    "wof:lastmodified":1582382253,
     "wof:name":"Gao",
     "wof:parent_id":85632553,
     "wof:placetype":"region",

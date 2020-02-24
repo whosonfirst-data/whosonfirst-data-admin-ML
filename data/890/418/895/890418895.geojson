@@ -92,6 +92,9 @@
     },
     "wof:country":"ML",
     "wof:created":1469051265,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8942d870dd7faff4b8a61d5f200c5b1e",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":890418895,
-    "wof:lastmodified":1566606400,
+    "wof:lastmodified":1582382267,
     "wof:name":"Gourma-Rharous",
     "wof:parent_id":85674511,
     "wof:placetype":"county",

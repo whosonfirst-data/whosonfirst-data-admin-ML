@@ -295,6 +295,9 @@
         "wk:page":"Sikasso Region"
     },
     "wof:country":"ML",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b1077e57961b70bef2850aaf7df406ad",
     "wof:hierarchy":[
         {
@@ -310,7 +313,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566605773,
+    "wof:lastmodified":1582382253,
     "wof:name":"Sikasso",
     "wof:parent_id":85632553,
     "wof:placetype":"region",

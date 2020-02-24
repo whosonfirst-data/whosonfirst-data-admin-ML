@@ -89,6 +89,9 @@
     },
     "wof:country":"ML",
     "wof:created":1469051266,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d4e77847484865cb074f4c55f86f76cb",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":890418903,
-    "wof:lastmodified":1566606400,
+    "wof:lastmodified":1582382267,
     "wof:name":"Ansongo",
     "wof:parent_id":85674521,
     "wof:placetype":"county",

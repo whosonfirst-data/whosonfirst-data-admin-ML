@@ -70,6 +70,9 @@
     },
     "wof:country":"ML",
     "wof:created":1459009746,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"76d90859399fb08f8217680f5c3cfa5a",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421192717,
-    "wof:lastmodified":1566606394,
+    "wof:lastmodified":1582382266,
     "wof:name":"San",
     "wof:parent_id":85674543,
     "wof:placetype":"county",

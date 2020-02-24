@@ -89,6 +89,9 @@
     },
     "wof:country":"ML",
     "wof:created":1469051265,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2bf93d2d687b6b45602646316e3f837c",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":890418899,
-    "wof:lastmodified":1566606400,
+    "wof:lastmodified":1582382267,
     "wof:name":"Gao",
     "wof:parent_id":85674521,
     "wof:placetype":"county",

@@ -102,6 +102,9 @@
     },
     "wof:country":"ML",
     "wof:created":1459009060,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"124b5a2735ea99d5ffcb83e4231055f0",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":421175221,
-    "wof:lastmodified":1566606396,
+    "wof:lastmodified":1582382266,
     "wof:name":"Segou",
     "wof:parent_id":85674543,
     "wof:placetype":"county",

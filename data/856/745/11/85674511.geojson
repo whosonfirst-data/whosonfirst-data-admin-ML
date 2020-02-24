@@ -284,6 +284,9 @@
         "wk:page":"Tombouctou Region"
     },
     "wof:country":"ML",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"632f0c88ec2874e8990a073f75499174",
     "wof:hierarchy":[
         {
@@ -299,7 +302,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566605772,
+    "wof:lastmodified":1582382253,
     "wof:name":"Timbuktu",
     "wof:parent_id":85632553,
     "wof:placetype":"region",

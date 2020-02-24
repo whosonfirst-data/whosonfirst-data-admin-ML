@@ -341,6 +341,9 @@
     },
     "wof:country":"ML",
     "wof:created":1459010147,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"c47dd495460bc096edd4e51f349e9604",
     "wof:hierarchy":[
         {
@@ -352,7 +355,7 @@
         }
     ],
     "wof:id":421203311,
-    "wof:lastmodified":1566606396,
+    "wof:lastmodified":1582382266,
     "wof:name":"Gao",
     "wof:parent_id":890418899,
     "wof:placetype":"locality",

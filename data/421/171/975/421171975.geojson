@@ -109,6 +109,9 @@
     },
     "wof:country":"ML",
     "wof:created":1459008914,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"78eed4e8fe4409c61a5bf5b59459cbf8",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":421171975,
-    "wof:lastmodified":1566606399,
+    "wof:lastmodified":1582382267,
     "wof:name":"Bandiagara",
     "wof:parent_id":85674539,
     "wof:placetype":"county",

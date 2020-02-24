@@ -301,6 +301,9 @@
         "wk:page":"Mopti Region"
     },
     "wof:country":"ML",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3570f2d6122f517b9cc1808c72524e28",
     "wof:hierarchy":[
         {
@@ -316,7 +319,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566605773,
+    "wof:lastmodified":1582382254,
     "wof:name":"Mopti",
     "wof:parent_id":85632553,
     "wof:placetype":"region",

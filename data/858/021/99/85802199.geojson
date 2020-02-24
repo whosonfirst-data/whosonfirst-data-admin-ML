@@ -80,6 +80,9 @@
         "qs:id":279408
     },
     "wof:country":"ML",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"be9cd0d549f82418d33e56a89159bc2d",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1534379379,
+    "wof:lastmodified":1582382254,
     "wof:name":"Missira",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
