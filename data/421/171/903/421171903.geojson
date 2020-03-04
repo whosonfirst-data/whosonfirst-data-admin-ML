@@ -89,6 +89,9 @@
     },
     "wof:country":"ML",
     "wof:created":1459008911,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4e70bc90aa8808adc4865a2372dfa0ed",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421171903,
-    "wof:lastmodified":1566606399,
+    "wof:lastmodified":1582382266,
     "wof:name":"Kenieba",
     "wof:parent_id":85674529,
     "wof:placetype":"county",

@@ -225,6 +225,9 @@
     },
     "wof:country":"ML",
     "wof:created":1459009502,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e98b909cd3bd364d19a9711d099631e3",
     "wof:hierarchy":[
         {
@@ -235,7 +238,7 @@
         }
     ],
     "wof:id":421187097,
-    "wof:lastmodified":1566606396,
+    "wof:lastmodified":1582382266,
     "wof:name":"Djenne",
     "wof:parent_id":85674539,
     "wof:placetype":"county",

@@ -299,6 +299,9 @@
         "wk:page":"Koulikoro Region"
     },
     "wof:country":"ML",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5491fb0706b250a63430eda1931499c9",
     "wof:hierarchy":[
         {
@@ -314,7 +317,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566605774,
+    "wof:lastmodified":1582382254,
     "wof:name":"Koulikoro",
     "wof:parent_id":85632553,
     "wof:placetype":"region",

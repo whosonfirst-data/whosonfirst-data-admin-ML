@@ -106,6 +106,9 @@
     },
     "wof:country":"ML",
     "wof:created":1459008897,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bc4d9e64a4bb1161eaabd5728046ba3f",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":421171549,
-    "wof:lastmodified":1566606399,
+    "wof:lastmodified":1582382267,
     "wof:name":"Kayes",
     "wof:parent_id":85674529,
     "wof:placetype":"county",

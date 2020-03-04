@@ -77,6 +77,9 @@
         "qs:id":892311
     },
     "wof:country":"ML",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c1af43dcd346dae6b1a5277ff9657927",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1534379379,
+    "wof:lastmodified":1582382254,
     "wof:name":"Bozola",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

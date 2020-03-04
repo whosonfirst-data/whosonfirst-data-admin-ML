@@ -72,6 +72,10 @@
         "qs_pg:id":211223
     },
     "wof:country":"ML",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bff9bd6bae46967ce5839d6f9aa23fc5",
     "wof:hierarchy":[
         {
@@ -86,7 +90,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566605774,
+    "wof:lastmodified":1582382254,
     "wof:name":"Il-Kamp tal-Mellie\u0127a",
     "wof:parent_id":101848919,
     "wof:placetype":"neighbourhood",

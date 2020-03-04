@@ -104,6 +104,9 @@
     },
     "wof:country":"ML",
     "wof:created":1459010007,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"004d40741b66ceb40548515be974f2d3",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421199983,
-    "wof:lastmodified":1566606397,
+    "wof:lastmodified":1582382266,
     "wof:name":"Douentza",
     "wof:parent_id":85674539,
     "wof:placetype":"county",

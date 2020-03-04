@@ -73,6 +73,9 @@
         "qs:id":1096495
     },
     "wof:country":"ML",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"26b6022153ba5e8e0b966279be28b6f4",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1534379379,
+    "wof:lastmodified":1582382254,
     "wof:name":"Koulouba",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -120,6 +120,9 @@
     },
     "wof:country":"ML",
     "wof:created":1459008937,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2aa1107a29b135a38e2c1e735d72dbe0",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":421172359,
-    "wof:lastmodified":1566606396,
+    "wof:lastmodified":1582382266,
     "wof:name":"Dire",
     "wof:parent_id":85674511,
     "wof:placetype":"county",

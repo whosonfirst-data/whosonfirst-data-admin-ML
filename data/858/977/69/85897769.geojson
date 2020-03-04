@@ -106,6 +106,9 @@
         "wk:page":"M\u0121arr, Gozo"
     },
     "wof:country":"ML",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0f8cdb34d0f8cd83bd20ddcd0ceea091",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566605774,
+    "wof:lastmodified":1582382254,
     "wof:name":"M\u0121arr",
     "wof:parent_id":101874857,
     "wof:placetype":"neighbourhood",

@@ -293,6 +293,9 @@
         "wk:page":"Kidal Region"
     },
     "wof:country":"ML",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a7c917390dcf1a0a0097c4db7394e289",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566605774,
+    "wof:lastmodified":1582382254,
     "wof:name":"Kidal",
     "wof:parent_id":85632553,
     "wof:placetype":"region",

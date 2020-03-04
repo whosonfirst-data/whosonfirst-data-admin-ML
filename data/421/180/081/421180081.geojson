@@ -106,6 +106,9 @@
     },
     "wof:country":"ML",
     "wof:created":1459009243,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b5272efb862bc3bcd91aa1b799883862",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":421180081,
-    "wof:lastmodified":1566606396,
+    "wof:lastmodified":1582382266,
     "wof:name":"Mopti",
     "wof:parent_id":85674539,
     "wof:placetype":"county",

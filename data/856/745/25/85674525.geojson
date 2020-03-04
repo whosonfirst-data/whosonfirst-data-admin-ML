@@ -571,6 +571,9 @@
         421182167
     ],
     "wof:country":"ML",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"19b0d3a91d98e7be5b93b17526072b04",
     "wof:hierarchy":[
         {
@@ -586,7 +589,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566605774,
+    "wof:lastmodified":1582382254,
     "wof:name":"Bamako",
     "wof:parent_id":85632553,
     "wof:placetype":"region",
