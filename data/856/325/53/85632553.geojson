@@ -894,9 +894,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Mali",
-        "digitalenvoy:country_code":[
-            466
-        ],
+        "digitalenvoy:country_code":466,
         "fb:id":"en.mali",
         "fifa:id":"MLI",
         "fips:code":"ML",
@@ -940,7 +938,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1583529182,
+    "wof:lastmodified":1583797389,
     "wof:name":"Mali",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
