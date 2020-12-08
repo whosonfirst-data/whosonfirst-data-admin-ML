@@ -607,7 +607,9 @@
         85674525
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632553,
+    "wof:capital_of":[
+        85632553
+    ],
     "wof:concordances":{
         "gn:id":2460596,
         "gp:id":1369729,
@@ -634,7 +636,7 @@
         }
     ],
     "wof:id":421182167,
-    "wof:lastmodified":1587428718,
+    "wof:lastmodified":1607390884,
     "wof:name":"Bamako",
     "wof:parent_id":421187095,
     "wof:placetype":"locality",
