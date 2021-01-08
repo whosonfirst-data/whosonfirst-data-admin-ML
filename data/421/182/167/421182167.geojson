@@ -614,6 +614,7 @@
         "gn:id":2460596,
         "gp:id":1369729,
         "loc:id":"n50077818",
+        "ne:id":1159150945,
         "qs_pg:id":892309,
         "wd:id":"Q3703"
     },
@@ -636,7 +637,8 @@
         }
     ],
     "wof:id":421182167,
-    "wof:lastmodified":1607390884,
+    "wof:lastmodified":1608688178,
+    "wof:megacity":1,
     "wof:name":"Bamako",
     "wof:parent_id":421187095,
     "wof:placetype":"locality",
