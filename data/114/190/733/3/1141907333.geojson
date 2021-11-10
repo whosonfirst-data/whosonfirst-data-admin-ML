@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"0.856371214409,19.4548706248,0.856371214409,19.4548706248",
+    "geom:bbox":"0.856371,19.454871,0.856371,19.454871",
     "geom:latitude":19.454871,
     "geom:longitude":0.856371,
     "iso:country":"ML",
@@ -18,8 +18,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0623\u062c\u0644\u0647\u0648\u0643\u064a"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0642\u0648\u0644\u0647\u0627\u06a9"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u0997\u09c7\u09c1\u0989\u09b2\u09b9\u0995"
     ],
     "name:deu_x_preferred":[
         "Adjelhoc"
@@ -48,11 +54,23 @@
     "name:heb_x_preferred":[
         "\u05d0\u05d2\u05dc\u05d4\u05d5\u05e7"
     ],
+    "name:hin_x_preferred":[
+        "\u090f\u0917\u094d\u0935\u0947\u0932\u0939\u094b\u0915"
+    ],
+    "name:hun_x_preferred":[
+        "Aguelhok"
+    ],
+    "name:ind_x_preferred":[
+        "Aguelhok"
+    ],
     "name:ita_x_preferred":[
         "Adjelhoc"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30b2\u30eb\u30fb\u30db\u30c3\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uad6c\uc5d8\ud638\ud06c"
     ],
     "name:nan_x_preferred":[
         "Aguel'hoc"
@@ -63,14 +81,29 @@
     "name:nob_x_preferred":[
         "Aguelhok"
     ],
+    "name:pol_x_preferred":[
+        "Aguelhok"
+    ],
     "name:por_x_preferred":[
         "Aguel'hoc"
     ],
     "name:spa_x_preferred":[
         "Aguelhok"
     ],
+    "name:swe_x_preferred":[
+        "Aguelhok"
+    ],
+    "name:tur_x_preferred":[
+        "Aguelhok"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0433\u0435\u043b\u043e\u043a"
+    ],
     "name:urd_x_preferred":[
         "\u0627\u06af\u0648\u0644\u06c1\u0648\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Aguelhok"
     ],
     "name:zho_x_preferred":[
         "\u963f\u84cb\u6d1b\u514b"
@@ -183,7 +216,7 @@
     },
     "wof:country":"ML",
     "wof:created":1499130711,
-    "wof:geomhash":"4d4f63728d83e544788b0a0ce5aba447",
+    "wof:geomhash":"453e5fc3914afca3bc85f0b347681821",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -194,7 +227,7 @@
         }
     ],
     "wof:id":1141907333,
-    "wof:lastmodified":1566606727,
+    "wof:lastmodified":1636505183,
     "wof:name":"Aguelhok",
     "wof:parent_id":1108562887,
     "wof:placetype":"locality",
@@ -204,10 +237,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.85637121440908,
-    19.45487062476883,
-    0.85637121440908,
-    19.45487062476883
+    0.856371,
+    19.454871,
+    0.856371,
+    19.454871
 ],
-  "geometry": {"coordinates":[0.85637121440908,19.45487062476883],"type":"Point"}
+  "geometry": {"coordinates":[0.856371,19.454871],"type":"Point"}
 }

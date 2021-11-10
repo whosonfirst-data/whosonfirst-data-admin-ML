@@ -32,6 +32,12 @@
     "name:fra_x_preferred":[
         "Kole Weathers"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05dc\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Kole"
+    ],
     "name:ron_x_preferred":[
         "Kole"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1209332719,
-    "wof:lastmodified":1566606091,
+    "wof:lastmodified":1636505158,
     "wof:name":"Kole",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",

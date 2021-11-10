@@ -827,6 +827,9 @@
         "\u9a6c\u91cc\u5171\u548c\u56fd"
     ],
     "name:zho_tw_x_preferred":[
+        "\u99ac\u91cc"
+    ],
+    "name:zho_tw_x_variant":[
         "\u99ac\u5229\u5171\u548c\u570b"
     ],
     "name:zho_x_preferred":[
@@ -1060,7 +1063,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1617827724,
+    "wof:lastmodified":1636505144,
     "wof:name":"Mali",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

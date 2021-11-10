@@ -57,7 +57,16 @@
         "\u041d\u0443\u043d\u0430"
     ],
     "name:urd_x_preferred":[
+        "\u0646\u0648\u0646\u0627"
+    ],
+    "name:urd_x_variant":[
         "\u0646\u0624\u0646\u0627"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u52aa\u7eb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u52aa\u7d0d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":1209821491,
-    "wof:lastmodified":1566606065,
+    "wof:lastmodified":1636505157,
     "wof:name":"Nouna",
     "wof:parent_id":421187097,
     "wof:placetype":"locality",

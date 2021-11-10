@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u0643\u0627\u0644\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09b0\u0995\u09be\u09b2\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u043a\u0430\u043b\u0430"
     ],
@@ -29,11 +32,17 @@
     "name:ceb_x_preferred":[
         "Markala"
     ],
+    "name:deu_x_preferred":[
+        "Markala"
+    ],
     "name:eng_x_preferred":[
         "Markala"
     ],
     "name:epo_x_preferred":[
         "Markala"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u06a9\u0627\u0644\u0627"
     ],
     "name:fin_x_preferred":[
         "Markala"
@@ -41,7 +50,16 @@
     "name:fra_x_preferred":[
         "Markala"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05e7\u05dc\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0930\u094d\u0915\u0932\u093e"
+    ],
     "name:hun_x_preferred":[
+        "Markala"
+    ],
+    "name:ind_x_preferred":[
         "Markala"
     ],
     "name:ita_x_preferred":[
@@ -49,6 +67,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30eb\u30ab\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ub974\uce7c\ub77c"
     ],
     "name:nan_x_preferred":[
         "Markala"
@@ -69,6 +90,18 @@
         "Markala"
     ],
     "name:swe_x_preferred":[
+        "Markala"
+    ],
+    "name:tur_x_preferred":[
+        "Markala"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u0430\u043b\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0631\u06a9\u0627\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
         "Markala"
     ],
     "name:zho_x_preferred":[
@@ -214,7 +247,7 @@
         }
     ],
     "wof:id":421169005,
-    "wof:lastmodified":1566606395,
+    "wof:lastmodified":1636505169,
     "wof:name":"Markala",
     "wof:parent_id":421175221,
     "wof:placetype":"locality",

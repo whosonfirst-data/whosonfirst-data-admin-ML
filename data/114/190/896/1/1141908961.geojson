@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-7.27997969708,15.1800152781,-7.27997969708,15.1800152781",
+    "geom:bbox":"-7.27998,15.180015,-7.27998,15.180015",
     "geom:latitude":15.180015,
     "geom:longitude":-7.27998,
     "iso:country":"ML",
@@ -21,8 +21,17 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0648\u0627\u0631\u0629"
     ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09be\u09b0\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Nara"
+    ],
+    "name:deu_x_preferred":[
+        "Nara"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ac\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Nara"
@@ -30,13 +39,25 @@
     "name:est_x_preferred":[
         "Nara"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Nara"
     ],
     "name:fra_x_preferred":[
         "Nara"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u093e\u0930\u093e"
+    ],
     "name:hun_x_preferred":[
+        "Nara"
+    ],
+    "name:ind_x_preferred":[
         "Nara"
     ],
     "name:ita_x_preferred":[
@@ -44,6 +65,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ca\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\ub098\ub77c"
     ],
     "name:lit_x_preferred":[
         "Nara"
@@ -67,6 +91,18 @@
         "Nara"
     ],
     "name:swe_x_preferred":[
+        "Nara"
+    ],
+    "name:tur_x_preferred":[
+        "Nara"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u0631\u0627"
+    ],
+    "name:vie_x_preferred":[
         "Nara"
     ],
     "name:zho_x_preferred":[
@@ -180,7 +216,7 @@
     },
     "wof:country":"ML",
     "wof:created":1499131003,
-    "wof:geomhash":"9c5dfe38ad32e7aa3b174954c7068f00",
+    "wof:geomhash":"80c86673bbe7fe571ed5cb687ec56f2a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -191,7 +227,7 @@
         }
     ],
     "wof:id":1141908961,
-    "wof:lastmodified":1566606728,
+    "wof:lastmodified":1636505183,
     "wof:name":"Nara",
     "wof:parent_id":1108562865,
     "wof:placetype":"locality",
@@ -201,10 +237,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.27997969708179,
-    15.18001527807183,
-    -7.27997969708179,
-    15.18001527807183
+    -7.27998,
+    15.180015,
+    -7.27998,
+    15.180015
 ],
-  "geometry": {"coordinates":[-7.27997969708179,15.18001527807183],"type":"Point"}
+  "geometry": {"coordinates":[-7.27998,15.180015],"type":"Point"}
 }

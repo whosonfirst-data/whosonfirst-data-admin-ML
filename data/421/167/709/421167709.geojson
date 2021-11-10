@@ -68,6 +68,9 @@
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0ab2\u0abf\u0a95\u0acb\u0ab0\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05dc\u05d9\u05e7\u05d5\u05e8\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u0941\u0932\u0940\u0915\u094b\u0930\u094b"
     ],
@@ -305,7 +308,7 @@
         }
     ],
     "wof:id":421167709,
-    "wof:lastmodified":1566606395,
+    "wof:lastmodified":1636505168,
     "wof:name":"Koulikoro",
     "wof:parent_id":1108562839,
     "wof:placetype":"localadmin",

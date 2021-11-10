@@ -35,6 +35,9 @@
     "name:fra_x_preferred":[
         "Dilly"
     ],
+    "name:hun_x_preferred":[
+        "Dili"
+    ],
     "name:ita_x_preferred":[
         "Dilly"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1259479987,
-    "wof:lastmodified":1566606578,
+    "wof:lastmodified":1636505178,
     "wof:name":"Dili",
     "wof:parent_id":1108562865,
     "wof:placetype":"locality",

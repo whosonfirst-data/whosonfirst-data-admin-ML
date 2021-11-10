@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:fas_x_preferred":[
+        "\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "Ouan"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1209214039,
-    "wof:lastmodified":1566606109,
+    "wof:lastmodified":1636505159,
     "wof:name":"Wa",
     "wof:parent_id":85632553,
     "wof:placetype":"locality",

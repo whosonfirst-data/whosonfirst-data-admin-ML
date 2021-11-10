@@ -50,6 +50,9 @@
     "name:fra_x_preferred":[
         "Koutiala"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d8\u05d9\u05d0\u05dc\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Koutiala"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1259788193,
-    "wof:lastmodified":1566606574,
+    "wof:lastmodified":1636505177,
     "wof:name":"Koutiala",
     "wof:parent_id":1108562835,
     "wof:placetype":"locality",

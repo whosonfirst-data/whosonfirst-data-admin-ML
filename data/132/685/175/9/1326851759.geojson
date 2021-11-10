@@ -35,6 +35,9 @@
     "name:deu_x_preferred":[
         "Gasa"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d0\u05e1\u05d4"
+    ],
     "name:ita_x_preferred":[
         "Gasa"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1326851759,
-    "wof:lastmodified":1566605608,
+    "wof:lastmodified":1636505138,
     "wof:name":"Gasa",
     "wof:parent_id":1108562865,
     "wof:placetype":"locality",

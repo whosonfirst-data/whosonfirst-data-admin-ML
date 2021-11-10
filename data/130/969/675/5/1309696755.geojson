@@ -47,6 +47,9 @@
     "name:glg_x_preferred":[
         "Borno"
     ],
+    "name:hun_x_preferred":[
+        "Borno"
+    ],
     "name:nld_x_preferred":[
         "Borno"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1309696755,
-    "wof:lastmodified":1566606382,
+    "wof:lastmodified":1636505167,
     "wof:name":"Borno",
     "wof:parent_id":890418899,
     "wof:placetype":"locality",

@@ -38,7 +38,13 @@
     "name:fra_x_preferred":[
         "Tena"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e0\u05d4"
+    ],
     "name:hrv_x_preferred":[
+        "Tena"
+    ],
+    "name:hun_x_preferred":[
         "Tena"
     ],
     "name:ita_x_preferred":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1226078393,
-    "wof:lastmodified":1566606715,
+    "wof:lastmodified":1636505182,
     "wof:name":"Tena",
     "wof:parent_id":421199983,
     "wof:placetype":"locality",

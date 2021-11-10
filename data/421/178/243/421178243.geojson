@@ -17,11 +17,20 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0648\u0627\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b0\u09be\u0989\u09df\u09be\u09a8\u09c7"
+    ],
     "name:ceb_x_preferred":[
         "Araouane"
     ],
     "name:deu_x_preferred":[
         "Araouane"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03b1\u03bf\u03c5\u03ac\u03bd\u03b5"
     ],
     "name:eng_x_preferred":[
         "Araouane"
@@ -32,14 +41,35 @@
     "name:est_x_preferred":[
         "Araouane"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u0627\u0648\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Araouane"
     ],
     "name:fra_x_preferred":[
         "Araouane"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05d0\u05d5\u05d0\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0930\u093e\u090a\u090f\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Araouane"
+    ],
+    "name:ind_x_preferred":[
+        "Araouane"
+    ],
     "name:ita_x_preferred":[
         "Araouane"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30e9\u30ef\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ub77c\uc6b0\uc548"
     ],
     "name:nan_x_preferred":[
         "Araouane"
@@ -47,10 +77,22 @@
     "name:nld_x_preferred":[
         "Araouane"
     ],
+    "name:pol_x_preferred":[
+        "Araouane"
+    ],
+    "name:por_x_preferred":[
+        "Araouane"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0430\u0432\u0430\u043d"
     ],
+    "name:spa_x_preferred":[
+        "Araouane"
+    ],
     "name:swe_x_preferred":[
+        "Araouane"
+    ],
+    "name:tur_x_preferred":[
         "Araouane"
     ],
     "name:ukr_x_preferred":[
@@ -58,6 +100,12 @@
     ],
     "name:und_x_variant":[
         "Araouan"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0631\u0627\u0624\u0627\u06cc\u0646\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Araouane"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mali",
@@ -199,7 +247,7 @@
         }
     ],
     "wof:id":421178243,
-    "wof:lastmodified":1566606398,
+    "wof:lastmodified":1636505171,
     "wof:name":"Araouane",
     "wof:parent_id":1108562891,
     "wof:placetype":"locality",

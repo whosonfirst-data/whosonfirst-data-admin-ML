@@ -210,6 +210,9 @@
         "Fiol"
     ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Son"
+    ],
+    "name:vie_x_variant":[
         "Con trai"
     ],
     "name:yid_x_preferred":[
@@ -238,7 +241,7 @@
         }
     ],
     "wof:id":1259578403,
-    "wof:lastmodified":1566606588,
+    "wof:lastmodified":1636505178,
     "wof:name":"Son",
     "wof:parent_id":1108562831,
     "wof:placetype":"locality",

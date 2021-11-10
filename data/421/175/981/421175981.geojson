@@ -68,6 +68,9 @@
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0aa1\u0ab2"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05d3\u05dc"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u093f\u0921\u093e\u0933"
     ],
@@ -209,7 +212,7 @@
         }
     ],
     "wof:id":421175981,
-    "wof:lastmodified":1566606397,
+    "wof:lastmodified":1636505170,
     "wof:name":"Kidal",
     "wof:parent_id":1108562883,
     "wof:placetype":"localadmin",

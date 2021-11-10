@@ -144,6 +144,9 @@
         "Kayes"
     ],
     "name:rus_x_preferred":[
+        "\u041a\u0430\u0439\u0435\u0441"
+    ],
+    "name:rus_x_variant":[
         "\u041a\u0430\u0435\u0441"
     ],
     "name:sin_x_preferred":[
@@ -178,6 +181,12 @@
     ],
     "name:vie_x_preferred":[
         "Kayes"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5361\u8036\u65af"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u51f1\u65af"
     ],
     "name:zho_x_preferred":[
         "\u5361\u4f0a"
@@ -322,7 +331,7 @@
         }
     ],
     "wof:id":421169011,
-    "wof:lastmodified":1566606395,
+    "wof:lastmodified":1636505169,
     "wof:name":"Kayes",
     "wof:parent_id":421171549,
     "wof:placetype":"locality",

@@ -53,7 +53,13 @@
         "Kayes"
     ],
     "name:jpn_x_preferred":[
+        "\u30b1\u30a4\u30ba"
+    ],
+    "name:jpn_x_variant":[
         "\u30ab\u30a4\u570f"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf00\uc774\uc2a4"
     ],
     "name:nan_x_preferred":[
         "Kayes Khian"
@@ -64,8 +70,32 @@
     "name:nld_x_preferred":[
         "Kayes Cercle"
     ],
+    "name:pol_x_preferred":[
+        "Kayes"
+    ],
+    "name:por_x_preferred":[
+        "Kayes"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0439\u0435\u0441"
+    ],
     "name:swe_x_preferred":[
         "Kayes Cercle"
+    ],
+    "name:tur_x_preferred":[
+        "Kayes"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0454\u0441"
+    ],
+    "name:vie_x_preferred":[
+        "Kayes"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5361\u8036\u65af"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u51f1\u65af"
     ],
     "name:zho_x_preferred":[
         "\u5361\u4f0a\u7701"
@@ -122,7 +152,7 @@
         }
     ],
     "wof:id":421171549,
-    "wof:lastmodified":1627522351,
+    "wof:lastmodified":1636505171,
     "wof:name":"Kayes",
     "wof:parent_id":85674529,
     "wof:placetype":"county",

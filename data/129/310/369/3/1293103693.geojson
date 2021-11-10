@@ -29,7 +29,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u09a8\u09be\u09ae\u09cd\u09ac\u09be"
+    ],
     "name:ceb_x_preferred":[
+        "Banamba"
+    ],
+    "name:deu_x_preferred":[
         "Banamba"
     ],
     "name:epo_x_preferred":[
@@ -38,17 +44,32 @@
     "name:est_x_preferred":[
         "Banamba"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0646\u0627\u0645\u0628\u0627"
+    ],
     "name:fin_x_preferred":[
         "Banamba"
     ],
     "name:fra_x_preferred":[
         "Banamba"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e0\u05de\u05d1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0928\u093e\u0902\u092c\u093e"
+    ],
     "name:hun_x_preferred":[
+        "Banamba"
+    ],
+    "name:ind_x_preferred":[
         "Banamba"
     ],
     "name:ita_x_preferred":[
         "Banamba"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\ub0a8\ubc14"
     ],
     "name:nld_x_preferred":[
         "Banamba"
@@ -65,8 +86,20 @@
     "name:swe_x_preferred":[
         "Banamba"
     ],
+    "name:tur_x_preferred":[
+        "Banamba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043d\u0430\u043c\u0431\u0430"
+    ],
     "name:und_x_variant":[
         "Bananba"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0646\u0627\u0645\u0628\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Banamba"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u5357\u5df4"
@@ -94,7 +127,7 @@
         }
     ],
     "wof:id":1293103693,
-    "wof:lastmodified":1566605890,
+    "wof:lastmodified":1636505150,
     "wof:name":"Banamba",
     "wof:parent_id":421175221,
     "wof:placetype":"locality",
