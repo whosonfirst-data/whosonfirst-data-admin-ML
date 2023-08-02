@@ -36,6 +36,9 @@
     "name:est_x_preferred":[
         "Bourem"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u0645"
+    ],
     "name:fin_x_preferred":[
         "Bourem"
     ],
@@ -218,7 +221,7 @@
         }
     ],
     "wof:id":1141907335,
-    "wof:lastmodified":1636505183,
+    "wof:lastmodified":1690939625,
     "wof:name":"Bourem",
     "wof:parent_id":1108562879,
     "wof:placetype":"locality",

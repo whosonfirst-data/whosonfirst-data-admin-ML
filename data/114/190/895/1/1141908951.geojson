@@ -30,10 +30,16 @@
     "name:ell_x_preferred":[
         "\u03a4\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03c4"
     ],
+    "name:ell_x_variant":[
+        "\u03a4\u03b5\u03c3\u03b1\u03bb\u03af\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Tessalit"
     ],
     "name:epo_x_preferred":[
+        "Tessalit"
+    ],
+    "name:est_x_preferred":[
         "Tessalit"
     ],
     "name:eus_x_preferred":[
@@ -227,7 +233,7 @@
         }
     ],
     "wof:id":1141908951,
-    "wof:lastmodified":1636505183,
+    "wof:lastmodified":1690939625,
     "wof:name":"Tessalit",
     "wof:parent_id":1108562887,
     "wof:placetype":"locality",

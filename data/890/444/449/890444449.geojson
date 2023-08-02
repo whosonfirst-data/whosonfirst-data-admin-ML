@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0646"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:eng_x_preferred":[
         "San"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646"
     ],
     "name:fin_x_preferred":[
         "San"
@@ -63,6 +69,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uc0b0"
@@ -226,7 +235,7 @@
         }
     ],
     "wof:id":890444449,
-    "wof:lastmodified":1636505171,
+    "wof:lastmodified":1690939621,
     "wof:name":"San",
     "wof:parent_id":421192717,
     "wof:placetype":"locality",

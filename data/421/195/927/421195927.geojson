@@ -26,8 +26,14 @@
     "name:ast_x_preferred":[
         "Djenn\u00e9"
     ],
+    "name:avk_x_preferred":[
+        "Djenn\u00e9"
+    ],
     "name:azb_x_preferred":[
         "\u062c\u0646\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "Cenne"
     ],
     "name:bam_x_preferred":[
         "Djenne"
@@ -80,6 +86,9 @@
     "name:fra_x_variant":[
         "Djenn\u00e9"
     ],
+    "name:hau_x_preferred":[
+        "Djenn\u00e9"
+    ],
     "name:heb_x_preferred":[
         "\u05d2'\u05e0\u05d4"
     ],
@@ -91,6 +100,12 @@
     ],
     "name:hun_x_preferred":[
         "Dzsenn\u00e9"
+    ],
+    "name:hye_x_preferred":[
+        "\u054b\u0565\u0576\u0576\u0565"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0543\u0565\u0576\u0567"
     ],
     "name:ind_x_preferred":[
         "Djenn\u00e9"
@@ -122,6 +137,12 @@
     "name:ltz_x_preferred":[
         "Djenn\u00e9"
     ],
+    "name:mdf_x_preferred":[
+        "\u0414\u0436\u044d\u043d\u043d\u044d"
+    ],
+    "name:mlt_x_preferred":[
+        "Djenn\u00e9"
+    ],
     "name:msa_x_preferred":[
         "Djenn\u00e9"
     ],
@@ -139,6 +160,9 @@
     ],
     "name:nob_x_preferred":[
         "Djenn\u00e9"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07d6\u07cd\u07ec\u07e3\u07cd\u07eb"
     ],
     "name:pol_x_preferred":[
         "D\u017cenne"
@@ -318,7 +342,7 @@
         }
     ],
     "wof:id":421195927,
-    "wof:lastmodified":1566606395,
+    "wof:lastmodified":1690939612,
     "wof:name":"Dj\u00e9nn\u00e9",
     "wof:parent_id":421187097,
     "wof:placetype":"locality",

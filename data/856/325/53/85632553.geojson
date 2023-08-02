@@ -28,6 +28,9 @@
     "mz:is_current":1,
     "mz:max_zoom":7.0,
     "mz:min_zoom":2.0,
+    "name:abk_x_preferred":[
+        "\u041c\u0430\u043b\u0438"
+    ],
     "name:ace_x_preferred":[
         "Mali"
     ],
@@ -45,6 +48,12 @@
     ],
     "name:amh_x_preferred":[
         "\u121b\u120a"
+    ],
+    "name:ami_x_preferred":[
+        "Mali"
+    ],
+    "name:anp_x_preferred":[
+        "\u092e\u093e\u0932\u0940"
     ],
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644\u064a"
@@ -70,6 +79,9 @@
     "name:ast_x_variant":[
         "Mal\u00ed"
     ],
+    "name:avk_x_preferred":[
+        "Malia"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0627\u0644\u06cc"
     ],
@@ -85,6 +97,9 @@
     "name:ban_x_preferred":[
         "Mali"
     ],
+    "name:bar_x_preferred":[
+        "Mali"
+    ],
     "name:bcl_x_preferred":[
         "Mali"
     ],
@@ -96,6 +111,9 @@
     ],
     "name:bho_x_preferred":[
         "\u092e\u093e\u0932\u0940 \u0926\u0947\u0938"
+    ],
+    "name:bis_x_preferred":[
+        "Mali"
     ],
     "name:bjn_x_preferred":[
         "Mali"
@@ -142,10 +160,16 @@
     "name:cor_x_preferred":[
         "Mali"
     ],
+    "name:cos_x_preferred":[
+        "Mali"
+    ],
     "name:crh_x_preferred":[
         "Mali"
     ],
     "name:cym_x_preferred":[
+        "Mali"
+    ],
+    "name:dag_x_preferred":[
         "Mali"
     ],
     "name:dan_x_preferred":[
@@ -266,6 +290,9 @@
     "name:glv_x_preferred":[
         "Malee"
     ],
+    "name:gpe_x_preferred":[
+        "Mali"
+    ],
     "name:grn_x_preferred":[
         "Mali"
     ],
@@ -274,6 +301,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0ab2\u0ac0"
+    ],
+    "name:gur_x_preferred":[
+        "Mali"
     ],
     "name:hak_x_preferred":[
         "Mali"
@@ -369,6 +399,9 @@
     "name:kbp_x_preferred":[
         "Maalii"
     ],
+    "name:kcg_x_preferred":[
+        "Mali"
+    ],
     "name:khm_x_preferred":[
         "\u1798\u17c9\u17b6\u179b\u17b8"
     ],
@@ -411,6 +444,9 @@
     "name:lav_x_preferred":[
         "Mali"
     ],
+    "name:lez_x_preferred":[
+        "\u041c\u0430\u043b\u0438"
+    ],
     "name:lfn_x_preferred":[
         "Mali"
     ],
@@ -428,6 +464,9 @@
     ],
     "name:lit_x_preferred":[
         "Malis"
+    ],
+    "name:lld_x_preferred":[
+        "Mali"
     ],
     "name:lmo_x_preferred":[
         "Mali"
@@ -456,6 +495,12 @@
     "name:mar_x_preferred":[
         "\u092e\u093e\u0932\u0940"
     ],
+    "name:mdf_x_preferred":[
+        "\u041c\u0430\u043b\u0438"
+    ],
+    "name:mhr_x_preferred":[
+        "\u041c\u0430\u043b\u0438"
+    ],
     "name:min_x_preferred":[
         "Mali"
     ],
@@ -467,6 +512,9 @@
     ],
     "name:mlt_x_preferred":[
         "Mali"
+    ],
+    "name:mni_x_preferred":[
+        "\uabc3\uabe5\uabc2\uabe4"
     ],
     "name:mon_x_preferred":[
         "\u041c\u0430\u043b\u0438"
@@ -493,6 +541,9 @@
         "Mali"
     ],
     "name:nan_x_preferred":[
+        "Mali"
+    ],
+    "name:nau_x_preferred":[
         "Mali"
     ],
     "name:nde_x_preferred":[
@@ -618,6 +669,9 @@
     "name:san_x_preferred":[
         "\u092e\u093e\u0932\u0940"
     ],
+    "name:sat_x_preferred":[
+        "\u1c62\u1c5f\u1c5e\u1c64"
+    ],
     "name:scn_x_preferred":[
         "Mali"
     ],
@@ -626,6 +680,12 @@
     ],
     "name:sgs_x_preferred":[
         "Malis"
+    ],
+    "name:shi_x_preferred":[
+        "Mali"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1019\u1083\u1087\u101c\u102e\u1087"
     ],
     "name:sin_x_preferred":[
         "\u0db8\u0dcf\u0dbd\u0dd2"
@@ -637,6 +697,12 @@
         "Mali"
     ],
     "name:sme_x_preferred":[
+        "Mali"
+    ],
+    "name:smn_x_preferred":[
+        "Mali"
+    ],
+    "name:sms_x_preferred":[
         "Mali"
     ],
     "name:sna_x_preferred":[
@@ -723,8 +789,14 @@
     "name:tir_x_preferred":[
         "\u121b\u120a"
     ],
+    "name:tok_x_preferred":[
+        "ma Mali"
+    ],
     "name:ton_x_preferred":[
         "M\u0101li"
+    ],
+    "name:trv_x_preferred":[
+        "Mali"
     ],
     "name:tso_x_preferred":[
         "Mali (Tiko)"
@@ -733,6 +805,9 @@
         "Mali"
     ],
     "name:tuk_x_preferred":[
+        "Mali"
+    ],
+    "name:tum_x_preferred":[
         "Mali"
     ],
     "name:tur_x_preferred":[
@@ -1063,7 +1138,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636505144,
+    "wof:lastmodified":1690939599,
     "wof:name":"Mali",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

@@ -45,6 +45,9 @@
     "name:eng_x_variant":[
         "Gao"
     ],
+    "name:fas_x_preferred":[
+        "\u062d\u0644\u0642\u0647 \u06af\u0627\u0626\u0648"
+    ],
     "name:fin_x_preferred":[
         "Gaon piiri"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":890418899,
-    "wof:lastmodified":1636505172,
+    "wof:lastmodified":1690939622,
     "wof:name":"Gao",
     "wof:parent_id":85674521,
     "wof:placetype":"county",

@@ -22,6 +22,15 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u062c\u0627\u0628\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0646\u062c\u0627\u0628\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Kangaba"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043d\u0433\u0430\u0431\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u0982\u0997\u09be\u09ac\u09be"
     ],
@@ -70,6 +79,9 @@
     "name:nld_x_preferred":[
         "Kangaba"
     ],
+    "name:nqo_x_preferred":[
+        "\u07de\u07ca\u07ef\u07d3\u07ca\u07eb"
+    ],
     "name:pol_x_preferred":[
         "Kangaba"
     ],
@@ -78,6 +90,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043d\u0433\u0430\u0431\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Kangaba"
     ],
     "name:tur_x_preferred":[
         "Kangaba"
@@ -224,7 +239,7 @@
         }
     ],
     "wof:id":890440305,
-    "wof:lastmodified":1636505171,
+    "wof:lastmodified":1690939620,
     "wof:name":"Kangaba",
     "wof:parent_id":1108562827,
     "wof:placetype":"locality",

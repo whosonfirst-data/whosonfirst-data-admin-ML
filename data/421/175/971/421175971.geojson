@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "T\u00e9nenkou"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b5\u03bd\u03b5\u03bd\u03ba\u03bf\u03cd"
+    ],
     "name:eng_x_preferred":[
         "T\u00e9nenkou"
     ],
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":421175971,
-    "wof:lastmodified":1566606397,
+    "wof:lastmodified":1690939616,
     "wof:name":"Tenenkou",
     "wof:parent_id":1108562861,
     "wof:placetype":"localadmin",

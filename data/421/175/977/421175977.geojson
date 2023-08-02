@@ -20,10 +20,16 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0644\u0648\u0643\u0627\u0646\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0644\u0648\u0643\u0627\u0646\u0649"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u043e\u043b\u043e\u043a\u0430\u043d\u0438"
     ],
     "name:ceb_x_preferred":[
+        "Kolokani"
+    ],
+    "name:deu_x_preferred":[
         "Kolokani"
     ],
     "name:eng_x_preferred":[
@@ -34,6 +40,9 @@
     ],
     "name:est_x_preferred":[
         "Kolokani"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0644\u0648\u06a9\u0627\u0646\u06cc"
     ],
     "name:fin_x_preferred":[
         "Kolokani"
@@ -58,6 +67,9 @@
     ],
     "name:nld_x_preferred":[
         "Kolokani"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07de\u07df\u07cf\u07de\u07ca\u07e3\u07cc\u07eb"
     ],
     "name:pol_x_preferred":[
         "Kolokani"
@@ -128,7 +140,7 @@
         }
     ],
     "wof:id":421175977,
-    "wof:lastmodified":1566606397,
+    "wof:lastmodified":1690939616,
     "wof:name":"Kolokani",
     "wof:parent_id":1108562849,
     "wof:placetype":"localadmin",

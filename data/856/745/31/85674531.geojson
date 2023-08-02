@@ -37,11 +37,17 @@
     "name:azb_x_preferred":[
         "\u0633\u06cc\u06a9\u0627\u0633\u0648 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
+    "name:aze_x_preferred":[
+        "Sikaso"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0456\u043a\u0430\u0441\u043e"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u0995\u09be\u09b8\u09cb \u0985\u099e\u09cd\u099a\u09b2"
+    ],
+    "name:cat_x_preferred":[
+        "Sikasso"
     ],
     "name:ceb_x_preferred":[
         "Sikasso Region"
@@ -52,8 +58,14 @@
     "name:deu_x_preferred":[
         "Region Sikasso"
     ],
+    "name:deu_x_variant":[
+        "Wassoulou"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a3\u03b9\u03ba\u03b1\u03c3\u03c3\u03cc"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b9\u03ba\u03b1\u03c3\u03cc"
     ],
     "name:eng_x_preferred":[
         "Sikasso"
@@ -115,6 +127,9 @@
     "name:kor_x_preferred":[
         "\uc2dc\uce74\uc18c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc2dc\uce74\uc18c\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Sikaso re\u0123ions"
     ],
@@ -138,6 +153,9 @@
     ],
     "name:nob_x_preferred":[
         "Sikasso"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07db\u07cc\u07de\u07ca\u07db\u07cf\u07ec \u07d5\u07cc\u07f2\u07ec\u07de\u07ce\u07d8\u07ce\u07f2"
     ],
     "name:pol_x_preferred":[
         "Region Sikasso"
@@ -316,7 +334,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1642551789,
+    "wof:lastmodified":1690939602,
     "wof:name":"Sikasso",
     "wof:parent_id":85632553,
     "wof:placetype":"region",

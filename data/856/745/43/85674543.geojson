@@ -55,6 +55,9 @@
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a3\u03b5\u03b3\u03ba\u03bf\u03cd"
     ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b5\u03b3\u03ba\u03bf\u03cd"
+    ],
     "name:eng_x_preferred":[
         "S\u00e9gou"
     ],
@@ -114,7 +117,8 @@
         "\uc138\uad6c"
     ],
     "name:kor_x_variant":[
-        "\uc138\uad6c \uc8fc"
+        "\uc138\uad6c \uc8fc",
+        "\uc138\uad6c\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Segu re\u0123ions"
@@ -139,6 +143,9 @@
     ],
     "name:nob_x_preferred":[
         "S\u00e9gou"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07db\u07cb\u07dc\u07ed\u07ce\u07eb \u07d5\u07cc\u07f2\u07ec\u07de\u07ce\u07d8\u07ce\u07f2"
     ],
     "name:pol_x_preferred":[
         "Region S\u00e9gou"
@@ -323,7 +330,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1614895127,
+    "wof:lastmodified":1690939601,
     "wof:name":"S\u00e9gou",
     "wof:parent_id":85632553,
     "wof:placetype":"region",

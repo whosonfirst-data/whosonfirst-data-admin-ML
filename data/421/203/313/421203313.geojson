@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u064a\u0646\u062a\u0632\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Douentza"
+    ],
     "name:deu_x_preferred":[
         "Douentza"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:eus_x_preferred":[
         "Douentza"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0626\u0646\u062a\u0632\u0627"
     ],
     "name:fin_x_preferred":[
         "Douentza"
@@ -122,7 +128,7 @@
         }
     ],
     "wof:id":421203313,
-    "wof:lastmodified":1566606396,
+    "wof:lastmodified":1690939614,
     "wof:name":"Douentza",
     "wof:parent_id":421199983,
     "wof:placetype":"locality",

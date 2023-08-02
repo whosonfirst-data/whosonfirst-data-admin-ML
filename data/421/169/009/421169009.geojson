@@ -20,11 +20,17 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u062a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u064a\u062a\u0627"
+    ],
     "name:bam_x_preferred":[
         "Kita"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u099f\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Kita"
     ],
     "name:ceb_x_preferred":[
         "Kita"
@@ -43,6 +49,9 @@
     ],
     "name:est_x_preferred":[
         "Kita"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u062a\u0627"
     ],
     "name:fin_x_preferred":[
         "Kita"
@@ -97,6 +106,9 @@
     ],
     "name:nob_x_preferred":[
         "Kita"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07de\u07cc\u07ec\u07d5\u07ca\u07ec"
     ],
     "name:pol_x_preferred":[
         "Kita"
@@ -283,7 +295,7 @@
         }
     ],
     "wof:id":421169009,
-    "wof:lastmodified":1636505169,
+    "wof:lastmodified":1690939614,
     "wof:name":"Kita",
     "wof:parent_id":1108562847,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0648\u0627\u0631\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0646\u0648\u0627\u0631\u0647"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09be\u09b0\u09be"
     ],
@@ -227,7 +230,7 @@
         }
     ],
     "wof:id":1141908961,
-    "wof:lastmodified":1636505183,
+    "wof:lastmodified":1690939625,
     "wof:name":"Nara",
     "wof:parent_id":1108562865,
     "wof:placetype":"locality",
