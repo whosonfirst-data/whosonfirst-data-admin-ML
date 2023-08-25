@@ -20,7 +20,13 @@
     "name:deu_x_preferred":[
         "Konna"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bd\u03ac"
+    ],
     "name:eng_x_preferred":[
+        "Konna"
+    ],
+    "name:est_x_preferred":[
         "Konna"
     ],
     "name:eus_x_preferred":[
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421196279,
-    "wof:lastmodified":1566606397,
+    "wof:lastmodified":1690939617,
     "wof:name":"Konna",
     "wof:parent_id":421180081,
     "wof:placetype":"locality",

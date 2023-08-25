@@ -37,11 +37,17 @@
     "name:azb_x_preferred":[
         "\u0642\u0627\u0626\u0648 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
+    "name:aze_x_preferred":[
+        "Qao"
+    ],
     "name:ben_x_preferred":[
         "\u0997\u09be\u0993 \u0985\u099e\u09cd\u099a\u09b2"
     ],
     "name:bul_x_preferred":[
         "\u0413\u0430\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Gao"
     ],
     "name:ceb_x_preferred":[
         "Gao Region"
@@ -54,6 +60,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0393\u03ba\u03b1\u03cc"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03ba\u03b1\u03cc"
     ],
     "name:eng_x_preferred":[
         "Gao"
@@ -115,6 +124,9 @@
     "name:kor_x_preferred":[
         "\uac00\uc624 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uac00\uc624\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Gao re\u0123ions"
     ],
@@ -138,6 +150,9 @@
     ],
     "name:nob_x_preferred":[
         "Gao"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07dc\u07ed\u07ca\u07ec\u07cf\u07eb \u07d5\u07cc\u07f2\u07ec\u07de\u07ce\u07d8\u07ce\u07f2"
     ],
     "name:pol_x_preferred":[
         "Region Gao"
@@ -300,7 +315,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636505145,
+    "wof:lastmodified":1690939601,
     "wof:name":"Gao",
     "wof:parent_id":85632553,
     "wof:placetype":"region",

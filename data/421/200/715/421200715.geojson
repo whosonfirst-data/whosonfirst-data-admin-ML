@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0646\u062f\u064a\u0627\u062c\u0627\u0631\u0627"
+    ],
     "name:bam_x_preferred":[
         "Bandiagara"
     ],
@@ -29,6 +32,9 @@
     "name:deu_x_preferred":[
         "Bandiagara"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bd\u03c4\u03b9\u03b1\u03b3\u03ba\u03b1\u03c1\u03ac"
+    ],
     "name:eng_x_preferred":[
         "Bandiagara"
     ],
@@ -37,6 +43,9 @@
     ],
     "name:est_x_preferred":[
         "Bandiagara"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0646\u062f\u06cc\u0627\u06af\u0627\u0631\u0627"
     ],
     "name:fin_x_preferred":[
         "Bandiagara"
@@ -125,7 +134,7 @@
         }
     ],
     "wof:id":421200715,
-    "wof:lastmodified":1566606398,
+    "wof:lastmodified":1690939619,
     "wof:name":"Bandiagara",
     "wof:parent_id":421171975,
     "wof:placetype":"locality",

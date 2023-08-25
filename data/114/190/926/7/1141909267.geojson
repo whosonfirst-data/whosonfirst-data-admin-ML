@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-0.0500075697742,16.2665897817,-0.0500075697742,16.2665897817",
+    "geom:bbox":"-0.050008,16.26659,-0.050008,16.26659",
     "geom:latitude":16.26659,
     "geom:longitude":-0.050008,
     "iso:country":"ML",
@@ -57,6 +57,9 @@
     "name:ell_x_preferred":[
         "\u0393\u03ba\u03ac\u03bf"
     ],
+    "name:ell_x_variant":[
+        "\u0393\u03ba\u03b1\u03cc"
+    ],
     "name:eng_x_preferred":[
         "Gao"
     ],
@@ -84,6 +87,9 @@
     "name:guj_x_preferred":[
         "\u0a97\u0abe\u0a93"
     ],
+    "name:hau_x_preferred":[
+        "Gao"
+    ],
     "name:heb_x_preferred":[
         "\u05d2\u05d0\u05d5"
     ],
@@ -92,6 +98,9 @@
     ],
     "name:hun_x_preferred":[
         "Gao"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0561\u0578"
     ],
     "name:ile_x_preferred":[
         "Gao"
@@ -129,6 +138,9 @@
     "name:mar_x_preferred":[
         "\u0917\u093e\u0913"
     ],
+    "name:mlg_x_preferred":[
+        "Gao"
+    ],
     "name:msa_x_preferred":[
         "Gao"
     ],
@@ -143,6 +155,9 @@
     ],
     "name:nob_x_preferred":[
         "Gao"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07dc\u07ed\u07ca\u07ec\u07cf\u07eb"
     ],
     "name:pol_x_preferred":[
         "Gao"
@@ -178,6 +193,9 @@
         "\u0413\u0430\u043e"
     ],
     "name:swe_x_preferred":[
+        "Gao"
+    ],
+    "name:szl_x_preferred":[
         "Gao"
     ],
     "name:tam_x_preferred":[
@@ -318,7 +336,7 @@
     },
     "wof:country":"ML",
     "wof:created":1499131056,
-    "wof:geomhash":"1d13a459fec14dade296e65fe668ff0d",
+    "wof:geomhash":"bcd8da1303cbe52b7fd480e32e395f14",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -329,7 +347,7 @@
         }
     ],
     "wof:id":1141909267,
-    "wof:lastmodified":1566606728,
+    "wof:lastmodified":1690939626,
     "wof:name":"Gao",
     "wof:parent_id":890418899,
     "wof:placetype":"locality",
@@ -339,10 +357,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -0.05000756977421,
-    16.2665897816571,
-    -0.05000756977421,
-    16.2665897816571
+    -0.050008,
+    16.26659,
+    -0.050008,
+    16.26659
 ],
-  "geometry": {"coordinates":[-0.05000756977421,16.2665897816571],"type":"Point"}
+  "geometry": {"coordinates":[-0.050008,16.26659],"type":"Point"}
 }

@@ -30,6 +30,9 @@
     "name:deu_x_preferred":[
         "Adjelhoc"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03ba\u03b5\u03bb\u03cc\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Aguelhok"
     ],
@@ -86,6 +89,9 @@
     ],
     "name:por_x_preferred":[
         "Aguel'hoc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0433\u0435\u043b\u043e\u043a"
     ],
     "name:spa_x_preferred":[
         "Aguelhok"
@@ -227,7 +233,7 @@
         }
     ],
     "wof:id":1141907333,
-    "wof:lastmodified":1636505183,
+    "wof:lastmodified":1690939625,
     "wof:name":"Aguelhok",
     "wof:parent_id":1108562887,
     "wof:placetype":"locality",

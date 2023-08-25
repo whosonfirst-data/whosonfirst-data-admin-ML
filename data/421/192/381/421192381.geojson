@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bd\u03af \u039c\u03c0\u03bf\u03b6\u03cc\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Kanibonzon"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421192381,
-    "wof:lastmodified":1566606395,
+    "wof:lastmodified":1690939611,
     "wof:name":"Kani Bonzon",
     "wof:parent_id":1108562845,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0631\u0648\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0631\u0627\u0648\u0627\u0646"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b0\u09be\u0989\u09df\u09be\u09a8\u09c7"
     ],
@@ -106,6 +109,9 @@
     ],
     "name:vie_x_preferred":[
         "Araouane"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u62c9\u842c"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mali",
@@ -247,7 +253,7 @@
         }
     ],
     "wof:id":421178243,
-    "wof:lastmodified":1636505171,
+    "wof:lastmodified":1690939619,
     "wof:name":"Araouane",
     "wof:parent_id":1108562891,
     "wof:placetype":"locality",

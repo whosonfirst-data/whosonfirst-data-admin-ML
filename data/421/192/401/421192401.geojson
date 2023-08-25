@@ -41,6 +41,9 @@
     "name:fra_x_variant":[
         "Sangha"
     ],
+    "name:hau_x_preferred":[
+        "Sangha"
+    ],
     "name:ita_x_preferred":[
         "Sanga"
     ],
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421192401,
-    "wof:lastmodified":1566606394,
+    "wof:lastmodified":1690939610,
     "wof:name":"Sanga",
     "wof:parent_id":421171975,
     "wof:placetype":"locality",

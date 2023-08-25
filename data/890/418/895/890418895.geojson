@@ -45,6 +45,9 @@
     "name:eng_x_variant":[
         "Gourma-Rharous"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u06cc\u0631\u0647 \u06af\u0648\u0631\u0645\u0627\u0631\u0647\u0627\u0631\u0648\u0633"
+    ],
     "name:fin_x_preferred":[
         "Gourma-Rharousin piiri"
     ],
@@ -56,6 +59,9 @@
     ],
     "name:kor_x_preferred":[
         "\uad6c\ub974\ub9c8\ub77c\ub8e8\uc2a4 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\uad6c\ub974\ub9c8\ub77c\ub8e8\uc2a4\ud604"
     ],
     "name:nan_x_preferred":[
         "Gourma-Rharous Khian"
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":890418895,
-    "wof:lastmodified":1627522351,
+    "wof:lastmodified":1690939621,
     "wof:name":"Gourma-Rharous",
     "wof:parent_id":85674511,
     "wof:placetype":"county",

@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0643\u0627\u0633\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u0643\u0627\u0633\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Sikasso"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u06cc\u06a9\u0627\u0633\u0648"
     ],
@@ -77,8 +83,14 @@
     "name:frr_x_preferred":[
         "Sikasso"
     ],
+    "name:gle_x_preferred":[
+        "Sikasso"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abf\u0a95\u0abe\u0ab8\u0acb"
+    ],
+    "name:hau_x_preferred":[
+        "Sikasso"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d9\u05e7\u05d0\u05e1\u05d5"
@@ -88,6 +100,9 @@
     ],
     "name:hun_x_preferred":[
         "Sikasso"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u056f\u0561\u057d\u0578"
     ],
     "name:ile_x_preferred":[
         "Sikasso"
@@ -119,6 +134,9 @@
     "name:mar_x_preferred":[
         "\u0938\u093f\u0915\u093e\u0938\u094b"
     ],
+    "name:mlg_x_preferred":[
+        "Sikasso"
+    ],
     "name:msa_x_preferred":[
         "Sikasso"
     ],
@@ -133,6 +151,9 @@
     ],
     "name:nor_x_preferred":[
         "Sikasso"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07db\u07cc\u07de\u07ca\u07db\u07cf\u07ec"
     ],
     "name:pol_x_preferred":[
         "Sikasso"
@@ -176,7 +197,13 @@
     "name:urd_x_preferred":[
         "\u0633\u06cc\u06a9\u0627\u0633\u0648"
     ],
+    "name:vec_x_preferred":[
+        "Sikasso"
+    ],
     "name:vie_x_preferred":[
+        "Sikasso"
+    ],
+    "name:war_x_preferred":[
         "Sikasso"
     ],
     "name:zho_x_preferred":[
@@ -322,7 +349,7 @@
         }
     ],
     "wof:id":421166461,
-    "wof:lastmodified":1566606394,
+    "wof:lastmodified":1690939610,
     "wof:name":"Sikasso",
     "wof:parent_id":1108562825,
     "wof:placetype":"locality",

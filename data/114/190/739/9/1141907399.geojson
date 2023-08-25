@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-10.5666266291,15.1337131947,-10.5666266291,15.1337131947",
+    "geom:bbox":"-10.566627,15.133713,-10.566627,15.133713",
     "geom:latitude":15.133713,
     "geom:longitude":-10.566627,
     "iso:country":"ML",
@@ -20,6 +20,9 @@
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u064a\u064a\u0644\u064a\u0645\u0627\u0646\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u064a\u064a\u0644\u064a\u0645\u0627\u0646\u0649"
     ],
     "name:eng_x_preferred":[
         "Y\u00e9liman\u00e9"
@@ -153,7 +156,7 @@
     },
     "wof:country":"ML",
     "wof:created":1499130720,
-    "wof:geomhash":"9baf070cccd80e5477cdf1d6819c61b4",
+    "wof:geomhash":"0e8bc4c14e4a8fd3dd5d5ffc120f6f40",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":1141907399,
-    "wof:lastmodified":1566606727,
+    "wof:lastmodified":1690939624,
     "wof:name":"Yelimane",
     "wof:parent_id":1108562863,
     "wof:placetype":"locality",
@@ -174,10 +177,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -10.56662662906109,
-    15.13371319473839,
-    -10.56662662906109,
-    15.13371319473839
+    -10.566627,
+    15.133713,
+    -10.566627,
+    15.133713
 ],
-  "geometry": {"coordinates":[-10.56662662906109,15.13371319473839],"type":"Point"}
+  "geometry": {"coordinates":[-10.566627,15.133713],"type":"Point"}
 }

@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Ansongo"
     ],
+    "name:est_x_preferred":[
+        "Ansongo"
+    ],
     "name:fin_x_preferred":[
         "Ansongo"
     ],
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":421199969,
-    "wof:lastmodified":1582382266,
+    "wof:lastmodified":1690939618,
     "wof:name":"Ansongo",
     "wof:parent_id":890418903,
     "wof:placetype":"localadmin",

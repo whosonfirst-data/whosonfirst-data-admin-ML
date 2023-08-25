@@ -22,6 +22,9 @@
     "name:afr_x_preferred":[
         "Bamako"
     ],
+    "name:aka_x_preferred":[
+        "Bamako"
+    ],
     "name:amh_x_preferred":[
         "\u1263\u121b\u12ae"
     ],
@@ -31,11 +34,20 @@
     "name:arc_x_preferred":[
         "\u0712\u0721\u0729\u0718"
     ],
+    "name:arg_x_preferred":[
+        "Bamako"
+    ],
+    "name:ary_x_preferred":[
+        "\u0628\u0627\u0645\u0627\u0643\u0648"
+    ],
     "name:arz_x_preferred":[
         "\u0628\u0627\u0645\u0627\u0643\u0648"
     ],
     "name:ast_x_preferred":[
         "Bamaku"
+    ],
+    "name:avk_x_preferred":[
+        "Bamako"
     ],
     "name:azb_x_preferred":[
         "\u0628\u0627\u0645\u0627\u06a9\u0648"
@@ -43,8 +55,14 @@
     "name:aze_x_preferred":[
         "Bamako"
     ],
+    "name:bak_x_preferred":[
+        "\u0411\u0430\u043c\u0430\u043a\u043e"
+    ],
     "name:bam_x_preferred":[
         "Bamak\u0254"
+    ],
+    "name:ban_x_preferred":[
+        "Bamako"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0430\u043c\u0430\u043a\u043e"
@@ -202,6 +220,9 @@
     "name:ilo_x_preferred":[
         "Bamako"
     ],
+    "name:ina_x_preferred":[
+        "Bamako"
+    ],
     "name:ind_x_preferred":[
         "Bamako"
     ],
@@ -256,6 +277,9 @@
     "name:lfn_x_preferred":[
         "Bamako"
     ],
+    "name:lij_x_preferred":[
+        "Bamako"
+    ],
     "name:lit_x_preferred":[
         "Bamakas"
     ],
@@ -271,10 +295,16 @@
     "name:mar_x_preferred":[
         "\u092c\u092e\u093e\u0915\u094b"
     ],
+    "name:mdf_x_preferred":[
+        "\u0411\u0430\u043c\u0430\u043a\u043e"
+    ],
     "name:mkd_x_preferred":[
         "\u0411\u0430\u043c\u0430\u043a\u043e"
     ],
     "name:mlg_x_preferred":[
+        "Bamako"
+    ],
+    "name:mlt_x_preferred":[
         "Bamako"
     ],
     "name:mon_x_preferred":[
@@ -297,6 +327,9 @@
     ],
     "name:nap_x_preferred":[
         "Bamako"
+    ],
+    "name:nav_x_preferred":[
+        "T\u00e1\u0142k\u00e1\u00e1\u02bcts\u02bcin Bitoo\u02bc"
     ],
     "name:nds_x_preferred":[
         "Bamako"
@@ -323,6 +356,9 @@
         "Bamako"
     ],
     "name:oci_x_preferred":[
+        "Bamako"
+    ],
+    "name:olo_x_preferred":[
         "Bamako"
     ],
     "name:oss_x_preferred":[
@@ -379,6 +415,15 @@
     "name:slv_x_preferred":[
         "Bamako"
     ],
+    "name:sme_x_preferred":[
+        "Bamako"
+    ],
+    "name:smn_x_preferred":[
+        "Bamako"
+    ],
+    "name:sms_x_preferred":[
+        "Bamako"
+    ],
     "name:sna_x_preferred":[
         "Bamako"
     ],
@@ -391,8 +436,14 @@
     "name:sqi_x_preferred":[
         "Bamako"
     ],
+    "name:srd_x_preferred":[
+        "Bamako"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0430\u043c\u0430\u043a\u043e"
+    ],
+    "name:ssw_x_preferred":[
+        "Bamako"
     ],
     "name:swa_x_preferred":[
         "Bamako"
@@ -446,6 +497,9 @@
         "Bamako"
     ],
     "name:vie_x_preferred":[
+        "Bamako"
+    ],
+    "name:vol_x_preferred":[
         "Bamako"
     ],
     "name:vro_x_preferred":[
@@ -603,8 +657,8 @@
     "wof:belongsto":[
         102191573,
         85632553,
-        421187095,
-        85674525
+        85674525,
+        421187095
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -637,7 +691,7 @@
         }
     ],
     "wof:id":421182167,
-    "wof:lastmodified":1608688178,
+    "wof:lastmodified":1690939619,
     "wof:megacity":1,
     "wof:name":"Bamako",
     "wof:parent_id":421187095,

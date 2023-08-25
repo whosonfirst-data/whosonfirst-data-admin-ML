@@ -35,11 +35,17 @@
     "name:deu_x_preferred":[
         "Bougouni"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03b3\u03ba\u03bf\u03c5\u03bd\u03af"
+    ],
     "name:eng_x_preferred":[
         "Bougouni"
     ],
     "name:est_x_preferred":[
         "Bougouni"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06af\u0648\u0646\u06cc"
     ],
     "name:fin_x_preferred":[
         "Bougouni"
@@ -76,6 +82,9 @@
     ],
     "name:nld_x_preferred":[
         "Bougouni"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07d3\u07dc\u07ed\u07ce\u07ec\u07e3\u07cc\u07eb"
     ],
     "name:pol_x_preferred":[
         "Bougouni"
@@ -250,7 +259,7 @@
         }
     ],
     "wof:id":421168183,
-    "wof:lastmodified":1636505168,
+    "wof:lastmodified":1690939610,
     "wof:name":"Bougouni",
     "wof:parent_id":1108562829,
     "wof:placetype":"localadmin",
