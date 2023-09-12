@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.664884,
-    "geom:area_square_m":7959578081.17192,
+    "geom:area_square_m":7959577278.651867,
     "geom:bbox":"-4.104634,13.836099,-2.907334,15.051471",
     "geom:latitude":14.496657,
     "geom:longitude":-3.602155,
     "iso:country":"ML",
     "label:eng_x_preferred_longname":[
         "Bandiagara County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "circle"
     ],
     "lbl:latitude":14.548206,
     "lbl:longitude":-3.543218,
@@ -121,7 +124,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bb8c1aed7913d28d412dc7dcc1f8b85e",
+    "wof:geomhash":"24b59c261d6d5d6c5929ebe69253820e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421171975,
-    "wof:lastmodified":1690939620,
+    "wof:lastmodified":1694492704,
     "wof:name":"Bandiagara",
     "wof:parent_id":85674539,
     "wof:placetype":"county",

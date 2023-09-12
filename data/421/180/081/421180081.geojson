@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.589737,
-    "geom:area_square_m":7051190274.203516,
+    "geom:area_square_m":7051190286.151344,
     "geom:bbox":"-4.608434,14.001071,-3.530434,15.514471",
     "geom:latitude":14.767449,
     "geom:longitude":-4.083583,
     "iso:country":"ML",
     "label:eng_x_preferred_longname":[
         "Mopti County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "circle"
     ],
     "lbl:latitude":14.870429,
     "lbl:longitude":-4.075176,
@@ -124,7 +127,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"94208d56707fa9733745174b8ff7b74b",
+    "wof:geomhash":"261ff43a246429f842c41cac71879167",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421180081,
-    "wof:lastmodified":1690939615,
+    "wof:lastmodified":1694492944,
     "wof:name":"Mopti",
     "wof:parent_id":85674539,
     "wof:placetype":"county",

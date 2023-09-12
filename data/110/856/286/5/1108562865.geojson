@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.614088,
-    "geom:area_square_m":31231142689.768776,
+    "geom:area_square_m":31231152916.118599,
     "geom:bbox":"-9.135433,14.112471,-6.308634,15.498474",
     "geom:latitude":14.935401,
     "geom:longitude":-7.527202,
     "iso:country":"ML",
+    "label:eng_x_preferred_longname":[
+        "Nara Circle"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "circle"
+    ],
     "lbl:latitude":14.844509,
     "lbl:longitude":-7.412788,
     "lbl:max_zoom":10.0,
@@ -40,6 +46,9 @@
         "Nara"
     ],
     "name:deu_x_preferred":[
+        "Nara"
+    ],
+    "name:eng_x_preferred":[
         "Nara"
     ],
     "name:eng_x_variant":[
@@ -157,7 +166,7 @@
     },
     "wof:country":"ML",
     "wof:created":1474056865,
-    "wof:geomhash":"c3321b6667769b6f5a07a105babbf1bd",
+    "wof:geomhash":"a93814149b9d2fa75728f89efcfadf27",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -167,7 +176,7 @@
         }
     ],
     "wof:id":1108562865,
-    "wof:lastmodified":1636505162,
+    "wof:lastmodified":1694498109,
     "wof:name":"Nara",
     "wof:parent_id":85674547,
     "wof:placetype":"county",

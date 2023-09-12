@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.631265,
-    "geom:area_square_m":42768974274.236275,
+    "geom:area_square_m":42768974362.079208,
     "geom:bbox":"-1.609434,16.547171,1.177666,19.036571",
     "geom:latitude":17.716329,
     "geom:longitude":-0.384233,
     "iso:country":"ML",
+    "label:eng_x_preferred_longname":[
+        "Bourem Circle"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "circle"
+    ],
     "lbl:latitude":17.623788,
     "lbl:longitude":-0.269233,
     "lbl:max_zoom":10.0,
@@ -35,6 +41,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03bf\u03c5\u03c1\u03ad\u03bc"
+    ],
+    "name:eng_x_preferred":[
+        "Bourem"
     ],
     "name:eng_x_variant":[
         "Bourem"
@@ -109,7 +118,7 @@
     },
     "wof:country":"ML",
     "wof:created":1474056875,
-    "wof:geomhash":"d11a318e2844b9a6a6b752d7c6833387",
+    "wof:geomhash":"99da70382ad0979b88c78d27498eb5fb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":1108562879,
-    "wof:lastmodified":1636505161,
+    "wof:lastmodified":1694498109,
     "wof:name":"Bourem",
     "wof:parent_id":85674521,
     "wof:placetype":"county",

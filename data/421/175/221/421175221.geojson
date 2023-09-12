@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.288421,
-    "geom:area_square_m":15478831092.085712,
+    "geom:area_square_m":15478831116.32,
     "geom:bbox":"-6.936134,13.092971,-5.156634,14.477171",
     "geom:latitude":13.687644,
     "geom:longitude":-6.188493,
     "iso:country":"ML",
     "label:eng_x_preferred_longname":[
         "Segou County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "circle"
     ],
     "lbl:latitude":13.713181,
     "lbl:longitude":-6.410918,
@@ -51,6 +54,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b5\u03b3\u03ba\u03bf\u03cd"
+    ],
+    "name:eng_x_preferred":[
+        "Segou"
     ],
     "name:eng_x_variant":[
         "Segou",
@@ -108,7 +114,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"55c55b5e2b4e7f31a5f4403a87387712",
+    "wof:geomhash":"314db6a0d894d7449df037be7f927596",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421175221,
-    "wof:lastmodified":1627522351,
+    "wof:lastmodified":1694492704,
     "wof:name":"Segou",
     "wof:parent_id":85674543,
     "wof:placetype":"county",

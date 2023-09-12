@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.0758,
-    "geom:area_square_m":12873432407.45462,
+    "geom:area_square_m":12873432428.994761,
     "geom:bbox":"-10.195234,14.133271,-8.132334,15.200471",
     "geom:latitude":14.5898,
     "geom:longitude":-9.178644,
     "iso:country":"ML",
+    "label:eng_x_preferred_longname":[
+        "Diema Circle"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "circle"
+    ],
     "lbl:latitude":14.596363,
     "lbl:longitude":-9.248931,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0414\u0438\u0435\u043c\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Diema"
     ],
     "name:eng_x_variant":[
         "Diema",
@@ -59,7 +68,7 @@
     },
     "wof:country":"ML",
     "wof:created":1474056862,
-    "wof:geomhash":"6e96e0a7593a14dbe8594d3fc6d3dc07",
+    "wof:geomhash":"6980784ae10067d70f385d3b4d15fcc5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":1108562857,
-    "wof:lastmodified":1628266643,
+    "wof:lastmodified":1694498072,
     "wof:name":"Diema",
     "wof:parent_id":85674529,
     "wof:placetype":"county",

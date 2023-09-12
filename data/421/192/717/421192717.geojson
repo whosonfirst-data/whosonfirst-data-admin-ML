@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.509094,
-    "geom:area_square_m":6129257089.803791,
+    "geom:area_square_m":6129258456.790862,
     "geom:bbox":"-5.306434,12.545871,-4.499734,13.672302",
     "geom:latitude":13.175529,
     "geom:longitude":-4.945376,
     "iso:country":"ML",
     "label:eng_x_preferred_longname":[
         "San County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "circle"
     ],
     "lbl:latitude":13.171289,
     "lbl:longitude":-5.012673,
@@ -36,6 +39,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "San"
     ],
     "name:eng_x_variant":[
         "San"
@@ -109,7 +115,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"68fb966d5ef9b47b7269adac01dc1b9a",
+    "wof:geomhash":"cfbdc56f20cd241f605d94bdab290ae5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":421192717,
-    "wof:lastmodified":1636505168,
+    "wof:lastmodified":1694492944,
     "wof:name":"San",
     "wof:parent_id":85674543,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.525431,
-    "geom:area_square_m":6313344969.205197,
+    "geom:area_square_m":6313344969.205228,
     "geom:bbox":"-4.04137711348,13.1528930664,-3.23229980469,14.2224713683",
     "geom:latitude":13.655827,
     "geom:longitude":-3.611141,
     "iso:country":"ML",
+    "label:eng_x_preferred_longname":[
+        "Bankass Circle"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "circle"
+    ],
     "lbl:latitude":13.643594,
     "lbl:longitude":-3.651496,
     "lbl:max_zoom":10.0,
@@ -27,6 +33,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Bankass"
+    ],
     "name:eng_x_variant":[
         "Bankass"
     ],
@@ -70,7 +79,7 @@
     },
     "wof:country":"ML",
     "wof:created":1474056853,
-    "wof:geomhash":"07a386e787eb897f57dbcb887e1ab74a",
+    "wof:geomhash":"cfa0ad2c4e06b3744f66fad6e375bc17",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":1108562845,
-    "wof:lastmodified":1566606201,
+    "wof:lastmodified":1694497832,
     "wof:name":"Bankass",
     "wof:parent_id":85674539,
     "wof:placetype":"county",

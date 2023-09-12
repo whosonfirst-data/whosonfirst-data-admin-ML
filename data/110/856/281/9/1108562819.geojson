@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.661973,
-    "geom:area_square_m":8037463651.912815,
+    "geom:area_square_m":8037463651.912793,
     "geom:bbox":"-7.24531062859,10.3364868164,-6.19353366027,11.4142387617",
     "geom:latitude":10.908095,
     "geom:longitude":-6.748276,
     "iso:country":"ML",
+    "label:eng_x_preferred_longname":[
+        "Kolondieba Circle"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "circle"
+    ],
     "lbl:latitude":10.954105,
     "lbl:longitude":-6.740315,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kolondi\u00e9ba"
+    ],
+    "name:eng_x_preferred":[
+        "Kolondieba"
     ],
     "name:eng_x_variant":[
         "Kolondieba",
@@ -74,7 +83,7 @@
     },
     "wof:country":"ML",
     "wof:created":1474056839,
-    "wof:geomhash":"b99d9fc0eb3a931e92c893d828cadf6d",
+    "wof:geomhash":"d696cb32725bd2a8e061565689b3922c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +93,7 @@
         }
     ],
     "wof:id":1108562819,
-    "wof:lastmodified":1566606201,
+    "wof:lastmodified":1694497832,
     "wof:name":"Kolondieba",
     "wof:parent_id":85674531,
     "wof:placetype":"county",

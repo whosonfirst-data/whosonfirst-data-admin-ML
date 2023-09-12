@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.923215,
-    "geom:area_square_m":22958243066.770782,
+    "geom:area_square_m":22958240797.298737,
     "geom:bbox":"-3.808434,14.333679,-0.743713,15.897971",
     "geom:latitude":15.112118,
     "geom:longitude":-2.442504,
     "iso:country":"ML",
     "label:eng_x_preferred_longname":[
         "Douentza County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "circle"
     ],
     "lbl:latitude":14.984235,
     "lbl:longitude":-1.781123,
@@ -113,7 +116,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6fdff3b2b6ed880ae294f17a6de915c0",
+    "wof:geomhash":"5461e7cfc7fd27c4380e7b94d52a56f0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421199983,
-    "wof:lastmodified":1690939618,
+    "wof:lastmodified":1694492705,
     "wof:name":"Douentza",
     "wof:parent_id":85674539,
     "wof:placetype":"county",

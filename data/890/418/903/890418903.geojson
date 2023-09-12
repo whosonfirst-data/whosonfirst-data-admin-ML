@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.970973,
-    "geom:area_square_m":23453757313.044418,
+    "geom:area_square_m":23453757694.276234,
     "geom:bbox":"-0.242034,14.940308,1.797485,16.906492",
     "geom:latitude":15.763014,
     "geom:longitude":0.900766,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":132205,
     "iso:country":"ML",
+    "label:eng_x_preferred_longname":[
+        "Ansongo Circle"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "circle"
+    ],
     "lbl:latitude":15.487862,
     "lbl:longitude":0.715363,
     "lbl:max_zoom":10.0,
@@ -40,7 +46,7 @@
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0391\u03bd\u03c3\u03bf\u03bd\u03b3\u03ba\u03cc"
     ],
     "name:eng_x_preferred":[
-        "Ansongo Cercle"
+        "Ansongo"
     ],
     "name:eng_x_variant":[
         "Ansongo"
@@ -98,7 +104,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b26c97182d6f33f129ead8d8b15aecb0",
+    "wof:geomhash":"ad2f8eb033ad124245ffc5986fce241d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":890418903,
-    "wof:lastmodified":1690939621,
+    "wof:lastmodified":1694497897,
     "wof:name":"Ansongo",
     "wof:parent_id":85674521,
     "wof:placetype":"county",

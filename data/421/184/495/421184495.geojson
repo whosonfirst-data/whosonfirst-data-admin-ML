@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.894206,
-    "geom:area_square_m":10714844733.710953,
+    "geom:area_square_m":10714844733.710939,
     "geom:bbox":"-3.47833366027,13.6104736328,-1.99951171875,14.8231713683",
     "geom:latitude":14.288354,
     "geom:longitude":-2.81815,
     "iso:country":"ML",
     "label:eng_x_preferred_longname":[
         "Koro County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "circle"
     ],
     "lbl:latitude":14.440215,
     "lbl:longitude":-2.829574,
@@ -38,6 +41,9 @@
         "Koro"
     ],
     "name:deu_x_preferred":[
+        "Koro"
+    ],
+    "name:eng_x_preferred":[
         "Koro"
     ],
     "name:eng_x_variant":[
@@ -125,7 +131,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"58e19382afbad3ce5bc3a4f17fe377db",
+    "wof:geomhash":"6b2a0a9ae2286a89b102b167c5ed0046",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -135,7 +141,7 @@
         }
     ],
     "wof:id":421184495,
-    "wof:lastmodified":1582382266,
+    "wof:lastmodified":1694492504,
     "wof:name":"Koro",
     "wof:parent_id":85674539,
     "wof:placetype":"county",

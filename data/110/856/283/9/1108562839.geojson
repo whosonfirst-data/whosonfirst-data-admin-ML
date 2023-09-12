@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.496593,
-    "geom:area_square_m":5979102210.177734,
+    "geom:area_square_m":5979102219.166449,
     "geom:bbox":"-7.867334,12.730571,-6.759234,13.746071",
     "geom:latitude":13.162692,
     "geom:longitude":-7.366418,
     "iso:country":"ML",
+    "label:eng_x_preferred_longname":[
+        "Koulikoro Circle"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "circle"
+    ],
     "lbl:latitude":13.102655,
     "lbl:longitude":-7.412589,
     "lbl:max_zoom":10.0,
@@ -50,6 +56,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03c5\u03bb\u03b9\u03ba\u03bf\u03c1\u03cc"
+    ],
+    "name:eng_x_preferred":[
+        "Koulikoro"
     ],
     "name:eng_x_variant":[
         "Koulikoro"
@@ -136,7 +145,7 @@
     },
     "wof:country":"ML",
     "wof:created":1474056851,
-    "wof:geomhash":"084644bc1b3ee3a2fd4083ef541164dc",
+    "wof:geomhash":"6c5c5acd2d30f23bab4fd76fdc91e121",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -146,7 +155,7 @@
         }
     ],
     "wof:id":1108562839,
-    "wof:lastmodified":1636505162,
+    "wof:lastmodified":1694498109,
     "wof:name":"Koulikoro",
     "wof:parent_id":85674547,
     "wof:placetype":"county",

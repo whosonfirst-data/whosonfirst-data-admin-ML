@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.583162,
-    "geom:area_square_m":42571193130.281563,
+    "geom:area_square_m":42571193530.446404,
     "geom:bbox":"-3.361334,14.996371,-0.687434,17.043871",
     "geom:latitude":16.08209,
     "geom:longitude":-1.814015,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":111386,
     "iso:country":"ML",
+    "label:eng_x_preferred_longname":[
+        "Gourma-Rharous Circle"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "circle"
+    ],
     "lbl:latitude":16.208915,
     "lbl:longitude":-1.68012,
     "lbl:max_zoom":10.0,
@@ -40,7 +46,7 @@
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0393\u03ba\u03bf\u03c5\u03c1\u03bc\u03ac-\u03a1\u03b1\u03c1\u03bf\u03cd\u03c2"
     ],
     "name:eng_x_preferred":[
-        "Gourma-Rharous Cercle"
+        "Gourma-Rharous"
     ],
     "name:eng_x_variant":[
         "Gourma-Rharous"
@@ -104,7 +110,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c54a1bf230a461e92d2c0dc1ce640fd0",
+    "wof:geomhash":"9fcf0feee2ec4fbe9f3452f31c83606a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":890418895,
-    "wof:lastmodified":1690939621,
+    "wof:lastmodified":1694498059,
     "wof:name":"Gourma-Rharous",
     "wof:parent_id":85674511,
     "wof:placetype":"county",
