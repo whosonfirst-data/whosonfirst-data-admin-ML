@@ -1069,7 +1069,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"223",
     "statoids:ds":"RMM",
     "statoids:fifa":"MLI",
@@ -1142,7 +1142,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1694492217,
+    "wof:lastmodified":1694639670,
     "wof:name":"Mali",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

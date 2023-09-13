@@ -48,9 +48,6 @@
     "name:eng_x_preferred":[
         "Ansongo"
     ],
-    "name:eng_x_variant":[
-        "Ansongo"
-    ],
     "name:fas_x_preferred":[
         "\u062f\u0627\u06cc\u0631\u0647 \u0622\u0646\u0633\u0648\u0646\u06af\u0648"
     ],
@@ -114,7 +111,7 @@
         }
     ],
     "wof:id":890418903,
-    "wof:lastmodified":1694497897,
+    "wof:lastmodified":1694639689,
     "wof:name":"Ansongo",
     "wof:parent_id":85674521,
     "wof:placetype":"county",

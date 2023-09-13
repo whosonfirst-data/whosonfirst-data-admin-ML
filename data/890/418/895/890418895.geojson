@@ -48,9 +48,6 @@
     "name:eng_x_preferred":[
         "Gourma-Rharous"
     ],
-    "name:eng_x_variant":[
-        "Gourma-Rharous"
-    ],
     "name:fas_x_preferred":[
         "\u062f\u0627\u06cc\u0631\u0647 \u06af\u0648\u0631\u0645\u0627\u0631\u0647\u0627\u0631\u0648\u0633"
     ],
@@ -120,7 +117,7 @@
         }
     ],
     "wof:id":890418895,
-    "wof:lastmodified":1694498059,
+    "wof:lastmodified":1694639720,
     "wof:name":"Gourma-Rharous",
     "wof:parent_id":85674511,
     "wof:placetype":"county",
