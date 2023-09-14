@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.396902,
-    "geom:area_square_m":16861851556.63254,
+    "geom:area_square_m":16861850621.529547,
     "geom:bbox":"-9.045092,11.681771,-7.355034,13.515671",
     "geom:latitude":12.520123,
     "geom:longitude":-8.128383,
     "iso:country":"ML",
     "label:eng_x_preferred_longname":[
         "Kati County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "circle"
     ],
     "lbl:latitude":12.254114,
     "lbl:longitude":-8.113673,
@@ -36,6 +39,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03ac\u03c4\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Kati"
     ],
     "name:eng_x_variant":[
         "Kati"
@@ -103,7 +109,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1b24a0e71d302e34216158574c1326bd",
+    "wof:geomhash":"af1cb5aff44951c1d6b39719db98b71d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":421177883,
-    "wof:lastmodified":1636505170,
+    "wof:lastmodified":1694492944,
     "wof:name":"Kati",
     "wof:parent_id":85674547,
     "wof:placetype":"county",

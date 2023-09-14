@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.542484,
-    "geom:area_square_m":6508771487.469312,
+    "geom:area_square_m":6508771487.469275,
     "geom:bbox":"-5.84283366027,13.5116713683,-4.84240722656,14.5305175781",
     "geom:latitude":13.994225,
     "geom:longitude":-5.370862,
     "iso:country":"ML",
+    "label:eng_x_preferred_longname":[
+        "Macina Circle"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "circle"
+    ],
     "lbl:latitude":14.049035,
     "lbl:longitude":-5.446636,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
         "Macina"
     ],
     "name:deu_x_preferred":[
+        "Macina"
+    ],
+    "name:eng_x_preferred":[
         "Macina"
     ],
     "name:eng_x_variant":[
@@ -61,7 +70,7 @@
     },
     "wof:country":"ML",
     "wof:created":1474056859,
-    "wof:geomhash":"19889e742d9be7a8fedcaac04717fd37",
+    "wof:geomhash":"323f15ad4417ba5daf05a09b653e5c17",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1108562853,
-    "wof:lastmodified":1566606203,
+    "wof:lastmodified":1694497833,
     "wof:name":"Macina",
     "wof:parent_id":85674543,
     "wof:placetype":"county",

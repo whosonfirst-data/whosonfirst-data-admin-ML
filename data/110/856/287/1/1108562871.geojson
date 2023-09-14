@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.671104,
-    "geom:area_square_m":8000326568.401255,
+    "geom:area_square_m":8000326568.401271,
     "geom:bbox":"-5.35399455743,14.9549713683,-3.83603366027,15.8172713683",
     "geom:latitude":15.400523,
     "geom:longitude":-4.502224,
     "iso:country":"ML",
+    "label:eng_x_preferred_longname":[
+        "Youwarou Circle"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "circle"
+    ],
     "lbl:latitude":15.365874,
     "lbl:longitude":-4.364451,
     "lbl:max_zoom":10.0,
@@ -27,6 +33,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Youwarou"
+    ],
     "name:eng_x_variant":[
         "Youwarou"
     ],
@@ -64,7 +73,7 @@
     },
     "wof:country":"ML",
     "wof:created":1474056869,
-    "wof:geomhash":"ffa3242ec195169f45a55450729ab7fb",
+    "wof:geomhash":"480b62900a8b000cf40fd3bb18cf3dc9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":1108562871,
-    "wof:lastmodified":1566606199,
+    "wof:lastmodified":1694497832,
     "wof:name":"Youwarou",
     "wof:parent_id":85674539,
     "wof:placetype":"county",

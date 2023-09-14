@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.375245,
-    "geom:area_square_m":4502763037.991579,
+    "geom:area_square_m":4502758013.43435,
     "geom:bbox":"-4.905227,13.603516,-4.061634,14.420471",
     "geom:latitude":13.967859,
     "geom:longitude":-4.570698,
     "iso:country":"ML",
     "label:eng_x_preferred_longname":[
         "Djenne County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "circle"
     ],
     "lbl:latitude":13.923984,
     "lbl:longitude":-4.612274,
@@ -252,7 +255,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bbd3fa6ad4ba207efded69104f78ec71",
+    "wof:geomhash":"1e286fd30c3888546733b249b089abe0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -262,7 +265,7 @@
         }
     ],
     "wof:id":421187097,
-    "wof:lastmodified":1690939615,
+    "wof:lastmodified":1694492504,
     "wof:name":"Djenne",
     "wof:parent_id":85674539,
     "wof:placetype":"county",

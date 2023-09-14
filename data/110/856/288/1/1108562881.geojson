@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.319237,
-    "geom:area_square_m":27191873310.811485,
+    "geom:area_square_m":27191873310.811451,
     "geom:bbox":"1.97946633973,17.9672713683,4.24328613281,19.1550713683",
     "geom:latitude":18.521371,
     "geom:longitude":3.141451,
     "iso:country":"ML",
+    "label:eng_x_preferred_longname":[
+        "Tin-Essako Circle"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "circle"
+    ],
     "lbl:latitude":18.509994,
     "lbl:longitude":3.080562,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:min_zoom":6.0,
     "name:ell_x_preferred":[
         "\u03a4\u03b9\u03bd-\u0395\u03c3\u03c3\u03b1\u03ba\u03cc"
+    ],
+    "name:eng_x_preferred":[
+        "Tin-Essako"
     ],
     "name:eng_x_variant":[
         "Tin-Essako"
@@ -67,7 +76,7 @@
     },
     "wof:country":"ML",
     "wof:created":1474056876,
-    "wof:geomhash":"272cafcaf560b4ea3c02a23055f88a4c",
+    "wof:geomhash":"2524a2a83b7520280339efbcafcb121e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +86,7 @@
         }
     ],
     "wof:id":1108562881,
-    "wof:lastmodified":1566606200,
+    "wof:lastmodified":1694497832,
     "wof:name":"Tin-Essako",
     "wof:parent_id":85674515,
     "wof:placetype":"county",

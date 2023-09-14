@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":15.072508,
-    "geom:area_square_m":178423448968.85434,
+    "geom:area_square_m":178423440788.818146,
     "geom:bbox":"-1.609434,14.940308,4.241699,19.036571",
     "geom:latitude":16.77168,
     "geom:longitude":1.309739,
@@ -13,6 +13,9 @@
     "iso:country":"ML",
     "label:eng_x_preferred_longname":[
         "Gao Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
     ],
     "label:eng_x_preferred_shortcode":[
         "GO"
@@ -300,7 +303,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"470d148571b72ddc875600c844d7c3f7",
+    "wof:geomhash":"95ea88720f87af2e6048b1d3f8a015df",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -315,7 +318,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690939601,
+    "wof:lastmodified":1694493261,
     "wof:name":"Gao",
     "wof:parent_id":85632553,
     "wof:placetype":"region",

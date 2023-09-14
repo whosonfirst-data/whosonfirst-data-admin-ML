@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":43.120725,
-    "geom:area_square_m":500335799776.393188,
+    "geom:area_square_m":500335801238.727173,
     "geom:bbox":"-6.564534,14.996371,-0.013834,25.000471",
     "geom:latitude":20.061723,
     "geom:longitude":-3.594538,
     "gn:population":681691,
     "iso:country":"ML",
     "label:eng_x_preferred_longname":[
-        "Timbuktu Region"
+        "Tombouctou Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
     ],
     "label:eng_x_preferred_shortcode":[
         "TT"
@@ -315,7 +318,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d476c00a71d1239a6e180978c37563d2",
+    "wof:geomhash":"c8176af0d76a7022340c2dab7521a196",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -330,7 +333,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690939600,
+    "wof:lastmodified":1694493263,
     "wof:name":"Timbuktu",
     "wof:parent_id":85632553,
     "wof:placetype":"region",

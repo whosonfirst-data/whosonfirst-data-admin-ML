@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.591217,
-    "geom:area_square_m":19292615217.42527,
+    "geom:area_square_m":19292614649.131271,
     "geom:bbox":"-8.152834,10.141479,-6.541734,12.448271",
     "geom:latitude":11.312763,
     "geom:longitude":-7.342302,
     "iso:country":"ML",
+    "label:eng_x_preferred_longname":[
+        "Bougouni Circle"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "circle"
+    ],
     "lbl:latitude":11.523399,
     "lbl:longitude":-7.476618,
     "lbl:max_zoom":10.0,
@@ -40,6 +46,9 @@
         "Bougouni"
     ],
     "name:deu_x_preferred":[
+        "Bougouni"
+    ],
+    "name:eng_x_preferred":[
         "Bougouni"
     ],
     "name:eng_x_variant":[
@@ -118,7 +127,7 @@
     },
     "wof:country":"ML",
     "wof:created":1474056844,
-    "wof:geomhash":"7391fbb3c2ad476680eaeecb139b60f3",
+    "wof:geomhash":"4af22ff306b10f55feacb9fa1067b249",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -128,7 +137,7 @@
         }
     ],
     "wof:id":1108562829,
-    "wof:lastmodified":1636505162,
+    "wof:lastmodified":1694498109,
     "wof:name":"Bougouni",
     "wof:parent_id":85674531,
     "wof:placetype":"county",

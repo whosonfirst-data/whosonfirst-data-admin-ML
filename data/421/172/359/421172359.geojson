@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.209215,
-    "geom:area_square_m":2483640072.504482,
+    "geom:area_square_m":2483640077.158066,
     "geom:bbox":"-3.688034,16.010771,-3.045634,16.630671",
     "geom:latitude":16.248907,
     "geom:longitude":-3.312859,
     "iso:country":"ML",
     "label:eng_x_preferred_longname":[
         "Dire County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "circle"
     ],
     "lbl:latitude":16.229826,
     "lbl:longitude":-3.344511,
@@ -135,7 +138,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a176c629eb5887b2a11c37cf4eaa83f8",
+    "wof:geomhash":"14636e9c18b3fff984e456e5eee74366",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":421172359,
-    "wof:lastmodified":1690939615,
+    "wof:lastmodified":1694492504,
     "wof:name":"Dire",
     "wof:parent_id":85674511,
     "wof:placetype":"county",

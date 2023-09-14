@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.892344,
-    "geom:area_square_m":10654494547.527084,
+    "geom:area_square_m":10654494547.527029,
     "geom:bbox":"-10.6555336603,14.6061713683,-8.67733366027,15.6923217773",
     "geom:latitude":15.069038,
     "geom:longitude":-9.603398,
     "iso:country":"ML",
+    "label:eng_x_preferred_longname":[
+        "Nioro Circle"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "circle"
+    ],
     "lbl:latitude":15.129568,
     "lbl:longitude":-9.783127,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
         "Nioro"
     ],
     "name:deu_x_preferred":[
+        "Nioro"
+    ],
+    "name:eng_x_preferred":[
         "Nioro"
     ],
     "name:eng_x_variant":[
@@ -61,7 +70,7 @@
     },
     "wof:country":"ML",
     "wof:created":1474056868,
-    "wof:geomhash":"a8b7034ccdc151ac83b9f8cafd5f2b84",
+    "wof:geomhash":"bde643189824a252b056013adf75994d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1108562869,
-    "wof:lastmodified":1566606200,
+    "wof:lastmodified":1694497832,
     "wof:name":"Nioro",
     "wof:parent_id":85674529,
     "wof:placetype":"county",

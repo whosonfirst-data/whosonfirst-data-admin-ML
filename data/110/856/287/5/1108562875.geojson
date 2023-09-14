@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.531817,
-    "geom:area_square_m":77353742747.004822,
+    "geom:area_square_m":77353742747.004761,
     "geom:bbox":"1.28588867187,15.2395019531,4.24169921875,18.0604713683",
     "geom:latitude":16.698094,
     "geom:longitude":2.829733,
     "iso:country":"ML",
+    "label:eng_x_preferred_longname":[
+        "Menaka Circle"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "circle"
+    ],
     "lbl:latitude":16.670496,
     "lbl:longitude":2.858019,
     "lbl:max_zoom":10.0,
@@ -27,6 +33,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Menaka"
+    ],
     "name:eng_x_variant":[
         "Menaka",
         "M\u00e9naka"
@@ -89,7 +98,7 @@
     },
     "wof:country":"ML",
     "wof:created":1474056874,
-    "wof:geomhash":"459e48668f82f86d004a0d9fb0b619fd",
+    "wof:geomhash":"ff320ae93d8c9c4a7add4c306bd88223",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":1108562875,
-    "wof:lastmodified":1566606199,
+    "wof:lastmodified":1694497832,
     "wof:name":"Menaka",
     "wof:parent_id":85674521,
     "wof:placetype":"county",
