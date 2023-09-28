@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020378,
-    "geom:area_square_m":245901360.24172,
+    "geom:area_square_m":245901384.308007,
     "geom:bbox":"-8.081421,12.50293,-7.91217,12.711487",
     "geom:latitude":12.609092,
     "geom:longitude":-7.980004,
@@ -618,12 +618,14 @@
         "gn:id":2460594,
         "gp:id":2346180,
         "hasc:id":"ML.BA",
+        "iso:code":"ML-BKO",
         "iso:id":"ML-BKO",
         "qs_pg:id":219575,
         "unlc:id":"ML-BKO",
         "wd:id":"Q3703",
         "wk:page":"Bamako"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         421182167
     ],
@@ -631,7 +633,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"10d4dece69863efabe7c5ed160dbbdf0",
+    "wof:geomhash":"21517c6c39fa659e2ec9bc81d76a5b0e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -646,7 +648,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690939603,
+    "wof:lastmodified":1695884382,
     "wof:name":"Bamako",
     "wof:parent_id":85632553,
     "wof:placetype":"region",

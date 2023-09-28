@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.64745,
-    "geom:area_square_m":79505879083.478195,
+    "geom:area_square_m":79505857192.711975,
     "geom:bbox":"-5.665527,13.152893,-0.743713,15.897971",
     "geom:latitude":14.69126,
     "geom:longitude":-3.553465,
@@ -312,17 +312,19 @@
         "gn:id":2453347,
         "gp:id":2346183,
         "hasc:id":"ML.MO",
+        "iso:code":"ML-5",
         "iso:id":"ML-5",
         "qs_pg:id":219578,
         "unlc:id":"ML-5",
         "wd:id":"Q214155",
         "wk:page":"Mopti Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ML",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d449ceb8a766dca4c31d8f323fa84b9e",
+    "wof:geomhash":"1d0f941a7c07979e7682fcd7bc7739f2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -337,7 +339,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690939602,
+    "wof:lastmodified":1695884966,
     "wof:name":"Mopti",
     "wof:parent_id":85632553,
     "wof:placetype":"region",

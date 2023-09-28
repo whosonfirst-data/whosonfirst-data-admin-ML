@@ -309,11 +309,13 @@
         "gn:id":2449066,
         "gp:id":2346187,
         "hasc:id":"ML.TT",
+        "iso:code":"ML-6",
         "qs_pg:id":1083848,
         "unlc:id":"ML-6",
         "wd:id":"Q339462",
         "wk:page":"Tombouctou Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ML",
     "wof:geom_alt":[
         "quattroshapes"
@@ -333,7 +335,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1694493263,
+    "wof:lastmodified":1695885131,
     "wof:name":"Timbuktu",
     "wof:parent_id":85632553,
     "wof:placetype":"region",
