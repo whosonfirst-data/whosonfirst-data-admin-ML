@@ -119,6 +119,7 @@
     "wof:concordances":{
         "hasc:id":"ML.KY.KI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1474056854,
     "wof:geomhash":"56aa51615706b8a89a07bcbc46e44c83",
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1108562847,
-    "wof:lastmodified":1694498109,
+    "wof:lastmodified":1695886175,
     "wof:name":"Kita",
     "wof:parent_id":85674529,
     "wof:placetype":"county",

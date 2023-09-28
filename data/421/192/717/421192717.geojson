@@ -110,6 +110,7 @@
         "hasc:id":"ML.SG.SN",
         "qs_pg:id":1174430
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1459009746,
     "wof:geom_alt":[
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":421192717,
-    "wof:lastmodified":1694492944,
+    "wof:lastmodified":1695886176,
     "wof:name":"San",
     "wof:parent_id":85674543,
     "wof:placetype":"county",

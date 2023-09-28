@@ -119,6 +119,7 @@
         "wd:id":"Q806313",
         "wk:page":"Bandiagara Cercle"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1459008914,
     "wof:geom_alt":[
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":421171975,
-    "wof:lastmodified":1694492704,
+    "wof:lastmodified":1695886798,
     "wof:name":"Bandiagara",
     "wof:parent_id":85674539,
     "wof:placetype":"county",

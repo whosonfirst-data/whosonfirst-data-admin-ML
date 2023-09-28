@@ -71,6 +71,7 @@
     "wof:concordances":{
         "hasc:id":"ML.SK.KD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1474056837,
     "wof:geomhash":"6157c64a235ed559a641f51b67095433",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108562817,
-    "wof:lastmodified":1694497832,
+    "wof:lastmodified":1695886811,
     "wof:name":"Kadiolo",
     "wof:parent_id":85674531,
     "wof:placetype":"county",

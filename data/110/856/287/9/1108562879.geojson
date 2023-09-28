@@ -116,6 +116,7 @@
     "wof:concordances":{
         "hasc:id":"ML.GA.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1474056875,
     "wof:geomhash":"99da70382ad0979b88c78d27498eb5fb",
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1108562879,
-    "wof:lastmodified":1694498109,
+    "wof:lastmodified":1695886175,
     "wof:name":"Bourem",
     "wof:parent_id":85674521,
     "wof:placetype":"county",

@@ -143,6 +143,7 @@
     "wof:concordances":{
         "hasc:id":"ML.KK.KK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1474056851,
     "wof:geomhash":"6c5c5acd2d30f23bab4fd76fdc91e121",
@@ -155,7 +156,7 @@
         }
     ],
     "wof:id":1108562839,
-    "wof:lastmodified":1694498109,
+    "wof:lastmodified":1695886175,
     "wof:name":"Koulikoro",
     "wof:parent_id":85674547,
     "wof:placetype":"county",

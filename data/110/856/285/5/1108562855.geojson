@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"ML.KY.BF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1474056860,
     "wof:geomhash":"ab8c448853ef9408952174e94d406bef",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108562855,
-    "wof:lastmodified":1694498070,
+    "wof:lastmodified":1695886251,
     "wof:name":"Bafoulabe",
     "wof:parent_id":85674529,
     "wof:placetype":"county",

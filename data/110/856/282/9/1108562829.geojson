@@ -125,6 +125,7 @@
     "wof:concordances":{
         "hasc:id":"ML.SK.BG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1474056844,
     "wof:geomhash":"4af22ff306b10f55feacb9fa1067b249",
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":1108562829,
-    "wof:lastmodified":1694498109,
+    "wof:lastmodified":1695886175,
     "wof:name":"Bougouni",
     "wof:parent_id":85674531,
     "wof:placetype":"county",

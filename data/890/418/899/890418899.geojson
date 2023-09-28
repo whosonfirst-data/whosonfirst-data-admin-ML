@@ -102,6 +102,7 @@
         "wd:id":"Q1493783",
         "wk:page":"Gao Cercle"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1469051265,
     "wof:geom_alt":[
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":890418899,
-    "wof:lastmodified":1694498109,
+    "wof:lastmodified":1695886177,
     "wof:name":"Gao",
     "wof:parent_id":85674521,
     "wof:placetype":"county",

@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"ML.SG.BL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1474056848,
     "wof:geomhash":"67e5ddbdf3c46a358b2988bbecd7aa66",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108562835,
-    "wof:lastmodified":1694498070,
+    "wof:lastmodified":1695886267,
     "wof:name":"Bla",
     "wof:parent_id":85674543,
     "wof:placetype":"county",

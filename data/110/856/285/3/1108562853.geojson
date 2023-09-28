@@ -68,6 +68,7 @@
     "wof:concordances":{
         "hasc:id":"ML.SG.MC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1474056859,
     "wof:geomhash":"323f15ad4417ba5daf05a09b653e5c17",
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108562853,
-    "wof:lastmodified":1694497833,
+    "wof:lastmodified":1695886812,
     "wof:name":"Macina",
     "wof:parent_id":85674543,
     "wof:placetype":"county",

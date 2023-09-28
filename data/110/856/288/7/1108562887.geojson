@@ -122,6 +122,7 @@
     "wof:concordances":{
         "hasc:id":"ML.KD.TS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1474056879,
     "wof:geomhash":"c3cd4e8ea8444d581c5fc531eb7ba542",
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1108562887,
-    "wof:lastmodified":1694498109,
+    "wof:lastmodified":1695886176,
     "wof:name":"Tessalit",
     "wof:parent_id":85674515,
     "wof:placetype":"county",

@@ -74,6 +74,7 @@
     "wof:concordances":{
         "hasc:id":"ML.KD.TE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1474056876,
     "wof:geomhash":"2524a2a83b7520280339efbcafcb121e",
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108562881,
-    "wof:lastmodified":1694497832,
+    "wof:lastmodified":1695886811,
     "wof:name":"Tin-Essako",
     "wof:parent_id":85674515,
     "wof:placetype":"county",

@@ -146,6 +146,7 @@
     "wof:concordances":{
         "hasc:id":"ML.KD.KL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1474056877,
     "wof:geomhash":"65d83d54d6d084f31e7d721d5d2c7f78",
@@ -158,7 +159,7 @@
         }
     ],
     "wof:id":1108562883,
-    "wof:lastmodified":1694498109,
+    "wof:lastmodified":1695886175,
     "wof:name":"Kidal",
     "wof:parent_id":85674515,
     "wof:placetype":"county",

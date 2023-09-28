@@ -116,6 +116,7 @@
     "wof:concordances":{
         "hasc:id":"ML.KK.KG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1474056842,
     "wof:geomhash":"fc1826573d88b1285610f2d1d84f913a",
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1108562827,
-    "wof:lastmodified":1694498109,
+    "wof:lastmodified":1695886176,
     "wof:name":"Kangaba",
     "wof:parent_id":85674547,
     "wof:placetype":"county",

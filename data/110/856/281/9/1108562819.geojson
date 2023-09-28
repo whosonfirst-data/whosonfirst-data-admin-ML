@@ -81,6 +81,7 @@
     "wof:concordances":{
         "hasc:id":"ML.SK.KB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1474056839,
     "wof:geomhash":"d696cb32725bd2a8e061565689b3922c",
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1108562819,
-    "wof:lastmodified":1694497832,
+    "wof:lastmodified":1695886811,
     "wof:name":"Kolondieba",
     "wof:parent_id":85674531,
     "wof:placetype":"county",

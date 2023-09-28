@@ -71,6 +71,7 @@
     "wof:concordances":{
         "hasc:id":"ML.MO.YW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1474056869,
     "wof:geomhash":"480b62900a8b000cf40fd3bb18cf3dc9",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108562871,
-    "wof:lastmodified":1694497832,
+    "wof:lastmodified":1695886811,
     "wof:name":"Youwarou",
     "wof:parent_id":85674539,
     "wof:placetype":"county",

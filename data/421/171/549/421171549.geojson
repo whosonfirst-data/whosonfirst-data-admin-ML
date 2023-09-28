@@ -149,6 +149,7 @@
         "wd:id":"Q1538145",
         "wk:page":"Kayes Cercle"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1459008897,
     "wof:geom_alt":[
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":421171549,
-    "wof:lastmodified":1694492944,
+    "wof:lastmodified":1695886176,
     "wof:name":"Kayes",
     "wof:parent_id":85674529,
     "wof:placetype":"county",

@@ -92,6 +92,7 @@
     "wof:concordances":{
         "hasc:id":"ML.KK.KO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1474056855,
     "wof:geomhash":"df5b4e41652cb0263f5f6f2265366c86",
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108562849,
-    "wof:lastmodified":1694497832,
+    "wof:lastmodified":1695886812,
     "wof:name":"Kolokani",
     "wof:parent_id":85674547,
     "wof:placetype":"county",

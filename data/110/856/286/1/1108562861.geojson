@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"ML.MO.TN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1474056863,
     "wof:geomhash":"d53d397b884f9407a1d576772d152ebd",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108562861,
-    "wof:lastmodified":1694498076,
+    "wof:lastmodified":1695886411,
     "wof:name":"Tenenkou",
     "wof:parent_id":85674539,
     "wof:placetype":"county",

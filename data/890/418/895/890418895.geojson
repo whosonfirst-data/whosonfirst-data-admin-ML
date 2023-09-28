@@ -102,6 +102,7 @@
         "wd:id":"Q1540214",
         "wk:page":"Gourma-Rharous Cercle"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1469051265,
     "wof:geom_alt":[
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":890418895,
-    "wof:lastmodified":1694639720,
+    "wof:lastmodified":1695886799,
     "wof:name":"Gourma-Rharous",
     "wof:parent_id":85674511,
     "wof:placetype":"county",

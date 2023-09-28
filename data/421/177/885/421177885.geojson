@@ -214,6 +214,7 @@
         "qs_pg:id":1355217,
         "wd:id":"Q281000"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1459009163,
     "wof:geom_alt":[
@@ -229,7 +230,7 @@
         }
     ],
     "wof:id":421177885,
-    "wof:lastmodified":1694492944,
+    "wof:lastmodified":1695886176,
     "wof:name":"Koutiala",
     "wof:parent_id":85674531,
     "wof:placetype":"county",
