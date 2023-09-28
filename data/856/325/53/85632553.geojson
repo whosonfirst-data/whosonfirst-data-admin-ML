@@ -1107,6 +1107,7 @@
         "hasc:id":"ML",
         "icao:code":"TZ",
         "ioc:id":"MLI",
+        "iso:code":"ML",
         "itu:id":"MLI",
         "loc:id":"n79007504",
         "m49:code":"466",
@@ -1121,6 +1122,7 @@
         "wk:page":"Mali",
         "wmo:id":"MI"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ML",
     "wof:country_alpha3":"MLI",
     "wof:geom_alt":[
@@ -1142,7 +1144,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1694639670,
+    "wof:lastmodified":1695881330,
     "wof:name":"Mali",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
