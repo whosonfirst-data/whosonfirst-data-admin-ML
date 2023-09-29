@@ -80,6 +80,7 @@
     "wof:concordances":{
         "hasc:id":"ML.SG.NN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1474056867,
     "wof:geomhash":"9a51e5025f8467236fcd2497148eaefc",
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1108562867,
-    "wof:lastmodified":1694497832,
+    "wof:lastmodified":1695886811,
     "wof:name":"Niono",
     "wof:parent_id":85674543,
     "wof:placetype":"county",

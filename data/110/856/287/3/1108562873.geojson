@@ -63,6 +63,7 @@
     "wof:concordances":{
         "hasc:id":"ML.TB.NF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1474056871,
     "wof:geomhash":"b97d3c4643386727c563511fe9baeafe",
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108562873,
-    "wof:lastmodified":1694497832,
+    "wof:lastmodified":1695886811,
     "wof:name":"Niafunke",
     "wof:parent_id":85674511,
     "wof:placetype":"county",

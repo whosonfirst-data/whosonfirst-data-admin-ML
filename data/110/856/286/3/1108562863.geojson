@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"ML.KY.YL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1474056864,
     "wof:geomhash":"8e4a9133163a0bb2ce76248743b8d4f3",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108562863,
-    "wof:lastmodified":1694498077,
+    "wof:lastmodified":1695886430,
     "wof:name":"Yelimane",
     "wof:parent_id":85674529,
     "wof:placetype":"county",

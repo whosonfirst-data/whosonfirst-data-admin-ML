@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"ML.SG.BR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1474056849,
     "wof:geomhash":"92a99affc3145dca76022060d53f7c96",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108562837,
-    "wof:lastmodified":1694498070,
+    "wof:lastmodified":1695886255,
     "wof:name":"Baroueli",
     "wof:parent_id":85674543,
     "wof:placetype":"county",

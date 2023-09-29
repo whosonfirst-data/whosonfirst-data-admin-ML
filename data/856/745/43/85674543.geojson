@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.182998,
-    "geom:area_square_m":62230997446.94545,
+    "geom:area_square_m":62231012487.798042,
     "geom:bbox":"-7.081334,12.545871,-3.958374,15.551304",
     "geom:latitude":13.807956,
     "geom:longitude":-5.698426,
@@ -305,17 +305,19 @@
         "gn:id":2451477,
         "gp:id":2346184,
         "hasc:id":"ML.SG",
+        "iso:code":"ML-4",
         "iso:id":"ML-4",
         "qs_pg:id":423828,
         "unlc:id":"ML-4",
         "wd:id":"Q656845",
         "wk:page":"S\u00e9gou Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ML",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"26e0fd774d17ec0a042a118511296c4b",
+    "wof:geomhash":"72a1b3b53ccd2d78bf0bfe7ee5261a6e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -330,7 +332,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690939601,
+    "wof:lastmodified":1695884523,
     "wof:name":"S\u00e9gou",
     "wof:parent_id":85632553,
     "wof:placetype":"region",

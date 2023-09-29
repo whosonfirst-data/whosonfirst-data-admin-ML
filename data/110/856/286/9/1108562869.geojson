@@ -68,6 +68,7 @@
     "wof:concordances":{
         "hasc:id":"ML.KY.NR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1474056868,
     "wof:geomhash":"bde643189824a252b056013adf75994d",
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108562869,
-    "wof:lastmodified":1694497832,
+    "wof:lastmodified":1695886811,
     "wof:name":"Nioro",
     "wof:parent_id":85674529,
     "wof:placetype":"county",

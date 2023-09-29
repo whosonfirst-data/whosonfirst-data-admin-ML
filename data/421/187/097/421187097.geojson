@@ -250,6 +250,7 @@
         "qs_pg:id":1080270,
         "wd:id":"Q213507"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1459009502,
     "wof:geom_alt":[
@@ -265,7 +266,7 @@
         }
     ],
     "wof:id":421187097,
-    "wof:lastmodified":1694492504,
+    "wof:lastmodified":1695886134,
     "wof:name":"Djenne",
     "wof:parent_id":85674539,
     "wof:placetype":"county",

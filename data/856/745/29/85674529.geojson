@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.248419,
-    "geom:area_square_m":123009586219.302063,
+    "geom:area_square_m":123009565322.814911,
     "geom:bbox":"-12.235756,11.894104,-8.132334,15.692322",
     "geom:latitude":13.876691,
     "geom:longitude":-10.229281,
@@ -312,17 +312,19 @@
         "gn:id":2455517,
         "gp:id":2346182,
         "hasc:id":"ML.KY",
+        "iso:code":"ML-1",
         "iso:id":"ML-1",
         "qs_pg:id":219577,
         "unlc:id":"ML-1",
         "wd:id":"Q332113",
         "wk:page":"Kayes Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ML",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2c7775fcffb9d45322fba556f5207559",
+    "wof:geomhash":"817c1cd1fda14d61c44b70aa990983d4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -337,7 +339,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690939601,
+    "wof:lastmodified":1695884966,
     "wof:name":"Kayes",
     "wof:parent_id":85632553,
     "wof:placetype":"region",

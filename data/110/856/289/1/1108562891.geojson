@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"ML.TB.TB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1474056881,
     "wof:geomhash":"db03dc5446193dfb5079b00cd2881711",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108562891,
-    "wof:lastmodified":1694497832,
+    "wof:lastmodified":1695886811,
     "wof:name":"Tombouctou",
     "wof:parent_id":85674511,
     "wof:placetype":"county",

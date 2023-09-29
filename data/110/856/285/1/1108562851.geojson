@@ -122,6 +122,7 @@
     "wof:concordances":{
         "hasc:id":"ML.KK.BB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1474056857,
     "wof:geomhash":"6ba3555865896e5c7d535a64ad3e3e6c",
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1108562851,
-    "wof:lastmodified":1694498109,
+    "wof:lastmodified":1695886176,
     "wof:name":"Banamba",
     "wof:parent_id":85674547,
     "wof:placetype":"county",

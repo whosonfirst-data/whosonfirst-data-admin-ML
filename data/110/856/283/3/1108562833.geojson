@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"ML.KK.DL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1474056847,
     "wof:geomhash":"ccfb8bd74108e0b0bbb0fa2b9a1bd76c",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108562833,
-    "wof:lastmodified":1694498072,
+    "wof:lastmodified":1695886284,
     "wof:name":"Dioila",
     "wof:parent_id":85674547,
     "wof:placetype":"county",

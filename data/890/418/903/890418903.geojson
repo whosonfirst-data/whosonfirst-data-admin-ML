@@ -96,6 +96,7 @@
         "wd:id":"Q570016",
         "wk:page":"Ansongo Cercle"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1469051266,
     "wof:geom_alt":[
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":890418903,
-    "wof:lastmodified":1694639689,
+    "wof:lastmodified":1695886134,
     "wof:name":"Ansongo",
     "wof:parent_id":85674521,
     "wof:placetype":"county",

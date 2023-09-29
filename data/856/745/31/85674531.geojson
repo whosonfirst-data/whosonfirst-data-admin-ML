@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.941713,
-    "geom:area_square_m":72010664201.679611,
+    "geom:area_square_m":72010649205.759155,
     "geom:bbox":"-8.679504,10.141479,-4.367371,12.814471",
     "geom:latitude":11.422754,
     "geom:longitude":-6.551422,
@@ -309,17 +309,19 @@
         "gn:id":2451184,
         "gp:id":2346185,
         "hasc:id":"ML.SK",
+        "iso:code":"ML-3",
         "iso:id":"ML-3",
         "qs_pg:id":493841,
         "unlc:id":"ML-3",
         "wd:id":"Q461298",
         "wk:page":"Sikasso Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ML",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"85012b07e0648667b47c67ea26ccfbc1",
+    "wof:geomhash":"6ec307277d10d99da892f05869fa406e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -334,7 +336,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690939602,
+    "wof:lastmodified":1695885133,
     "wof:name":"Sikasso",
     "wof:parent_id":85632553,
     "wof:placetype":"region",

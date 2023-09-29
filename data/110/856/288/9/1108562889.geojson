@@ -116,6 +116,7 @@
     "wof:concordances":{
         "hasc:id":"ML.TB.GD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1474056880,
     "wof:geomhash":"75898c06988b7e29a804843d42701fd9",
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1108562889,
-    "wof:lastmodified":1694498109,
+    "wof:lastmodified":1695886175,
     "wof:name":"Goundam",
     "wof:parent_id":85674511,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.919892,
-    "geom:area_square_m":150599119281.568024,
+    "geom:area_square_m":150599123031.34137,
     "geom:bbox":"-2.056434,17.699571,4.243286,21.906471",
     "geom:latitude":19.473921,
     "geom:longitude":1.107205,
@@ -301,17 +301,19 @@
         "gn:id":2597449,
         "gp:id":55999799,
         "hasc:id":"ML.KD",
+        "iso:code":"ML-8",
         "iso:id":"ML-8",
         "qs_pg:id":1188019,
         "unlc:id":"ML-8",
         "wd:id":"Q338988",
         "wk:page":"Kidal Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ML",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d9fc90032eb41bcdb5ffb995daa3ea77",
+    "wof:geomhash":"818854218492070c799232dba017fcbe",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -326,7 +328,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690939602,
+    "wof:lastmodified":1695884966,
     "wof:name":"Kidal",
     "wof:parent_id":85632553,
     "wof:placetype":"region",

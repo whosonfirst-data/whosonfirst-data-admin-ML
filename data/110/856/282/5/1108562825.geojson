@@ -164,6 +164,7 @@
     "wof:concordances":{
         "hasc:id":"ML.SK.SK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1474056841,
     "wof:geomhash":"3baed8c48a889b38c6cd85ab13a825f1",
@@ -176,7 +177,7 @@
         }
     ],
     "wof:id":1108562825,
-    "wof:lastmodified":1694497832,
+    "wof:lastmodified":1695886812,
     "wof:name":"Sikasso",
     "wof:parent_id":85674531,
     "wof:placetype":"county",

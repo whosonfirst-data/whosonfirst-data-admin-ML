@@ -164,6 +164,7 @@
     "wof:concordances":{
         "hasc:id":"ML.KK.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1474056865,
     "wof:geomhash":"a93814149b9d2fa75728f89efcfadf27",
@@ -176,7 +177,7 @@
         }
     ],
     "wof:id":1108562865,
-    "wof:lastmodified":1694498109,
+    "wof:lastmodified":1695886175,
     "wof:name":"Nara",
     "wof:parent_id":85674547,
     "wof:placetype":"county",

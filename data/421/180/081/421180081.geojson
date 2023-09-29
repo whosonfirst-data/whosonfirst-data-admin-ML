@@ -122,6 +122,7 @@
         "wd:id":"Q1816378",
         "wk:page":"Mopti Cercle"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1459009243,
     "wof:geom_alt":[
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":421180081,
-    "wof:lastmodified":1694492944,
+    "wof:lastmodified":1695886176,
     "wof:name":"Mopti",
     "wof:parent_id":85674539,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.564615,
-    "geom:area_square_m":90888107360.312485,
+    "geom:area_square_m":90888111060.598206,
     "geom:bbox":"-9.135433,11.456299,-5.964334,15.498474",
     "geom:latitude":13.623468,
     "geom:longitude":-7.644304,
@@ -303,6 +303,7 @@
         "gn:id":2454532,
         "gp:id":2346186,
         "hasc:id":"ML.KK",
+        "iso:code":"ML-2",
         "iso:id":"ML-2",
         "loc:id":"n85160174",
         "qs_pg:id":1083846,
@@ -310,11 +311,12 @@
         "wd:id":"Q287789",
         "wk:page":"Koulikoro Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ML",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0a863040a8e4f01ef01e26f3de431531",
+    "wof:geomhash":"bfa8ef972c88829646b2d71f5cfa275d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -329,7 +331,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690939603,
+    "wof:lastmodified":1695884966,
     "wof:name":"Koulikoro",
     "wof:parent_id":85632553,
     "wof:placetype":"region",

@@ -96,6 +96,7 @@
     "wof:concordances":{
         "hasc:id":"ML.GA.MN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1474056874,
     "wof:geomhash":"ff320ae93d8c9c4a7add4c306bd88223",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108562875,
-    "wof:lastmodified":1694497832,
+    "wof:lastmodified":1695886811,
     "wof:name":"Menaka",
     "wof:parent_id":85674521,
     "wof:placetype":"county",

@@ -86,6 +86,7 @@
     "wof:concordances":{
         "hasc:id":"ML.SK.YR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1474056845,
     "wof:geomhash":"cfb379f870072857947ac92dd8c99f99",
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108562831,
-    "wof:lastmodified":1694497833,
+    "wof:lastmodified":1695886812,
     "wof:name":"Yorosso",
     "wof:parent_id":85674531,
     "wof:placetype":"county",

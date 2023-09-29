@@ -111,6 +111,7 @@
         "wd:id":"Q940936",
         "wk:page":"Douentza Cercle"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1459010007,
     "wof:geom_alt":[
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":421199983,
-    "wof:lastmodified":1694492705,
+    "wof:lastmodified":1695886799,
     "wof:name":"Douentza",
     "wof:parent_id":85674539,
     "wof:placetype":"county",

@@ -295,10 +295,12 @@
         "gn:id":2457161,
         "gp:id":2346181,
         "hasc:id":"ML.GO",
+        "iso:code":"ML-7",
         "qs_pg:id":219576,
         "wd:id":"Q332392",
         "wk:page":"Gao Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ML",
     "wof:geom_alt":[
         "quattroshapes"
@@ -318,7 +320,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1694493261,
+    "wof:lastmodified":1695884966,
     "wof:name":"Gao",
     "wof:parent_id":85632553,
     "wof:placetype":"region",

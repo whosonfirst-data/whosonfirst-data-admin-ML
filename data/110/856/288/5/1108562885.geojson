@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"ML.KD.AB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ML",
     "wof:created":1474056878,
     "wof:geomhash":"d4d6c17f1ab306609ba73feedff0a276",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108562885,
-    "wof:lastmodified":1694498069,
+    "wof:lastmodified":1695886246,
     "wof:name":"Abeibara",
     "wof:parent_id":85674515,
     "wof:placetype":"county",
